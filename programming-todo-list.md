@@ -2,11 +2,7 @@
 + Bit twiddling hacks: http://graphics.stanford.edu/~seander/bithacks.html
 + Do projects from Data Structures text
 + organize mp3s: beets.io | https://www.discogs.com/developers/
-
-
-## Coding challenges ##
 + Car talk puzzlers : https://developmentality.wordpress.com/tag/car-talk/
-+ Math problems : https://www.mathworks.com/matlabcentral/cody/problems
 + Project Euler todo: 81, 99, 77, 78, 112
 
 
@@ -22,11 +18,11 @@
 + simplify a fraction: http://codereview.stackexchange.com/questions/66450/simplify-a-fraction
 + basil & fabian: http://blog.jamisbuck.org/
 + knapsack problem
-  The three witches in Hamlet can brew any potion provided they have the right ingredients. Suppose that five ingredients are necessary in making a health potion: eye of newt (eon), toe of frog (tof), wool of bat (wob), adder’s fork (af), and tooth of wolf (tow). Four reactions can occur between these ingredients: 
-  • 4 eon + 2 wob = 3 af + 4 tow 
-  • 3 tow + 1 tof = 2 eon 
-  • 1 wob + 2 af = 1 tof 
-  • 4 tof + 7 tow + 2 af = 1 health potion 
++ The three witches in Hamlet can brew any potion provided they have the right ingredients. Suppose that five ingredients are necessary in making a health potion: eye of newt (eon), toe of frog (tof), wool of bat (wob), adder’s fork (af), and tooth of wolf (tow). Four reactions can occur between these ingredients: 
+  - 4 eon + 2 wob = 3 af + 4 tow 
+  - 3 tow + 1 tof = 2 eon 
+  - 1 wob + 2 af = 1 tof 
+  - 4 tof + 7 tow + 2 af = 1 health potion 
   Assuming you can control the order of reactions, write a program that can calculate the maximum number of health potions one can brew   with a given amount of ingredients. Here is example output: If I have 34 eon, 59 tof, 20 wob, 5 af, and 20 tow, I can make seven   health potions. 
 + The "correct change" problem looks like it's equivalent to the "subset sum" problem   (https://en.wikipedia.org/wiki/Subset_sum_problem), which is a special case of the knapsack problem.  Wikipedia says these are all NP,   but efficiency can be improved by dynamic programming.  That's why I'm thinking a transposition table may help.
 + http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/
@@ -70,6 +66,8 @@
 + Soma cube solver
 + https://en.wikipedia.org/wiki/Packing_problems
 + Assorted logic games: https://www.youtube.com/channel/UCEPZPgtnTvj2F3qTCLfaP4w
++ Mindspots (links resource): http://www.mindsports.nl/index.php/puzzle-links
++ Amazing site--Erich Friendman's website: http://www2.stetson.edu/~efriedma/
 
 
 ## Game AI ##
@@ -225,29 +223,3 @@
 ## Minecraft ##
 + Minecraft modding tutorial https://www.youtube.com/watch?v=2_qM-Z0IQ4k
 + Minecraft programming http://minecraft.gamepedia.com/Mods/Creating_mods
-
-
-## Computer science general resources ##
-+ CCSF Coders resources page: https://github.com/CCSF-Coders/learning-resources
-+ Course sites:
-  + https://www.coursera.org
-  + https://www.udacity.com
-+ Practice sites:
-  + https://www.hackerrank.com/domains
-  + https://www.topcoder.com/getting-started
-  + http://www.exercism.io
-     + Talk on exercism: https://www.youtube.com/watch?v=neXJOhHj8ik&index=6&list=PLyGLemjnH3ukTGW8TYCzdu7jQe0U-wEKi
-  + Coding Bat <http://codingbat.com> -- Java & Python problems
-  + StackExchange Code Golf <http://codegolf.stackexchange.com>
-  + Google Code Jam https://code.google.com/codejam has some really cool problems
-    + Go-Hero site https://www.go-hero.net/jam/16/ has archive all the past Google Code Jam problems *with* solutions
-+ https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki
-+ http://meetupresources.herokuapp.com/index.html
-+ http://kelukelu.me/interview/questions.html
-+ https://leetcode.com/problemset/algorithms
-+ Gayle McDowell:
-  + talk at Canadian University Software Engineering Conference: https://www.youtube.com/watch?v=rEJzOhC5ZtQ
-  + Ask Me Anything video (see the top comment with all the links to the individual questions): https://www.youtube.com/watch?v=1fqxMuPmGak
-  + http://www.gayle.com/featured-blog-posts
-  + a good overview of a technical interview (which you get to *after* the algorithm screen): https://medium.com/@gayle/coding-interviews-and-the-importance-of-perfection-f381e486233e#.3zembxo47
-  + https://www.careercup.com
