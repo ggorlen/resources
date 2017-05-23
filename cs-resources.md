@@ -1,19 +1,24 @@
-## Computer science resources ##
-+ Tons of free CS books: http://proquest.safaribooksonline.com/
-+ Math problems: https://www.mathworks.com/matlabcentral/cody/problems
-+ CCSF Coders resources page: https://github.com/CCSF-Coders/learning-resources
+# Computer science resources #
+
+## General CS resources ##
 + Course sites:
+  + Lynda SFPL: https://www.lynda.com/portal/patron?org=sfpl.org
   + https://www.coursera.org
   + https://www.udacity.com
+  + '7 Essential Skills Every New Developer Needs to Learn': http://www.tweaktown.com/news/46511/7-essential-skills-new-developer-needs-learn/index.html
 + Practice sites:
+  + Math problems: https://www.mathworks.com/matlabcentral/cody/problems
   + https://www.hackerrank.com/domains
   + https://www.topcoder.com/getting-started
   + http://www.exercism.io
      + Talk on exercism: https://www.youtube.com/watch?v=neXJOhHj8ik&index=6&list=PLyGLemjnH3ukTGW8TYCzdu7jQe0U-wEKi
-  + Coding Bat <http://codingbat.com> -- Java & Python problems
-  + StackExchange Code Golf <http://codegolf.stackexchange.com>
+  + Coding Bat http://codingbat.com -- Java & Python problems
+  + StackExchange Code Golf http://codegolf.stackexchange.com
   + Google Code Jam https://code.google.com/codejam has some really cool problems
     + Go-Hero site https://www.go-hero.net/jam/16/ has archive all the past Google Code Jam problems *with* solutions
+
+
+### Interview prep ###
 + https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki
 + http://meetupresources.herokuapp.com/index.html
 + http://kelukelu.me/interview/questions.html
@@ -24,3 +29,59 @@
   + http://www.gayle.com/featured-blog-posts
   + a good overview of a technical interview (which you get to *after* the algorithm screen): https://medium.com/@gayle/coding-interviews-and-the-importance-of-perfection-f381e486233e#.3zembxo47
   + https://www.careercup.com
++ investigate networking / internet of things
++ Summer camp instructor position: https://public.idtech.com/PulsePublic/JobApplication/Steps.aspx?cid=1
+
+
+## Books ## 
++ Tons of free CS books: http://proquest.safaribooksonline.com/
++ "etudes for programmers" 
++ "Etudes for Python: Exercises for Programmers" (available on LINK+)
+
+
+## Next steps ##
++ SFSU: http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ms-computer-science/
+Prospective students are welcome to send any questions to the graduate advising assistant at ( csgrad@sfsu.edu )
++ VT: http://www.vtmit.vt.edu/plan-your-study.php
++ GT: http://www.omscs.gatech.edu/program-info/application-deadlines-process-requirements
++ Bootcamps: http://getcoding.hackreactor.com/remote-part-time or another p/t camp
++ Internships:
+  + https://www.indeed.com/q-Software-Engineering-Intern-l-San-Francisco-Bay-Area,-CA-jobs.html
+  + http://www.engineerjobs.com/internships/software-engineering/california/bay-area.php
+  + https://www.smartrecruiters.com/Line2/112808690-web-developer-internship-front-end
+
+
+## CCSF ##
++ CCSF Coders resources page: https://github.com/CCSF-Coders/learning-resources
++ CS department chair career resources: http://fog.ccsf.cc.ca.us/~cpersiko/csDept/NotesCareers.html
++ CS211s notes: https://sites.google.com/site/koalalearn/fa2011/cs211s
+
+### Fall 2017: ###
++ CNIT 133A  JavaScript Libraries/Framework
++ CNIT 133M  Mobile Web w/HTML, CSS & JS  
+  then apply for: http://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/JavaScriptSpecialistCertificate.pdf
++ CS 150P SQL Server T-SQL Programming  
+
+### Courses to take: ###
++ CS211D Android Programming
++ CS211E enterprise edition
++ CS 270 Comp Architecture w/ Assembly (advise discrete math)
++ CS   177   Software Engineering
++ CS   231   Advanced Python Programming
++ CS   155B  MySQL Database Administration
++ CS   260A  Linux System Administration
++ CS   260P  Linux Administration Projects  
++ CNIT 141 Cryptography for Computers
++ CNIT 214   Internet of Things
++ MATH  60   Intermediate Algebra
++ MATH  80   Probability and Statistics 
++ MATH  95   Trigonometry
++ MATH 110A  Calculus I 
++ MATH 115   Discrete Mathematics 
++ MATH 120   Linear Algebra
+
+### CCSF certificates I've attained: ###
+  + https://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/ComputerProgrammingJavaCertificate.pdf
+  + http://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/WebApplicationProgrammingCertificate.pdf
+  + https://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/ComputingSkillsforScientistsCertificate.pdf
+
