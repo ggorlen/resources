@@ -1,2 +1,2 @@
 # self
-To do lists, config files, sketches
+To do lists, config files, resources

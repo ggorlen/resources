@@ -3,7 +3,16 @@
 + Do projects from Data Structures text
 + organize mp3s: beets.io | https://www.discogs.com/developers/
 + Car talk puzzlers : https://developmentality.wordpress.com/tag/car-talk/
-+ Project Euler todo: 81, 99, 77, 78, 112
++ Project Euler todo: 81, 99, 77, 78, 112, 345
+
+
+## Scratch ##
++ https://inventwithscratch.com/
++ https://scratch.mit.edu/projects/18685236/#editor
++ https://scratch.mit.edu/studios/1601628/
++ https://scratch.mit.edu/projects/7003/#editor
++ https://www.youtube.com/playlist?list=PL0-84-yl1fUkall6a14nqzXpG79-RgI1F
++ https://www.youtube.com/playlist?list=PL0-84-yl1fUlLJvyC1s5L8rs5ECn3lPx4
 
 
 ## Interview algorithms ##
@@ -12,6 +21,7 @@
 + algs/dp: https://people.eecs.berkeley.edu/~vazirani/algorithms/chap6.pdf
 + https://en.wikipedia.org/wiki/Fermat%27s_factorization_method
 + floyd warshall http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm
++ linear programming
 + https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 + memoization: http://www.python-course.eu/python3_memoization.php
 + euclid's algorithm  http://andreinc.net/2010/12/11/euclids-algorithm-reducing-fraction-to-lowest-terms/
@@ -68,6 +78,8 @@
 + Assorted logic games: https://www.youtube.com/channel/UCEPZPgtnTvj2F3qTCLfaP4w
 + Mindspots (links resource): http://www.mindsports.nl/index.php/puzzle-links
 + Amazing site--Erich Friendman's website: http://www2.stetson.edu/~efriedma/
++ Zendoku puzzle generation: http://garethrees.org/2007/06/10/zendoku-generation/#section-4
++ Sudoku solving algorithms: https://en.wikipedia.org/wiki/Sudoku_solving_algorithms
 
 
 ## Game AI ##
@@ -89,6 +101,7 @@
 ## Games to program ##
 + Microsoft Entertainment Pack: https://en.wikipedia.org/wiki/Microsoft_Entertainment_Pack
 + Code hexapawn JS ♟
++ Dots and boxes https://www.youtube.com/watch?v=KboGyIilP6k
 + Breakthru: https://en.wikipedia.org/wiki/Breakthru_(board_game)
 + Beast: https://en.wikipedia.org/wiki/Beast_(video_game)
 + PHP game scripts: https://www.ibm.com/developerworks/library/os-php-gamescripts1/
@@ -115,6 +128,8 @@
 + Ultimate tic tac toe
 + Hnefatafl
 + Go
++ Boggle
++ Mastermind https://en.wikipedia.org/wiki/Mastermind_(board_game)
 + https://en.wikipedia.org/wiki/List_of_abstract_strategy_games
 + Reversi: http://inventwithpython.com/chapter15.html
 + dodge falling objects game--rotation component like super hexagon?
@@ -142,15 +157,15 @@
 
 
 ## PHP ##
-+ PHP todo list : https://gist.github.com/hcmn/3773595
 + AJAX
   + http://stackoverflow.com/questions/23980733/jquery-ajax-file-upload-php 
   + http://stackoverflow.com/questions/2269307/using-jquery-ajax-to-call-a-php-function
+  + https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php
   + ajax/php tutorial: http://www.tizag.com/ajaxTutorial/ajaxxmlhttprequest.php
   + ajax/php mailing list for label: https://www.sitepoint.com/use-ajax-php-build-mailing-list/
   
   
-## PYTHON ##
+## Python ##
 + Automate the boring stuff: https://automatetheboringstuff.com/#toc
 + Python data structures & algorithms
   + http://interactivepython.org/runestone/static/pythonds/index.html
@@ -177,7 +192,7 @@
 + http://www.interactivepython.org/runestone/default/user/login?_next=/runestone/default/index
 
 
-## JAVA ##
+## Java ##
 + Good Java web framework for learning generics: https://struts.apache.org/ 
 + Google style guide: https://google.github.io/styleguide/javaguide.html
 + Edx intro to Java: https://www.edx.org/course/introduction-java-programming-part-2-hkustx-comp102-2x-0
@@ -186,7 +201,7 @@
 + Java send email: http://stackoverflow.com/questions/3649014/send-email-using-java
 
 
-## RUBY ##
+## Ruby ##
 + http://poignant.guide/book/chapter-6.html
 + Rails mailing list http://aspiringwebdev.com/e-mail-in-rails-with-mailchimp-and-mandrill-a-comprehensive-guide
 
