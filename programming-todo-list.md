@@ -8,9 +8,6 @@
 
 ## Scratch ##
 + https://inventwithscratch.com/
-+ https://scratch.mit.edu/projects/18685236/#editor
-+ https://scratch.mit.edu/studios/1601628/
-+ https://scratch.mit.edu/projects/7003/#editor
 + https://www.youtube.com/playlist?list=PL0-84-yl1fUkall6a14nqzXpG79-RgI1F
 + https://www.youtube.com/playlist?list=PL0-84-yl1fUlLJvyC1s5L8rs5ECn3lPx4
 
@@ -76,7 +73,7 @@
 + Soma cube solver
 + https://en.wikipedia.org/wiki/Packing_problems
 + Assorted logic games: https://www.youtube.com/channel/UCEPZPgtnTvj2F3qTCLfaP4w
-+ Mindspots (links resource): http://www.mindsports.nl/index.php/puzzle-links
++ Mindsports (links resource): http://www.mindsports.nl/index.php/puzzle-links
 + Amazing site--Erich Friendman's website: http://www2.stetson.edu/~efriedma/
 + Zendoku puzzle generation: http://garethrees.org/2007/06/10/zendoku-generation/#section-4
 + Sudoku solving algorithms: https://en.wikipedia.org/wiki/Sudoku_solving_algorithms
@@ -109,13 +106,6 @@
 + Program arcade games: http://programarcadegames.com/
 + BASIC games: http://www.atariarchives.org/basicgames/
 + Nim: https://en.wikipedia.org/wiki/Nim
-+ ASCII games: 
-  + http://ifarchive.org/
-  + http://www.8bs.com/othrdnld/manuals/publications.shtml
-  + https://en.wikipedia.org/wiki/Jotto
-  + https://en.wikipedia.org/wiki/NetHack
-  + http://www.iancgbell.clara.net/elite/text/index.htm
-+ God wars mud
 + Emily's pegs game http://www.instructables.com/id/Peg-Game-IQ-Test-Solution/
 + Connect 4
 + Freerice clone
@@ -126,6 +116,8 @@
 + Lines of action: https://dke.maastrichtuniversity.nl/m.winands/loa/
 + 2048
 + Ultimate tic tac toe
++ https://en.wikipedia.org/wiki/Marble_Madness
++ https://en.wikipedia.org/wiki/Loco-Motion_(video_game)
 + Hnefatafl
 + Go
 + Boggle
@@ -137,6 +129,13 @@
 + flappy bird / side scroll platformer with jump button only
 + try frequency distribution array for card games/poker problem
 + snake: 2 player versions, add obstacles, display score text after losing?
++ ASCII games: 
+  + http://ifarchive.org/
+  + http://www.8bs.com/othrdnld/manuals/publications.shtml
+  + https://en.wikipedia.org/wiki/Jotto
+  + https://en.wikipedia.org/wiki/NetHack
+  + http://www.iancgbell.clara.net/elite/text/index.htm
++ God wars mud
 
 
 ## Cryptography ##
@@ -163,6 +162,7 @@
   + https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php
   + ajax/php tutorial: http://www.tizag.com/ajaxTutorial/ajaxxmlhttprequest.php
   + ajax/php mailing list for label: https://www.sitepoint.com/use-ajax-php-build-mailing-list/
++ PHP WP plugins
   
   
 ## Python ##
