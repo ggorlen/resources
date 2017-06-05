@@ -6,7 +6,25 @@
 + Project Euler todo: 81, 99, 77, 78, 112, 345
 
 
+## Fractals and L-systems ##
++ L-systems user notes/manual: http://paulbourke.net/fractals/lsys/
++ 2d L-systems: http://mathforum.org/advanced/robertd/lsys2d.html
++ http://www.kevs3d.co.uk/dev/lsystems/
++ https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension
++ https://en.wikipedia.org/wiki/L-system 
++ https://en.wikipedia.org/wiki/Koch_snowflake
++ https://en.wikipedia.org/wiki/Sierpinski_carpet
++ Abelian sandpiles : https://en.wikipedia.org/wiki/Abelian_sandpile_model 
++ Book on JS fractals: http://www.playingwithchaos.net/
+
+
+## Physics simulations ##
++ Double pendulum: https://en.wikipedia.org/wiki/Double_pendulum and https://www.youtube.com/watch?v=neh86u7_TIk
+
+
 ## Scratch ##
++ https://wiki.scratch.mit.edu/wiki/List_of_Mathematical_Functions_Done_in_Scratch
++ https://wiki.scratch.mit.edu/wiki/Recursion_and_Fractals#Creating_the_Koch_Curve
 + https://inventwithscratch.com/
 + https://www.youtube.com/playlist?list=PL0-84-yl1fUkall6a14nqzXpG79-RgI1F
 + https://www.youtube.com/playlist?list=PL0-84-yl1fUlLJvyC1s5L8rs5ECn3lPx4
@@ -44,18 +62,12 @@
 
 
 ## Visual/patterns/animations ##
-+ hilbert curve
-+ dragon curve
-+ serpinski triangle
-+ fractal ferns
 + fibonacci spiral
 + conway's game of life https://en.wikipedia.org/wiki/Cellular_automaton
 + architecture: look for triangle perspective designs, escher...https://s-media-cache-ak0.pinimg.com/564x/d6/ff/64/d6ff6450173c6410c919b06e07958227.jpg
 + isometic JS : http://jsfiddle.net/a4ZbG/
 + https://en.wikipedia.org/wiki/Rhombille_tiling
-+ Book on JS fractals: http://www.playingwithchaos.net/
 + Simple Python graphics library: https://www.rose-hulman.edu/Users/faculty/young/CS-Classes/resources/Python/ZelleGraphics.html
-+ Abelian sandpiles : https://en.wikipedia.org/wiki/Abelian_sandpile_model 
 + Animated sorts and searches etc
 + Do a recursive ripple GUI program
 + Canvas stack http://arc.id.au/CanvasLayers.html
