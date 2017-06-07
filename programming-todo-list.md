@@ -3,13 +3,19 @@
 + Do projects from Data Structures text
 + organize mp3s: beets.io | https://www.discogs.com/developers/
 + Car talk puzzlers : https://developmentality.wordpress.com/tag/car-talk/
+
+
+## Project Euler ##
 + Project Euler todo: 81, 99, 77, 78, 112, 345
++ #93 can also be solved using Integer Linear Programming (https://pythonhosted.org/PuLP/CaseStudies/a_sudoku_problem.html)
++ #84 Monopoly is one of the best.  Worth solving using both simulation (I used first-class functions) and stochastic matrix (I used numpy).  Working out the initial probabilities for the stochastic matrix requires only basic probability, but it's tricky.
 
 
 ## Fractals and L-systems ##
 + L-systems user notes/manual: http://paulbourke.net/fractals/lsys/
++ L-system examples: https://10klsystems.wordpress.com/examples/
 + 2d L-systems: http://mathforum.org/advanced/robertd/lsys2d.html
-+ http://www.kevs3d.co.uk/dev/lsystems/
++ Full-featured L-systems app: http://www.kevs3d.co.uk/dev/lsystems/
 + https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension
 + https://en.wikipedia.org/wiki/L-system 
 + https://en.wikipedia.org/wiki/Koch_snowflake
@@ -18,8 +24,27 @@
 + Book on JS fractals: http://www.playingwithchaos.net/
 
 
+## Tiling ##
++ https://en.wikipedia.org/wiki/Rhombille_tiling
++ tangrams
++ https://en.wikipedia.org/wiki/Tiling_puzzle
++ https://en.wikipedia.org/wiki/Packing_problems
++ https://thebrickinthesky.wordpress.com/2013/03/17/l-systems-and-penrose-p3-in-inkscape
++ https://morphingtiling.wordpress.com/page/2/
++ https://en.wikipedia.org/wiki/Girih_tiles
++ https://en.wikipedia.org/wiki/Truchet_tiles
++ https://transcendentcode.wordpress.com/
++ http://preshing.com/20110831/penrose-tiling-explained/ 
++ http://www.math.ubc.ca/~cass/courses/m308-02b/projects/schweber/penrose.html
++ isometic JS: http://jsfiddle.net/a4ZbG/
+
+
 ## Physics simulations ##
-+ Double pendulum: https://en.wikipedia.org/wiki/Double_pendulum and https://www.youtube.com/watch?v=neh86u7_TIk
++ Coding math: https://www.youtube.com/watch?v=11ZmRlR7sOQ 
++ Khan Academy natural simulations: https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-vectors/p/project-computational-creatures
++ Double pendulum: 
+  + https://en.wikipedia.org/wiki/Double_pendulum 
+  + https://www.youtube.com/watch?v=neh86u7_TIk
 
 
 ## Scratch ##
@@ -28,11 +53,13 @@
 + https://inventwithscratch.com/
 + https://www.youtube.com/playlist?list=PL0-84-yl1fUkall6a14nqzXpG79-RgI1F
 + https://www.youtube.com/playlist?list=PL0-84-yl1fUlLJvyC1s5L8rs5ECn3lPx4
++ https://wiki.scratch.mit.edu/wiki/Array#Multidimensional_Arrays_in_Scratch
 
 
 ## Interview algorithms ##
 + https://en.wikipedia.org/wiki/Dynamic_programming
 + http://algorithms.tutorialhorizon.com/dynamic-programming-coin-change-problem/
++ MIT open courseware DP: https://www.youtube.com/watch?v=ocZMDMZwhCY
 + algs/dp: https://people.eecs.berkeley.edu/~vazirani/algorithms/chap6.pdf
 + https://en.wikipedia.org/wiki/Fermat%27s_factorization_method
 + floyd warshall http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm
@@ -61,34 +88,35 @@
   + Think Labyrinth: http://www.astrolog.org/labyrnth/algrithm.htm
 
 
-## Visual/patterns/animations ##
-+ fibonacci spiral
+## Cellular automata ##
++ https://en.wikipedia.org/wiki/Turmite
 + conway's game of life https://en.wikipedia.org/wiki/Cellular_automaton
-+ architecture: look for triangle perspective designs, escher...https://s-media-cache-ak0.pinimg.com/564x/d6/ff/64/d6ff6450173c6410c919b06e07958227.jpg
-+ isometic JS : http://jsfiddle.net/a4ZbG/
-+ https://en.wikipedia.org/wiki/Rhombille_tiling
-+ Simple Python graphics library: https://www.rose-hulman.edu/Users/faculty/young/CS-Classes/resources/Python/ZelleGraphics.html
-+ Animated sorts and searches etc
-+ Do a recursive ripple GUI program
-+ Canvas stack http://arc.id.au/CanvasLayers.html
-+ https://threejs.org/
 
 
 ## Puzzles ##
 + Mondrian puzzle: https://www.youtube.com/watch?v=49KvZrioFB0
 + http://nikoli.co.jp/en/puzzles/
 + https://en.wikipedia.org/wiki/Nonogram
-+ tangrams
 + https://en.wikipedia.org/wiki/Slothouber%E2%80%93Graatsma_puzzle 
-+ https://en.wikipedia.org/wiki/Tiling_puzzle
 + https://en.wikipedia.org/wiki/Mathematical_puzzle
 + Soma cube solver
-+ https://en.wikipedia.org/wiki/Packing_problems
 + Assorted logic games: https://www.youtube.com/channel/UCEPZPgtnTvj2F3qTCLfaP4w
 + Mindsports (links resource): http://www.mindsports.nl/index.php/puzzle-links
-+ Amazing site--Erich Friendman's website: http://www2.stetson.edu/~efriedma/
++ Amazing site--Erich Friendman's puzzle palace: http://www2.stetson.edu/~efriedma/
 + Zendoku puzzle generation: http://garethrees.org/2007/06/10/zendoku-generation/#section-4
 + Sudoku solving algorithms: https://en.wikipedia.org/wiki/Sudoku_solving_algorithms
+
+
+## Visual/animations ##
++ Inspiring: http://zreference.com/projects/graphics/
++ Also inspiring: https://bit101.github.io/lab/dailies/170413.html
++ fibonacci spiral
++ architecture: look for triangle perspective designs, escher...https://s-media-cache-ak0.pinimg.com/564x/d6/ff/64/d6ff6450173c6410c919b06e07958227.jpg
++ Simple Python graphics library: https://www.rose-hulman.edu/Users/faculty/young/CS-Classes/resources/Python/ZelleGraphics.html
++ Animated sorts and searches etc
++ Do a recursive ripple GUI program
++ Canvas stack http://arc.id.au/CanvasLayers.html
++ https://threejs.org/
 
 
 ## Game AI ##
@@ -119,6 +147,7 @@
 + BASIC games: http://www.atariarchives.org/basicgames/
 + Nim: https://en.wikipedia.org/wiki/Nim
 + Emily's pegs game http://www.instructables.com/id/Peg-Game-IQ-Test-Solution/
++ Fire & Ice
 + Connect 4
 + Freerice clone
 + The Mill board game
@@ -156,15 +185,16 @@
 
 ## Machine learning/big data ##
 + https://douweosinga.com/projects/
++ https://github.com/wasd12345
 
 
 ## JS/front end ##
-+ Callbacks : http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
-+ CSS modals (drop down boxes) http://www.w3schools.com/howto/howto_css_modals.asp iframe
-+ JS todo list : http://docs.railsbridge.org/javascript-to-do-list/adding_an_item
++ Callbacks: http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
++ CSS modals (drop down boxes): http://www.w3schools.com/howto/howto_css_modals.asp iframe
++ JS todo list: http://docs.railsbridge.org/javascript-to-do-list/adding_an_item
 + Do a WebGLRenderer tutorial!
-+ Jekyll blog: https://www.youtube.com/watch?v=xdxfyFS3pog | https://jekyllrb.com/docs/installation/
-+ Bitballoon for hosting webapps : https://www.bitballoon.com
++ Jekyll blog: https://www.youtube.com/watch?v=xdxfyFS3pog & https://jekyllrb.com/docs/installation/
++ Bitballoon for hosting webapps: https://www.bitballoon.com
 
 
 ## PHP ##
@@ -233,7 +263,6 @@
   + Bot where you can teach it words by tweeting @ it
   + Web crawler: http://scrapy.org/
   + Chess vote bot with an ongoing game?
-  + 2048
   + Game bots: http://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117
   + Something quote-based like David Markson
 + FB bots:
