@@ -1,8 +1,8 @@
 ## General ##
 + Bit twiddling hacks: http://graphics.stanford.edu/~seander/bithacks.html
 + Do projects from Data Structures text
-+ organize mp3s: beets.io | https://www.discogs.com/developers/
-+ Car talk puzzlers : https://developmentality.wordpress.com/tag/car-talk/
++ organize mp3s: beets.io & https://www.discogs.com/developers/
++ Car talk puzzlers: https://developmentality.wordpress.com/tag/car-talk/
 
 
 ## Project Euler ##
@@ -12,42 +12,47 @@
 
 
 ## Fractals and L-systems ##
++ Book on JS fractals: http://www.playingwithchaos.net/
 + L-systems user notes/manual: http://paulbourke.net/fractals/lsys/
 + L-system examples: https://10klsystems.wordpress.com/examples/
 + 2d L-systems: http://mathforum.org/advanced/robertd/lsys2d.html
 + Full-featured L-systems app: http://www.kevs3d.co.uk/dev/lsystems/
-+ https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension
-+ https://en.wikipedia.org/wiki/L-system 
-+ https://en.wikipedia.org/wiki/Koch_snowflake
-+ https://en.wikipedia.org/wiki/Sierpinski_carpet
-+ Abelian sandpiles : https://en.wikipedia.org/wiki/Abelian_sandpile_model 
-+ Book on JS fractals: http://www.playingwithchaos.net/
++ Hausdorff fractals list: https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension
++ Abelian sandpiles: https://en.wikipedia.org/wiki/Abelian_sandpile_model 
++ Koch snowflake: https://en.wikipedia.org/wiki/Koch_snowflake
++ Sierpinski carpet: https://en.wikipedia.org/wiki/Sierpinski_carpet
++ Rose: https://en.wikipedia.org/wiki/Rose_(mathematics)
++ https://en.wikipedia.org/wiki/Chaos_game
++ https://en.wikipedia.org/wiki/Barnsley_fern
 
 
-## Tiling ##
-+ https://en.wikipedia.org/wiki/Rhombille_tiling
-+ tangrams
+## Tiling and packing ##
++ Rhombile tiling: https://en.wikipedia.org/wiki/Rhombille_tiling
++ Tangrams: https://en.wikipedia.org/wiki/Tangram
 + https://en.wikipedia.org/wiki/Tiling_puzzle
-+ https://en.wikipedia.org/wiki/Packing_problems
 + https://thebrickinthesky.wordpress.com/2013/03/17/l-systems-and-penrose-p3-in-inkscape
++ Girih tiles: https://en.wikipedia.org/wiki/Girih_tiles
++ https://en.wikipedia.org/wiki/Wallpaper_group
 + https://morphingtiling.wordpress.com/page/2/
-+ https://en.wikipedia.org/wiki/Girih_tiles
-+ https://en.wikipedia.org/wiki/Truchet_tiles
 + https://transcendentcode.wordpress.com/
-+ http://preshing.com/20110831/penrose-tiling-explained/ 
-+ http://www.math.ubc.ca/~cass/courses/m308-02b/projects/schweber/penrose.html
-+ isometic JS: http://jsfiddle.net/a4ZbG/
++ Penrose tiling: http://preshing.com/20110831/penrose-tiling-explained/ 
++ Penrose tiling: http://www.math.ubc.ca/~cass/courses/m308-02b/projects/schweber/penrose.html
++ https://en.wikipedia.org/wiki/Substitution_tiling
++ isometic JS example: http://jsfiddle.net/a4ZbG/
++ https://en.wikipedia.org/wiki/Packing_problems
++ https://en.wikipedia.org/wiki/Truncated_hexagonal_tiling#Triakis_triangular_tiling
 
 
 ## Physics simulations ##
-+ Coding math: https://www.youtube.com/watch?v=11ZmRlR7sOQ 
++ Coding math tutorial: https://www.youtube.com/watch?v=11ZmRlR7sOQ 
 + Khan Academy natural simulations: https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-vectors/p/project-computational-creatures
 + Double pendulum: 
   + https://en.wikipedia.org/wiki/Double_pendulum 
   + https://www.youtube.com/watch?v=neh86u7_TIk
 
 
-## Scratch ##
+## Scratch and Snap ##
++ http://www.ocsmag.com/2016/07/12/dump-scratch-use-blockly-or-snap-instead/
 + https://wiki.scratch.mit.edu/wiki/List_of_Mathematical_Functions_Done_in_Scratch
 + https://wiki.scratch.mit.edu/wiki/Recursion_and_Fractals#Creating_the_Koch_Curve
 + https://inventwithscratch.com/
@@ -57,35 +62,36 @@
 
 
 ## Interview algorithms ##
-+ https://en.wikipedia.org/wiki/Dynamic_programming
-+ http://algorithms.tutorialhorizon.com/dynamic-programming-coin-change-problem/
-+ MIT open courseware DP: https://www.youtube.com/watch?v=ocZMDMZwhCY
-+ algs/dp: https://people.eecs.berkeley.edu/~vazirani/algorithms/chap6.pdf
-+ https://en.wikipedia.org/wiki/Fermat%27s_factorization_method
-+ floyd warshall http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm
-+ linear programming
-+ https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
-+ memoization: http://www.python-course.eu/python3_memoization.php
-+ euclid's algorithm  http://andreinc.net/2010/12/11/euclids-algorithm-reducing-fraction-to-lowest-terms/
-+ simplify a fraction: http://codereview.stackexchange.com/questions/66450/simplify-a-fraction
-+ basil & fabian: http://blog.jamisbuck.org/
-+ knapsack problem
++ DP: https://en.wikipedia.org/wiki/Dynamic_programming
++ DP coin change: http://algorithms.tutorialhorizon.com/dynamic-programming-coin-change-problem/
++ MIT open courseware DP lecture: https://www.youtube.com/watch?v=ocZMDMZwhCY
++ Algs/DP: https://people.eecs.berkeley.edu/~vazirani/algorithms/chap6.pdf
++ Fermat's factorization method: https://en.wikipedia.org/wiki/Fermat%27s_factorization_method
++ Floyd Warshall algorithm: http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm
++ Dijkstra's algorithm: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
++ Memoization: http://www.python-course.eu/python3_memoization.php
++ Euclid's algorithm  http://andreinc.net/2010/12/11/euclids-algorithm-reducing-fraction-to-lowest-terms/
++ Simplify a fraction: http://codereview.stackexchange.com/questions/66450/simplify-a-fraction
++ Basil & Fabian: http://blog.jamisbuck.org/
++ Knapsack problem
 + The three witches in Hamlet can brew any potion provided they have the right ingredients. Suppose that five ingredients are necessary in making a health potion: eye of newt (eon), toe of frog (tof), wool of bat (wob), adder’s fork (af), and tooth of wolf (tow). Four reactions can occur between these ingredients: 
   - 4 eon + 2 wob = 3 af + 4 tow 
   - 3 tow + 1 tof = 2 eon 
   - 1 wob + 2 af = 1 tof 
   - 4 tof + 7 tow + 2 af = 1 health potion 
   Assuming you can control the order of reactions, write a program that can calculate the maximum number of health potions one can brew   with a given amount of ingredients. Here is example output: If I have 34 eon, 59 tof, 20 wob, 5 af, and 20 tow, I can make seven   health potions. 
-+ The "correct change" problem looks like it's equivalent to the "subset sum" problem   (https://en.wikipedia.org/wiki/Subset_sum_problem), which is a special case of the knapsack problem.  Wikipedia says these are all NP,   but efficiency can be improved by dynamic programming.  That's why I'm thinking a transposition table may help.
-+ http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/
-+ http://stackoverflow.com/questions/24720332/c-find-all-possible-combinations-of-a-string-in-another-string 
-+ http://stackoverflow.com/questions/3420937/algorithm-to-find-which-number-in-a-list-sum-up-to-a-certain-number
++ The "correct change" problem looks like it's equivalent to the "subset sum" problem  (https://en.wikipedia.org/wiki/Subset_sum_problem), which is a special case of the knapsack problem.  Wikipedia says these are all NP, but efficiency can be improved by dynamic programming. That's why I'm thinking a transposition table may help.
++ Permute a string: http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/
++ Find combinations of a string in another string: http://stackoverflow.com/questions/24720332/c-find-all-possible-combinations-of-a-string-in-another-string 
++ Sum numbers in a list: http://stackoverflow.com/questions/3420937/algorithm-to-find-which-number-in-a-list-sum-up-to-a-certain-number
 + Good DP problem: http://www.opengarden.com/jobs.html
-+ http://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/
-+ Check for BST: https://www.youtube.com/watch?v=H13iz0rbeeo
-+ Maze algorithms
-  + Buckblog maze generation algorithm overview: http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap
++ Tree traversal construction: http://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/
++ Determine if a tree is a BST: https://www.youtube.com/watch?v=H13iz0rbeeo
+
+
+## Mazes ##
   + Think Labyrinth: http://www.astrolog.org/labyrnth/algrithm.htm
+  + Buckblog maze generation algorithm overview: http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap
 
 
 ## Cellular automata ##
@@ -94,29 +100,32 @@
 
 
 ## Puzzles ##
++ Amazing site--Erich Friendman's puzzle palace: http://www2.stetson.edu/~efriedma/
++ Mindsports (links resource): http://www.mindsports.nl/index.php/puzzle-links
++ Zendoku puzzle generation: http://garethrees.org/2007/06/10/zendoku-generation/#section-4
++ Sudoku solving algorithms: https://en.wikipedia.org/wiki/Sudoku_solving_algorithms
 + Mondrian puzzle: https://www.youtube.com/watch?v=49KvZrioFB0
 + http://nikoli.co.jp/en/puzzles/
 + https://en.wikipedia.org/wiki/Nonogram
 + https://en.wikipedia.org/wiki/Slothouber%E2%80%93Graatsma_puzzle 
 + https://en.wikipedia.org/wiki/Mathematical_puzzle
-+ Soma cube solver
++ Soma cube
 + Assorted logic games: https://www.youtube.com/channel/UCEPZPgtnTvj2F3qTCLfaP4w
-+ Mindsports (links resource): http://www.mindsports.nl/index.php/puzzle-links
-+ Amazing site--Erich Friendman's puzzle palace: http://www2.stetson.edu/~efriedma/
-+ Zendoku puzzle generation: http://garethrees.org/2007/06/10/zendoku-generation/#section-4
-+ Sudoku solving algorithms: https://en.wikipedia.org/wiki/Sudoku_solving_algorithms
 
 
 ## Visual/animations ##
 + Inspiring: http://zreference.com/projects/graphics/
 + Also inspiring: https://bit101.github.io/lab/dailies/170413.html
-+ fibonacci spiral
-+ architecture: look for triangle perspective designs, escher...https://s-media-cache-ak0.pinimg.com/564x/d6/ff/64/d6ff6450173c6410c919b06e07958227.jpg
++ Fibonacci spiral
++ Architecture: look for triangle perspective designs, escher...https://s-media-cache-ak0.pinimg.com/564x/d6/ff/64/d6ff6450173c6410c919b06e07958227.jpg
 + Simple Python graphics library: https://www.rose-hulman.edu/Users/faculty/young/CS-Classes/resources/Python/ZelleGraphics.html
++ Do a visual plotting the orthocenter, medicenter, and circumcenter of a triangle
 + Animated sorts and searches etc
 + Do a recursive ripple GUI program
 + Canvas stack http://arc.id.au/CanvasLayers.html
-+ https://threejs.org/
++ ThreeJS: https://threejs.org/
++ JSXGraph: https://jsxgraph.uni-bayreuth.de/wiki/index.php/Category:Examples
++ Do a WebGLRenderer tutorial!
 
 
 ## Game AI ##
@@ -177,6 +186,8 @@
   + https://en.wikipedia.org/wiki/NetHack
   + http://www.iancgbell.clara.net/elite/text/index.htm
 + God wars mud
++ Boulder dash
++ Digger
 
 
 ## Cryptography ##
@@ -188,13 +199,12 @@
 + https://github.com/wasd12345
 
 
-## JS/front end ##
+## JS/CSS/front end ##
 + Callbacks: http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
 + CSS modals (drop down boxes): http://www.w3schools.com/howto/howto_css_modals.asp iframe
 + JS todo list: http://docs.railsbridge.org/javascript-to-do-list/adding_an_item
-+ Do a WebGLRenderer tutorial!
 + Jekyll blog: https://www.youtube.com/watch?v=xdxfyFS3pog & https://jekyllrb.com/docs/installation/
-+ Bitballoon for hosting webapps: https://www.bitballoon.com
++ Bitballoon for hosting web apps: https://www.bitballoon.com
 
 
 ## PHP ##
@@ -239,7 +249,7 @@
 + Google style guide: https://google.github.io/styleguide/javaguide.html
 + Edx intro to Java: https://www.edx.org/course/introduction-java-programming-part-2-hkustx-comp102-2x-0
 + Java sorting algorithms: http://java2novice.com/java-sorting-algorithms/
-+ Java send http request: http://stackoverflow.com/questions/2793150/using-java-net-urlconnection-to-fire-and-handle-http-requests
++ Java send HTTP request: http://stackoverflow.com/questions/2793150/using-java-net-urlconnection-to-fire-and-handle-http-requests
 + Java send email: http://stackoverflow.com/questions/3649014/send-email-using-java
 
 
