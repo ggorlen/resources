@@ -42,7 +42,7 @@
 ## Next steps ##
 + SFSU: http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ms-computer-science/
 Prospective students are welcome to send any questions to the graduate advising assistant at ( csgrad@sfsu.edu )
-+ VT: http://www.vtmit.vt.edu/plan-your-study.php
++ VT: http://www.vtmit.vt.edu/
 + GT: http://www.omscs.gatech.edu/program-info/application-deadlines-process-requirements
 + Bootcamps: http://getcoding.hackreactor.com/remote-part-time or another p/t camp
 + Internships:

@@ -49,6 +49,9 @@
 + Double pendulum: 
   + https://en.wikipedia.org/wiki/Double_pendulum 
   + https://www.youtube.com/watch?v=neh86u7_TIk
++ Game physics cookbook: http://proquest.safaribooksonline.com/9781787123663
++ Nature in Code book: https://leanpub.com/natureincode
++ Brief intro to sin & cos: https://inventwithpython.com/blog/2012/07/18/using-trigonometry-to-animate-bounces-draw-clocks-and-point-cannons-at-a-target/
 
 
 ## Scratch and Snap ##
@@ -111,6 +114,7 @@
 + https://en.wikipedia.org/wiki/Mathematical_puzzle
 + Soma cube
 + Assorted logic games: https://www.youtube.com/channel/UCEPZPgtnTvj2F3qTCLfaP4w
++ https://en.wikipedia.org/wiki/Lights_Out_(game)
 
 
 ## Visual/animations ##
@@ -126,6 +130,7 @@
 + ThreeJS: https://threejs.org/
 + JSXGraph: https://jsxgraph.uni-bayreuth.de/wiki/index.php/Category:Examples
 + Do a WebGLRenderer tutorial!
++ Cool examples/inspiration: http://entibo.fr/
 
 
 ## Game AI ##
@@ -215,6 +220,7 @@
   + ajax/php tutorial: http://www.tizag.com/ajaxTutorial/ajaxxmlhttprequest.php
   + ajax/php mailing list for label: https://www.sitepoint.com/use-ajax-php-build-mailing-list/
 + PHP WP plugins
++ Make a simple tape label CMS; host on heroku?
   
   
 ## Python ##
