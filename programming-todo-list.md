@@ -1,3 +1,31 @@
+# Table of Contents
+1. [General](#general)
+2. [Project Euler](#project-euler)
+3. [Fractals and L-systems](#fractals-and-l-systems)
+4. [Tiling and packing](#tiling-and-packing)
+5. [Physics simulations](#physics-simulations)
+6. [Scratch and Snap](#scratch-and-snap)
+7. [Interview algorithms](#interview-algorithms)
+8. [Mazes](#mazes)
+9. [Cellular automata](#cellular-automata)
+10. [Puzzles](#puzzles)
+11. [Visual/animation](#visual/animation)
+12. [Game AI](#game-ai)
+13. [Cryptography](#cryptography)
+14. [Machine learning/big data](#machine-learning/big-data)
+15. [Web dev](#web-dev)
+16. [JS](#js)
+17. [CSS](#css)
+18. [PHP](#php)
+19. [Python](#python)
+20. [Java](#java)
+21. [C++](#c++)
+22. [Ruby](#ruby)
+23. [Bots](#bots)
+24. [Minecraft](#minecraft)
+25. [Fun](#fun)
+
+
 ## General ##
 + Bit twiddling hacks: http://graphics.stanford.edu/~seander/bithacks.html
 + Do projects from Data Structures text
@@ -6,9 +34,10 @@
 
 
 ## Project Euler ##
-+ Project Euler todo: 81, 99, 77, 78, 112, 345
++ Project Euler todo: 69, 81, 84, 99, 77, 78, 112, 345
 + #93 can also be solved using Integer Linear Programming (https://pythonhosted.org/PuLP/CaseStudies/a_sudoku_problem.html)
 + #84 Monopoly is one of the best.  Worth solving using both simulation (I used first-class functions) and stochastic matrix (I used numpy).  Working out the initial probabilities for the stochastic matrix requires only basic probability, but it's tricky.
++ Euler's totient function: http://www.geeksforgeeks.org/eulers-totient-function/
 
 
 ## Fractals and L-systems ##
@@ -52,6 +81,7 @@
 + Game physics cookbook: http://proquest.safaribooksonline.com/9781787123663
 + Nature in Code book: https://leanpub.com/natureincode
 + Brief intro to sin & cos: https://inventwithpython.com/blog/2012/07/18/using-trigonometry-to-animate-bounces-draw-clocks-and-point-cannons-at-a-target/
++ and another intro to sin & cos with some mode 7 content: http://www.helixsoft.nl/articles/circle/sincos.htm
 
 
 ## Scratch and Snap ##
@@ -93,8 +123,8 @@
 
 
 ## Mazes ##
-  + Think Labyrinth: http://www.astrolog.org/labyrnth/algrithm.htm
-  + Buckblog maze generation algorithm overview: http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap
++ Think Labyrinth: http://www.astrolog.org/labyrnth/algrithm.htm
++ Buckblog maze generation algorithm overview: http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap
 
 
 ## Cellular automata ##
@@ -115,9 +145,10 @@
 + Soma cube
 + Assorted logic games: https://www.youtube.com/channel/UCEPZPgtnTvj2F3qTCLfaP4w
 + https://en.wikipedia.org/wiki/Lights_Out_(game)
++ A bunch of puzzle games: http://www.puzzle-bridges.com/
 
 
-## Visual/animations ##
+## Visual/animation ##
 + Inspiring: http://zreference.com/projects/graphics/
 + Also inspiring: https://bit101.github.io/lab/dailies/170413.html
 + Fibonacci spiral
@@ -131,6 +162,9 @@
 + JSXGraph: https://jsxgraph.uni-bayreuth.de/wiki/index.php/Category:Examples
 + Do a WebGLRenderer tutorial!
 + Cool examples/inspiration: http://entibo.fr/
++ A Primer on Bézier Curves: https://pomax.github.io/bezierinfo/
++ Bezier curve tool: http://www.victoriakirst.com/beziertool/
++ Splines intro: https://www.ibiblio.org/e-notes/Splines/Intro.htm
 
 
 ## Game AI ##
@@ -149,7 +183,7 @@
 + https://en.wikipedia.org/wiki/Negamax
 
 
-## Games to program ##
+## Games ##
 + Microsoft Entertainment Pack: https://en.wikipedia.org/wiki/Microsoft_Entertainment_Pack
 + Code hexapawn JS â™Ÿ
 + Dots and boxes https://www.youtube.com/watch?v=KboGyIilP6k
@@ -204,12 +238,19 @@
 + https://github.com/wasd12345
 
 
-## JS/CSS/front end ##
-+ Callbacks: http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
-+ CSS modals (drop down boxes): http://www.w3schools.com/howto/howto_css_modals.asp iframe
-+ JS todo list: http://docs.railsbridge.org/javascript-to-do-list/adding_an_item
+## Web dev ##
 + Jekyll blog: https://www.youtube.com/watch?v=xdxfyFS3pog & https://jekyllrb.com/docs/installation/
 + Bitballoon for hosting web apps: https://www.bitballoon.com
+
+
+## JS ##
++ Callbacks: http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
++ JS todo list: http://docs.railsbridge.org/javascript-to-do-list/adding_an_item
+
+
+## CSS ##
++ Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
++ CSS modals (drop down boxes): http://www.w3schools.com/howto/howto_css_modals.asp iframe
 
 
 ## PHP ##
@@ -295,3 +336,8 @@
 ## Minecraft ##
 + Minecraft modding tutorial https://www.youtube.com/watch?v=2_qM-Z0IQ4k
 + Minecraft programming http://minecraft.gamepedia.com/Mods/Creating_mods
+
+
+## Fun ##
++ 99 bottles of beer in 1500 different languages: http://www.99-bottles-of-beer.net/
++ Regex to validate another regex: https://stackoverflow.com/questions/172303/is-there-a-regular-expression-to-detect-a-valid-regular-expression

@@ -49,6 +49,7 @@ Prospective students are welcome to send any questions to the graduate advising 
   + https://www.indeed.com/q-Software-Engineering-Intern-l-San-Francisco-Bay-Area,-CA-jobs.html
   + http://www.engineerjobs.com/internships/software-engineering/california/bay-area.php
   + https://www.smartrecruiters.com/Line2/112808690-web-developer-internship-front-end
++ Mills: https://www.mills.edu/academics/graduate/cs/ 
 
 
 ## CCSF ##
