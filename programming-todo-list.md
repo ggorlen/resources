@@ -2,35 +2,33 @@
 1. [General](#general)
 2. [Project Euler](#project-euler)
 3. [Fractals and L-systems](#fractals-and-l-systems)
-4. [Tiling and packing](#tiling-and-packing)
+4. [Tiling](#tiling)
 5. [Physics simulations](#physics-simulations)
-6. [Scratch and Snap](#scratch-and-snap)
-7. [Interview algorithms](#interview-algorithms)
-8. [Mazes](#mazes)
-9. [Cellular automata](#cellular-automata)
-10. [Puzzles](#puzzles)
-11. [Visual/animation](#visual/animation)
-12. [Game AI](#game-ai)
-13. [Cryptography](#cryptography)
-14. [Machine learning/big data](#machine-learning/big-data)
-15. [Web dev](#web-dev)
-16. [JS](#js)
-17. [CSS](#css)
-18. [PHP](#php)
-19. [Python](#python)
-20. [Java](#java)
+6. [Interview algorithms](#interview-algorithms)
+7. [Cellular automata](#cellular-automata)
+8. [Puzzles](#puzzles)
+9. [Visual/animation](#visual/animation)
+10. [Game AI](#game-ai)
+11. [Mazes](#mazes)
+12. [Cryptography](#cryptography)
+13. [Machine learning/big data](#machine-learning/big-data)
+14. [Web dev](#web-dev)
+15. [JS](#js)
+16. [CSS](#css)
+17. [PHP](#php)
+18. [Python](#python)
+19. [Java](#java)
+20. [Ruby](#ruby)
 21. [C++](#c++)
-22. [Ruby](#ruby)
+22. [Scratch and Snap](#scratch-and-snap)
 23. [Bots](#bots)
-24. [Minecraft](#minecraft)
 25. [Fun](#fun)
 
 
 ## General ##
 + Bit twiddling hacks: http://graphics.stanford.edu/~seander/bithacks.html
 + Do projects from Data Structures text
-+ organize mp3s: beets.io & https://www.discogs.com/developers/
-+ Car talk puzzlers: https://developmentality.wordpress.com/tag/car-talk/
++ Organize mp3s: beets.io & https://www.discogs.com/developers/
 
 
 ## Project Euler ##
@@ -51,30 +49,30 @@
 + Koch snowflake: https://en.wikipedia.org/wiki/Koch_snowflake
 + Sierpinski carpet: https://en.wikipedia.org/wiki/Sierpinski_carpet
 + Rose: https://en.wikipedia.org/wiki/Rose_(mathematics)
-+ https://en.wikipedia.org/wiki/Chaos_game
-+ https://en.wikipedia.org/wiki/Barnsley_fern
++ Chaos game: https://en.wikipedia.org/wiki/Chaos_game
++ Barnsley Fern: https://en.wikipedia.org/wiki/Barnsley_fern
 
 
 ## Tiling and packing ##
 + Rhombile tiling: https://en.wikipedia.org/wiki/Rhombille_tiling
 + Tangrams: https://en.wikipedia.org/wiki/Tangram
-+ https://en.wikipedia.org/wiki/Tiling_puzzle
-+ https://thebrickinthesky.wordpress.com/2013/03/17/l-systems-and-penrose-p3-in-inkscape
++ Tiling puzzle: https://en.wikipedia.org/wiki/Tiling_puzzle
++ L-systems in inkscape: https://thebrickinthesky.wordpress.com/2013/03/17/l-systems-and-penrose-p3-in-inkscape
 + Girih tiles: https://en.wikipedia.org/wiki/Girih_tiles
-+ https://en.wikipedia.org/wiki/Wallpaper_group
-+ https://morphingtiling.wordpress.com/page/2/
-+ https://transcendentcode.wordpress.com/
-+ Penrose tiling: http://preshing.com/20110831/penrose-tiling-explained/ 
-+ Penrose tiling: http://www.math.ubc.ca/~cass/courses/m308-02b/projects/schweber/penrose.html
-+ https://en.wikipedia.org/wiki/Substitution_tiling
-+ isometic JS example: http://jsfiddle.net/a4ZbG/
-+ https://en.wikipedia.org/wiki/Packing_problems
-+ https://en.wikipedia.org/wiki/Truncated_hexagonal_tiling#Triakis_triangular_tiling
++ Wallpaper group: https://en.wikipedia.org/wiki/Wallpaper_group
++ Morphing Tiling: https://morphingtiling.wordpress.com/page/2/
++ Transcendent Code: https://transcendentcode.wordpress.com/
++ Penrose tiling: 
+  + http://preshing.com/20110831/penrose-tiling-explained/ 
+  + http://www.math.ubc.ca/~cass/courses/m308-02b/projects/schweber/penrose.html
++ Substitution tiling: https://en.wikipedia.org/wiki/Substitution_tiling
++ "Isometic" JS example: http://jsfiddle.net/a4ZbG/
++ Triaki's: https://en.wikipedia.org/wiki/Truncated_hexagonal_tiling#Triakis_triangular_tiling
 
 
 ## Physics simulations ##
 + Coding math tutorial: https://www.youtube.com/watch?v=11ZmRlR7sOQ 
-+ Khan Academy natural simulations: https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-vectors/p/project-computational-creatures
++ Khan Academy natural simulations course: https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-vectors/p/project-computational-creatures
 + Double pendulum: 
   + https://en.wikipedia.org/wiki/Double_pendulum 
   + https://www.youtube.com/watch?v=neh86u7_TIk
@@ -82,16 +80,6 @@
 + Nature in Code book: https://leanpub.com/natureincode
 + Brief intro to sin & cos: https://inventwithpython.com/blog/2012/07/18/using-trigonometry-to-animate-bounces-draw-clocks-and-point-cannons-at-a-target/
 + and another intro to sin & cos with some mode 7 content: http://www.helixsoft.nl/articles/circle/sincos.htm
-
-
-## Scratch and Snap ##
-+ http://www.ocsmag.com/2016/07/12/dump-scratch-use-blockly-or-snap-instead/
-+ https://wiki.scratch.mit.edu/wiki/List_of_Mathematical_Functions_Done_in_Scratch
-+ https://wiki.scratch.mit.edu/wiki/Recursion_and_Fractals#Creating_the_Koch_Curve
-+ https://inventwithscratch.com/
-+ https://www.youtube.com/playlist?list=PL0-84-yl1fUkall6a14nqzXpG79-RgI1F
-+ https://www.youtube.com/playlist?list=PL0-84-yl1fUlLJvyC1s5L8rs5ECn3lPx4
-+ https://wiki.scratch.mit.edu/wiki/Array#Multidimensional_Arrays_in_Scratch
 
 
 ## Interview algorithms ##
@@ -103,7 +91,7 @@
 + Floyd Warshall algorithm: http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm
 + Dijkstra's algorithm: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 + Memoization: http://www.python-course.eu/python3_memoization.php
-+ Euclid's algorithm  http://andreinc.net/2010/12/11/euclids-algorithm-reducing-fraction-to-lowest-terms/
++ Euclid's algorithm: http://andreinc.net/2010/12/11/euclids-algorithm-reducing-fraction-to-lowest-terms/
 + Simplify a fraction: http://codereview.stackexchange.com/questions/66450/simplify-a-fraction
 + Basil & Fabian: http://blog.jamisbuck.org/
 + Knapsack problem
@@ -120,6 +108,7 @@
 + Good DP problem: http://www.opengarden.com/jobs.html
 + Tree traversal construction: http://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/
 + Determine if a tree is a BST: https://www.youtube.com/watch?v=H13iz0rbeeo
++ Car talk puzzlers: https://developmentality.wordpress.com/tag/car-talk/
 
 
 ## Mazes ##
@@ -128,36 +117,39 @@
 
 
 ## Cellular automata ##
-+ https://en.wikipedia.org/wiki/Turmite
-+ conway's game of life https://en.wikipedia.org/wiki/Cellular_automaton
++ Cellular automaton: https://en.wikipedia.org/wiki/Cellular_automaton
++ Elementary cellular automaton: https://en.wikipedia.org/wiki/Elementary_cellular_automaton
++ Rule 30: https://en.wikipedia.org/wiki/Rule_30
++ Conway's game of life: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
++ Turmite: https://en.wikipedia.org/wiki/Turmite
++ Wolfram cellular automata: https://www.wolframscience.com/nks/p65--more-cellular-automata/
++ Nature of Code by Shiffman, chapter 7: http://natureofcode.com/book/chapter-7-cellular-automata/
 
 
 ## Puzzles ##
-+ Amazing site--Erich Friendman's puzzle palace: http://www2.stetson.edu/~efriedma/
++ Amazing site--Erich Friendman's Puzzle Palace: http://www2.stetson.edu/~efriedma/
 + Mindsports (links resource): http://www.mindsports.nl/index.php/puzzle-links
 + Zendoku puzzle generation: http://garethrees.org/2007/06/10/zendoku-generation/#section-4
 + Sudoku solving algorithms: https://en.wikipedia.org/wiki/Sudoku_solving_algorithms
 + Mondrian puzzle: https://www.youtube.com/watch?v=49KvZrioFB0
-+ http://nikoli.co.jp/en/puzzles/
-+ https://en.wikipedia.org/wiki/Nonogram
-+ https://en.wikipedia.org/wiki/Slothouber%E2%80%93Graatsma_puzzle 
-+ https://en.wikipedia.org/wiki/Mathematical_puzzle
-+ Soma cube
++ Various puzzles from the Sudoku inventors: http://nikoli.co.jp/en/puzzles/
++ Nonogram: https://en.wikipedia.org/wiki/Nonogram
++ Slothouber–Graatsma puzzle: https://en.wikipedia.org/wiki/Slothouber%E2%80%93Graatsma_puzzle 
++ Packing: https://en.wikipedia.org/wiki/Packing_problems
++ Mathematical puzzle: https://en.wikipedia.org/wiki/Mathematical_puzzle
++ Soma cube: https://en.wikipedia.org/wiki/Soma_cube
 + Assorted logic games: https://www.youtube.com/channel/UCEPZPgtnTvj2F3qTCLfaP4w
-+ https://en.wikipedia.org/wiki/Lights_Out_(game)
++ Lights Out: https://en.wikipedia.org/wiki/Lights_Out_(game)
 + A bunch of puzzle games: http://www.puzzle-bridges.com/
 
 
 ## Visual/animation ##
 + Inspiring: http://zreference.com/projects/graphics/
 + Also inspiring: https://bit101.github.io/lab/dailies/170413.html
-+ Fibonacci spiral
-+ Architecture: look for triangle perspective designs, escher...https://s-media-cache-ak0.pinimg.com/564x/d6/ff/64/d6ff6450173c6410c919b06e07958227.jpg
-+ Simple Python graphics library: https://www.rose-hulman.edu/Users/faculty/young/CS-Classes/resources/Python/ZelleGraphics.html
++ Fibonacci spiral: https://en.wikipedia.org/wiki/Fibonacci_number
++ Architecture: look for triangle perspective designs, Escher: https://s-media-cache-ak0.pinimg.com/564x/d6/ff/64/d6ff6450173c6410c919b06e07958227.jpg
 + Do a visual plotting the orthocenter, medicenter, and circumcenter of a triangle
-+ Animated sorts and searches etc
-+ Do a recursive ripple GUI program
-+ Canvas stack http://arc.id.au/CanvasLayers.html
++ Animated sorts and searches (and other algorithms)
 + ThreeJS: https://threejs.org/
 + JSXGraph: https://jsxgraph.uni-bayreuth.de/wiki/index.php/Category:Examples
 + Do a WebGLRenderer tutorial!
@@ -165,28 +157,31 @@
 + A Primer on Bézier Curves: https://pomax.github.io/bezierinfo/
 + Bezier curve tool: http://www.victoriakirst.com/beziertool/
 + Splines intro: https://www.ibiblio.org/e-notes/Splines/Intro.htm
++ Simple Python graphics library: https://www.rose-hulman.edu/Users/faculty/young/CS-Classes/resources/Python/ZelleGraphics.html
++ Canvas stack: http://arc.id.au/CanvasLayers.html
 
 
 ## Game AI ##
-+ https://www.codeproject.com/Articles/37024/Simple-AI-for-the-Game-of-Breakthrough
-+ Write a correspondence chess app for your homepage in PHP
-+ https://en.wikipedia.org/wiki/SSS*
-+ https://en.wikipedia.org/wiki/Principal_variation_search
-+ https://en.wikipedia.org/wiki/MTD-f
-+ https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search
-+ https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning
-+ https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/
-+ http://cwoebker.com/posts/tic-tac-toe
-+ http://neverstopbuilding.com/minimax
-+ https://www.leaseweb.com/labs/2013/12/python-tictactoe-tk-minimax-ai/
-+ mcts: http://mcts.ai/code/java.html
-+ https://en.wikipedia.org/wiki/Negamax
++ Breakthrough AI tutorial: https://www.codeproject.com/Articles/37024/Simple-AI-for-the-Game-of-Breakthrough
++ SSS*: https://en.wikipedia.org/wiki/SSS*
++ Principal variation search: https://en.wikipedia.org/wiki/Principal_variation_search
++ MTD-f: https://en.wikipedia.org/wiki/MTD-f
++ Iterative deepening DFS: https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search
++ Alpha-beta pruning: https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning
++ Intro to MCTS: https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/
++ Tic tac toe AI: http://cwoebker.com/posts/tic-tac-toe
++ Minimax: 
+  + http://neverstopbuilding.com/minimax
+  + https://www.leaseweb.com/labs/2013/12/python-tictactoe-tk-minimax-ai/
++ Negamax: https://en.wikipedia.org/wiki/Negamax
++ MCTS: http://mcts.ai/code/java.html
++ Write a program to generate a valid static HTML tic tac toe game
 
 
 ## Games ##
 + Microsoft Entertainment Pack: https://en.wikipedia.org/wiki/Microsoft_Entertainment_Pack
-+ Code hexapawn JS â™Ÿ
-+ Dots and boxes https://www.youtube.com/watch?v=KboGyIilP6k
++ Hexapawn JS â™Ÿ
++ Dots and boxes: https://www.youtube.com/watch?v=KboGyIilP6k
 + Breakthru: https://en.wikipedia.org/wiki/Breakthru_(board_game)
 + Beast: https://en.wikipedia.org/wiki/Beast_(video_game)
 + PHP game scripts: https://www.ibm.com/developerworks/library/os-php-gamescripts1/
@@ -194,39 +189,39 @@
 + Program arcade games: http://programarcadegames.com/
 + BASIC games: http://www.atariarchives.org/basicgames/
 + Nim: https://en.wikipedia.org/wiki/Nim
-+ Emily's pegs game http://www.instructables.com/id/Peg-Game-IQ-Test-Solution/
-+ Fire & Ice
++ Emily's pegs game: http://www.instructables.com/id/Peg-Game-IQ-Test-Solution/
++ Fire & Ice: https://www.youtube.com/watch?v=1t782B0zK3Y
 + Connect 4
 + Freerice clone
 + The Mill board game
 + Solitaire/patience
-+ Lemmings
 + Hive
 + Lines of action: https://dke.maastrichtuniversity.nl/m.winands/loa/
++ Boulder Dash: https://en.wikipedia.org/wiki/Boulder_Dash
 + 2048
 + Ultimate tic tac toe
-+ https://en.wikipedia.org/wiki/Marble_Madness
-+ https://en.wikipedia.org/wiki/Loco-Motion_(video_game)
++ Marble Madness: https://en.wikipedia.org/wiki/Marble_Madness
++ Loco-Motion: https://en.wikipedia.org/wiki/Loco-Motion_(video_game)
 + Hnefatafl
 + Go
 + Boggle
-+ Mastermind https://en.wikipedia.org/wiki/Mastermind_(board_game)
-+ https://en.wikipedia.org/wiki/List_of_abstract_strategy_games
++ Lemmings
++ Digger
++ Mastermind: https://en.wikipedia.org/wiki/Mastermind_(board_game)
++ List of abstract strategy games: https://en.wikipedia.org/wiki/List_of_abstract_strategy_games
 + Reversi: http://inventwithpython.com/chapter15.html
-+ dodge falling objects game--rotation component like super hexagon?
-+ sidescroller where you build steps to get your dude over obstacles instead of jump button
-+ flappy bird / side scroll platformer with jump button only
-+ try frequency distribution array for card games/poker problem
-+ snake: 2 player versions, add obstacles, display score text after losing?
++ Dodge falling objects game--rotation component like super hexagon?
++ Sidescroller where you build steps to get your dude over obstacles instead of jump button
++ Flappy bird/side scroll platformer with jump button only
++ Try frequency distribution array for card games/poker problem
++ Snake: 2 player versions, add obstacles
 + ASCII games: 
   + http://ifarchive.org/
   + http://www.8bs.com/othrdnld/manuals/publications.shtml
   + https://en.wikipedia.org/wiki/Jotto
   + https://en.wikipedia.org/wiki/NetHack
   + http://www.iancgbell.clara.net/elite/text/index.htm
-+ God wars mud
-+ Boulder dash
-+ Digger
+  + MUDS such as God Wars
 
 
 ## Cryptography ##
@@ -234,12 +229,15 @@
 
 
 ## Machine learning/big data ##
-+ https://douweosinga.com/projects/
-+ https://github.com/wasd12345
++ Inspirational projects:
+  + https://douweosinga.com/projects/
+  + https://github.com/wasd12345
 
 
 ## Web dev ##
-+ Jekyll blog: https://www.youtube.com/watch?v=xdxfyFS3pog & https://jekyllrb.com/docs/installation/
++ Jekyll blog: 
+  + https://www.youtube.com/watch?v=xdxfyFS3pog
+  + https://jekyllrb.com/docs/installation/
 + Bitballoon for hosting web apps: https://www.bitballoon.com
 
 
@@ -254,6 +252,7 @@
 
 
 ## PHP ##
++ Write a correspondence chess app for your homepage in PHP
 + AJAX
   + http://stackoverflow.com/questions/23980733/jquery-ajax-file-upload-php 
   + http://stackoverflow.com/questions/2269307/using-jquery-ajax-to-call-a-php-function
@@ -261,39 +260,36 @@
   + ajax/php tutorial: http://www.tizag.com/ajaxTutorial/ajaxxmlhttprequest.php
   + ajax/php mailing list for label: https://www.sitepoint.com/use-ajax-php-build-mailing-list/
 + PHP WP plugins
-+ Make a simple tape label CMS; host on heroku?
++ Make a simple DIY label CMS; host on Heroku?
   
   
 ## Python ##
 + Automate the boring stuff: https://automatetheboringstuff.com/#toc
++ Natural language processing with Python: http://www.nltk.org/book/
 + Python data structures & algorithms
   + http://interactivepython.org/runestone/static/pythonds/index.html
   + http://www.brpreiss.com/books/opus7/
-+ Computer vision with python: http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf
-+ Natural language processing with Python:
-  + http://www.nltk.org/book/
 + Flask:
   + https://exploreflask.com/en/latest/
   + https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
   + http://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/
++ Computer vision with python: http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf
 + Python yield keyword/iterators: http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python
 + Effective Python: http://www.effectivepython.com/
 + Play with Python turtle chase from Think Python
 + Python exercises: http://www.ling.gu.se/~lager/python_exercises.html
 + Python from Java: http://dirtsimple.org/2004/12/python-is-not-java.html
 + http://interactivepython.org/courselib/static/thinkcspy/index.html
-+ https://www.learneroo.com/subjects/3
 + https://anshbansal.wordpress.com/programming-links/
 + http://www.megantaylor.org/2013/04/17/i-finished-codecademy-now-what/
-+ http://pygame.org/news.html
 + https://www.coursera.org/course/interactivepython
-+ http://pythonchallenge.com/
++ Python Challenge: http://pythonchallenge.com/
 + http://www.interactivepython.org/runestone/default/user/login?_next=/runestone/default/index
 
 
 ## Java ##
-+ Good Java web framework for learning generics: https://struts.apache.org/ 
 + Google style guide: https://google.github.io/styleguide/javaguide.html
++ Good Java web framework for learning generics: https://struts.apache.org/ 
 + Edx intro to Java: https://www.edx.org/course/introduction-java-programming-part-2-hkustx-comp102-2x-0
 + Java sorting algorithms: http://java2novice.com/java-sorting-algorithms/
 + Java send HTTP request: http://stackoverflow.com/questions/2793150/using-java-net-urlconnection-to-fire-and-handle-http-requests
@@ -301,12 +297,24 @@
 
 
 ## Ruby ##
-+ http://poignant.guide/book/chapter-6.html
-+ Rails mailing list http://aspiringwebdev.com/e-mail-in-rails-with-mailchimp-and-mandrill-a-comprehensive-guide
++ Why's Poignant Guide to Ruby: http://poignant.guide/book/chapter-6.html
++ Rails mailing list: http://aspiringwebdev.com/e-mail-in-rails-with-mailchimp-and-mandrill-a-comprehensive-guide
 
 
 ## C++ ##
-+ C++ sfml for games
++ C++ SFML for games
+
+
+## Scratch and Snap ##
++ Al Sweigart:
+  + https://inventwithscratch.com/
+  + https://www.youtube.com/playlist?list=PL0-84-yl1fUkall6a14nqzXpG79-RgI1F
+  + https://www.youtube.com/playlist?list=PL0-84-yl1fUlLJvyC1s5L8rs5ECn3lPx4
++ Useful Scratch reference topics: 
+  + https://wiki.scratch.mit.edu/wiki/Array#Multidimensional_Arrays_in_Scratch
+  + https://wiki.scratch.mit.edu/wiki/List_of_Mathematical_Functions_Done_in_Scratch
+  + https://wiki.scratch.mit.edu/wiki/Recursion_and_Fractals#Creating_the_Koch_Curve
++ Snap instead of Scratch: http://www.ocsmag.com/2016/07/12/dump-scratch-use-blockly-or-snap-instead/
 
 
 ## Bots ##
@@ -333,11 +341,7 @@
   + http://verythorough.tumblr.com/post/101348170234/creating-a-twitterbot-in-python
 
 
-## Minecraft ##
-+ Minecraft modding tutorial https://www.youtube.com/watch?v=2_qM-Z0IQ4k
-+ Minecraft programming http://minecraft.gamepedia.com/Mods/Creating_mods
-
-
 ## Fun ##
 + 99 bottles of beer in 1500 different languages: http://www.99-bottles-of-beer.net/
++ Esoteric programming languages: https://en.wikipedia.org/wiki/Esoteric_programming_language
 + Regex to validate another regex: https://stackoverflow.com/questions/172303/is-there-a-regular-expression-to-detect-a-valid-regular-expression

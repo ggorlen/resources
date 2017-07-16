@@ -3,39 +3,39 @@
 ## General CS resources ##
 + Course sites:
   + Lynda SFPL: https://www.lynda.com/portal/patron?org=sfpl.org
-  + https://www.coursera.org
-  + https://www.udacity.com
+  + Coursera: https://www.coursera.org
+  + Udacity: https://www.udacity.com
   + '7 Essential Skills Every New Developer Needs to Learn': http://www.tweaktown.com/news/46511/7-essential-skills-new-developer-needs-learn/index.html
 + Practice sites:
   + Math problems: https://www.mathworks.com/matlabcentral/cody/problems
-  + https://www.hackerrank.com/domains
-  + https://www.topcoder.com/getting-started
-  + http://www.exercism.io
+  + Learneroo: https://www.learneroo.com/
+  + Hackerrank: https://www.hackerrank.com/domains
+  + Topcoder: https://www.topcoder.com/getting-started
+  + Exercism: http://www.exercism.io
      + Talk on exercism: https://www.youtube.com/watch?v=neXJOhHj8ik&index=6&list=PLyGLemjnH3ukTGW8TYCzdu7jQe0U-wEKi
-  + Coding Bat http://codingbat.com -- Java & Python problems
-  + StackExchange Code Golf http://codegolf.stackexchange.com
-  + Google Code Jam https://code.google.com/codejam has some really cool problems
-    + Go-Hero site https://www.go-hero.net/jam/16/ has archive all the past Google Code Jam problems *with* solutions
+  + Coding Bat: http://codingbat.com -- Java & Python problems
+  + StackExchange Code Golf: http://codegolf.stackexchange.com
+  + Google Code Jam: https://code.google.com/codejam has some really cool problems
+    + Go-Hero: https://www.go-hero.net/jam/16/ has archive all the past Google Code Jam problems *with* solutions
 
 
 ### Interview prep ###
-+ https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki
-+ http://meetupresources.herokuapp.com/index.html
++ Women Who Code Interview Prep: https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki
++ Meetup resources from Heroku: http://meetupresources.herokuapp.com/index.html
 + http://kelukelu.me/interview/questions.html
-+ https://leetcode.com/problemset/algorithms
++ Leetcode: https://leetcode.com/problemset/algorithms
 + Gayle McDowell:
   + talk at Canadian University Software Engineering Conference: https://www.youtube.com/watch?v=rEJzOhC5ZtQ
   + Ask Me Anything video (see the top comment with all the links to the individual questions): https://www.youtube.com/watch?v=1fqxMuPmGak
   + http://www.gayle.com/featured-blog-posts
   + a good overview of a technical interview (which you get to *after* the algorithm screen): https://medium.com/@gayle/coding-interviews-and-the-importance-of-perfection-f381e486233e#.3zembxo47
   + https://www.careercup.com
-+ investigate networking / internet of things
-+ Summer camp instructor position: https://public.idtech.com/PulsePublic/JobApplication/Steps.aspx?cid=1
++ Investigate networking / internet of things
 
 
 ## Books ## 
 + Tons of free CS books: http://proquest.safaribooksonline.com/
-+ "etudes for programmers" 
++ "Etudes for programmers" 
 + "Etudes for Python: Exercises for Programmers" (available on LINK+)
 
 
@@ -50,6 +50,7 @@ Prospective students are welcome to send any questions to the graduate advising 
   + http://www.engineerjobs.com/internships/software-engineering/california/bay-area.php
   + https://www.smartrecruiters.com/Line2/112808690-web-developer-internship-front-end
 + Mills: https://www.mills.edu/academics/graduate/cs/ 
++ Summer camp instructor position: https://public.idtech.com/PulsePublic/JobApplication/Steps.aspx?cid=1
 
 
 ## CCSF ##
@@ -64,15 +65,15 @@ Prospective students are welcome to send any questions to the graduate advising 
 + CS 150P SQL Server T-SQL Programming  
 
 ### Courses to take: ###
-+ CS211D Android Programming
-+ CS211E enterprise edition
-+ CS 270 Comp Architecture w/ Assembly (advise discrete math)
++ CS   211D  Android Programming
++ CS   211E  Advanced Java: Enterprise Edition
++ CS   270   Comp Architecture w/ Assembly (advise discrete math)
 + CS   177   Software Engineering
 + CS   231   Advanced Python Programming
 + CS   155B  MySQL Database Administration
 + CS   260A  Linux System Administration
 + CS   260P  Linux Administration Projects  
-+ CNIT 141 Cryptography for Computers
++ CNIT 141   Cryptography for Computers
 + CNIT 214   Internet of Things
 + MATH  60   Intermediate Algebra
 + MATH  80   Probability and Statistics 
