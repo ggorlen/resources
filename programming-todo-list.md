@@ -26,9 +26,13 @@
 
 
 ## General ##
++ Bandit (learn UNIX): http://overthewire.org/wargames/bandit/
++ Hacking competition for kids: https://picoctf.com/
++ Look for projects at: http://rosettacode.org/wiki/Rosetta_Code
 + Bit twiddling hacks: http://graphics.stanford.edu/~seander/bithacks.html
 + Do projects from Data Structures text
 + Organize mp3s: beets.io & https://www.discogs.com/developers/
++ Write a script that turns text into giant ASCII text
 
 
 ## Project Euler ##
@@ -80,6 +84,9 @@
 + Nature in Code book: https://leanpub.com/natureincode
 + Brief intro to sin & cos: https://inventwithpython.com/blog/2012/07/18/using-trigonometry-to-animate-bounces-draw-clocks-and-point-cannons-at-a-target/
 + and another intro to sin & cos with some mode 7 content: http://www.helixsoft.nl/articles/circle/sincos.htm
++ Circles bouncing off lines tutorial: https://circles-bouncing-off-lines.glitch.me/docs/circles-bouncing-off-lines.html
++ Inpirational, with little frameworks (and good site design): https://maryrosecook.com/
++ Math for game developers: https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My
 
 
 ## Interview algorithms ##
@@ -124,6 +131,12 @@
 + Turmite: https://en.wikipedia.org/wiki/Turmite
 + Wolfram cellular automata: https://www.wolframscience.com/nks/p65--more-cellular-automata/
 + Nature of Code by Shiffman, chapter 7: http://natureofcode.com/book/chapter-7-cellular-automata/
++ Wireworld: https://en.wikipedia.org/wiki/Wireworld
++ Brian's Brain: https://en.wikipedia.org/wiki/Brian%27s_Brain
++ Von Neumann: https://en.wikipedia.org/wiki/Von_Neumann_cellular_automaton
++ Langton's loops: https://en.wikipedia.org/wiki/Langton%27s_loops
++ CoDi: https://en.wikipedia.org/wiki/CoDi
++ Life-like cellular automata (incl. Seeds): https://en.wikipedia.org/wiki/Life-like_cellular_automaton
 
 
 ## Puzzles ##
@@ -141,6 +154,7 @@
 + Assorted logic games: https://www.youtube.com/channel/UCEPZPgtnTvj2F3qTCLfaP4w
 + Lights Out: https://en.wikipedia.org/wiki/Lights_Out_(game)
 + A bunch of puzzle games: http://www.puzzle-bridges.com/
++ Simon Tatham: https://www.chiark.greenend.org.uk/~sgtatham/puzzles/
 
 
 ## Visual/animation ##
@@ -154,11 +168,21 @@
 + JSXGraph: https://jsxgraph.uni-bayreuth.de/wiki/index.php/Category:Examples
 + Do a WebGLRenderer tutorial!
 + Cool examples/inspiration: http://entibo.fr/
-+ A Primer on Bézier Curves: https://pomax.github.io/bezierinfo/
-+ Bezier curve tool: http://www.victoriakirst.com/beziertool/
++ Bezier Curves:
+  + A Primer on Bézier Curves: https://pomax.github.io/bezierinfo/
+  + Bezier curve tool: http://www.victoriakirst.com/beziertool/
+  + Chaining Bezier curves: 
+    + http://html5tutorial.com/how-to-join-two-bezier-curves-with-the-canvas-api/
+    + http://www.algosome.com/articles/continuous-bezier-curve-line.html
+    + https://stackoverflow.com/questions/12295773/joining-two-b%C3%A9zier-curves-smoothly-c2-continuous
+    + https://www.cl.cam.ac.uk/teaching/2000/AGraphHCI/SMEG/node3.html
+    + https://en.wikipedia.org/wiki/Composite_B%C3%A9zier_curve
+    + https://www.cs.mtu.edu/~shene/COURSES/cs3621/NOTES/spline/Bezier/bezier-der.html
 + Splines intro: https://www.ibiblio.org/e-notes/Splines/Intro.htm
 + Simple Python graphics library: https://www.rose-hulman.edu/Users/faculty/young/CS-Classes/resources/Python/ZelleGraphics.html
 + Canvas stack: http://arc.id.au/CanvasLayers.html
++ Create gif from a canvas animation: https://stackoverflow.com/questions/10486084/generate-animated-gif-with-html5-canvas
++ Animate the Collatz Conjecture
 
 
 ## Game AI ##
@@ -192,6 +216,7 @@
 + Emily's pegs game: http://www.instructables.com/id/Peg-Game-IQ-Test-Solution/
 + Fire & Ice: https://www.youtube.com/watch?v=1t782B0zK3Y
 + Connect 4
++ Qualio!
 + Freerice clone
 + The Mill board game
 + Solitaire/patience
@@ -207,6 +232,7 @@
 + Boggle
 + Lemmings
 + Digger
++ Solved games list: https://en.wikipedia.org/wiki/Solved_game
 + Mastermind: https://en.wikipedia.org/wiki/Mastermind_(board_game)
 + List of abstract strategy games: https://en.wikipedia.org/wiki/List_of_abstract_strategy_games
 + Reversi: http://inventwithpython.com/chapter15.html
@@ -244,11 +270,15 @@
 ## JS ##
 + Callbacks: http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
 + JS todo list: http://docs.railsbridge.org/javascript-to-do-list/adding_an_item
++ 30 day vanilla JS challenge: https://javascript30.com/
 
 
 ## CSS ##
 + Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 + CSS modals (drop down boxes): http://www.w3schools.com/howto/howto_css_modals.asp iframe
++ Do a Mondrian generator with a CSS grid or JS
++ Grid: https://css-tricks.com/snippets/css/complete-guide-grid/
++ Rachel Andrew (CSS grid examples): https://codepen.io/rachelandrew/pens/public
 
 
 ## PHP ##
@@ -261,6 +291,9 @@
   + ajax/php mailing list for label: https://www.sitepoint.com/use-ajax-php-build-mailing-list/
 + PHP WP plugins
 + Make a simple DIY label CMS; host on Heroku?
++ PHP app to display SFPL paging lists via email:
+  + https://stackoverflow.com/questions/5342822/php-mail-function-on-localhost
+  + https://github.com/barbushin/php-imap 
   
   
 ## Python ##

@@ -7,6 +7,7 @@
   + Udacity: https://www.udacity.com
   + '7 Essential Skills Every New Developer Needs to Learn': http://www.tweaktown.com/news/46511/7-essential-skills-new-developer-needs-learn/index.html
 + Practice sites:
+  + Daily Programmer: https://www.reddit.com/r/dailyprogrammer/
   + Math problems: https://www.mathworks.com/matlabcentral/cody/problems
   + Learneroo: https://www.learneroo.com/
   + Hackerrank: https://www.hackerrank.com/domains
