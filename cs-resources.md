@@ -2,11 +2,15 @@
 
 ## General CS resources ##
 + Course sites:
+  + Egghead: https://egghead.io/
+  + Coding the Matrix: http://codingthematrix.com/
   + Lynda SFPL: https://www.lynda.com/portal/patron?org=sfpl.org
   + Coursera: https://www.coursera.org
   + Udacity: https://www.udacity.com
   + '7 Essential Skills Every New Developer Needs to Learn': http://www.tweaktown.com/news/46511/7-essential-skills-new-developer-needs-learn/index.html
 + Practice sites:
+  + Leetcode: https://leetcode.com/
+  + Creative coding club: http://creativecoding.club/
   + Daily Programmer: https://www.reddit.com/r/dailyprogrammer/
   + Math problems: https://www.mathworks.com/matlabcentral/cody/problems
   + Learneroo: https://www.learneroo.com/

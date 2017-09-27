@@ -32,6 +32,7 @@
 + Bit twiddling hacks: http://graphics.stanford.edu/~seander/bithacks.html
 + Do projects from Data Structures text
 + Organize mp3s: beets.io & https://www.discogs.com/developers/
++ Christopher Alexander - Design Patterns: http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm
 + Write a script that turns text into giant ASCII text
 
 
@@ -87,6 +88,7 @@
 + Circles bouncing off lines tutorial: https://circles-bouncing-off-lines.glitch.me/docs/circles-bouncing-off-lines.html
 + Inpirational, with little frameworks (and good site design): https://maryrosecook.com/
 + Math for game developers: https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My
++ matter.js
 
 
 ## Interview algorithms ##
@@ -378,3 +380,4 @@
 + 99 bottles of beer in 1500 different languages: http://www.99-bottles-of-beer.net/
 + Esoteric programming languages: https://en.wikipedia.org/wiki/Esoteric_programming_language
 + Regex to validate another regex: https://stackoverflow.com/questions/172303/is-there-a-regular-expression-to-detect-a-valid-regular-expression
++ Quine: https://en.wikipedia.org/wiki/Quine_(computing)
