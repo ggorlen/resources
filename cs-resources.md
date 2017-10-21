@@ -63,12 +63,6 @@ Prospective students are welcome to send any questions to the graduate advising 
 + CS department chair career resources: http://fog.ccsf.cc.ca.us/~cpersiko/csDept/NotesCareers.html
 + CS211s notes: https://sites.google.com/site/koalalearn/fa2011/cs211s
 
-### Fall 2017: ###
-+ CNIT 133A  JavaScript Libraries/Framework
-+ CNIT 133M  Mobile Web w/HTML, CSS & JS  
-  then apply for: http://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/JavaScriptSpecialistCertificate.pdf
-+ CS 150P SQL Server T-SQL Programming  
-
 ### Courses to take: ###
 + CS   211D  Android Programming
 + CS   211E  Advanced Java: Enterprise Edition
@@ -76,8 +70,10 @@ Prospective students are welcome to send any questions to the graduate advising 
 + CS   177   Software Engineering
 + CS   231   Advanced Python Programming
 + CS   155B  MySQL Database Administration
++ CS   230W  WordPress & Drupal CMS Develo
 + CS   260A  Linux System Administration
 + CS   260P  Linux Administration Projects  
++ CS   150P SQL Server T-SQL Programming  
 + CNIT 141   Cryptography for Computers
 + CNIT 214   Internet of Things
 + MATH  60   Intermediate Algebra
@@ -92,3 +88,4 @@ Prospective students are welcome to send any questions to the graduate advising 
   + http://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/WebApplicationProgrammingCertificate.pdf
   + https://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/ComputingSkillsforScientistsCertificate.pdf
 
+  + In progress: http://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/JavaScriptSpecialistCertificate.pdf

@@ -34,20 +34,33 @@
 + Organize mp3s: beets.io & https://www.discogs.com/developers/
 + Christopher Alexander - Design Patterns: http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm
 + Write a script that turns text into giant ASCII text
++ Handbook of Graph Drawing and Visualization: https://cs.brown.edu/~rt/gdhandbook/
++ Graph drawing: https://en.wikipedia.org/wiki/Graph_drawing
++ Isometric:
+  + https://stackoverflow.com/questions/892811/drawing-isometric-game-worlds
+  + http://www.gamedesign.jp/flash/slidingblock/slidingblock.html
++ Convex hull: https://en.wikipedia.org/wiki/Convex_hull_algorithms
++ Delaunay triangulation:
+  + https://en.wikipedia.org/wiki/Delaunay_triangulation
+  + http://www.cs.uu.nl/docs/vakken/ga/slides9alt.pdf
+  + http://www.geom.uiuc.edu/~samuelp/del_project.html#algorithms
+  + https://en.wikipedia.org/wiki/Voronoi_diagram#Algorithms
 
 
 ## Project Euler ##
-+ Project Euler todo: 69, 81, 84, 99, 77, 78, 112, 345
++ Project Euler todo: 69, 81, 99, 77, 78, 112, 345
 + #93 can also be solved using Integer Linear Programming (https://pythonhosted.org/PuLP/CaseStudies/a_sudoku_problem.html)
 + #84 Monopoly is one of the best.  Worth solving using both simulation (I used first-class functions) and stochastic matrix (I used numpy).  Working out the initial probabilities for the stochastic matrix requires only basic probability, but it's tricky.
 + Euler's totient function: http://www.geeksforgeeks.org/eulers-totient-function/
 
 
 ## Fractals and L-systems ##
++ Paul Bourke, amazing: http://paulbourke.net/fractals/
 + Book on JS fractals: http://www.playingwithchaos.net/
 + L-systems user notes/manual: http://paulbourke.net/fractals/lsys/
 + L-system examples: https://10klsystems.wordpress.com/examples/
 + 2d L-systems: http://mathforum.org/advanced/robertd/lsys2d.html
++ Harriss spiral: http://fiys169.blogspot.com/2015/11/the-harriss-spiral.html
 + Full-featured L-systems app: http://www.kevs3d.co.uk/dev/lsystems/
 + Hausdorff fractals list: https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension
 + Abelian sandpiles: https://en.wikipedia.org/wiki/Abelian_sandpile_model 
@@ -73,6 +86,9 @@
 + Substitution tiling: https://en.wikipedia.org/wiki/Substitution_tiling
 + "Isometic" JS example: http://jsfiddle.net/a4ZbG/
 + Triaki's: https://en.wikipedia.org/wiki/Truncated_hexagonal_tiling#Triakis_triangular_tiling
++ Litema: https://en.wikipedia.org/wiki/Litema
++ Kuba textiles: https://en.wikipedia.org/wiki/Kuba_textiles
++ goto80 ASCII art: http://goto80.com/chipflip/06/
 
 
 ## Physics simulations ##
@@ -157,6 +173,8 @@
 + Lights Out: https://en.wikipedia.org/wiki/Lights_Out_(game)
 + A bunch of puzzle games: http://www.puzzle-bridges.com/
 + Simon Tatham: https://www.chiark.greenend.org.uk/~sgtatham/puzzles/
++ Dissection puzzle: https://en.wikipedia.org/wiki/Dissection_puzzle
++ Tangram: https://en.wikipedia.org/wiki/Tangram 
 
 
 ## Visual/animation ##
@@ -185,6 +203,11 @@
 + Canvas stack: http://arc.id.au/CanvasLayers.html
 + Create gif from a canvas animation: https://stackoverflow.com/questions/10486084/generate-animated-gif-with-html5-canvas
 + Animate the Collatz Conjecture
++ ReCode Project (computer art repository): http://recodeproject.com
++ CompArt: http://dada.compart-bremen.de
++ The Algorists: http://algorists.org/algorist.html
++ Sol LeWitt
++ 3d sombrero and other algorithms: http://js.do/blog/processing/sombrero-3d/
 
 
 ## Game AI ##
@@ -250,6 +273,7 @@
   + https://en.wikipedia.org/wiki/NetHack
   + http://www.iancgbell.clara.net/elite/text/index.htm
   + MUDS such as God Wars
++ Tile-based game tutorial: https://www.youtube.com/watch?v=txUvD5_ROIU  
 
 
 ## Cryptography ##
@@ -257,6 +281,7 @@
 
 
 ## Machine learning/big data ##
++ Deep Learning book: http://www.deeplearningbook.org/
 + Inspirational projects:
   + https://douweosinga.com/projects/
   + https://github.com/wasd12345
@@ -281,6 +306,8 @@
 + Do a Mondrian generator with a CSS grid or JS
 + Grid: https://css-tricks.com/snippets/css/complete-guide-grid/
 + Rachel Andrew (CSS grid examples): https://codepen.io/rachelandrew/pens/public
++ CSS cube: https://davidwalsh.name/css-cube
++ Try making Tenderlove: https://www.discogs.com/Snd-Tenderlove/release/107513
 
 
 ## PHP ##
