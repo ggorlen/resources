@@ -23,6 +23,9 @@
   + Google Code Jam: https://code.google.com/codejam has some really cool problems
     + Go-Hero: https://www.go-hero.net/jam/16/ has archive all the past Google Code Jam problems *with* solutions
 
+### Competitive coding
++ Tons of tips & links: http://www.pvv.ntnu.no/~spaans/programming.html
+
 
 ### Interview prep ###
 + Women Who Code Interview Prep: https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki
@@ -70,7 +73,6 @@ Prospective students are welcome to send any questions to the graduate advising 
 + CS   177   Software Engineering
 + CS   231   Advanced Python Programming
 + CS   155B  MySQL Database Administration
-+ CS   230W  WordPress & Drupal CMS Develo
 + CS   260A  Linux System Administration
 + CS   260P  Linux Administration Projects  
 + CS   150P SQL Server T-SQL Programming  
@@ -87,5 +89,7 @@ Prospective students are welcome to send any questions to the graduate advising 
   + https://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/ComputerProgrammingJavaCertificate.pdf
   + http://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/WebApplicationProgrammingCertificate.pdf
   + https://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/ComputingSkillsforScientistsCertificate.pdf
+  + http://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/JavaScriptSpecialistCertificate.pdf
 
-  + In progress: http://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/JavaScriptSpecialistCertificate.pdf
+  + In progress: http://www.ccsf.edu/content/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/WebSiteDevelopmentTechniquesCertificate.pdf 
+  + In progress: http://www.ccsf.edu/content/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/MobileWebAppDevelopmentCertificate.pdf

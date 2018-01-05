@@ -89,6 +89,7 @@
 + Litema: https://en.wikipedia.org/wiki/Litema
 + Kuba textiles: https://en.wikipedia.org/wiki/Kuba_textiles
 + goto80 ASCII art: http://goto80.com/chipflip/06/
++ Circle packing flickr: https://www.flickr.com/photos/quasimondo/albums/72157624374940604
 
 
 ## Physics simulations ##
@@ -104,7 +105,26 @@
 + Circles bouncing off lines tutorial: https://circles-bouncing-off-lines.glitch.me/docs/circles-bouncing-off-lines.html
 + Inpirational, with little frameworks (and good site design): https://maryrosecook.com/
 + Math for game developers: https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My
-+ matter.js
++ Blobs: http://www.futuredatalab.com/blobfamily/
++ Collision detection:
+  + http://www.dyn4j.org/2010/01/sat/
+  + https://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169
+  + https://wildbunny.co.uk/blog/2011/04/20/collision-detection-for-dummies/
+  + http://blog.theliuy.com/determine-if-two-rotated-rectangles-overlap-each-other/ 
+  + https://www.codeproject.com/Articles/15573/2D-Polygon-Collision-Detection
+  + https://stackoverflow.com/questions/10962379/how-to-check-intersection-between-2-rotated-rectangles/12414951#12414951
+  + https://github.com/antishow/collision-demo/tree/master/library/js/src
+  + http://paulbourke.net/fractals/randomtile/
+  + https://maryrosecook.com/blog/post/how-to-do-2d-collision-detection
+  + http://www.metanetsoftware.com/technique/tutorialA.html
+  + http://www.migapro.com/circle-and-rotated-rectangle-collision-detection/
+  + https://gist.github.com/eliasdaler/502b54fcf1b515bcc50360ce874e81bc
+  + https://gist.github.com/cwleonard/e124d63238bda7a3cbfa
+  + https://gist.github.com/LindseyB/394536
+  + https://gist.github.com/enghqii/5af2512ced10849016e635fcf2d15d29
+  + https://github.com/tetoblivion/Collision_response_with_rotation/blob/master/respondToCollision.cpp
+  + https://gamedev.stackexchange.com/questions/32611/what-is-the-best-way-to-handle-simultaneous-collisions-in-a-physics-engine
+  + https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374
 
 
 ## Interview algorithms ##
@@ -175,6 +195,7 @@
 + Simon Tatham: https://www.chiark.greenend.org.uk/~sgtatham/puzzles/
 + Dissection puzzle: https://en.wikipedia.org/wiki/Dissection_puzzle
 + Tangram: https://en.wikipedia.org/wiki/Tangram 
++ Klotski gone insane (Bricks game): http://www.bricks-game.de/
 
 
 ## Visual/animation ##
@@ -208,6 +229,7 @@
 + The Algorists: http://algorists.org/algorist.html
 + Sol LeWitt
 + 3d sombrero and other algorithms: http://js.do/blog/processing/sombrero-3d/
++ Necessary Disorder: https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/
 
 
 ## Game AI ##
