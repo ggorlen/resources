@@ -26,6 +26,7 @@
 
 
 ## General ##
++ Dwitter (140 chars or less JS code): https://www.dwitter.net/ 
 + Bandit (learn UNIX): http://overthewire.org/wargames/bandit/
 + Hacking competition for kids: https://picoctf.com/
 + Look for projects at: http://rosettacode.org/wiki/Rosetta_Code
@@ -39,12 +40,15 @@
 + Isometric:
   + https://stackoverflow.com/questions/892811/drawing-isometric-game-worlds
   + http://www.gamedesign.jp/flash/slidingblock/slidingblock.html
-+ Convex hull: https://en.wikipedia.org/wiki/Convex_hull_algorithms
++ Convex hull: 
+  + https://en.wikipedia.org/wiki/Convex_hull_algorithms
+  + https://en.wikipedia.org/wiki/Orthogonal_convex_hull
 + Delaunay triangulation:
   + https://en.wikipedia.org/wiki/Delaunay_triangulation
   + http://www.cs.uu.nl/docs/vakken/ga/slides9alt.pdf
   + http://www.geom.uiuc.edu/~samuelp/del_project.html#algorithms
   + https://en.wikipedia.org/wiki/Voronoi_diagram#Algorithms
++ Random walk: https://en.wikipedia.org/wiki/Random_walk  
 
 
 ## Project Euler ##
@@ -93,6 +97,8 @@
 
 
 ## Physics simulations ##
++ Cloth physics: http://andrew.wang-hoyer.com/experiments/cloth/ 
++ Verlet integration: https://www.youtube.com/watch?v=3HjO_RGIjCU
 + Coding math tutorial: https://www.youtube.com/watch?v=11ZmRlR7sOQ 
 + Khan Academy natural simulations course: https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-vectors/p/project-computational-creatures
 + Double pendulum: 
@@ -105,7 +111,9 @@
 + Circles bouncing off lines tutorial: https://circles-bouncing-off-lines.glitch.me/docs/circles-bouncing-off-lines.html
 + Inpirational, with little frameworks (and good site design): https://maryrosecook.com/
 + Math for game developers: https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My
++ Variety of pathfinding tutorials: https://www.redblobgames.com/pathfinding/a-star/introduction.html 
 + Blobs: http://www.futuredatalab.com/blobfamily/
++ Simple 2d physics engine: https://www.ibm.com/developerworks/library/wa-build2dphysicsengine/
 + Collision detection:
   + http://www.dyn4j.org/2010/01/sat/
   + https://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169
@@ -128,6 +136,7 @@
 
 
 ## Interview algorithms ##
++ Sieve of Eratosthenes: https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes#Algorithm_complexity
 + DP: https://en.wikipedia.org/wiki/Dynamic_programming
 + DP coin change: http://algorithms.tutorialhorizon.com/dynamic-programming-coin-change-problem/
 + MIT open courseware DP lecture: https://www.youtube.com/watch?v=ocZMDMZwhCY
@@ -230,6 +239,7 @@
 + Sol LeWitt
 + 3d sombrero and other algorithms: http://js.do/blog/processing/sombrero-3d/
 + Necessary Disorder: https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/
++ Mr. Doob three.js collection: http://mrdoob.com/
 
 
 ## Game AI ##
@@ -238,6 +248,7 @@
 + Principal variation search: https://en.wikipedia.org/wiki/Principal_variation_search
 + MTD-f: https://en.wikipedia.org/wiki/MTD-f
 + Iterative deepening DFS: https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search
++ Iterative deepening A*: https://en.wikipedia.org/wiki/Iterative_deepening_A*
 + Alpha-beta pruning: https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning
 + Intro to MCTS: https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/
 + Tic tac toe AI: http://cwoebker.com/posts/tic-tac-toe
@@ -250,6 +261,10 @@
 
 
 ## Games ##
++ 2d visibility:
+  + https://www.redblobgames.com/articles/visibility/
+  + http://journal.stuffwithstuff.com/2015/09/07/what-the-hero-sees/
+  + https://legends2k.github.io/2d-fov/design.html
 + Microsoft Entertainment Pack: https://en.wikipedia.org/wiki/Microsoft_Entertainment_Pack
 + Hexapawn JS ♟
 + Dots and boxes: https://www.youtube.com/watch?v=KboGyIilP6k
@@ -285,7 +300,6 @@
 + Reversi: http://inventwithpython.com/chapter15.html
 + Dodge falling objects game--rotation component like super hexagon?
 + Sidescroller where you build steps to get your dude over obstacles instead of jump button
-+ Flappy bird/side scroll platformer with jump button only
 + Try frequency distribution array for card games/poker problem
 + Snake: 2 player versions, add obstacles
 + ASCII games: 
@@ -382,6 +396,7 @@
 
 ## Ruby ##
 + Why's Poignant Guide to Ruby: http://poignant.guide/book/chapter-6.html
++ Programming Ruby: http://ruby-doc.com/docs/ProgrammingRuby/html/rubyworld.html
 + Rails mailing list: http://aspiringwebdev.com/e-mail-in-rails-with-mailchimp-and-mandrill-a-comprehensive-guide
 
 
