@@ -53,7 +53,7 @@
 
 ## Project Euler ##
 + Project Euler todo: 69, 81, 99, 77, 78, 112, 345
-+ #93 can also be solved using Integer Linear Programming (https://pythonhosted.org/PuLP/CaseStudies/a_sudoku_problem.html)
++ #93 Sudoku can also be solved using Integer Linear Programming (https://pythonhosted.org/PuLP/CaseStudies/a_sudoku_problem.html)
 + #84 Monopoly is one of the best.  Worth solving using both simulation (I used first-class functions) and stochastic matrix (I used numpy).  Working out the initial probabilities for the stochastic matrix requires only basic probability, but it's tricky.
 + Euler's totient function: http://www.geeksforgeeks.org/eulers-totient-function/
 
@@ -136,6 +136,7 @@
 
 
 ## Interview algorithms ##
++ Cool Princeton algorithm assignments: http://www.cs.princeton.edu/courses/archive/spr10/cos226/assignments.html
 + Sieve of Eratosthenes: https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes#Algorithm_complexity
 + DP: https://en.wikipedia.org/wiki/Dynamic_programming
 + DP coin change: http://algorithms.tutorialhorizon.com/dynamic-programming-coin-change-problem/
@@ -149,12 +150,6 @@
 + Simplify a fraction: http://codereview.stackexchange.com/questions/66450/simplify-a-fraction
 + Basil & Fabian: http://blog.jamisbuck.org/
 + Knapsack problem
-+ The three witches in Hamlet can brew any potion provided they have the right ingredients. Suppose that five ingredients are necessary in making a health potion: eye of newt (eon), toe of frog (tof), wool of bat (wob), adderâ€™s fork (af), and tooth of wolf (tow). Four reactions can occur between these ingredients: 
-  - 4 eon + 2 wob = 3 af + 4 tow 
-  - 3 tow + 1 tof = 2 eon 
-  - 1 wob + 2 af = 1 tof 
-  - 4 tof + 7 tow + 2 af = 1 health potion 
-  Assuming you can control the order of reactions, write a program that can calculate the maximum number of health potions one can brew   with a given amount of ingredients. Here is example output: If I have 34 eon, 59 tof, 20 wob, 5 af, and 20 tow, I can make seven   health potions. 
 + The "correct change" problem looks like it's equivalent to the "subset sum" problem  (https://en.wikipedia.org/wiki/Subset_sum_problem), which is a special case of the knapsack problem.  Wikipedia says these are all NP, but efficiency can be improved by dynamic programming. That's why I'm thinking a transposition table may help.
 + Permute a string: http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/
 + Find combinations of a string in another string: http://stackoverflow.com/questions/24720332/c-find-all-possible-combinations-of-a-string-in-another-string 
@@ -187,6 +182,7 @@
 
 
 ## Puzzles ##
++ https://en.wikipedia.org/wiki/Category:Logic_puzzles
 + Amazing site--Erich Friendman's Puzzle Palace: http://www2.stetson.edu/~efriedma/
 + Mindsports (links resource): http://www.mindsports.nl/index.php/puzzle-links
 + Zendoku puzzle generation: http://garethrees.org/2007/06/10/zendoku-generation/#section-4
@@ -196,6 +192,7 @@
 + Nonogram: https://en.wikipedia.org/wiki/Nonogram
 + Slothouber–Graatsma puzzle: https://en.wikipedia.org/wiki/Slothouber%E2%80%93Graatsma_puzzle 
 + Packing: https://en.wikipedia.org/wiki/Packing_problems
++ Triomino packing
 + Mathematical puzzle: https://en.wikipedia.org/wiki/Mathematical_puzzle
 + Soma cube: https://en.wikipedia.org/wiki/Soma_cube
 + Assorted logic games: https://www.youtube.com/channel/UCEPZPgtnTvj2F3qTCLfaP4w
@@ -279,6 +276,12 @@
 + Fire & Ice: https://www.youtube.com/watch?v=1t782B0zK3Y
 + Connect 4
 + Qualio!
++ Tower defense
++ Hexapawn/octopawn/breakthrough
++ Pipe ream
++ Quarto
++ Mancala
++ Jezzball
 + Freerice clone
 + The Mill board game
 + Solitaire/patience
@@ -334,6 +337,7 @@
 + Callbacks: http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
 + JS todo list: http://docs.railsbridge.org/javascript-to-do-list/adding_an_item
 + 30 day vanilla JS challenge: https://javascript30.com/
++ Socket.io chat app
 
 
 ## CSS ##
