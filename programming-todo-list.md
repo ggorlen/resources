@@ -44,6 +44,7 @@
   + https://en.wikipedia.org/wiki/Convex_hull_algorithms
   + https://en.wikipedia.org/wiki/Orthogonal_convex_hull
 + Delaunay triangulation:
+  + https://transcendentcode.wordpress.com/2014/01/26/triangulation/
   + https://en.wikipedia.org/wiki/Delaunay_triangulation
   + http://www.cs.uu.nl/docs/vakken/ga/slides9alt.pdf
   + http://www.geom.uiuc.edu/~samuelp/del_project.html#algorithms
@@ -70,12 +71,14 @@
 + Abelian sandpiles: https://en.wikipedia.org/wiki/Abelian_sandpile_model 
 + Koch snowflake: https://en.wikipedia.org/wiki/Koch_snowflake
 + Sierpinski carpet: https://en.wikipedia.org/wiki/Sierpinski_carpet
++ Haferman Carpet: http://mathworld.wolfram.com/HafermanCarpet.html
 + Rose: https://en.wikipedia.org/wiki/Rose_(mathematics)
 + Chaos game: https://en.wikipedia.org/wiki/Chaos_game
 + Barnsley Fern: https://en.wikipedia.org/wiki/Barnsley_fern
 
 
 ## Tiling and packing ##
++ Jason Davies: https://www.jasondavies.com/
 + Rhombile tiling: https://en.wikipedia.org/wiki/Rhombille_tiling
 + Tangrams: https://en.wikipedia.org/wiki/Tangram
 + Tiling puzzle: https://en.wikipedia.org/wiki/Tiling_puzzle
@@ -105,6 +108,7 @@
   + https://en.wikipedia.org/wiki/Double_pendulum 
   + https://www.youtube.com/watch?v=neh86u7_TIk
 + Game physics cookbook: http://proquest.safaribooksonline.com/9781787123663
++ Jansen's linkage: https://en.wikipedia.org/wiki/Jansen%27s_linkage
 + Nature in Code book: https://leanpub.com/natureincode
 + Brief intro to sin & cos: https://inventwithpython.com/blog/2012/07/18/using-trigonometry-to-animate-bounces-draw-clocks-and-point-cannons-at-a-target/
 + and another intro to sin & cos with some mode 7 content: http://www.helixsoft.nl/articles/circle/sincos.htm
@@ -136,9 +140,13 @@
 
 
 ## Interview algorithms ##
++ Self-avoiding walk: https://en.wikipedia.org/wiki/Self-avoiding_walk
++ Bellman-Ford: https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm
++ Monte Carlo: https://introcs.cs.princeton.edu/java/98simulation/
 + Cool Princeton algorithm assignments: http://www.cs.princeton.edu/courses/archive/spr10/cos226/assignments.html
 + Sieve of Eratosthenes: https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes#Algorithm_complexity
 + DP: https://en.wikipedia.org/wiki/Dynamic_programming
++ DP text justify: https://www.geeksforgeeks.org/dynamic-programming-set-18-word-wrap/
 + DP coin change: http://algorithms.tutorialhorizon.com/dynamic-programming-coin-change-problem/
 + MIT open courseware DP lecture: https://www.youtube.com/watch?v=ocZMDMZwhCY
 + Algs/DP: https://people.eecs.berkeley.edu/~vazirani/algorithms/chap6.pdf
@@ -147,6 +155,7 @@
 + Dijkstra's algorithm: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 + Memoization: http://www.python-course.eu/python3_memoization.php
 + Euclid's algorithm: http://andreinc.net/2010/12/11/euclids-algorithm-reducing-fraction-to-lowest-terms/
++ Katasuba algorithm: https://en.wikipedia.org/wiki/Karatsuba_algorithm
 + Simplify a fraction: http://codereview.stackexchange.com/questions/66450/simplify-a-fraction
 + Basil & Fabian: http://blog.jamisbuck.org/
 + Knapsack problem
@@ -192,7 +201,8 @@
 + Nonogram: https://en.wikipedia.org/wiki/Nonogram
 + Slothouber–Graatsma puzzle: https://en.wikipedia.org/wiki/Slothouber%E2%80%93Graatsma_puzzle 
 + Packing: https://en.wikipedia.org/wiki/Packing_problems
-+ Triomino packing
++ Triomino packing: https://www.youtube.com/watch?v=hW4nB-ZAhts
++ Irregular hexagon packing: https://www.youtube.com/watch?v=i_TU49MioEE
 + Mathematical puzzle: https://en.wikipedia.org/wiki/Mathematical_puzzle
 + Soma cube: https://en.wikipedia.org/wiki/Soma_cube
 + Assorted logic games: https://www.youtube.com/channel/UCEPZPgtnTvj2F3qTCLfaP4w
@@ -200,6 +210,7 @@
 + A bunch of puzzle games: http://www.puzzle-bridges.com/
 + Simon Tatham: https://www.chiark.greenend.org.uk/~sgtatham/puzzles/
 + Dissection puzzle: https://en.wikipedia.org/wiki/Dissection_puzzle
+  + https://www.youtube.com/watch?v=P-9qBV-9Fos
 + Tangram: https://en.wikipedia.org/wiki/Tangram 
 + Klotski gone insane (Bricks game): http://www.bricks-game.de/
 
@@ -351,14 +362,23 @@
 
 
 ## PHP ##
-+ Write a correspondence chess app for your homepage in PHP
++ Sessions/logins:
+  + http://culttt.com/2013/02/04/how-to-save-php-sessions-to-a-database/
+  + http://shiflett.org/articles/storing-sessions-in-a-database
+  + http://php.net/manual/en/function.session-set-save-handler.php
+  + https://www.sitepoint.com/writing-custom-session-handlers/
+  + https://github.com/sprain/PHP-MySQL-Session-Handler/blob/master/MySqlSessionHandler.php
+  + https://github.com/JamieCressey/PHP-MySQL-Session-Handler
+  + https://github.com/kahwee/php-db-session-handler
+  + https://www.allphptricks.com/simple-user-registration-login-script-in-php-and-mysqli/
+  + http://www.phpeasystep.com/workshopview.php?id=6
+  + http://www.eggslab.net/php-login-script/
 + AJAX
   + http://stackoverflow.com/questions/23980733/jquery-ajax-file-upload-php 
   + http://stackoverflow.com/questions/2269307/using-jquery-ajax-to-call-a-php-function
   + https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php
   + ajax/php tutorial: http://www.tizag.com/ajaxTutorial/ajaxxmlhttprequest.php
   + ajax/php mailing list for label: https://www.sitepoint.com/use-ajax-php-build-mailing-list/
-+ PHP WP plugins
 + Make a simple DIY label CMS; host on Heroku?
 + PHP app to display SFPL paging lists via email:
   + https://stackoverflow.com/questions/5342822/php-mail-function-on-localhost
@@ -409,6 +429,7 @@
 
 
 ## Scratch and Snap ##
++ Sulfurous: https://sulfurous.aau.at/
 + Al Sweigart:
   + https://inventwithscratch.com/
   + https://www.youtube.com/playlist?list=PL0-84-yl1fUkall6a14nqzXpG79-RgI1F
@@ -445,6 +466,7 @@
 
 
 ## Fun ##
++ write a bot that makes patterns in the github commits thingie 
 + 99 bottles of beer in 1500 different languages: http://www.99-bottles-of-beer.net/
 + Esoteric programming languages: https://en.wikipedia.org/wiki/Esoteric_programming_language
 + Regex to validate another regex: https://stackoverflow.com/questions/172303/is-there-a-regular-expression-to-detect-a-valid-regular-expression

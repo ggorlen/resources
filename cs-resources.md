@@ -1,12 +1,15 @@
 # Computer science resources #
 
 ## General CS resources ##
++ Camps:
+  + Drupal Camp (every Spring at Stanford): https://drupalcamp.stanford.edu/
 + Course sites:
   + Egghead: https://egghead.io/
   + Coding the Matrix: http://codingthematrix.com/
   + Lynda SFPL: https://www.lynda.com/portal/patron?org=sfpl.org
   + Coursera: https://www.coursera.org
   + Udacity: https://www.udacity.com
+    + Continue on: https://www.udemy.com/the-advanced-web-developer-bootcamp/
   + '7 Essential Skills Every New Developer Needs to Learn': http://www.tweaktown.com/news/46511/7-essential-skills-new-developer-needs-learn/index.html
 + Practice sites:
   + Leetcode: https://leetcode.com/
@@ -26,7 +29,6 @@
 ### Competitive coding
 + Tons of tips & links: http://www.pvv.ntnu.no/~spaans/programming.html
 
-
 ### Interview prep ###
 + Women Who Code Interview Prep: https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki
 + Meetup resources from Heroku: http://meetupresources.herokuapp.com/index.html
@@ -43,6 +45,7 @@
 
 ## Books ## 
 + Tons of free CS books: http://proquest.safaribooksonline.com/
+  + Sam's C++ In One Hour a Day: http://proquest.safaribooksonline.com/book/programming/cplusplus/9780134539553/firstchapter
 + "Etudes for programmers" 
 + "Etudes for Python: Exercises for Programmers" (available on LINK+)
 
@@ -57,7 +60,7 @@ Prospective students are welcome to send any questions to the graduate advising 
   + https://www.indeed.com/q-Software-Engineering-Intern-l-San-Francisco-Bay-Area,-CA-jobs.html
   + http://www.engineerjobs.com/internships/software-engineering/california/bay-area.php
   + https://www.smartrecruiters.com/Line2/112808690-web-developer-internship-front-end
-+ Mills: https://www.mills.edu/academics/graduate/cs/ 
++ Mills: https://www.mills.edu/academics/graduate-programs/computer-science/
 + Summer camp instructor position: https://public.idtech.com/PulsePublic/JobApplication/Steps.aspx?cid=1
 
 
