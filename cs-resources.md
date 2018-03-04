@@ -12,6 +12,8 @@
     + Continue on: https://www.udemy.com/the-advanced-web-developer-bootcamp/
   + '7 Essential Skills Every New Developer Needs to Learn': http://www.tweaktown.com/news/46511/7-essential-skills-new-developer-needs-learn/index.html
 + Practice sites:
+  + Google Code Jam: https://code.google.com/codejam/past-contests
+    + Go-Hero: https://www.go-hero.net/jam/16/ has archive all the past Google Code Jam problems *with* solutions
   + Leetcode: https://leetcode.com/
   + Creative coding club: http://creativecoding.club/
   + Daily Programmer: https://www.reddit.com/r/dailyprogrammer/
@@ -23,8 +25,6 @@
      + Talk on exercism: https://www.youtube.com/watch?v=neXJOhHj8ik&index=6&list=PLyGLemjnH3ukTGW8TYCzdu7jQe0U-wEKi
   + Coding Bat: http://codingbat.com -- Java & Python problems
   + StackExchange Code Golf: http://codegolf.stackexchange.com
-  + Google Code Jam: https://code.google.com/codejam has some really cool problems
-    + Go-Hero: https://www.go-hero.net/jam/16/ has archive all the past Google Code Jam problems *with* solutions
 
 ### Competitive coding
 + Tons of tips & links: http://www.pvv.ntnu.no/~spaans/programming.html
@@ -62,6 +62,11 @@ Prospective students are welcome to send any questions to the graduate advising 
   + https://www.smartrecruiters.com/Line2/112808690-web-developer-internship-front-end
 + Mills: https://www.mills.edu/academics/graduate-programs/computer-science/
 + Summer camp instructor position: https://public.idtech.com/PulsePublic/JobApplication/Steps.aspx?cid=1
++ CSU Fullerton: https://www.calstateonline.net/Cal-State-Campuses/CSU-Fullerton
++ Adv certif in web/mobile via SDSU: https://www.ces.sdsu.edu/science-computers-technology/advanced-certificate-web-and-mobile-applications-development
++ USC: https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-cs-software-engineering/
++ Northeastern Silicon Valley: http://www.northeastern.edu/siliconvalley/admissions/
++ College choice: https://www.collegechoice.net/rankings/best-online-masters-in-computer-science/
 
 
 ## CCSF ##

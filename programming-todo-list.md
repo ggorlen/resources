@@ -60,6 +60,7 @@
 
 
 ## Fractals and L-systems ##
++ Algorithmic Botany: http://algorithmicbotany.org/
 + Paul Bourke, amazing: http://paulbourke.net/fractals/
 + Book on JS fractals: http://www.playingwithchaos.net/
 + L-systems user notes/manual: http://paulbourke.net/fractals/lsys/
@@ -100,6 +101,7 @@
 
 
 ## Physics simulations ##
++ Falling sand game: https://en.wikipedia.org/wiki/Falling-sand_game
 + Cloth physics: http://andrew.wang-hoyer.com/experiments/cloth/ 
 + Verlet integration: https://www.youtube.com/watch?v=3HjO_RGIjCU
 + Coding math tutorial: https://www.youtube.com/watch?v=11ZmRlR7sOQ 
@@ -269,6 +271,7 @@
 
 
 ## Games ##
++ Bitboards: http://libfbp.blogspot.com/2017/05/tic-tac-toe-bitboards.html
 + 2d visibility:
   + https://www.redblobgames.com/articles/visibility/
   + http://journal.stuffwithstuff.com/2015/09/07/what-the-hero-sees/
