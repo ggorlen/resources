@@ -376,6 +376,8 @@
   + https://www.allphptricks.com/simple-user-registration-login-script-in-php-and-mysqli/
   + http://www.phpeasystep.com/workshopview.php?id=6
   + http://www.eggslab.net/php-login-script/
+  + http://codewithawa.com/posts/admin-and-user-login-in-php-and-mysql-database
+  + https://www.formget.com/login-form-in-php/
 + AJAX
   + http://stackoverflow.com/questions/23980733/jquery-ajax-file-upload-php 
   + http://stackoverflow.com/questions/2269307/using-jquery-ajax-to-call-a-php-function
