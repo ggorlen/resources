@@ -26,15 +26,18 @@
 
 
 ## General ##
++ Inspiration! https://chessprogramming.wikispaces.com/Keith+Gorlen
++ Flocking behaviors: http://harry.me/blog/2011/02/17/neat-algorithms-flocking/
++ "Programming by Doing" simple projects for students: https://programmingbydoing.com/
 + Dwitter (140 chars or less JS code): https://www.dwitter.net/ 
 + Bandit (learn UNIX): http://overthewire.org/wargames/bandit/
 + Hacking competition for kids: https://picoctf.com/
 + Look for projects at: http://rosettacode.org/wiki/Rosetta_Code
 + Bit twiddling hacks: http://graphics.stanford.edu/~seander/bithacks.html
 + Do projects from Data Structures text
++ Write a script that turns text into blocky ASCII text or renders images in ASCII
 + Organize mp3s: beets.io & https://www.discogs.com/developers/
 + Christopher Alexander - Design Patterns: http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm
-+ Write a script that turns text into giant ASCII text
 + Handbook of Graph Drawing and Visualization: https://cs.brown.edu/~rt/gdhandbook/
 + Graph drawing: https://en.wikipedia.org/wiki/Graph_drawing
 + Isometric:
@@ -61,6 +64,7 @@
 
 ## Fractals and L-systems ##
 + Algorithmic Botany: http://algorithmicbotany.org/
++ Space colonization: https://www.youtube.com/watch?v=kKT0v3qhIQY&index=20&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH
 + Paul Bourke, amazing: http://paulbourke.net/fractals/
 + Book on JS fractals: http://www.playingwithchaos.net/
 + L-systems user notes/manual: http://paulbourke.net/fractals/lsys/
@@ -107,6 +111,7 @@
 + Coding math tutorial: https://www.youtube.com/watch?v=11ZmRlR7sOQ 
 + Khan Academy natural simulations course: https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-vectors/p/project-computational-creatures
 + Double pendulum: 
+  + https://www.youtube.com/watch?v=uWzPe_S-RVE&t=0s&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH&index=131
   + https://en.wikipedia.org/wiki/Double_pendulum 
   + https://www.youtube.com/watch?v=neh86u7_TIk
 + Game physics cookbook: http://proquest.safaribooksonline.com/9781787123663
@@ -193,11 +198,14 @@
 
 
 ## Puzzles ##
++ Simon Tatham: https://www.chiark.greenend.org.uk/~sgtatham/puzzles/
++ Do chess packing puzzles
 + https://en.wikipedia.org/wiki/Category:Logic_puzzles
 + Amazing site--Erich Friendman's Puzzle Palace: http://www2.stetson.edu/~efriedma/
 + Mindsports (links resource): http://www.mindsports.nl/index.php/puzzle-links
 + Zendoku puzzle generation: http://garethrees.org/2007/06/10/zendoku-generation/#section-4
 + Sudoku solving algorithms: https://en.wikipedia.org/wiki/Sudoku_solving_algorithms
++ Generating sudoku boards: https://stackoverflow.com/questions/6924216/how-to-generate-sudoku-boards-with-unique-solutions
 + Mondrian puzzle: https://www.youtube.com/watch?v=49KvZrioFB0
 + Various puzzles from the Sudoku inventors: http://nikoli.co.jp/en/puzzles/
 + Nonogram: https://en.wikipedia.org/wiki/Nonogram
@@ -210,7 +218,6 @@
 + Assorted logic games: https://www.youtube.com/channel/UCEPZPgtnTvj2F3qTCLfaP4w
 + Lights Out: https://en.wikipedia.org/wiki/Lights_Out_(game)
 + A bunch of puzzle games: http://www.puzzle-bridges.com/
-+ Simon Tatham: https://www.chiark.greenend.org.uk/~sgtatham/puzzles/
 + Dissection puzzle: https://en.wikipedia.org/wiki/Dissection_puzzle
   + https://www.youtube.com/watch?v=P-9qBV-9Fos
 + Tangram: https://en.wikipedia.org/wiki/Tangram 
@@ -253,20 +260,28 @@
 
 
 ## Game AI ##
++ IDDFS/single agent search: http://webdocs.cs.ualberta.ca/~jonathan/PREVIOUS/Courses/657/Notes/10.Single-agentSearch.pdf
++ IDA*: https://algorithmsinsight.wordpress.com/graph-theory-2/ida-star-algorithm-in-general/
++ A* n puzzle: https://algorithmsinsight.wordpress.com/graph-theory-2/a-star-in-general/implementing-a-star-to-solve-n-puzzle/
 + Breakthrough AI tutorial: https://www.codeproject.com/Articles/37024/Simple-AI-for-the-Game-of-Breakthrough
 + SSS*: https://en.wikipedia.org/wiki/SSS*
++ Monte Carlo Tree Search:
+  + https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/
+  + http://www.baeldung.com/java-monte-carlo-tree-search
+  + http://mcts.ai/code/java.html
 + Principal variation search: https://en.wikipedia.org/wiki/Principal_variation_search
 + MTD-f: https://en.wikipedia.org/wiki/MTD-f
 + Iterative deepening DFS: https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search
 + Iterative deepening A*: https://en.wikipedia.org/wiki/Iterative_deepening_A*
 + Alpha-beta pruning: https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning
-+ Intro to MCTS: https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/
 + Tic tac toe AI: http://cwoebker.com/posts/tic-tac-toe
 + Minimax: 
   + http://neverstopbuilding.com/minimax
   + https://www.leaseweb.com/labs/2013/12/python-tictactoe-tk-minimax-ai/
 + Negamax: https://en.wikipedia.org/wiki/Negamax
-+ MCTS: http://mcts.ai/code/java.html
++ Othello basic: https://inventwithpython.com/invent4thed/chapter15.html
++ 4 grid games from Al Sweigart: http://inventwithpython.com/pygame/chapter10.html 
+  + Make a flood it solver/generator based on above link
 + Write a program to generate a valid static HTML tic tac toe game
 
 
@@ -276,7 +291,10 @@
   + https://www.redblobgames.com/articles/visibility/
   + http://journal.stuffwithstuff.com/2015/09/07/what-the-hero-sees/
   + https://legends2k.github.io/2d-fov/design.html
+  + In Phaser using a nice raycasting lib: http://www.emanueleferonato.com/2015/02/03/play-with-light-and-dark-using-ray-casting-and-visibility-polygons/
++ 3d Wolfenstein raycasting tutorial in JS: https://dev.opera.com/articles/3d-games-with-canvas-and-raycasting-part-1/  
 + Microsoft Entertainment Pack: https://en.wikipedia.org/wiki/Microsoft_Entertainment_Pack
++ Minesweeper with hex grid: https://www.redblobgames.com/grids/hexagons/
 + Hexapawn JS ♟
 + Dots and boxes: https://www.youtube.com/watch?v=KboGyIilP6k
 + Breakthru: https://en.wikipedia.org/wiki/Breakthru_(board_game)
@@ -378,6 +396,7 @@
   + http://www.eggslab.net/php-login-script/
   + http://codewithawa.com/posts/admin-and-user-login-in-php-and-mysql-database
   + https://www.formget.com/login-form-in-php/
++ ZEND framework: https://www.youtube.com/watch?v=m7svJHmgJqs&list=PLF88B6AA17852E52E
 + AJAX
   + http://stackoverflow.com/questions/23980733/jquery-ajax-file-upload-php 
   + http://stackoverflow.com/questions/2269307/using-jquery-ajax-to-call-a-php-function
@@ -435,6 +454,9 @@
 
 ## Scratch and Snap ##
 + Sulfurous: https://sulfurous.aau.at/
++ do a maze generator/solver in scratch
++ self-avoiding walk in scratch
++ cellular automata in scratch
 + Al Sweigart:
   + https://inventwithscratch.com/
   + https://www.youtube.com/playlist?list=PL0-84-yl1fUkall6a14nqzXpG79-RgI1F
