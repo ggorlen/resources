@@ -150,6 +150,9 @@
 
 
 ## Interview algorithms ##
++ Water Jug problem: https://www.geeksforgeeks.org/water-jug-problem-using-bfs/
++ Topological sort: https://www.geeksforgeeks.org/topological-sorting/
++ Word ladder: https://www.geeksforgeeks.org/word-ladder-length-of-shortest-chain-to-reach-a-target-word/
 + Do projects from Data Structures & algorithms text
 + Disjoint set union find: https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/
 + Shortest path algorithms: https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/tutorial/
