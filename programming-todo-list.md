@@ -5,11 +5,11 @@
 4. [Tiling](#tiling)
 5. [Physics simulations](#physics-simulations)
 6. [Interview algorithms](#interview-algorithms)
-7. [Cellular automata](#cellular-automata)
-8. [Puzzles](#puzzles)
-9. [Visual/animation](#visual/animation)
-10. [Game AI](#game-ai)
-11. [Mazes](#mazes)
+7. [Mazes](#mazes)
+8. [Cellular automata](#cellular-automata)
+9. [Puzzles](#puzzles)
+10. [Visual/animation](#visual/animation)
+11. [Game AI](#game-ai)
 12. [Cryptography](#cryptography)
 13. [Machine learning/big data](#machine-learning/big-data)
 14. [Web dev](#web-dev)
@@ -20,9 +20,10 @@
 19. [Java](#java)
 20. [Ruby](#ruby)
 21. [C++](#c++)
-22. [Scratch and Snap](#scratch-and-snap)
-23. [Bots](#bots)
-25. [Fun](#fun)
+22. [Perl](#perl)
+23. [Scratch and Snap](#scratch-and-snap)
+24. [Bots](#bots)
+26. [Fun](#fun)
 
 
 ## General ##
@@ -34,10 +35,9 @@
 + Hacking competition for kids: https://picoctf.com/
 + Look for projects at: http://rosettacode.org/wiki/Rosetta_Code
 + Bit twiddling hacks: http://graphics.stanford.edu/~seander/bithacks.html
-+ Do projects from Data Structures text
 + Write a script that turns text into blocky ASCII text or renders images in ASCII
-+ Organize mp3s: beets.io & https://www.discogs.com/developers/
-+ Christopher Alexander - Design Patterns: http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm
++ Organize mp3s: beets.io and https://www.discogs.com/developers/
++ Christopher Alexander's Design Patterns: http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm
 + Handbook of Graph Drawing and Visualization: https://cs.brown.edu/~rt/gdhandbook/
 + Graph drawing: https://en.wikipedia.org/wiki/Graph_drawing
 + Isometric:
@@ -125,6 +125,7 @@
 + Variety of pathfinding tutorials: https://www.redblobgames.com/pathfinding/a-star/introduction.html 
 + Blobs: http://www.futuredatalab.com/blobfamily/
 + Simple 2d physics engine: https://www.ibm.com/developerworks/library/wa-build2dphysicsengine/
++ 2d physics engine 3 part tutorial: http://hugobdesigner.blogspot.com/
 + Collision detection:
   + http://www.dyn4j.org/2010/01/sat/
   + https://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169
@@ -143,13 +144,18 @@
   + https://gist.github.com/enghqii/5af2512ced10849016e635fcf2d15d29
   + https://github.com/tetoblivion/Collision_response_with_rotation/blob/master/respondToCollision.cpp
   + https://gamedev.stackexchange.com/questions/32611/what-is-the-best-way-to-handle-simultaneous-collisions-in-a-physics-engine
++ Quadtrees: 
+  + https://en.wikipedia.org/wiki/Quadtree
   + https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374
 
 
 ## Interview algorithms ##
++ Do projects from Data Structures & algorithms text
++ Disjoint set union find: https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/
++ Shortest path algorithms: https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/tutorial/
++ MST: https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/
 + Self-avoiding walk: https://en.wikipedia.org/wiki/Self-avoiding_walk
 + Bellman-Ford: https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm
-+ Monte Carlo: https://introcs.cs.princeton.edu/java/98simulation/
 + Cool Princeton algorithm assignments: http://www.cs.princeton.edu/courses/archive/spr10/cos226/assignments.html
 + Sieve of Eratosthenes: https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes#Algorithm_complexity
 + DP: https://en.wikipedia.org/wiki/Dynamic_programming
@@ -269,6 +275,7 @@
   + https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/
   + http://www.baeldung.com/java-monte-carlo-tree-search
   + http://mcts.ai/code/java.html
+  + https://introcs.cs.princeton.edu/java/98simulation/
 + Principal variation search: https://en.wikipedia.org/wiki/Principal_variation_search
 + MTD-f: https://en.wikipedia.org/wiki/MTD-f
 + Iterative deepening DFS: https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search
@@ -333,7 +340,7 @@
 + Mastermind: https://en.wikipedia.org/wiki/Mastermind_(board_game)
 + List of abstract strategy games: https://en.wikipedia.org/wiki/List_of_abstract_strategy_games
 + Reversi: http://inventwithpython.com/chapter15.html
-+ Dodge falling objects game--rotation component like super hexagon?
++ Dodge falling objects game with rotation component like super hexagon?
 + Sidescroller where you build steps to get your dude over obstacles instead of jump button
 + Try frequency distribution array for card games/poker problem
 + Snake: 2 player versions, add obstacles
@@ -422,9 +429,7 @@
 + Computer vision with python: http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf
 + Python yield keyword/iterators: http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python
 + Effective Python: http://www.effectivepython.com/
-+ Play with Python turtle chase from Think Python
 + Python exercises: http://www.ling.gu.se/~lager/python_exercises.html
-+ Python from Java: http://dirtsimple.org/2004/12/python-is-not-java.html
 + http://interactivepython.org/courselib/static/thinkcspy/index.html
 + https://anshbansal.wordpress.com/programming-links/
 + http://www.megantaylor.org/2013/04/17/i-finished-codecademy-now-what/
@@ -443,6 +448,7 @@
 
 
 ## Ruby ##
++ Nice Ruby regex tutorial: http://ruby-doc.com/docs/ProgrammingRuby/html/tut_stdtypes.html
 + Why's Poignant Guide to Ruby: http://poignant.guide/book/chapter-6.html
 + Programming Ruby: http://ruby-doc.com/docs/ProgrammingRuby/html/rubyworld.html
 + Rails mailing list: http://aspiringwebdev.com/e-mail-in-rails-with-mailchimp-and-mandrill-a-comprehensive-guide
@@ -452,15 +458,16 @@
 + C++ SFML for games
 
 
+## Perl ##
++ Perl Monks: http://perlmonks.org/
+
+
 ## Scratch and Snap ##
 + Sulfurous: https://sulfurous.aau.at/
 + do a maze generator/solver in scratch
 + self-avoiding walk in scratch
 + cellular automata in scratch
-+ Al Sweigart:
-  + https://inventwithscratch.com/
-  + https://www.youtube.com/playlist?list=PL0-84-yl1fUkall6a14nqzXpG79-RgI1F
-  + https://www.youtube.com/playlist?list=PL0-84-yl1fUlLJvyC1s5L8rs5ECn3lPx4
++ Al Sweigart: https://inventwithscratch.com/
 + Useful Scratch reference topics: 
   + https://wiki.scratch.mit.edu/wiki/Array#Multidimensional_Arrays_in_Scratch
   + https://wiki.scratch.mit.edu/wiki/List_of_Mathematical_Functions_Done_in_Scratch
@@ -493,8 +500,9 @@
 
 
 ## Fun ##
-+ write a bot that makes patterns in the github commits thingie 
-+ 99 bottles of beer in 1500 different languages: http://www.99-bottles-of-beer.net/
 + Esoteric programming languages: https://en.wikipedia.org/wiki/Esoteric_programming_language
 + Regex to validate another regex: https://stackoverflow.com/questions/172303/is-there-a-regular-expression-to-detect-a-valid-regular-expression
 + Quine: https://en.wikipedia.org/wiki/Quine_(computing)
++ 99 bottles of beer in 1500 different languages: http://www.99-bottles-of-beer.net/
++ Tetris written in Conway's Game of Life: https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life
++ Write a bot that makes patterns in the github commits chart
