@@ -36,7 +36,8 @@
 32. [Books](#books)
 33. [Education](#education)
 34. [CCSF](#ccsf)
-35. [Fun](#fun)
+35. [Open source](#open-source)
+36. [Fun](#fun)
 
 
 ## General
@@ -144,6 +145,9 @@
 
 
 ## Interview algorithms
++ [Princeton Algorithms](https://algs4.cs.princeton.edu/home/)
++ [Stanford CS Education Library](http://cslibrary.stanford.edu/)
++ [Berkeley CS61B lectures](https://inst.eecs.berkeley.edu/~cs61b/fa17/materials/lectures/)
 + [Water Jug problem](https://www.geeksforgeeks.org/water-jug-problem-using-bfs/)
 + [Topological sort](https://www.geeksforgeeks.org/topological-sorting/)
 + [Word ladder](https://www.geeksforgeeks.org/word-ladder-length-of-shortest-chain-to-reach-a-target-word/)
@@ -400,7 +404,10 @@
 ## JS
 + [Dwitter (140 chars or less JS code)](https://www.dwitter.net/)
 + [30 day vanilla JS challenge](https://javascript30.com/)
-+ [Socket.io chat app](https://socket.io/get-started/chat/)
++ Socket.io:
+  + [https://socket.io/get-started/chat/](https://socket.io/get-started/chat/)
+  + [https://hackernoon.com/how-to-build-a-multiplayer-browser-game-4a793818c29b](https://hackernoon.com/how-to-build-a-multiplayer-browser-game-4a793818c29b)
+  + [http://www.dynetisgames.com/2017/03/06/how-to-make-a-multiplayer-online-game-with-phaser-socket-io-and-node-js/](http://www.dynetisgames.com/2017/03/06/how-to-make-a-multiplayer-online-game-with-phaser-socket-io-and-node-js/)
 + [JS todo list](http://docs.railsbridge.org/javascript-to-do-list/adding\_an\_item)
 
 
@@ -620,6 +627,10 @@
   + [JS specialist](http://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/JavaScriptSpecialistCertificate.pdf)
   + [Web site development techniques](http://www.ccsf.edu/content/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/WebSiteDevelopmentTechniquesCertificate.pdf)
   + [Mobile web app development](http://www.ccsf.edu/content/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/MobileWebAppDevelopmentCertificate.pdf)
+
+
+## Open source
++ [Openhatch](https://openhatch.org/search/)
 
 
 ## Fun
