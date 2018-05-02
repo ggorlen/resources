@@ -109,6 +109,7 @@
 
 
 ## Interview algorithms
++ Maximum subarray problem (Kadane's algorithm): https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm_(Algorithm_3:_Dynamic_Programming)
 + Princeton Algorithms: https://algs4.cs.princeton.edu/home/
 + Stanford CS Education Library: http://cslibrary.stanford.edu/
 + Berkeley CS61B lectures: https://inst.eecs.berkeley.edu/~cs61b/fa17/materials/lectures/ 
@@ -286,13 +287,14 @@
 
 ## Games
 + Bitboards: http://libfbp.blogspot.com/2017/05/tic-tac-toe-bitboards.html
++ Microsoft Entertainment Pack: https://en.wikipedia.org/wiki/Microsoft_Entertainment_Pack
++ Mahjong solitaire: https://en.wikipedia.org/wiki/Mahjong_solitaire
 + 2d visibility:
   + https://www.redblobgames.com/articles/visibility/
   + http://journal.stuffwithstuff.com/2015/09/07/what-the-hero-sees/
   + https://legends2k.github.io/2d-fov/design.html
   + In Phaser using a nice raycasting lib: http://www.emanueleferonato.com/2015/02/03/play-with-light-and-dark-using-ray-casting-and-visibility-polygons/
 + 3d Wolfenstein raycasting tutorial in JS: https://dev.opera.com/articles/3d-games-with-canvas-and-raycasting-part-1/  
-+ Microsoft Entertainment Pack: https://en.wikipedia.org/wiki/Microsoft_Entertainment_Pack
 + Minesweeper with hex grid: https://www.redblobgames.com/grids/hexagons/
 + Dots and boxes: https://www.youtube.com/watch?v=KboGyIilP6k
 + Breakthru: https://en.wikipedia.org/wiki/Breakthru_(board_game)
@@ -314,6 +316,7 @@
 + Freerice clone
 + Nine Men's Morris: https://en.wikipedia.org/wiki/Nine_Men%27s_Morris
 + Patience: https://en.wikipedia.org/wiki/Patience_(game)
++ Hex: https://en.wikipedia.org/wiki/Hex_(board_game)
 + Hive
 + Lines of action: https://dke.maastrichtuniversity.nl/m.winands/loa/
 + Boulder Dash: https://en.wikipedia.org/wiki/Boulder_Dash
@@ -330,6 +333,10 @@
 + Mastermind: https://en.wikipedia.org/wiki/Mastermind_(board_game)
 + List of abstract strategy games: https://en.wikipedia.org/wiki/List_of_abstract_strategy_games
 + Reversi: http://inventwithpython.com/chapter15.html
++ Checkers, misere checkers and variants:
+  + https://boardgamegeek.com/geeklist/147417/best-checkers-variants
+  + http://www.di.fc.ul.pt/~jpn/gv/checkers.htm
+  + https://en.wikipedia.org/wiki/Draughts#Invented_variants
 + Dodge falling objects game with rotation component like super hexagon?
 + Sidescroller where you build steps to get your dude over obstacles instead of jump button
 + Try frequency distribution array for card games/poker problem
@@ -409,6 +416,7 @@
   + https://stackoverflow.com/questions/5342822/php-mail-function-on-localhost
   + https://github.com/barbushin/php-imap 
 + PHP game scripts: https://www.ibm.com/developerworks/library/os-php-gamescripts1/
++ Websocket chat: https://phppot.com/php/simple-php-chat-using-websocket/
   
   
 ## Python
@@ -534,9 +542,15 @@
   + Sam's C++ In One Hour a Day: http://proquest.safaribooksonline.com/book/programming/cplusplus/9780134539553/firstchapter
 + "Etudes for programmers" 
 + "Etudes for Python: Exercises for Programmers" (available on LINK+)
++ "Book of Proof" Hammack
 
 
 ## Education
++ FSU Discreet Math I: https://www.math.fsu.edu/~pkirby/mad2104/SlideShow/CourseNotesMAD2104.pdf
++ Jeff Erickson's algorithms: http://jeffe.cs.illinois.edu/teaching/algorithms/
++ MIT OCW Math for CS: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/
++ UW Data Structures & Algorithms: https://courses.cs.washington.edu/courses/cse326/03wi/326lecturesa.shtml
++ Udacity intro to theoretical CS: https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313
 + SFSU
   + http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ms-computer-science/
   + Prospective students are welcome to send any questions to the graduate advising assistant at ( csgrad@sfsu.edu )
@@ -599,6 +613,7 @@
 
 ## Fun
 + Esoteric programming languages: https://en.wikipedia.org/wiki/Esoteric_programming_language
++ Chess in befunge: http://www.frox25.no-ip.org/~mtve/code/eso/bef/chess/
 + Regex to validate another regex: https://stackoverflow.com/questions/172303/is-there-a-regular-expression-to-detect-a-valid-regular-expression
 + Quine: https://en.wikipedia.org/wiki/Quine_(computing)
 + 99 bottles of beer in 1500 different languages: http://www.99-bottles-of-beer.net/
