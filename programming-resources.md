@@ -15,9 +15,8 @@
 
 
 ## Project Euler
-+ Project Euler todo: 69, 81, 99, 77, 78, 112, 345
-+ #93 Sudoku can also be solved using Integer Linear Programming (https://pythonhosted.org/PuLP/CaseStudies/a_sudoku_problem.html)
-+ #84 Monopoly is one of the best.  Worth solving using both simulation (I used first-class functions) and stochastic matrix (I used numpy).  Working out the initial probabilities for the stochastic matrix requires only basic probability, but it's tricky.
++ #93 Sudoku can also be solved using Integer Linear Programming :https://pythonhosted.org/PuLP/CaseStudies/a_sudoku_problem.html
++ #84 Monopoly is one of the best.  Worth solving using both simulation (I used first-class functions) and stochastic matrix (I used numpy). Working out the initial probabilities for the stochastic matrix requires only basic probability, but it's tricky.
 + Euler's totient function: http://www.geeksforgeeks.org/eulers-totient-function/
 
 
@@ -113,6 +112,7 @@
 + Princeton Algorithms: https://algs4.cs.princeton.edu/home/
 + Stanford CS Education Library: http://cslibrary.stanford.edu/
 + Berkeley CS61B lectures: https://inst.eecs.berkeley.edu/~cs61b/fa17/materials/lectures/ 
++ Algorithm archive: https://www.algorithm-archive.org/
 + Water Jug problem: https://www.geeksforgeeks.org/water-jug-problem-using-bfs/
 + Topological sort: https://www.geeksforgeeks.org/topological-sorting/
 + Word ladder: https://www.geeksforgeeks.org/word-ladder-length-of-shortest-chain-to-reach-a-target-word/
@@ -349,6 +349,7 @@
   + http://www.iancgbell.clara.net/elite/text/index.htm
   + MUDS such as God Wars
 + Tile-based game tutorial: https://www.youtube.com/watch?v=txUvD5_ROIU  
++ Top puzzlescript games: https://itch.io/games/made-with-puzzlescript
 
 
 ## Cryptography
@@ -532,6 +533,8 @@
 
 
 ## Competitive coding
++ Codeforces: http://codeforces.com/
++ Topcoder: https://www.topcoder.com/community/competitive-programming/
 + Tons of tips & links: http://www.pvv.ntnu.no/~spaans/programming.html
 + Hacking competition for kids: https://picoctf.com/
 
@@ -555,19 +558,43 @@
   + http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ms-computer-science/
   + Prospective students are welcome to send any questions to the graduate advising assistant at ( csgrad@sfsu.edu )
 + VT: http://www.vtmit.vt.edu/
-+ GT: http://www.omscs.gatech.edu/program-info/application-deadlines-process-requirements
 + Bootcamps: http://getcoding.hackreactor.com/remote-part-time or another p/t camp
 + Internships:
   + https://www.indeed.com/q-Software-Engineering-Intern-l-San-Francisco-Bay-Area,-CA-jobs.html
   + http://www.engineerjobs.com/internships/software-engineering/california/bay-area.php
   + https://www.smartrecruiters.com/Line2/112808690-web-developer-internship-front-end
 + Mills: https://www.mills.edu/academics/graduate-programs/computer-science/
-+ Summer camp instructor position: https://public.idtech.com/PulsePublic/JobApplication/Steps.aspx?cid=1
 + CSU Fullerton: https://www.calstateonline.net/Cal-State-Campuses/CSU-Fullerton
 + Adv. certif. in web/mobile via SDSU: https://www.ces.sdsu.edu/science-computers-technology/advanced-certificate-web-and-mobile-applications-development
 + USC: https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-cs-software-engineering/
 + Northeastern Silicon Valley: http://www.northeastern.edu/siliconvalley/admissions/
 + College choice CS: https://www.collegechoice.net/rankings/best-online-masters-in-computer-science/
+
+
+## OMSCS
+
+### First
++ CS 6300 Software Development Process SDP
++ CS 7637 Knowledge Based AI KBAI
++ CS 6035 Intro to Information Security IIS (C, networking, discrete)
++ CS 6250 Computer Networks (networking)
++ CS 6310 Software Architecture and Design SAD
+
+### Second
++ CS 6200 Intro to Operating Systems IOS (C)
++ CS 6340 Software Analysis and Test SAT
++ CS 6291 Embedded System Optimization (architecture, C)
++ CS 6290 High Performance Computer Architecture (architecture, C)
++ CS 8803 Graduate Algorithms GA
+
+### Third
++ CS 6210 Advanced Operating Systems
+ 
+### Easy fallback options but avoid if possible
++ CS 6400 Database Systems Concepts and Design DSCD
++ CS 6262 Network Security NS
++ CS 6440 Intro to Health Informatics IHI
++ CS 6263 Cyber-Physical Systems
 
 
 ## CCSF
@@ -576,22 +603,21 @@
 + CS211s notes: https://sites.google.com/site/koalalearn/fa2011/cs211s
 
 ### CCSF courses to take
++ CS   177   Software Engineering
++ CS   231   Advanced Python Programming
 + CS   211D  Android Programming
 + CS   211E  Advanced Java: Enterprise Edition
 + CS   270   Comp Architecture w/ Assembly (advise discrete math)
-+ CS   177   Software Engineering
-+ CS   231   Advanced Python Programming
++ CS   150P  SQL Server T-SQL Programming  
 + CS   155B  MySQL Database Administration
 + CS   260A  Linux System Administration
 + CS   260P  Linux Administration Projects  
-+ CS   150P  SQL Server T-SQL Programming  
 + CS   197P  Technical Interview Prep
 + CS   197V  Version Control & Code Repos
 + CS   199   Independent Study
 + CS   256   Data Visualization 
 + CNIT 141   Cryptography for Computers
 + CNIT 214   Internet of Things
-+ MATH  60   Intermediate Algebra
 + MATH  80   Probability and Statistics 
 + MATH  95   Trigonometry
 + MATH 110A  Calculus I 
@@ -618,4 +644,5 @@
 + Quine: https://en.wikipedia.org/wiki/Quine_(computing)
 + 99 bottles of beer in 1500 different languages: http://www.99-bottles-of-beer.net/
 + Tetris written in Conway's Game of Life: https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life
++ Git man page generator: https://git-man-page-generator.lokaltog.net/
 + Write a bot that makes patterns in the github commits chart
