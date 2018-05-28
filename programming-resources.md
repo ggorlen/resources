@@ -185,7 +185,8 @@
 + Simon Tatham: https://www.chiark.greenend.org.uk/~sgtatham/puzzles/
 + Do chess packing puzzles
 + https://en.wikipedia.org/wiki/Category:Logic_puzzles
-+ Amazing site--Erich Friendman's Puzzle Palace: http://www2.stetson.edu/~efriedma/
++ Erich Friendman's Puzzle Palace: http://www2.stetson.edu/~efriedma/
++ Slitherlink: https://en.wikipedia.org/wiki/Slitherlink
 + Mindsports (links resource): http://www.mindsports.nl/index.php/puzzle-links
 + Zendoku puzzle generation: http://garethrees.org/2007/06/10/zendoku-generation/#section-4
 + Sudoku solving algorithms: https://en.wikipedia.org/wiki/Sudoku_solving_algorithms
@@ -287,6 +288,8 @@
 
 ## Games
 + Bitboards: http://libfbp.blogspot.com/2017/05/tic-tac-toe-bitboards.html
++ List of puzzle video games: https://en.wikipedia.org/wiki/List_of_puzzle_video_games
++ Tile-matching video games: https://en.wikipedia.org/wiki/Tile-matching_video_game
 + Microsoft Entertainment Pack: https://en.wikipedia.org/wiki/Microsoft_Entertainment_Pack
 + Mahjong solitaire: https://en.wikipedia.org/wiki/Mahjong_solitaire
 + 2d visibility:
@@ -305,7 +308,7 @@
 + Emily's pegs game: http://www.instructables.com/id/Peg-Game-IQ-Test-Solution/
 + Fire & Ice: https://www.youtube.com/watch?v=1t782B0zK3Y
 + Connect 4
-+ Qualio!
++ Filler/Qualio: https://www.youtube.com/watch?v=WV-rQfYKSGA
 + Tower defense
 + Hexapawn: https://en.wikipedia.org/wiki/Hexapawn
 + Octopawn
@@ -349,7 +352,9 @@
   + http://www.iancgbell.clara.net/elite/text/index.htm
   + MUDS such as God Wars
 + Tile-based game tutorial: https://www.youtube.com/watch?v=txUvD5_ROIU  
-+ Top puzzlescript games: https://itch.io/games/made-with-puzzlescript
++ Puzzlescript: 
+  + Tumblr: https://puzzlescriptgallery.tumblr.com/
+  + Itch: https://itch.io/games/made-with-puzzlescript
 
 
 ## Cryptography
