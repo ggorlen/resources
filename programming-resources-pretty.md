@@ -18,27 +18,28 @@
 14. [Cryptography](#cryptography)
 15. [Machine learning](#machine-learning)
 16. [Data science](#data-science)
-17. [Web development](#web-development)
-18. [JS](#js)
-19. [CSS](#css)
-20. [PHP](#php)
-21. [Python](#python)
-22. [Java](#java)
-23. [Ruby](#ruby)
-24. [C++](#c++)
-25. [Perl](#perl)
-26. [Unix](#unix)
-27. [Scratch/Snap](#scratch/snap)
-28. [Bots](#bots)
-29. [Course sites](#course-sites)
-30. [Algorithmic challenge sites](#algorithmic-challenge-sites)
-31. [Competitive coding](#competitive-coding)
-32. [Books](#books)
-33. [Education](#education)
-34. [OMSCS](#omscs)
-35. [CCSF](#ccsf)
-36. [Open source](#open-source)
-37. [Fun](#fun)
+17. [Compilers](#compilers)
+18. [Web development](#web-development)
+19. [JS](#js)
+20. [CSS](#css)
+21. [PHP](#php)
+22. [Python](#python)
+23. [Java](#java)
+24. [Ruby](#ruby)
+25. [C++](#c++)
+26. [Perl](#perl)
+27. [Unix](#unix)
+28. [Scratch/Snap](#scratch/snap)
+29. [Bots](#bots)
+30. [Course sites](#course-sites)
+31. [Algorithmic challenge sites](#algorithmic-challenge-sites)
+32. [Competitive coding](#competitive-coding)
+33. [Books](#books)
+34. [Education](#education)
+35. [OMSCS](#omscs)
+36. [CCSF](#ccsf)
+37. [Open source](#open-source)
+38. [Fun](#fun)
 
 
 ## General
@@ -160,6 +161,7 @@
 + [Self-avoiding walk](https://en.wikipedia.org/wiki/Self-avoiding\_walk)
 + [Bellman-Ford](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford\_algorithm)
 + [Princeton algorithm assignments](http://www.cs.princeton.edu/courses/archive/spr10/cos226/assignments.html)
++ [Boyer-Moore majority vote algorithm](https://gregable.com/2013/10/majority-vote-algorithm-find-majority.html)
 + [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve\_of\_Eratosthenes)
 + [DP](https://en.wikipedia.org/wiki/Dynamic\_programming)
   + [DP text justify](https://www.geeksforgeeks.org/dynamic-programming-set-18-word-wrap/)
@@ -186,6 +188,7 @@
 
 ## Interview prep
 + [Women Who Code Interview Prep](https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki)
++ [Interview questions](https://docs.google.com/document/d/1L2nqcMLxQeFHVd9ZOfgzZTjxWZsJLJe65rAzKfmldsM/edit)
 + [Interview algorithms and tips](http://meetupresources.herokuapp.com/index.html)
 + [Assorted interview tips](http://kelukelu.me/interview/questions.html)
 + Gayle McDowell:
@@ -307,6 +310,7 @@
   + [http://www.baeldung.com/java-monte-carlo-tree-search](http://www.baeldung.com/java-monte-carlo-tree-search)
   + [http://mcts.ai/code/java.html](http://mcts.ai/code/java.html)
   + [https://introcs.cs.princeton.edu/java/98simulation/](https://introcs.cs.princeton.edu/java/98simulation/)
+  + [https://www.coursera.org/lecture/c-plus-plus-b/4-2-monte-carlo-a3Z4u](https://www.coursera.org/lecture/c-plus-plus-b/4-2-monte-carlo-a3Z4u)
 + [Principal variation search](https://en.wikipedia.org/wiki/Principal\_variation\_search)
 + [MTD-f](https://en.wikipedia.org/wiki/MTD-f)
 + [Iterative deepening DFS](https://en.wikipedia.org/wiki/Iterative\_deepening\_depth-first\_search)
@@ -406,6 +410,13 @@
 ## Data science
 + Inspirational projects:
   + [https://douweosinga.com/projects/](https://douweosinga.com/projects/)
+
+
+## Compilers
++ [Udacity programming languages course](https://classroom.udacity.com/courses/cs262)
++ [Let's build a simple interpreter](https://ruslanspivak.com/lsbasi-part1/)
++ [Incremental approach to compiler construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
++ [Write a compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
 
 
 ## Web development
@@ -552,6 +563,8 @@
   + [Coding the Matrix](http://codingthematrix.com/)
   + [Lynda SFPL](https://www.lynda.com/portal/patron?org=sfpl.org)
   + [Coursera](https://www.coursera.org)
+    + [Coursera algorithms classes (pts 1 & 2)](https://www.coursera.org/learn/algorithms-part1)
+    + [Nand2Tetris](http://nand2tetris.org/)
   + [Udacity](https://www.udacity.com)
     + [Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/)
   + ['7 Essential Skills Every New Developer Needs to Learn'](http://www.tweaktown.com/news/46511/7-essential-skills-new-developer-needs-learn/index.html)
@@ -559,13 +572,13 @@
 ## Algorithmic challenge sites
   + [Google Code Jam](https://code.google.com/codejam/past-contests)
     + [Go-Hero](https://www.go-hero.net/jam/16/)  has archive all the past Google Code Jam problems *with* solutions
-  + [Leetcode](https://leetcode.com/)
   + [Creative coding club](http://creativecoding.club/)
   + [Daily Programmer](https://www.reddit.com/r/dailyprogrammer/)
   + [Math problems](https://www.mathworks.com/matlabcentral/cody/problems)
   + [Learneroo](https://www.learneroo.com/)
-  + [Hackerrank](https://www.hackerrank.com/domains)
   + [Topcoder](https://www.topcoder.com/getting-started)
+  + [Hacker Earth](https://www.hackerearth.com/challenges/)
+  + [Code chef](https://www.codechef.com/)
   + [SPOJ](http://www.spoj.com/)
   + [Exercism](http://www.exercism.io)
      + [Talk on exercism](https://www.youtube.com/watch?v=neXJOhHj8ik&index=6&list=PLyGLemjnH3ukTGW8TYCzdu7jQe0U-wEKi)
@@ -588,6 +601,7 @@
 + "Etudes for programmers"
 + "Etudes for Python: Exercises for Programmers" (available on LINK+)
 + "Book of Proof" Hammack
++ [Think Bayes/DSP/Complexity/etc](http://www.greenteapress.com/thinkbayes/html/index.html)
 
 
 ## Education
@@ -611,6 +625,7 @@
 + [USC](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-cs-software-engineering/)
 + [Northeastern Silicon Valley](http://www.northeastern.edu/siliconvalley/admissions/)
 + [College choice CS](https://www.collegechoice.net/rankings/best-online-masters-in-computer-science/)
++ [Recurse non-bootcamp](https://www.recurse.com/)
 
 
 ## OMSCS
@@ -620,17 +635,15 @@
 + CS 7637 Knowledge Based AI KBAI
 + CS 6035 Intro to Information Security IIS (C, networking, discrete)
 + CS 6250 Computer Networks (networking)
++ CS 6200 Intro to Operating Systems IOS (C)
 + CS 6310 Software Architecture and Design SAD
 
 ### Second
-+ CS 6200 Intro to Operating Systems IOS (C)
 + CS 6340 Software Analysis and Test SAT
 + CS 6291 Embedded System Optimization (architecture, C)
-+ CS 6290 High Performance Computer Architecture (architecture, C)
 + CS 8803 Graduate Algorithms GA
-
-### Third
 + CS 6210 Advanced Operating Systems
++ CS 6290 High Performance Computer Architecture (architecture, C)
 
 ### Easy fallback options but avoid if possible
 + CS 6400 Database Systems Concepts and Design DSCD
