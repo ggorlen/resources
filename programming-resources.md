@@ -134,11 +134,13 @@
 
 
 ## Compilers
++ Stanford compilers course: https://online.stanford.edu/courses/soe-ycscs1-compilers
 + Udacity programming languages course: https://classroom.udacity.com/courses/cs262
 + Let's build a simple interpreter: https://ruslanspivak.com/lsbasi-part1/
 + Incremental approach to compiler construction: http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf
 + Write a compiler: https://norasandler.com/2017/11/29/Write-a-Compiler.html
 + Crafting Interpreters: http://craftinginterpreters.com/
++ Python interpreter in Python: http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html
 
 
 ## Games
@@ -152,6 +154,7 @@
   + https://legends2k.github.io/2d-fov/design.html
   + In Phaser using a nice raycasting lib: http://www.emanueleferonato.com/2015/02/03/play-with-light-and-dark-using-ray-casting-and-visibility-polygons/
 + 3d Wolfenstein raycasting tutorial in JS: https://dev.opera.com/articles/3d-games-with-canvas-and-raycasting-part-1/  
++ Minichess: https://en.wikipedia.org/wiki/Minichess
 + Minesweeper with hex grid: https://www.redblobgames.com/grids/hexagons/
 + Dots and boxes: https://www.youtube.com/watch?v=KboGyIilP6k
 + Breakthru: https://en.wikipedia.org/wiki/Breakthru_(board_game)
@@ -498,6 +501,7 @@
 
 ## Perl
 + Perl Monks: http://perlmonks.org/
++ Perl data structures cookbook: http://perldoc.perl.org/perldsc.html
 
 
 ## Unix
@@ -575,6 +579,8 @@
   + Exercism: http://www.exercism.io
     + Talk on exercism: https://www.youtube.com/watch?v=neXJOhHj8ik&index=6&list=PLyGLemjnH3ukTGW8TYCzdu7jQe0U-wEKi
   + Coding Bat: http://codingbat.com
+  + Code kata: http://codekata.pragprog.com/
+  + Root me: https://www.root-me.org/en/Challenges/Web-Client/Javascript-Native-code
 
 
 ## Competitive coding
@@ -625,7 +631,7 @@
 + CS 7637 Knowledge Based AI KBAI
 + CS 6035 Intro to Information Security IIS (C, networking, discrete)
 + CS 6250 Computer Networks (networking)
-+ CS 6200 Intro to Operating Systems IOS (C)
++ ~~CS 6200 Intro to Operating Systems IOS (C)~~
 + CS 6310 Software Architecture and Design SAD
 
 ### Second
@@ -685,6 +691,7 @@
 ## Fun
 + Regex to validate another regex: https://stackoverflow.com/questions/172303/is-there-a-regular-expression-to-detect-a-valid-regular-expression
 + Quine: https://en.wikipedia.org/wiki/Quine_(computing)
++ Hello World in every language: https://github.com/leachim6/hello-world
 + 99 bottles of beer in 1500 different languages: http://www.99-bottles-of-beer.net/
 + Tetris written in Conway's Game of Life: https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life
 + Git man page generator: https://git-man-page-generator.lokaltog.net/
