@@ -14,7 +14,7 @@ def md_link(desc, url):
     
 
 input_filename = argv[1] if len(argv) > 1 else "programming-resources.md"
-output_filename = argv[2] if len(argv) > 2 else input_filename.split(".")[0] + "-pretty.md"
+output_filename = argv[2] if len(argv) > 2 else "README.md"
 
 with open(input_filename) as f:
     text = [x.rstrip() for x in f.readlines()]
