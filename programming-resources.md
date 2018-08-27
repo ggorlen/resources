@@ -628,18 +628,19 @@
 
 ### First
 + CS 6300 Software Development Process SDP
-+ CS 7637 Knowledge Based AI KBAI
++ CS 6310 Software Architecture and Design SAD
++ CS 6340 Software Analysis and Test SAT
 + CS 6035 Intro to Information Security IIS (C, networking, discrete)
 + CS 6250 Computer Networks (networking)
++ CS 7637 Knowledge Based AI KBAI
 + ~~CS 6200 Intro to Operating Systems IOS (C)~~
-+ CS 6310 Software Architecture and Design SAD
 
 ### Second
-+ CS 6340 Software Analysis and Test SAT
-+ CS 6291 Embedded System Optimization (architecture, C)
-+ CS 8803 Graduate Algorithms GA
 + CS 6210 Advanced Operating Systems
++ CS 8803 O3 Graduate Algorithms GA
++ CS 6291 Embedded System Optimization (architecture, C)
 + CS 6290 High Performance Computer Architecture (architecture, C)
++ CS 8803 O08: Special Topics Compilers- Theory & Practice (non-core)
  
 ### Fallback options but avoid if possible
 + CS 6400 Database Systems Concepts and Design DSCD
