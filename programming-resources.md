@@ -59,7 +59,6 @@
 
 
 ## Graphs
-+ Water Jug problem: https://www.geeksforgeeks.org/water-jug-problem-using-bfs/
 + Shortest path algorithms: https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/tutorial/
 + MST: https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/
 + Floyd Warshall algorithm: http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm
@@ -227,7 +226,7 @@
 + Mondrian puzzle: https://www.youtube.com/watch?v=49KvZrioFB0
 + Various puzzles from the Sudoku inventors: http://nikoli.co.jp/en/puzzles/
 + Nonogram: https://en.wikipedia.org/wiki/Nonogram
-+ Ricochet Robots
++ Ricochet Robots: https://en.wikipedia.org/wiki/Ricochet_Robot
 + Slothouber-Graatsma puzzle: https://en.wikipedia.org/wiki/Slothouber%E2%80%93Graatsma_puzzle 
 + Packing: https://en.wikipedia.org/wiki/Packing_problems
 + Triomino packing: https://www.youtube.com/watch?v=hW4nB-ZAhts
@@ -412,7 +411,6 @@
 + Grid: https://css-tricks.com/snippets/css/complete-guide-grid/
 + Rachel Andrew (CSS grid examples): https://codepen.io/rachelandrew/pens/public
 + CSS cube: https://davidwalsh.name/css-cube
-+ Try making Tenderlove: https://www.discogs.com/Snd-Tenderlove/release/107513
 
 
 ## JS
@@ -426,6 +424,7 @@
 
 
 ## PHP
++ PHP Sadness: http://phpsadness.com/
 + Sessions/logins:
   + http://culttt.com/2013/02/04/how-to-save-php-sessions-to-a-database/
   + http://shiflett.org/articles/storing-sessions-in-a-database
@@ -500,7 +499,6 @@
 
 
 ## Perl
-+ Perl Monks: http://perlmonks.org/
 + Perl data structures cookbook: http://perldoc.perl.org/perldsc.html
 
 
@@ -511,9 +509,7 @@
 
 ## Scratch/Snap
 + Sulfurous: https://sulfurous.aau.at/
-+ do a maze generator/solver in scratch
-+ cellular automata in scratch
-+ Al Sweigart: https://inventwithscratch.com/
++ make more cellular automata in scratch
 + Useful Scratch reference topics: 
   + https://wiki.scratch.mit.edu/wiki/Array#Multidimensional_Arrays_in_Scratch
   + https://wiki.scratch.mit.edu/wiki/List_of_Mathematical_Functions_Done_in_Scratch
@@ -601,16 +597,16 @@
 
 
 ## Education
++ Udacity intro to theoretical CS: https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313
 + FSU Discreet Math I: https://www.math.fsu.edu/~pkirby/mad2104/SlideShow/CourseNotesMAD2104.pdf
 + Jeff Erickson's algorithms: http://jeffe.cs.illinois.edu/teaching/algorithms/
 + MIT OCW Math for CS: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/
 + UW Data Structures & Algorithms: https://courses.cs.washington.edu/courses/cse326/03wi/326lecturesa.shtml
-+ Udacity intro to theoretical CS: https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313
 + SFSU
   + http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ms-computer-science/
-  + Prospective students are welcome to send any questions to the graduate advising assistant at ( csgrad@sfsu.edu )
+  + Prospective students are welcome to send any questions to the graduate advising assistant at (csgrad@sfsu.edu)
 + VT: http://www.vtmit.vt.edu/
-+ Bootcamps: http://getcoding.hackreactor.com/remote-part-time or another p/t camp
++ Bootcamps: http://getcoding.hackreactor.com/remote-part-time
 + Internships:
   + https://www.indeed.com/q-Software-Engineering-Intern-l-San-Francisco-Bay-Area,-CA-jobs.html
   + http://www.engineerjobs.com/internships/software-engineering/california/bay-area.php
@@ -627,26 +623,28 @@
 ## OMSCS
 
 ### First
++ CS 6210 Advanced Operating Systems
 + CS 6300 Software Development Process SDP
 + CS 6310 Software Architecture and Design SAD
 + CS 6340 Software Analysis and Test SAT
 + CS 6035 Intro to Information Security IIS (C, networking, discrete)
 + CS 6250 Computer Networks (networking)
-+ CS 7637 Knowledge Based AI KBAI
-+ ~~CS 6200 Intro to Operating Systems IOS (C)~~
++ CS 6460 Educational Technology (foundational requirements met--summer '19? autograder or block/turtle/ascii drawing language?)
 
 ### Second
-+ CS 6210 Advanced Operating Systems
 + CS 8803 O3 Graduate Algorithms GA
 + CS 6291 Embedded System Optimization (architecture, C)
 + CS 6290 High Performance Computer Architecture (architecture, C)
 + CS 8803 O08: Special Topics Compilers- Theory & Practice (non-core)
  
-### Fallback options but avoid if possible
-+ CS 6400 Database Systems Concepts and Design DSCD
+### Fallback options
 + CS 6262 Network Security NS
++ CS 6400 Database Systems Concepts and Design DSCD
++ CS 7637 Knowledge Based AI KBAI
 + CS 6440 Intro to Health Informatics IHI
-+ CS 6263 Cyber-Physical Systems
+
+### Completed
++ CS 6200 Intro to Operating Systems GIOS
 
 
 ## CCSF
