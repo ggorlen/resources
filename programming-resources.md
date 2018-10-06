@@ -290,7 +290,7 @@
 + WebGL tutorial: https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial
 + entibo examples/inspiration: http://entibo.fr/
 + Bezier Curves:
-  + A Primer on Bézier Curves: https://pomax.github.io/bezierinfo/
+  + A Primer on Bezier Curves: https://pomax.github.io/bezierinfo/
   + Bezier curve tool: http://www.victoriakirst.com/beziertool/
   + Chaining Bezier curves: 
     + http://html5tutorial.com/how-to-join-two-bezier-curves-with-the-canvas-api/
@@ -495,6 +495,9 @@
 
 
 ## C
++ Write your own OS: https://wiki.osdev.org/Tutorials
++ Build your own lisp: http://www.buildyourownlisp.com/
++ C coding standard: https://barrgroup.com/Embedded-Systems/Books/Embedded-C-Coding-Standard
 + Beej guide to GDB: https://beej.us/guide/bggdb/
 
 
@@ -693,5 +696,6 @@
 + Hello World in every language: https://github.com/leachim6/hello-world
 + 99 bottles of beer in 1500 different languages: http://www.99-bottles-of-beer.net/
 + Tetris written in Conway's Game of Life: https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life
++ FizzBuzz EE: https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
 + Git man page generator: https://git-man-page-generator.lokaltog.net/
 + Write a bot that makes patterns in the github commits chart
