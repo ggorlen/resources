@@ -38,15 +38,16 @@
 34. [Scratch/Snap](#scratch/snap)
 35. [Interview prep](#interview-prep)
 36. [Bots](#bots)
-37. [Course sites](#course-sites)
-38. [Algorithmic challenge sites](#algorithmic-challenge-sites)
-39. [Competitive coding](#competitive-coding)
-40. [Books](#books)
-41. [Education](#education)
-42. [OMSCS](#omscs)
-43. [CCSF](#ccsf)
-44. [Open source](#open-source)
-45. [Fun](#fun)
+37. [Code golf](#code-golf)
+38. [Course sites](#course-sites)
+39. [Algorithmic challenge sites](#algorithmic-challenge-sites)
+40. [Competitive coding](#competitive-coding)
+41. [Books](#books)
+42. [Education](#education)
+43. [OMSCS](#omscs)
+44. [CCSF](#ccsf)
+45. [Open source](#open-source)
+46. [Fun](#fun)
 
 
 ## General
@@ -427,6 +428,7 @@
 
 
 ## Regex
++ [write a regex engine](https://rcoh.me/posts/no-magic-regular-expressions/)
 + [https://www.regular-expressions.info/refadv.html](https://www.regular-expressions.info/refadv.html)
 
 
@@ -563,6 +565,7 @@
   + [https://wiki.scratch.mit.edu/wiki/List_of_Mathematical_Functions_Done_in_Scratch](https://wiki.scratch.mit.edu/wiki/List\_of\_Mathematical\_Functions\_Done\_in\_Scratch)
   + [https://wiki.scratch.mit.edu/wiki/Recursion_and_Fractals#Creating_the_Koch_Curve](https://wiki.scratch.mit.edu/wiki/Recursion\_and\_Fractals#Creating\_the\_Koch\_Curve)
 + [Snap instead of Scratch](http://www.ocsmag.com/2016/07/12/dump-scratch-use-blockly-or-snap-instead/)
++ [Multiwingspan projects](http://www.multiwingspan.co.uk/scratch.php?page=ex1)
 
 
 ## Interview prep
@@ -601,14 +604,20 @@
 + Java robot project: play online pianos at http://virtualpiano.net/
 
 
+## Code golf
++ [code-golf.io](https://code-golf.io/)
++ [js1k](https://js1k.com/)
++ [anarchy golf](http://golf.shinh.org/)
+
+
 ## Course sites
-  + [Coding the Matrix](http://codingthematrix.com/)
-  + [Egghead](https://egghead.io/)
-  + [Coursera algorithms classes (pts 1 & 2)](https://www.coursera.org/learn/algorithms-part1)
-  + [Nand2Tetris](http://nand2tetris.org/)
-  + [Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/)
-  + [Lynda SFPL](https://www.lynda.com/portal/patron?org=sfpl.org)
-  + ['7 Essential Skills Every New Developer Needs to Learn'](http://www.tweaktown.com/news/46511/7-essential-skills-new-developer-needs-learn/index.html)
++ [Coding the Matrix](http://codingthematrix.com/)
++ [Egghead](https://egghead.io/)
++ [Coursera algorithms classes (pts 1 & 2)](https://www.coursera.org/learn/algorithms-part1)
++ [Nand2Tetris](http://nand2tetris.org/)
++ [Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/)
++ [Lynda SFPL](https://www.lynda.com/portal/patron?org=sfpl.org)
++ ['7 Essential Skills Every New Developer Needs to Learn'](http://www.tweaktown.com/news/46511/7-essential-skills-new-developer-needs-learn/index.html)
 
 ## Algorithmic challenge sites
   + [Google Code Jam](https://code.google.com/codejam/past-contests)
@@ -670,22 +679,20 @@
 
 ## OMSCS
 
-### First
+### Tier 1
 + CS 6210 Advanced Operating Systems
-+ CS 6300 Software Development Process SDP
-+ CS 6310 Software Architecture and Design SAD
-+ CS 6340 Software Analysis and Test SAT
-+ CS 6035 Intro to Information Security IIS (C, networking, discrete)
-+ CS 6250 Computer Networks (networking)
-+ CS 6460 Educational Technology (foundational requirements met--summer '19? autograder or block/turtle/ascii drawing language?)
-
-### Second
-+ CS 8803 O3 Graduate Algorithms GA
 + CS 6291 Embedded System Optimization (architecture, C)
 + CS 6290 High Performance Computer Architecture (architecture, C)
++ CS 6460 Educational Technology (foundational requirements met--summer '19? autograder or block/turtle/ascii drawing language?)
++ CS 8803 O3 Graduate Algorithms GA
 + CS 8803 O08: Special Topics Compilers- Theory & Practice (non-core)
++ CS 6250 Computer Networks (networking)
++ CS 6035 Intro to Information Security IIS (C, networking, discrete)
++ CS 6340 Software Analysis and Test SAT
 
-### Fallback options
+### Tier 2
++ CS 6300 Software Development Process SDP
++ CS 6310 Software Architecture and Design SAD
 + CS 6262 Network Security NS
 + CS 6400 Database Systems Concepts and Design DSCD
 + CS 7637 Knowledge Based AI KBAI

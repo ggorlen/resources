@@ -1,6 +1,8 @@
 '''
 keeps my programming resources markdown neat
 
+TODO: link underscores are being escaped, breaking links
+
 references:
 https://meta.stackexchange.com/questions/189749/
 '''
