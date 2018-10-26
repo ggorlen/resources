@@ -181,6 +181,7 @@
 ## Compilers
 + [Stanford compilers course](https://online.stanford.edu/courses/soe-ycscs1-compilers)
 + [Udacity programming languages course](https://classroom.udacity.com/courses/cs262)
++ [OMSCS compilers](https://classroom.udacity.com/courses/ud168/lessons/9331262348/concepts/93290028450923)
 + [Let's build a simple interpreter](https://ruslanspivak.com/lsbasi-part1/)
 + [Incremental approach to compiler construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
 + [Write a compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
@@ -681,25 +682,26 @@
 
 ### Tier 1
 + CS 6210 Advanced Operating Systems
-+ CS 6291 Embedded System Optimization (architecture, C)
-+ CS 6290 High Performance Computer Architecture (architecture, C)
++ CS 6291 Embedded System Optimization
++ CS 6290 High Performance Computer Architecture
 + CS 6460 Educational Technology (foundational requirements met--summer '19? autograder or block/turtle/ascii drawing language?)
-+ CS 8803 O3 Graduate Algorithms GA
-+ CS 8803 O08: Special Topics Compilers- Theory & Practice (non-core)
++ CS 6515 Graduate Algorithms
 + CS 6250 Computer Networks (networking)
-+ CS 6035 Intro to Information Security IIS (C, networking, discrete)
-+ CS 6340 Software Analysis and Test SAT
++ CS 7637 Knowledge Based AI
++ CS 6340 Software Analysis and Test
++ CS 8803 O08: Special Topics Compilers- Theory & Practice (non-core)
 
 ### Tier 2
-+ CS 6300 Software Development Process SDP
-+ CS 6310 Software Architecture and Design SAD
-+ CS 6262 Network Security NS
-+ CS 6400 Database Systems Concepts and Design DSCD
-+ CS 7637 Knowledge Based AI KBAI
-+ CS 6440 Intro to Health Informatics IHI
++ CS 6310 Software Architecture and Design
++ CS 6300 Software Development Process
++ CS 6035 Intro to Information Security (C, networking, discrete)
++ CS 6262 Network Security
++ CS 7646 Machine Learning for Trading
++ CS 6400 Database Systems Concepts and Design
++ CS 6440 Intro to Health Informatics
 
 ### Completed
-+ CS 6200 Intro to Operating Systems GIOS
++ CS 6200 Intro to Operating Systems
 
 
 ## CCSF
