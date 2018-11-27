@@ -58,6 +58,7 @@
 + [Bit twiddling hacks](http://graphics.stanford.edu/~seander/bithacks.html)
 + Organize mp3s: beets.io and https://www.discogs.com/developers/
 + [Christopher Alexander's Design Patterns](http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm)
++ [Fuzzing book](https://www.fuzzingbook.org/)
 
 
 ## Project Euler
@@ -187,6 +188,8 @@
 + [Write a compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
 + [Crafting Interpreters](http://craftinginterpreters.com/)
 + [Python interpreter in Python](http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
++ [nearley/moo js](https://nearley.js.org/docs/grammar)
++ [Compiler books](https://dickgrune.com/)
 
 
 ## Games
@@ -545,8 +548,8 @@
 ## C
 + [Write your own OS](https://wiki.osdev.org/Tutorials)
 + [Build your own lisp](http://www.buildyourownlisp.com/)
-+ [C coding standard](https://barrgroup.com/Embedded-Systems/Books/Embedded-C-Coding-Standard)
 + [Beej guide to GDB](https://beej.us/guide/bggdb/)
++ [C coding standard](https://barrgroup.com/Embedded-Systems/Books/Embedded-C-Coding-Standard)
 
 
 ## Perl
@@ -609,6 +612,7 @@
 + [code-golf.io](https://code-golf.io/)
 + [js1k](https://js1k.com/)
 + [anarchy golf](http://golf.shinh.org/)
++ [Perlgolf history](http://terje2.frox25.no-ip.org/perlgolf\_history\_070109.pdf)
 
 
 ## Course sites
@@ -638,6 +642,7 @@
 
 
 ## Competitive coding
++ [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
 + [Introduction to programming contests](http://web.stanford.edu/class/cs97si/)
 + [Codeforces](http://codeforces.com/)
 + [Topcoder](https://www.topcoder.com/community/competitive-programming/)
@@ -651,7 +656,7 @@
 + "Etudes for programmers"
 + "Etudes for Python: Exercises for Programmers" (available on LINK+)
 + "Book of Proof" Hammack
-+ [Think Bayes/DSP/Complexity/etc](http://www.greenteapress.com/thinkbayes/html/index.html)
++ [Think Bayes/DSP/Complexity/OS/etc](http://www.greenteapress.com/thinkbayes/html/index.html)
 
 
 ## Education
@@ -681,7 +686,7 @@
 ## OMSCS
 
 ### Tier 1
-+ CS 6210 Advanced Operating Systems
++ CS 6210 Advanced Operating Systems (https://www.udacity.com/wiki/ud156-readings)
 + CS 6291 Embedded System Optimization
 + CS 6290 High Performance Computer Architecture
 + CS 6460 Educational Technology (foundational requirements met--summer '19? autograder or block/turtle/ascii drawing language?)
