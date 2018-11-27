@@ -642,7 +642,7 @@
 
 
 ## Competitive coding
-+ [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
++ [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
 + [Introduction to programming contests](http://web.stanford.edu/class/cs97si/)
 + [Codeforces](http://codeforces.com/)
 + [Topcoder](https://www.topcoder.com/community/competitive-programming/)
