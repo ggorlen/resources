@@ -58,12 +58,13 @@
 + [Bit twiddling hacks](http://graphics.stanford.edu/~seander/bithacks.html)
 + Organize mp3s: beets.io and https://www.discogs.com/developers/
 + [Christopher Alexander's Design Patterns](http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm)
-+ [Fuzzing book](https://www.fuzzingbook.org/)
++ [Operating Systems notes](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
++ [The Logo Foundation](http://el.media.mit.edu/logo-foundation/index.html)
 
 
 ## Project Euler
 + [#93 Sudoku can also be solved using Integer Linear Programming ](https://pythonhosted.org/PuLP/CaseStudies/a\_sudoku\_problem.html)
-+ #84 Monopoly is one of the best.  Worth solving using both simulation (I used first-class functions) and stochastic matrix (I used numpy). Working out the initial probabilities for the stochastic matrix requires only basic probability, but it's tricky.
++ #84 Monopoly is one of the best. Worth solving using both simulation (I used first-class functions) and stochastic matrix (I used numpy). Working out the initial probabilities for the stochastic matrix requires only basic probability, but it's tricky.
 + [Euler's totient function](http://www.geeksforgeeks.org/eulers-totient-function/)
 
 
@@ -190,6 +191,7 @@
 + [Python interpreter in Python](http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 + [nearley/moo js](https://nearley.js.org/docs/grammar)
 + [Compiler books](https://dickgrune.com/)
++ [Create a simple tokenizer in C#](https://jack-vanlightly.com/blog/2016/2/3/creating-a-simple-tokenizer-lexer-in-c)
 
 
 ## Games
@@ -653,10 +655,10 @@
 ## Books
 + [Definitive C++ book list](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 + [Tons of free CS books](http://proquest.safaribooksonline.com/)
-+ "Etudes for programmers"
 + "Etudes for Python: Exercises for Programmers" (available on LINK+)
 + "Book of Proof" Hammack
 + [Think Bayes/DSP/Complexity/OS/etc](http://www.greenteapress.com/thinkbayes/html/index.html)
++ [Fuzzing book (software testing)](https://www.fuzzingbook.org/)
 
 
 ## Education

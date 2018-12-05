@@ -1,8 +1,6 @@
 '''
 keeps my programming resources markdown neat
 
-TODO: link underscores are being escaped, breaking links
-
 references:
 https://meta.stackexchange.com/questions/189749/
 '''
@@ -25,14 +23,14 @@ result = []
 toc = []
 
 for line in text:
-    m = re.compile("^## (.+)$").search(line)
+    m = re.compile(r"^## (.+)$").search(line)
 
     if m:
         link = "#" + m.group(1).lower().replace(" ", "-")
-        toc.append("{0}. [{1}]({2})".format(len(toc), m.group(1), link))
+        toc.append("%s. [%s](%s)" % (len(toc), m.group(1), link))
         result.append(line)
-    else:    
-        m = re.compile("^( *\+ +)([^:]+): *(https?://[^ ]+)(.*)$").search(line)
+    else:
+        m = re.compile(r"^( *\+ +)([^:]+): *(https?://[^ ]+)(.*)$").search(line)
         
         if m: 
             result.append(m.group(1) + md_link(m.group(2), m.group(3)))
@@ -40,7 +38,7 @@ for line in text:
             if m.group(4):
                 result[-1] += " " + m.group(4)
         else:
-            m = re.compile("^( *\+ +) *(https?://[^ ]+)(.*)$").search(line)
+            m = re.compile(r"^( *\+ +) *(https?://[^ ]+)(.*)$").search(line)
         
             if m:
                 result.append(m.group(1) + md_link(m.group(2), m.group(2)))
@@ -51,6 +49,4 @@ for line in text:
                 result.append(line)
 
 with open(output_filename, "w") as f:
-    [f.write(x + "\n") for x in result[:4]]
-    [f.write(x + "\n") for x in toc[1:]]
-    [f.write(x + "\n") for x in result[4:]]
+    f.write("\n".join(result[:4] + toc[1:] + result[4:]))
