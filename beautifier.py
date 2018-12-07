@@ -10,7 +10,7 @@ from sys import argv
 
 
 def md_link(desc, url):
-   return "[" + desc + "](" + url.replace("_", "\_") + ")"
+   return "[%s](%s)" % (desc, url.replace("_", "\_"))
     
 
 input_filename = argv[1] if len(argv) > 1 else "programming-resources.md"
