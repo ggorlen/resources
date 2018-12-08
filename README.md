@@ -51,638 +51,639 @@
 
 
 ## General
-+ [Inspiration!](https://www.chessprogramming.org/Keith\_Gorlen)
-+ [Various basic programming links](https://anshbansal.wordpress.com/programming-links/)
-+ ["Programming by Doing" simple projects for students](https://programmingbydoing.com/)
-+ [Look for projects at](http://rosettacode.org/wiki/Rosetta\_Code)
-+ [Bit twiddling hacks](http://graphics.stanford.edu/~seander/bithacks.html)
++ <a href="https://www.chessprogramming.org/Keith_Gorlen">Inspiration!</a>
++ <a href="https://anshbansal.wordpress.com/programming-links/">Various basic programming links</a>
++ <a href="https://programmingbydoing.com/">"Programming by Doing" simple projects for students</a>
++ <a href="http://rosettacode.org/wiki/Rosetta_Code">Look for projects at</a>
++ <a href="http://graphics.stanford.edu/~seander/bithacks.html">Bit twiddling hacks</a>
 + Organize mp3s: beets.io and https://www.discogs.com/developers/
-+ [Christopher Alexander's Design Patterns](http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm)
-+ [Operating Systems notes](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
-+ [The Logo Foundation](http://el.media.mit.edu/logo-foundation/index.html)
++ <a href="http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm">Christopher Alexander's Design Patterns</a>
++ <a href="https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/">Operating Systems notes</a>
++ <a href="https://www.cc.gatech.edu/classes/AY2010/cs4210_fall/">CS4210 archive</a>
++ <a href="http://el.media.mit.edu/logo-foundation/index.html">The Logo Foundation</a>
 
 
 ## Project Euler
-+ [#93 Sudoku can also be solved using Integer Linear Programming ](https://pythonhosted.org/PuLP/CaseStudies/a\_sudoku\_problem.html)
++ <a href="https://pythonhosted.org/PuLP/CaseStudies/a_sudoku_problem.html">#93 Sudoku can also be solved using Integer Linear Programming </a>
 + #84 Monopoly is one of the best. Worth solving using both simulation (I used first-class functions) and stochastic matrix (I used numpy). Working out the initial probabilities for the stochastic matrix requires only basic probability, but it's tricky.
-+ [Euler's totient function](http://www.geeksforgeeks.org/eulers-totient-function/)
++ <a href="http://www.geeksforgeeks.org/eulers-totient-function/">Euler's totient function</a>
 
 
 ## Algorithms
-+ [Princeton Algorithms](https://algs4.cs.princeton.edu/home/)
-+ [Stanford CS Education Library](http://cslibrary.stanford.edu/)
-+ [Berkeley CS61B lectures](https://inst.eecs.berkeley.edu/~cs61b/fa17/materials/lectures/)
-+ [Algorithm archive](https://www.algorithm-archive.org/)
-+ [Word ladder](https://www.geeksforgeeks.org/word-ladder-length-of-shortest-chain-to-reach-a-target-word/)
++ <a href="https://algs4.cs.princeton.edu/home/">Princeton Algorithms</a>
++ <a href="http://cslibrary.stanford.edu/">Stanford CS Education Library</a>
++ <a href="https://inst.eecs.berkeley.edu/~cs61b/fa17/materials/lectures/">Berkeley CS61B lectures</a>
++ <a href="https://www.algorithm-archive.org/">Algorithm archive</a>
++ <a href="https://www.geeksforgeeks.org/word-ladder-length-of-shortest-chain-to-reach-a-target-word/">Word ladder</a>
 + Do projects from Data Structures & algorithms text
 + Disjoint set union find:
-  + [https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)
-  + [https://en.wikipedia.org/wiki/Disjoint-set_data_structure](https://en.wikipedia.org/wiki/Disjoint-set\_data\_structure)
-+ [Segment trees](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/)
-+ [Self-avoiding walk](https://en.wikipedia.org/wiki/Self-avoiding\_walk)
-+ [Bellman-Ford](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford\_algorithm)
-+ [Princeton algorithm assignments](http://www.cs.princeton.edu/courses/archive/spr10/cos226/assignments.html)
-+ [Boyer-Moore majority vote algorithm](https://gregable.com/2013/10/majority-vote-algorithm-find-majority.html)
-+ [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve\_of\_Eratosthenes)
-+ [Fermat's factorization method](https://en.wikipedia.org/wiki/Fermat%27s\_factorization\_method)
-+ [Euclid's algorithm](http://andreinc.net/2010/12/11/euclids-algorithm-reducing-fraction-to-lowest-terms/)
-+ [Katasuba algorithm](https://en.wikipedia.org/wiki/Karatsuba\_algorithm)
-+ [Simplify a fraction](http://codereview.stackexchange.com/questions/66450/simplify-a-fraction)
-+ [Basil & Fabian](http://blog.jamisbuck.org/)
-+ [Car talk puzzlers](https://developmentality.wordpress.com/tag/car-talk/)
+  + <a href="https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/">https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/</a>
+  + <a href="https://en.wikipedia.org/wiki/Disjoint-set_data_structure">https://en.wikipedia.org/wiki/Disjoint-set_data_structure</a>
++ <a href="https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/">Segment trees</a>
++ <a href="https://en.wikipedia.org/wiki/Self-avoiding_walk">Self-avoiding walk</a>
++ <a href="https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm">Bellman-Ford</a>
++ <a href="http://www.cs.princeton.edu/courses/archive/spr10/cos226/assignments.html">Princeton algorithm assignments</a>
++ <a href="https://gregable.com/2013/10/majority-vote-algorithm-find-majority.html">Boyer-Moore majority vote algorithm</a>
++ <a href="https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes">Sieve of Eratosthenes</a>
++ <a href="https://en.wikipedia.org/wiki/Fermat%27s_factorization_method">Fermat's factorization method</a>
++ <a href="http://andreinc.net/2010/12/11/euclids-algorithm-reducing-fraction-to-lowest-terms/">Euclid's algorithm</a>
++ <a href="https://en.wikipedia.org/wiki/Karatsuba_algorithm">Katasuba algorithm</a>
++ <a href="http://codereview.stackexchange.com/questions/66450/simplify-a-fraction">Simplify a fraction</a>
++ <a href="http://blog.jamisbuck.org/">Basil & Fabian</a>
++ <a href="https://developmentality.wordpress.com/tag/car-talk/">Car talk puzzlers</a>
 
 
 ## DP
-+ [Coins in line](https://articles.leetcode.com/coins-in-line/)
-+ [Coin change](http://interactivepython.org/KKOkZ/courselib/static/pythonds/Recursion/DynamicProgramming.html)
-+ [Maximum subarray problem (Kadane's algorithm)](https://en.wikipedia.org/wiki/Maximum\_subarray\_problem#Kadane's\_algorithm\_(Algorithm\_3:\_Dynamic\_Programming))
-+ [DP text justify](https://www.geeksforgeeks.org/dynamic-programming-set-18-word-wrap/)
-+ [DP coin change](http://algorithms.tutorialhorizon.com/dynamic-programming-coin-change-problem/)
-+ [MIT open courseware DP lecture](https://www.youtube.com/watch?v=ocZMDMZwhCY)
-+ [Algs/DP](https://people.eecs.berkeley.edu/~vazirani/algorithms/chap6.pdf)
-+ [Memoization](http://www.python-course.eu/python3\_memoization.php)
++ <a href="https://articles.leetcode.com/coins-in-line/">Coins in line</a>
++ <a href="http://interactivepython.org/KKOkZ/courselib/static/pythonds/Recursion/DynamicProgramming.html">Coin change</a>
++ <a href="https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm_(Algorithm_3:_Dynamic_Programming)">Maximum subarray problem (Kadane's algorithm)</a>
++ <a href="https://www.geeksforgeeks.org/dynamic-programming-set-18-word-wrap/">DP text justify</a>
++ <a href="http://algorithms.tutorialhorizon.com/dynamic-programming-coin-change-problem/">DP coin change</a>
++ <a href="https://www.youtube.com/watch?v=ocZMDMZwhCY">MIT open courseware DP lecture</a>
++ <a href="https://people.eecs.berkeley.edu/~vazirani/algorithms/chap6.pdf">Algs/DP</a>
++ <a href="http://www.python-course.eu/python3_memoization.php">Memoization</a>
 + The "correct change" problem looks like it's equivalent to the "subset sum" problem (https://en.wikipedia.org/wiki/Subset_sum_problem), which is a special case of the knapsack problem. Wikipedia says these are all NP, but efficiency can be improved by dynamic programming. That's why I'm thinking a transposition table may help.
-+ [Sum numbers in a list](http://stackoverflow.com/questions/3420937/algorithm-to-find-which-number-in-a-list-sum-up-to-a-certain-number)
-+ [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack\_problem)
++ <a href="http://stackoverflow.com/questions/3420937/algorithm-to-find-which-number-in-a-list-sum-up-to-a-certain-number">Sum numbers in a list</a>
++ <a href="https://en.wikipedia.org/wiki/Knapsack_problem">Knapsack problem</a>
 
 
 ## Graphs
-+ [Shortest path algorithms](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/tutorial/)
-+ [MST](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/)
-+ [Floyd Warshall algorithm](http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm)
-+ [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s\_algorithm)
-+ [Topological sort](https://www.geeksforgeeks.org/topological-sorting/)
++ <a href="https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/tutorial/">Shortest path algorithms</a>
++ <a href="https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/">MST</a>
++ <a href="http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm">Floyd Warshall algorithm</a>
++ <a href="https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm">Dijkstra's algorithm</a>
++ <a href="https://www.geeksforgeeks.org/topological-sorting/">Topological sort</a>
 
 
 ## Trees
-+ [Tree traversal construction](http://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/)
-+ [Determine if a tree is a BST](https://www.youtube.com/watch?v=H13iz0rbeeo)
++ <a href="http://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/">Tree traversal construction</a>
++ <a href="https://www.youtube.com/watch?v=H13iz0rbeeo">Determine if a tree is a BST</a>
 
 
 ## Strings/arrays
-+ [Permute a string](http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/)
-+ [Find combinations of a string in another string](http://stackoverflow.com/questions/24720332/c-find-all-possible-combinations-of-a-string-in-another-string)
++ <a href="http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/">Permute a string</a>
++ <a href="http://stackoverflow.com/questions/24720332/c-find-all-possible-combinations-of-a-string-in-another-string">Find combinations of a string in another string</a>
 
 
 ## Mazes
-+ [Think Labyrinth](http://www.astrolog.org/labyrnth/algrithm.htm)
-+ [Buckblog maze generation algorithm overview](http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap)
-+ [Random walk](https://en.wikipedia.org/wiki/Random\_walk)
++ <a href="http://www.astrolog.org/labyrnth/algrithm.htm">Think Labyrinth</a>
++ <a href="http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap">Buckblog maze generation algorithm overview</a>
++ <a href="https://en.wikipedia.org/wiki/Random_walk">Random walk</a>
 
 
 ## Cellular automata
-+ [Cellular automaton](https://en.wikipedia.org/wiki/Cellular\_automaton)
-+ [Elementary cellular automaton](https://en.wikipedia.org/wiki/Elementary\_cellular\_automaton)
-+ [Rule 30](https://en.wikipedia.org/wiki/Rule\_30)
-+ [Conway's game of life](https://en.wikipedia.org/wiki/Conway%27s\_Game\_of\_Life)
-+ [Turmite](https://en.wikipedia.org/wiki/Turmite)
-+ [Wolfram cellular automata](https://www.wolframscience.com/nks/p65--more-cellular-automata/)
-+ [Nature of Code by Shiffman, chapter 7](http://natureofcode.com/book/chapter-7-cellular-automata/)
-+ [Wireworld](https://en.wikipedia.org/wiki/Wireworld)
-+ [Brian's Brain](https://en.wikipedia.org/wiki/Brian%27s\_Brain)
-+ [Von Neumann](https://en.wikipedia.org/wiki/Von\_Neumann\_cellular\_automaton)
-+ [Langton's loops](https://en.wikipedia.org/wiki/Langton%27s\_loops)
-+ [CoDi](https://en.wikipedia.org/wiki/CoDi)
-+ [Life-like cellular automata (incl. Seeds)](https://en.wikipedia.org/wiki/Life-like\_cellular\_automaton)
++ <a href="https://en.wikipedia.org/wiki/Cellular_automaton">Cellular automaton</a>
++ <a href="https://en.wikipedia.org/wiki/Elementary_cellular_automaton">Elementary cellular automaton</a>
++ <a href="https://en.wikipedia.org/wiki/Rule_30">Rule 30</a>
++ <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">Conway's game of life</a>
++ <a href="https://en.wikipedia.org/wiki/Turmite">Turmite</a>
++ <a href="https://www.wolframscience.com/nks/p65--more-cellular-automata/">Wolfram cellular automata</a>
++ <a href="http://natureofcode.com/book/chapter-7-cellular-automata/">Nature of Code by Shiffman, chapter 7</a>
++ <a href="https://en.wikipedia.org/wiki/Wireworld">Wireworld</a>
++ <a href="https://en.wikipedia.org/wiki/Brian%27s_Brain">Brian's Brain</a>
++ <a href="https://en.wikipedia.org/wiki/Von_Neumann_cellular_automaton">Von Neumann</a>
++ <a href="https://en.wikipedia.org/wiki/Langton%27s_loops">Langton's loops</a>
++ <a href="https://en.wikipedia.org/wiki/CoDi">CoDi</a>
++ <a href="https://en.wikipedia.org/wiki/Life-like_cellular_automaton">Life-like cellular automata (incl. Seeds)</a>
 
 
 ## Game AI
-+ [IDDFS/single agent search](http://webdocs.cs.ualberta.ca/~jonathan/PREVIOUS/Courses/657/Notes/10.Single-agentSearch.pdf)
-+ [IDA*](https://algorithmsinsight.wordpress.com/graph-theory-2/ida-star-algorithm-in-general/)
-+ [A* n puzzle](https://algorithmsinsight.wordpress.com/graph-theory-2/a-star-in-general/implementing-a-star-to-solve-n-puzzle/)
-+ [Breakthrough AI tutorial](https://www.codeproject.com/Articles/37024/Simple-AI-for-the-Game-of-Breakthrough)
-+ [SSS*](https://en.wikipedia.org/wiki/SSS*)
++ <a href="http://webdocs.cs.ualberta.ca/~jonathan/PREVIOUS/Courses/657/Notes/10.Single-agentSearch.pdf">IDDFS/single agent search</a>
++ <a href="https://algorithmsinsight.wordpress.com/graph-theory-2/ida-star-algorithm-in-general/">IDA*</a>
++ <a href="https://algorithmsinsight.wordpress.com/graph-theory-2/a-star-in-general/implementing-a-star-to-solve-n-puzzle/">A* n puzzle</a>
++ <a href="https://www.codeproject.com/Articles/37024/Simple-AI-for-the-Game-of-Breakthrough">Breakthrough AI tutorial</a>
++ <a href="https://en.wikipedia.org/wiki/SSS*">SSS*</a>
 + Monte Carlo Tree Search:
-  + [https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
-  + [http://www.baeldung.com/java-monte-carlo-tree-search](http://www.baeldung.com/java-monte-carlo-tree-search)
-  + [http://mcts.ai/code/java.html](http://mcts.ai/code/java.html)
-  + [https://introcs.cs.princeton.edu/java/98simulation/](https://introcs.cs.princeton.edu/java/98simulation/)
-  + [https://www.coursera.org/lecture/c-plus-plus-b/4-2-monte-carlo-a3Z4u](https://www.coursera.org/lecture/c-plus-plus-b/4-2-monte-carlo-a3Z4u)
-+ [Principal variation search](https://en.wikipedia.org/wiki/Principal\_variation\_search)
-+ [MTD-f](https://en.wikipedia.org/wiki/MTD-f)
-+ [Iterative deepening DFS](https://en.wikipedia.org/wiki/Iterative\_deepening\_depth-first\_search)
-+ [Iterative deepening A*](https://en.wikipedia.org/wiki/Iterative\_deepening\_A*)
-+ [Alpha-beta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta\_pruning)
-+ [Tic tac toe AI](http://cwoebker.com/posts/tic-tac-toe)
+  + <a href="https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/">https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/</a>
+  + <a href="http://www.baeldung.com/java-monte-carlo-tree-search">http://www.baeldung.com/java-monte-carlo-tree-search</a>
+  + <a href="http://mcts.ai/code/java.html">http://mcts.ai/code/java.html</a>
+  + <a href="https://introcs.cs.princeton.edu/java/98simulation/">https://introcs.cs.princeton.edu/java/98simulation/</a>
+  + <a href="https://www.coursera.org/lecture/c-plus-plus-b/4-2-monte-carlo-a3Z4u">https://www.coursera.org/lecture/c-plus-plus-b/4-2-monte-carlo-a3Z4u</a>
++ <a href="https://en.wikipedia.org/wiki/Principal_variation_search">Principal variation search</a>
++ <a href="https://en.wikipedia.org/wiki/MTD-f">MTD-f</a>
++ <a href="https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search">Iterative deepening DFS</a>
++ <a href="https://en.wikipedia.org/wiki/Iterative_deepening_A*">Iterative deepening A*</a>
++ <a href="https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning">Alpha-beta pruning</a>
++ <a href="http://cwoebker.com/posts/tic-tac-toe">Tic tac toe AI</a>
 + Minimax:
-  + [http://neverstopbuilding.com/minimax](http://neverstopbuilding.com/minimax)
-  + [https://www.leaseweb.com/labs/2013/12/python-tictactoe-tk-minimax-ai/](https://www.leaseweb.com/labs/2013/12/python-tictactoe-tk-minimax-ai/)
-+ [Negamax](https://en.wikipedia.org/wiki/Negamax)
-+ [Othello basic](https://inventwithpython.com/invent4thed/chapter15.html)
-+ [4 grid games from Al Sweigart](http://inventwithpython.com/pygame/chapter10.html)
+  + <a href="http://neverstopbuilding.com/minimax">http://neverstopbuilding.com/minimax</a>
+  + <a href="https://www.leaseweb.com/labs/2013/12/python-tictactoe-tk-minimax-ai/">https://www.leaseweb.com/labs/2013/12/python-tictactoe-tk-minimax-ai/</a>
++ <a href="https://en.wikipedia.org/wiki/Negamax">Negamax</a>
++ <a href="https://inventwithpython.com/invent4thed/chapter15.html">Othello basic</a>
++ <a href="http://inventwithpython.com/pygame/chapter10.html">4 grid games from Al Sweigart</a>
   + Make a flood it solver/generator based on above link
 
 
 ## Esoteric programming languages
-+ [Cat's Eye](http://catseye.tc/)
-+ [Esolangs.org](https://esolangs.org/wiki/Main\_Page)
-+ [Esoteric programming languages](https://en.wikipedia.org/wiki/Esoteric\_programming\_language)
-+ [Chess in befunge](http://www.frox25.no-ip.org/~mtve/code/eso/bef/chess/)
++ <a href="http://catseye.tc/">Cat's Eye</a>
++ <a href="https://esolangs.org/wiki/Main_Page">Esolangs.org</a>
++ <a href="https://en.wikipedia.org/wiki/Esoteric_programming_language">Esoteric programming languages</a>
++ <a href="http://www.frox25.no-ip.org/~mtve/code/eso/bef/chess/">Chess in befunge</a>
 
 
 ## Compilers
-+ [Stanford compilers course](https://online.stanford.edu/courses/soe-ycscs1-compilers)
-+ [Udacity programming languages course](https://classroom.udacity.com/courses/cs262)
-+ [OMSCS compilers](https://classroom.udacity.com/courses/ud168/lessons/9331262348/concepts/93290028450923)
-+ [Let's build a simple interpreter](https://ruslanspivak.com/lsbasi-part1/)
-+ [Incremental approach to compiler construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
-+ [Write a compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
-+ [Crafting Interpreters](http://craftinginterpreters.com/)
-+ [Python interpreter in Python](http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
-+ [nearley/moo js](https://nearley.js.org/docs/grammar)
-+ [Compiler books](https://dickgrune.com/)
-+ [Create a simple tokenizer in C#](https://jack-vanlightly.com/blog/2016/2/3/creating-a-simple-tokenizer-lexer-in-c)
++ <a href="https://online.stanford.edu/courses/soe-ycscs1-compilers">Stanford compilers course</a>
++ <a href="https://classroom.udacity.com/courses/cs262">Udacity programming languages course</a>
++ <a href="https://classroom.udacity.com/courses/ud168/lessons/9331262348/concepts/93290028450923">OMSCS compilers</a>
++ <a href="https://ruslanspivak.com/lsbasi-part1/">Let's build a simple interpreter</a>
++ <a href="http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf">Incremental approach to compiler construction</a>
++ <a href="https://norasandler.com/2017/11/29/Write-a-Compiler.html">Write a compiler</a>
++ <a href="http://craftinginterpreters.com/">Crafting Interpreters</a>
++ <a href="http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html">Python interpreter in Python</a>
++ <a href="https://nearley.js.org/docs/grammar">nearley/moo js</a>
++ <a href="https://dickgrune.com/">Compiler books</a>
++ <a href="https://jack-vanlightly.com/blog/2016/2/3/creating-a-simple-tokenizer-lexer-in-c">Create a simple tokenizer in C#</a>
 
 
 ## Games
-+ [List of puzzle video games](https://en.wikipedia.org/wiki/List\_of\_puzzle\_video\_games)
-+ [Tile-matching video games](https://en.wikipedia.org/wiki/Tile-matching\_video\_game)
-+ [Microsoft Entertainment Pack](https://en.wikipedia.org/wiki/Microsoft\_Entertainment\_Pack)
-+ [Mahjong solitaire](https://en.wikipedia.org/wiki/Mahjong\_solitaire)
++ <a href="https://en.wikipedia.org/wiki/List_of_puzzle_video_games">List of puzzle video games</a>
++ <a href="https://en.wikipedia.org/wiki/Tile-matching_video_game">Tile-matching video games</a>
++ <a href="https://en.wikipedia.org/wiki/Microsoft_Entertainment_Pack">Microsoft Entertainment Pack</a>
++ <a href="https://en.wikipedia.org/wiki/Mahjong_solitaire">Mahjong solitaire</a>
 + 2d visibility:
-  + [https://www.redblobgames.com/articles/visibility/](https://www.redblobgames.com/articles/visibility/)
-  + [http://journal.stuffwithstuff.com/2015/09/07/what-the-hero-sees/](http://journal.stuffwithstuff.com/2015/09/07/what-the-hero-sees/)
-  + [https://legends2k.github.io/2d-fov/design.html](https://legends2k.github.io/2d-fov/design.html)
-  + [In Phaser using a nice raycasting lib](http://www.emanueleferonato.com/2015/02/03/play-with-light-and-dark-using-ray-casting-and-visibility-polygons/)
-+ [3d Wolfenstein raycasting tutorial in JS](https://dev.opera.com/articles/3d-games-with-canvas-and-raycasting-part-1/)
-+ [Minichess](https://en.wikipedia.org/wiki/Minichess)
-+ [Minesweeper with hex grid](https://www.redblobgames.com/grids/hexagons/)
-+ [Dots and boxes](https://www.youtube.com/watch?v=KboGyIilP6k)
-+ [Breakthru](https://en.wikipedia.org/wiki/Breakthru\_(board\_game))
-+ [Beast](https://en.wikipedia.org/wiki/Beast\_(video\_game))
-+ [Program arcade games](http://programarcadegames.com/)
-+ [BASIC games](http://www.atariarchives.org/basicgames/)
-+ [Nim](https://en.wikipedia.org/wiki/Nim)
-+ [Emily's pegs game](http://www.instructables.com/id/Peg-Game-IQ-Test-Solution/)
-+ [Fire & Ice](https://www.youtube.com/watch?v=1t782B0zK3Y)
+  + <a href="https://www.redblobgames.com/articles/visibility/">https://www.redblobgames.com/articles/visibility/</a>
+  + <a href="http://journal.stuffwithstuff.com/2015/09/07/what-the-hero-sees/">http://journal.stuffwithstuff.com/2015/09/07/what-the-hero-sees/</a>
+  + <a href="https://legends2k.github.io/2d-fov/design.html">https://legends2k.github.io/2d-fov/design.html</a>
+  + <a href="http://www.emanueleferonato.com/2015/02/03/play-with-light-and-dark-using-ray-casting-and-visibility-polygons/">In Phaser using a nice raycasting lib</a>
++ <a href="https://dev.opera.com/articles/3d-games-with-canvas-and-raycasting-part-1/">3d Wolfenstein raycasting tutorial in JS</a>
++ <a href="https://en.wikipedia.org/wiki/Minichess">Minichess</a>
++ <a href="https://www.redblobgames.com/grids/hexagons/">Minesweeper with hex grid</a>
++ <a href="https://www.youtube.com/watch?v=KboGyIilP6k">Dots and boxes</a>
++ <a href="https://en.wikipedia.org/wiki/Breakthru_(board_game)">Breakthru</a>
++ <a href="https://en.wikipedia.org/wiki/Beast_(video_game)">Beast</a>
++ <a href="http://programarcadegames.com/">Program arcade games</a>
++ <a href="http://www.atariarchives.org/basicgames/">BASIC games</a>
++ <a href="https://en.wikipedia.org/wiki/Nim">Nim</a>
++ <a href="http://www.instructables.com/id/Peg-Game-IQ-Test-Solution/">Emily's pegs game</a>
++ <a href="https://www.youtube.com/watch?v=1t782B0zK3Y">Fire & Ice</a>
 + Connect 4
-+ [Filler/Qualio](https://www.youtube.com/watch?v=WV-rQfYKSGA)
++ <a href="https://www.youtube.com/watch?v=WV-rQfYKSGA">Filler/Qualio</a>
 + Tower defense
-+ [Hexapawn](https://en.wikipedia.org/wiki/Hexapawn)
++ <a href="https://en.wikipedia.org/wiki/Hexapawn">Hexapawn</a>
 + Octopawn
-+ [Pipe Dream](https://en.wikipedia.org/wiki/Pipe\_Mania)
-+ [Quarto](https://boardgamegeek.com/boardgame/681/quarto)
-+ [Mancala](https://en.wikipedia.org/wiki/Mancala)
-+ [Jezzball](https://en.wikipedia.org/wiki/JezzBall)
++ <a href="https://en.wikipedia.org/wiki/Pipe_Mania">Pipe Dream</a>
++ <a href="https://boardgamegeek.com/boardgame/681/quarto">Quarto</a>
++ <a href="https://en.wikipedia.org/wiki/Mancala">Mancala</a>
++ <a href="https://en.wikipedia.org/wiki/JezzBall">Jezzball</a>
 + Freerice clone
-+ [Nine Men's Morris](https://en.wikipedia.org/wiki/Nine\_Men%27s\_Morris)
-+ [Patience](https://en.wikipedia.org/wiki/Patience\_(game))
-+ [Hex](https://en.wikipedia.org/wiki/Hex\_(board\_game))
++ <a href="https://en.wikipedia.org/wiki/Nine_Men%27s_Morris">Nine Men's Morris</a>
++ <a href="https://en.wikipedia.org/wiki/Patience_(game)">Patience</a>
++ <a href="https://en.wikipedia.org/wiki/Hex_(board_game)">Hex</a>
 + Hive
-+ [Lines of action](https://dke.maastrichtuniversity.nl/m.winands/loa/)
-+ [Boulder Dash](https://en.wikipedia.org/wiki/Boulder\_Dash)
-+ [Ultimate tic tac toe or other variants](https://en.wikipedia.org/wiki/Tic-tac-toe\_variants)
-+ [Marble Madness](https://en.wikipedia.org/wiki/Marble\_Madness)
-+ [Loco-Motion](https://en.wikipedia.org/wiki/Loco-Motion\_(video\_game))
-+ [Digger](https://en.wikipedia.org/wiki/Digger\_(video\_game))
++ <a href="https://dke.maastrichtuniversity.nl/m.winands/loa/">Lines of action</a>
++ <a href="https://en.wikipedia.org/wiki/Boulder_Dash">Boulder Dash</a>
++ <a href="https://en.wikipedia.org/wiki/Tic-tac-toe_variants">Ultimate tic tac toe or other variants</a>
++ <a href="https://en.wikipedia.org/wiki/Marble_Madness">Marble Madness</a>
++ <a href="https://en.wikipedia.org/wiki/Loco-Motion_(video_game)">Loco-Motion</a>
++ <a href="https://en.wikipedia.org/wiki/Digger_(video_game)">Digger</a>
 + Hnefatafl
 + Go
 + 2048
 + Boggle
 + Lemmings
-+ [Solved games list](https://en.wikipedia.org/wiki/Solved\_game)
-+ [Mastermind](https://en.wikipedia.org/wiki/Mastermind\_(board\_game))
-+ [List of abstract strategy games](https://en.wikipedia.org/wiki/List\_of\_abstract\_strategy\_games)
-+ [Reversi](http://inventwithpython.com/chapter15.html)
++ <a href="https://en.wikipedia.org/wiki/Solved_game">Solved games list</a>
++ <a href="https://en.wikipedia.org/wiki/Mastermind_(board_game)">Mastermind</a>
++ <a href="https://en.wikipedia.org/wiki/List_of_abstract_strategy_games">List of abstract strategy games</a>
++ <a href="http://inventwithpython.com/chapter15.html">Reversi</a>
 + Checkers, misere checkers and variants:
-  + [https://boardgamegeek.com/geeklist/147417/best-checkers-variants](https://boardgamegeek.com/geeklist/147417/best-checkers-variants)
-  + [http://www.di.fc.ul.pt/~jpn/gv/checkers.htm](http://www.di.fc.ul.pt/~jpn/gv/checkers.htm)
-  + [https://en.wikipedia.org/wiki/Draughts#Invented_variants](https://en.wikipedia.org/wiki/Draughts#Invented\_variants)
+  + <a href="https://boardgamegeek.com/geeklist/147417/best-checkers-variants">https://boardgamegeek.com/geeklist/147417/best-checkers-variants</a>
+  + <a href="http://www.di.fc.ul.pt/~jpn/gv/checkers.htm">http://www.di.fc.ul.pt/~jpn/gv/checkers.htm</a>
+  + <a href="https://en.wikipedia.org/wiki/Draughts#Invented_variants">https://en.wikipedia.org/wiki/Draughts#Invented_variants</a>
 + Dodge falling objects game with rotation component like super hexagon?
 + Sidescroller where you build steps to get your dude over obstacles instead of jump button
 + Try frequency distribution array for card games/poker problem
 + Snake: 2 player versions, add obstacles
 + ASCII games:
-  + [http://ifarchive.org/](http://ifarchive.org/)
-  + [http://www.8bs.com/othrdnld/manuals/publications.shtml](http://www.8bs.com/othrdnld/manuals/publications.shtml)
-  + [https://en.wikipedia.org/wiki/Jotto](https://en.wikipedia.org/wiki/Jotto)
-  + [https://en.wikipedia.org/wiki/NetHack](https://en.wikipedia.org/wiki/NetHack)
-  + [http://www.iancgbell.clara.net/elite/text/index.htm](http://www.iancgbell.clara.net/elite/text/index.htm)
+  + <a href="http://ifarchive.org/">http://ifarchive.org/</a>
+  + <a href="http://www.8bs.com/othrdnld/manuals/publications.shtml">http://www.8bs.com/othrdnld/manuals/publications.shtml</a>
+  + <a href="https://en.wikipedia.org/wiki/Jotto">https://en.wikipedia.org/wiki/Jotto</a>
+  + <a href="https://en.wikipedia.org/wiki/NetHack">https://en.wikipedia.org/wiki/NetHack</a>
+  + <a href="http://www.iancgbell.clara.net/elite/text/index.htm">http://www.iancgbell.clara.net/elite/text/index.htm</a>
   + MUDS such as God Wars
-+ [Tile-based game tutorial](https://www.youtube.com/watch?v=txUvD5\_ROIU)
++ <a href="https://www.youtube.com/watch?v=txUvD5_ROIU">Tile-based game tutorial</a>
 + Puzzlescript:
-  + [Tumblr](https://puzzlescriptgallery.tumblr.com/)
-  + [Itch](https://itch.io/games/made-with-puzzlescript)
+  + <a href="https://puzzlescriptgallery.tumblr.com/">Tumblr</a>
+  + <a href="https://itch.io/games/made-with-puzzlescript">Itch</a>
 
 
 ## Puzzles
-+ [Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
++ <a href="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/">Simon Tatham</a>
 + Do chess packing puzzles
-+ [https://en.wikipedia.org/wiki/Category:Logic_puzzles](https://en.wikipedia.org/wiki/Category:Logic\_puzzles)
-+ [Erich Friendman's Puzzle Palace](http://www2.stetson.edu/~efriedma/)
-+ [Slitherlink](https://en.wikipedia.org/wiki/Slitherlink)
-+ [Mindsports (links resource)](http://www.mindsports.nl/index.php/puzzle-links)
-+ [Zendoku puzzle generation](http://garethrees.org/2007/06/10/zendoku-generation/#section-4)
-+ [Sudoku solving algorithms](https://en.wikipedia.org/wiki/Sudoku\_solving\_algorithms)
-+ [Generating sudoku boards](https://stackoverflow.com/questions/6924216/how-to-generate-sudoku-boards-with-unique-solutions)
-+ [Mondrian puzzle](https://www.youtube.com/watch?v=49KvZrioFB0)
-+ [Various puzzles from the Sudoku inventors](http://nikoli.co.jp/en/puzzles/)
-+ [Nonogram](https://en.wikipedia.org/wiki/Nonogram)
-+ [Ricochet Robots](https://en.wikipedia.org/wiki/Ricochet\_Robot)
-+ [Slothouber-Graatsma puzzle](https://en.wikipedia.org/wiki/Slothouber%E2%80%93Graatsma\_puzzle)
-+ [Packing](https://en.wikipedia.org/wiki/Packing\_problems)
-+ [Triomino packing](https://www.youtube.com/watch?v=hW4nB-ZAhts)
-+ [Irregular hexagon packing](https://www.youtube.com/watch?v=i\_TU49MioEE)
-+ [Mathematical puzzle](https://en.wikipedia.org/wiki/Mathematical\_puzzle)
-+ [Soma cube](https://en.wikipedia.org/wiki/Soma\_cube)
-+ [Assorted logic games](https://www.youtube.com/channel/UCEPZPgtnTvj2F3qTCLfaP4w)
-+ [Lights Out](https://en.wikipedia.org/wiki/Lights\_Out\_(game))
-+ [A bunch of puzzle games](http://www.puzzle-bridges.com/)
-+ [Dissection puzzle](https://en.wikipedia.org/wiki/Dissection\_puzzle)
-  + [https://www.youtube.com/watch?v=P-9qBV-9Fos](https://www.youtube.com/watch?v=P-9qBV-9Fos)
-+ [Tangram](https://en.wikipedia.org/wiki/Tangram)
-+ [Klotski gone insane (Bricks game)](http://www.bricks-game.de/)
++ <a href="https://en.wikipedia.org/wiki/Category:Logic_puzzles">https://en.wikipedia.org/wiki/Category:Logic_puzzles</a>
++ <a href="http://www2.stetson.edu/~efriedma/">Erich Friendman's Puzzle Palace</a>
++ <a href="https://en.wikipedia.org/wiki/Slitherlink">Slitherlink</a>
++ <a href="http://www.mindsports.nl/index.php/puzzle-links">Mindsports (links resource)</a>
++ <a href="http://garethrees.org/2007/06/10/zendoku-generation/#section-4">Zendoku puzzle generation</a>
++ <a href="https://en.wikipedia.org/wiki/Sudoku_solving_algorithms">Sudoku solving algorithms</a>
++ <a href="https://stackoverflow.com/questions/6924216/how-to-generate-sudoku-boards-with-unique-solutions">Generating sudoku boards</a>
++ <a href="https://www.youtube.com/watch?v=49KvZrioFB0">Mondrian puzzle</a>
++ <a href="http://nikoli.co.jp/en/puzzles/">Various puzzles from the Sudoku inventors</a>
++ <a href="https://en.wikipedia.org/wiki/Nonogram">Nonogram</a>
++ <a href="https://en.wikipedia.org/wiki/Ricochet_Robot">Ricochet Robots</a>
++ <a href="https://en.wikipedia.org/wiki/Slothouber%E2%80%93Graatsma_puzzle">Slothouber-Graatsma puzzle</a>
++ <a href="https://en.wikipedia.org/wiki/Packing_problems">Packing</a>
++ <a href="https://www.youtube.com/watch?v=hW4nB-ZAhts">Triomino packing</a>
++ <a href="https://www.youtube.com/watch?v=i_TU49MioEE">Irregular hexagon packing</a>
++ <a href="https://en.wikipedia.org/wiki/Mathematical_puzzle">Mathematical puzzle</a>
++ <a href="https://en.wikipedia.org/wiki/Soma_cube">Soma cube</a>
++ <a href="https://www.youtube.com/channel/UCEPZPgtnTvj2F3qTCLfaP4w">Assorted logic games</a>
++ <a href="https://en.wikipedia.org/wiki/Lights_Out_(game)">Lights Out</a>
++ <a href="http://www.puzzle-bridges.com/">A bunch of puzzle games</a>
++ <a href="https://en.wikipedia.org/wiki/Dissection_puzzle">Dissection puzzle</a>
+  + <a href="https://www.youtube.com/watch?v=P-9qBV-9Fos">https://www.youtube.com/watch?v=P-9qBV-9Fos</a>
++ <a href="https://en.wikipedia.org/wiki/Tangram">Tangram</a>
++ <a href="http://www.bricks-game.de/">Klotski gone insane (Bricks game)</a>
 
 
 ## Fractals and L-systems
-+ [Algorithmic Botany](http://algorithmicbotany.org/)
-+ [Space colonization](https://www.youtube.com/watch?v=kKT0v3qhIQY&index=20&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
-+ [Paul Bourke](http://paulbourke.net/fractals/)
-+ [Book on JS fractals](http://www.playingwithchaos.net/)
-+ [L-systems user notes/manual](http://paulbourke.net/fractals/lsys/)
-+ [L-system examples](https://10klsystems.wordpress.com/examples/)
-+ [2d L-systems](http://mathforum.org/advanced/robertd/lsys2d.html)
-+ [Harriss spiral](http://fiys169.blogspot.com/2015/11/the-harriss-spiral.html)
-+ [Full-featured L-systems app](http://www.kevs3d.co.uk/dev/lsystems/)
-+ [Hausdorff fractals list](https://en.wikipedia.org/wiki/List\_of\_fractals\_by\_Hausdorff\_dimension)
-+ [Abelian sandpiles](https://en.wikipedia.org/wiki/Abelian\_sandpile\_model)
-+ [Koch snowflake](https://en.wikipedia.org/wiki/Koch\_snowflake)
-+ [Sierpinski carpet](https://en.wikipedia.org/wiki/Sierpinski\_carpet)
-+ [Haferman Carpet](http://mathworld.wolfram.com/HafermanCarpet.html)
-+ [Rose](https://en.wikipedia.org/wiki/Rose\_(mathematics))
-+ [Chaos game](https://en.wikipedia.org/wiki/Chaos\_game)
-+ [Barnsley Fern](https://en.wikipedia.org/wiki/Barnsley\_fern)
++ <a href="http://algorithmicbotany.org/">Algorithmic Botany</a>
++ <a href="https://www.youtube.com/watch?v=kKT0v3qhIQY&index=20&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH">Space colonization</a>
++ <a href="http://paulbourke.net/fractals/">Paul Bourke</a>
++ <a href="http://www.playingwithchaos.net/">Book on JS fractals</a>
++ <a href="http://paulbourke.net/fractals/lsys/">L-systems user notes/manual</a>
++ <a href="https://10klsystems.wordpress.com/examples/">L-system examples</a>
++ <a href="http://mathforum.org/advanced/robertd/lsys2d.html">2d L-systems</a>
++ <a href="http://fiys169.blogspot.com/2015/11/the-harriss-spiral.html">Harriss spiral</a>
++ <a href="http://www.kevs3d.co.uk/dev/lsystems/">Full-featured L-systems app</a>
++ <a href="https://en.wikipedia.org/wiki/List_of_fractals_by_Hausdorff_dimension">Hausdorff fractals list</a>
++ <a href="https://en.wikipedia.org/wiki/Abelian_sandpile_model">Abelian sandpiles</a>
++ <a href="https://en.wikipedia.org/wiki/Koch_snowflake">Koch snowflake</a>
++ <a href="https://en.wikipedia.org/wiki/Sierpinski_carpet">Sierpinski carpet</a>
++ <a href="http://mathworld.wolfram.com/HafermanCarpet.html">Haferman Carpet</a>
++ <a href="https://en.wikipedia.org/wiki/Rose_(mathematics)">Rose</a>
++ <a href="https://en.wikipedia.org/wiki/Chaos_game">Chaos game</a>
++ <a href="https://en.wikipedia.org/wiki/Barnsley_fern">Barnsley Fern</a>
 
 
 ## Visual/animation
-+ [Inspiring](http://zreference.com/projects/graphics/)
-+ [Also inspiring, bit101 dailies](https://bit101.github.io/lab/dailies/170413.html)
-+ [Handbook of Graph Drawing and Visualization](https://cs.brown.edu/~rt/gdhandbook/)
++ <a href="http://zreference.com/projects/graphics/">Inspiring</a>
++ <a href="https://bit101.github.io/lab/dailies/170413.html">Also inspiring, bit101 dailies</a>
++ <a href="https://cs.brown.edu/~rt/gdhandbook/">Handbook of Graph Drawing and Visualization</a>
 + Convex hull:
-  + [https://en.wikipedia.org/wiki/Convex_hull_algorithms](https://en.wikipedia.org/wiki/Convex\_hull\_algorithms)
-  + [https://en.wikipedia.org/wiki/Orthogonal_convex_hull](https://en.wikipedia.org/wiki/Orthogonal\_convex\_hull)
+  + <a href="https://en.wikipedia.org/wiki/Convex_hull_algorithms">https://en.wikipedia.org/wiki/Convex_hull_algorithms</a>
+  + <a href="https://en.wikipedia.org/wiki/Orthogonal_convex_hull">https://en.wikipedia.org/wiki/Orthogonal_convex_hull</a>
 + Delaunay triangulation:
-  + [https://transcendentcode.wordpress.com/2014/01/26/triangulation/](https://transcendentcode.wordpress.com/2014/01/26/triangulation/)
-  + [https://en.wikipedia.org/wiki/Delaunay_triangulation](https://en.wikipedia.org/wiki/Delaunay\_triangulation)
-  + [http://www.cs.uu.nl/docs/vakken/ga/slides9alt.pdf](http://www.cs.uu.nl/docs/vakken/ga/slides9alt.pdf)
-  + [http://www.geom.uiuc.edu/~samuelp/del_project.html#algorithms](http://www.geom.uiuc.edu/~samuelp/del\_project.html#algorithms)
-  + [https://en.wikipedia.org/wiki/Voronoi_diagram#Algorithms](https://en.wikipedia.org/wiki/Voronoi\_diagram#Algorithms)
-+ [Graph drawing](https://en.wikipedia.org/wiki/Graph\_drawing)
+  + <a href="https://transcendentcode.wordpress.com/2014/01/26/triangulation/">https://transcendentcode.wordpress.com/2014/01/26/triangulation/</a>
+  + <a href="https://en.wikipedia.org/wiki/Delaunay_triangulation">https://en.wikipedia.org/wiki/Delaunay_triangulation</a>
+  + <a href="http://www.cs.uu.nl/docs/vakken/ga/slides9alt.pdf">http://www.cs.uu.nl/docs/vakken/ga/slides9alt.pdf</a>
+  + <a href="http://www.geom.uiuc.edu/~samuelp/del_project.html#algorithms">http://www.geom.uiuc.edu/~samuelp/del_project.html#algorithms</a>
+  + <a href="https://en.wikipedia.org/wiki/Voronoi_diagram#Algorithms">https://en.wikipedia.org/wiki/Voronoi_diagram#Algorithms</a>
++ <a href="https://en.wikipedia.org/wiki/Graph_drawing">Graph drawing</a>
 + Isometric:
-  + [https://stackoverflow.com/questions/892811/drawing-isometric-game-worlds](https://stackoverflow.com/questions/892811/drawing-isometric-game-worlds)
-  + [http://www.gamedesign.jp/flash/slidingblock/slidingblock.html](http://www.gamedesign.jp/flash/slidingblock/slidingblock.html)
-+ [goto80 ASCII art](http://goto80.com/chipflip/06/)
-+ [Fibonacci spiral](https://en.wikipedia.org/wiki/Fibonacci\_number)
+  + <a href="https://stackoverflow.com/questions/892811/drawing-isometric-game-worlds">https://stackoverflow.com/questions/892811/drawing-isometric-game-worlds</a>
+  + <a href="http://www.gamedesign.jp/flash/slidingblock/slidingblock.html">http://www.gamedesign.jp/flash/slidingblock/slidingblock.html</a>
++ <a href="http://goto80.com/chipflip/06/">goto80 ASCII art</a>
++ <a href="https://en.wikipedia.org/wiki/Fibonacci_number">Fibonacci spiral</a>
 + Architecture: look for triangle perspective designs, Escher: https://s-media-cache-ak0.pinimg.com/564x/d6/ff/64/d6ff6450173c6410c919b06e07958227.jpg
 + Do a visual plotting the orthocenter, medicenter, and circumcenter of a triangle
 + Write a script that turns text into blocky ASCII text or renders images in ASCII
-+ [ThreeJS](https://threejs.org/)
-+ [JSXGraph](https://jsxgraph.uni-bayreuth.de/wiki/index.php/Category:Examples)
++ <a href="https://threejs.org/">ThreeJS</a>
++ <a href="https://jsxgraph.uni-bayreuth.de/wiki/index.php/Category:Examples">JSXGraph</a>
 + Animated sorts and searches (and other algorithms)
-+ [WebGL tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL\_API/Tutorial)
-+ [entibo examples/inspiration](http://entibo.fr/)
++ <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial">WebGL tutorial</a>
++ <a href="http://entibo.fr/">entibo examples/inspiration</a>
 + Bezier Curves:
-  + [A Primer on Bezier Curves](https://pomax.github.io/bezierinfo/)
-  + [Bezier curve tool](http://www.victoriakirst.com/beziertool/)
+  + <a href="https://pomax.github.io/bezierinfo/">A Primer on Bezier Curves</a>
+  + <a href="http://www.victoriakirst.com/beziertool/">Bezier curve tool</a>
   + Chaining Bezier curves:
-    + [http://html5tutorial.com/how-to-join-two-bezier-curves-with-the-canvas-api/](http://html5tutorial.com/how-to-join-two-bezier-curves-with-the-canvas-api/)
-    + [http://www.algosome.com/articles/continuous-bezier-curve-line.html](http://www.algosome.com/articles/continuous-bezier-curve-line.html)
-    + [https://stackoverflow.com/questions/12295773/joining-two-b%C3%A9zier-curves-smoothly-c2-continuous](https://stackoverflow.com/questions/12295773/joining-two-b%C3%A9zier-curves-smoothly-c2-continuous)
-    + [https://www.cl.cam.ac.uk/teaching/2000/AGraphHCI/SMEG/node3.html](https://www.cl.cam.ac.uk/teaching/2000/AGraphHCI/SMEG/node3.html)
-    + [https://en.wikipedia.org/wiki/Composite_B%C3%A9zier_curve](https://en.wikipedia.org/wiki/Composite\_B%C3%A9zier\_curve)
-    + [https://www.cs.mtu.edu/~shene/COURSES/cs3621/NOTES/spline/Bezier/bezier-der.html](https://www.cs.mtu.edu/~shene/COURSES/cs3621/NOTES/spline/Bezier/bezier-der.html)
-+ [Splines intro](https://www.ibiblio.org/e-notes/Splines/Intro.htm)
-+ [Canvas stack](http://arc.id.au/CanvasLayers.html)
-+ [Create gif from a canvas animation](https://stackoverflow.com/questions/10486084/generate-animated-gif-with-html5-canvas)
+    + <a href="http://html5tutorial.com/how-to-join-two-bezier-curves-with-the-canvas-api/">http://html5tutorial.com/how-to-join-two-bezier-curves-with-the-canvas-api/</a>
+    + <a href="http://www.algosome.com/articles/continuous-bezier-curve-line.html">http://www.algosome.com/articles/continuous-bezier-curve-line.html</a>
+    + <a href="https://stackoverflow.com/questions/12295773/joining-two-b%C3%A9zier-curves-smoothly-c2-continuous">https://stackoverflow.com/questions/12295773/joining-two-b%C3%A9zier-curves-smoothly-c2-continuous</a>
+    + <a href="https://www.cl.cam.ac.uk/teaching/2000/AGraphHCI/SMEG/node3.html">https://www.cl.cam.ac.uk/teaching/2000/AGraphHCI/SMEG/node3.html</a>
+    + <a href="https://en.wikipedia.org/wiki/Composite_B%C3%A9zier_curve">https://en.wikipedia.org/wiki/Composite_B%C3%A9zier_curve</a>
+    + <a href="https://www.cs.mtu.edu/~shene/COURSES/cs3621/NOTES/spline/Bezier/bezier-der.html">https://www.cs.mtu.edu/~shene/COURSES/cs3621/NOTES/spline/Bezier/bezier-der.html</a>
++ <a href="https://www.ibiblio.org/e-notes/Splines/Intro.htm">Splines intro</a>
++ <a href="http://arc.id.au/CanvasLayers.html">Canvas stack</a>
++ <a href="https://stackoverflow.com/questions/10486084/generate-animated-gif-with-html5-canvas">Create gif from a canvas animation</a>
 + Animate the Collatz Conjecture
-+ [ReCode Project (computer art repository)](http://recodeproject.com)
-+ [CompArt](http://dada.compart-bremen.de)
-+ [The Algorists](http://algorists.org/algorist.html)
-+ [Sol LeWitt](https://en.wikipedia.org/wiki/Sol\_LeWitt)
-+ [3d sombrero and other algorithms](http://js.do/blog/processing/sombrero-3d/)
-+ [Necessary Disorder](https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/)
-+ [Mr. Doob three.js collection](http://mrdoob.com/)
++ <a href="http://recodeproject.com">ReCode Project (computer art repository)</a>
++ <a href="http://dada.compart-bremen.de">CompArt</a>
++ <a href="http://algorists.org/algorist.html">The Algorists</a>
++ <a href="https://en.wikipedia.org/wiki/Sol_LeWitt">Sol LeWitt</a>
++ <a href="http://js.do/blog/processing/sombrero-3d/">3d sombrero and other algorithms</a>
++ <a href="https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/">Necessary Disorder</a>
++ <a href="http://mrdoob.com/">Mr. Doob three.js collection</a>
 
 
 ## Tiling and packing
-+ [Lubachevsky packing algorithm](https://en.wikipedia.org/wiki/Lubachevsky%E2%80%93Stillinger\_algorithm)
-+ [Jason Davies](https://www.jasondavies.com/)
-+ [Rhombile tiling](https://en.wikipedia.org/wiki/Rhombille\_tiling)
-+ [Tangrams](https://en.wikipedia.org/wiki/Tangram)
-+ [Tiling puzzle](https://en.wikipedia.org/wiki/Tiling\_puzzle)
-+ [L-systems in inkscape](https://thebrickinthesky.wordpress.com/2013/03/17/l-systems-and-penrose-p3-in-inkscape)
-+ [Girih tiles](https://en.wikipedia.org/wiki/Girih\_tiles)
-+ [Wallpaper group](https://en.wikipedia.org/wiki/Wallpaper\_group)
-+ [Morphing Tiling](https://morphingtiling.wordpress.com/page/2/)
-+ [Transcendent Code](https://transcendentcode.wordpress.com/)
++ <a href="https://en.wikipedia.org/wiki/Lubachevsky%E2%80%93Stillinger_algorithm">Lubachevsky packing algorithm</a>
++ <a href="https://www.jasondavies.com/">Jason Davies</a>
++ <a href="https://en.wikipedia.org/wiki/Rhombille_tiling">Rhombile tiling</a>
++ <a href="https://en.wikipedia.org/wiki/Tangram">Tangrams</a>
++ <a href="https://en.wikipedia.org/wiki/Tiling_puzzle">Tiling puzzle</a>
++ <a href="https://thebrickinthesky.wordpress.com/2013/03/17/l-systems-and-penrose-p3-in-inkscape">L-systems in inkscape</a>
++ <a href="https://en.wikipedia.org/wiki/Girih_tiles">Girih tiles</a>
++ <a href="https://en.wikipedia.org/wiki/Wallpaper_group">Wallpaper group</a>
++ <a href="https://morphingtiling.wordpress.com/page/2/">Morphing Tiling</a>
++ <a href="https://transcendentcode.wordpress.com/">Transcendent Code</a>
 + Penrose tiling:
-  + [http://preshing.com/20110831/penrose-tiling-explained/](http://preshing.com/20110831/penrose-tiling-explained/)
-  + [http://www.math.ubc.ca/~cass/courses/m308-02b/projects/schweber/penrose.html](http://www.math.ubc.ca/~cass/courses/m308-02b/projects/schweber/penrose.html)
-+ [Substitution tiling](https://en.wikipedia.org/wiki/Substitution\_tiling)
-+ ["Isometic" JS example](http://jsfiddle.net/a4ZbG/)
-+ [Triaki's](https://en.wikipedia.org/wiki/Truncated\_hexagonal\_tiling#Triakis\_triangular\_tiling)
-+ [Litema](https://en.wikipedia.org/wiki/Litema)
-+ [Kuba textiles](https://en.wikipedia.org/wiki/Kuba\_textiles)
-+ [Circle packing flickr](https://www.flickr.com/photos/quasimondo/albums/72157624374940604)
+  + <a href="http://preshing.com/20110831/penrose-tiling-explained/">http://preshing.com/20110831/penrose-tiling-explained/</a>
+  + <a href="http://www.math.ubc.ca/~cass/courses/m308-02b/projects/schweber/penrose.html">http://www.math.ubc.ca/~cass/courses/m308-02b/projects/schweber/penrose.html</a>
++ <a href="https://en.wikipedia.org/wiki/Substitution_tiling">Substitution tiling</a>
++ <a href="http://jsfiddle.net/a4ZbG/">"Isometic" JS example</a>
++ <a href="https://en.wikipedia.org/wiki/Truncated_hexagonal_tiling#Triakis_triangular_tiling">Triaki's</a>
++ <a href="https://en.wikipedia.org/wiki/Litema">Litema</a>
++ <a href="https://en.wikipedia.org/wiki/Kuba_textiles">Kuba textiles</a>
++ <a href="https://www.flickr.com/photos/quasimondo/albums/72157624374940604">Circle packing flickr</a>
 
 
 ## Physics simulations
-+ [Falling sand game](https://en.wikipedia.org/wiki/Falling-sand\_game)
-+ [Cloth physics](http://andrew.wang-hoyer.com/experiments/cloth/)
-+ [Verlet integration](https://www.youtube.com/watch?v=3HjO\_RGIjCU)
-+ [Ragdoll physics](https://en.wikipedia.org/wiki/Ragdoll\_physics)
-+ [Coding math tutorial](https://www.youtube.com/watch?v=11ZmRlR7sOQ)
-+ [Khan Academy natural simulations course](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-vectors/p/project-computational-creatures)
++ <a href="https://en.wikipedia.org/wiki/Falling-sand_game">Falling sand game</a>
++ <a href="http://andrew.wang-hoyer.com/experiments/cloth/">Cloth physics</a>
++ <a href="https://www.youtube.com/watch?v=3HjO_RGIjCU">Verlet integration</a>
++ <a href="https://en.wikipedia.org/wiki/Ragdoll_physics">Ragdoll physics</a>
++ <a href="https://www.youtube.com/watch?v=11ZmRlR7sOQ">Coding math tutorial</a>
++ <a href="https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-vectors/p/project-computational-creatures">Khan Academy natural simulations course</a>
 + Double pendulum:
-  + [Coding challenge 93](https://www.youtube.com/watch?v=uWzPe\_S-RVE&t=0s&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH&index=131)
-  + [https://en.wikipedia.org/wiki/Double_pendulum](https://en.wikipedia.org/wiki/Double\_pendulum)
-  + [https://www.youtube.com/watch?v=neh86u7_TIk](https://www.youtube.com/watch?v=neh86u7\_TIk)
-+ [Game physics cookbook](http://proquest.safaribooksonline.com/9781787123663)
-+ [Jansen's linkage](https://en.wikipedia.org/wiki/Jansen%27s\_linkage)
-+ [Nature in Code book](https://leanpub.com/natureincode)
-+ [Brief intro to sin & cos](https://inventwithpython.com/blog/2012/07/18/using-trigonometry-to-animate-bounces-draw-clocks-and-point-cannons-at-a-target/)
-+ [and another intro to sin & cos with some mode 7 content](http://www.helixsoft.nl/articles/circle/sincos.htm)
-+ [Circles bouncing off lines tutorial](https://circles-bouncing-off-lines.glitch.me/docs/circles-bouncing-off-lines.html)
-+ [Mary Rose Cook](https://maryrosecook.com/)
-+ [Flocking behaviors](http://harry.me/blog/2011/02/17/neat-algorithms-flocking/)
-+ [Math for game developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
-+ [Variety of pathfinding tutorials](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
-+ [Blobs](http://www.futuredatalab.com/blobfamily/)
-+ [Simple 2d physics engine](https://www.ibm.com/developerworks/library/wa-build2dphysicsengine/)
-+ [2d physics engine 3 part tutorial](http://hugobdesigner.blogspot.com/)
+  + <a href="https://www.youtube.com/watch?v=uWzPe_S-RVE&t=0s&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH&index=131">Coding challenge 93</a>
+  + <a href="https://en.wikipedia.org/wiki/Double_pendulum">https://en.wikipedia.org/wiki/Double_pendulum</a>
+  + <a href="https://www.youtube.com/watch?v=neh86u7_TIk">https://www.youtube.com/watch?v=neh86u7_TIk</a>
++ <a href="http://proquest.safaribooksonline.com/9781787123663">Game physics cookbook</a>
++ <a href="https://en.wikipedia.org/wiki/Jansen%27s_linkage">Jansen's linkage</a>
++ <a href="https://leanpub.com/natureincode">Nature in Code book</a>
++ <a href="https://inventwithpython.com/blog/2012/07/18/using-trigonometry-to-animate-bounces-draw-clocks-and-point-cannons-at-a-target/">Brief intro to sin & cos</a>
++ <a href="http://www.helixsoft.nl/articles/circle/sincos.htm">and another intro to sin & cos with some mode 7 content</a>
++ <a href="https://circles-bouncing-off-lines.glitch.me/docs/circles-bouncing-off-lines.html">Circles bouncing off lines tutorial</a>
++ <a href="https://maryrosecook.com/">Mary Rose Cook</a>
++ <a href="http://harry.me/blog/2011/02/17/neat-algorithms-flocking/">Flocking behaviors</a>
++ <a href="https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My">Math for game developers</a>
++ <a href="https://www.redblobgames.com/pathfinding/a-star/introduction.html">Variety of pathfinding tutorials</a>
++ <a href="http://www.futuredatalab.com/blobfamily/">Blobs</a>
++ <a href="https://www.ibm.com/developerworks/library/wa-build2dphysicsengine/">Simple 2d physics engine</a>
++ <a href="http://hugobdesigner.blogspot.com/">2d physics engine 3 part tutorial</a>
 + Collision detection:
-  + [http://www.dyn4j.org/2010/01/sat/](http://www.dyn4j.org/2010/01/sat/)
-  + [https://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169](https://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169)
-  + [https://wildbunny.co.uk/blog/2011/04/20/collision-detection-for-dummies/](https://wildbunny.co.uk/blog/2011/04/20/collision-detection-for-dummies/)
-  + [http://blog.theliuy.com/determine-if-two-rotated-rectangles-overlap-each-other/](http://blog.theliuy.com/determine-if-two-rotated-rectangles-overlap-each-other/)
-  + [https://www.codeproject.com/Articles/15573/2D-Polygon-Collision-Detection](https://www.codeproject.com/Articles/15573/2D-Polygon-Collision-Detection)
-  + [https://stackoverflow.com/questions/10962379/how-to-check-intersection-between-2-rotated-rectangles/12414951#12414951](https://stackoverflow.com/questions/10962379/how-to-check-intersection-between-2-rotated-rectangles/12414951#12414951)
-  + [https://github.com/antishow/collision-demo/tree/master/library/js/src](https://github.com/antishow/collision-demo/tree/master/library/js/src)
-  + [http://paulbourke.net/fractals/randomtile/](http://paulbourke.net/fractals/randomtile/)
-  + [https://maryrosecook.com/blog/post/how-to-do-2d-collision-detection](https://maryrosecook.com/blog/post/how-to-do-2d-collision-detection)
-  + [http://www.metanetsoftware.com/technique/tutorialA.html](http://www.metanetsoftware.com/technique/tutorialA.html)
-  + [http://www.migapro.com/circle-and-rotated-rectangle-collision-detection/](http://www.migapro.com/circle-and-rotated-rectangle-collision-detection/)
-  + [https://gist.github.com/eliasdaler/502b54fcf1b515bcc50360ce874e81bc](https://gist.github.com/eliasdaler/502b54fcf1b515bcc50360ce874e81bc)
-  + [https://gist.github.com/cwleonard/e124d63238bda7a3cbfa](https://gist.github.com/cwleonard/e124d63238bda7a3cbfa)
-  + [https://gist.github.com/LindseyB/394536](https://gist.github.com/LindseyB/394536)
-  + [https://gist.github.com/enghqii/5af2512ced10849016e635fcf2d15d29](https://gist.github.com/enghqii/5af2512ced10849016e635fcf2d15d29)
-  + [https://github.com/tetoblivion/Collision_response_with_rotation/blob/master/respondToCollision.cpp](https://github.com/tetoblivion/Collision\_response\_with\_rotation/blob/master/respondToCollision.cpp)
-  + [https://gamedev.stackexchange.com/questions/32611/what-is-the-best-way-to-handle-simultaneous-collisions-in-a-physics-engine](https://gamedev.stackexchange.com/questions/32611/what-is-the-best-way-to-handle-simultaneous-collisions-in-a-physics-engine)
+  + <a href="http://www.dyn4j.org/2010/01/sat/">http://www.dyn4j.org/2010/01/sat/</a>
+  + <a href="https://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169">https://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169</a>
+  + <a href="https://wildbunny.co.uk/blog/2011/04/20/collision-detection-for-dummies/">https://wildbunny.co.uk/blog/2011/04/20/collision-detection-for-dummies/</a>
+  + <a href="http://blog.theliuy.com/determine-if-two-rotated-rectangles-overlap-each-other/">http://blog.theliuy.com/determine-if-two-rotated-rectangles-overlap-each-other/</a>
+  + <a href="https://www.codeproject.com/Articles/15573/2D-Polygon-Collision-Detection">https://www.codeproject.com/Articles/15573/2D-Polygon-Collision-Detection</a>
+  + <a href="https://stackoverflow.com/questions/10962379/how-to-check-intersection-between-2-rotated-rectangles/12414951#12414951">https://stackoverflow.com/questions/10962379/how-to-check-intersection-between-2-rotated-rectangles/12414951#12414951</a>
+  + <a href="https://github.com/antishow/collision-demo/tree/master/library/js/src">https://github.com/antishow/collision-demo/tree/master/library/js/src</a>
+  + <a href="http://paulbourke.net/fractals/randomtile/">http://paulbourke.net/fractals/randomtile/</a>
+  + <a href="https://maryrosecook.com/blog/post/how-to-do-2d-collision-detection">https://maryrosecook.com/blog/post/how-to-do-2d-collision-detection</a>
+  + <a href="http://www.metanetsoftware.com/technique/tutorialA.html">http://www.metanetsoftware.com/technique/tutorialA.html</a>
+  + <a href="http://www.migapro.com/circle-and-rotated-rectangle-collision-detection/">http://www.migapro.com/circle-and-rotated-rectangle-collision-detection/</a>
+  + <a href="https://gist.github.com/eliasdaler/502b54fcf1b515bcc50360ce874e81bc">https://gist.github.com/eliasdaler/502b54fcf1b515bcc50360ce874e81bc</a>
+  + <a href="https://gist.github.com/cwleonard/e124d63238bda7a3cbfa">https://gist.github.com/cwleonard/e124d63238bda7a3cbfa</a>
+  + <a href="https://gist.github.com/LindseyB/394536">https://gist.github.com/LindseyB/394536</a>
+  + <a href="https://gist.github.com/enghqii/5af2512ced10849016e635fcf2d15d29">https://gist.github.com/enghqii/5af2512ced10849016e635fcf2d15d29</a>
+  + <a href="https://github.com/tetoblivion/Collision_response_with_rotation/blob/master/respondToCollision.cpp">https://github.com/tetoblivion/Collision_response_with_rotation/blob/master/respondToCollision.cpp</a>
+  + <a href="https://gamedev.stackexchange.com/questions/32611/what-is-the-best-way-to-handle-simultaneous-collisions-in-a-physics-engine">https://gamedev.stackexchange.com/questions/32611/what-is-the-best-way-to-handle-simultaneous-collisions-in-a-physics-engine</a>
 + Quadtrees:
-  + [https://en.wikipedia.org/wiki/Quadtree](https://en.wikipedia.org/wiki/Quadtree)
-  + [https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374](https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374)
+  + <a href="https://en.wikipedia.org/wiki/Quadtree">https://en.wikipedia.org/wiki/Quadtree</a>
+  + <a href="https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374">https://gamedevelopment.tutsplus.com/tutorials/quick-tip-use-quadtrees-to-detect-likely-collisions-in-2d-space--gamedev-374</a>
 
 
 ## Regex
-+ [write a regex engine](https://rcoh.me/posts/no-magic-regular-expressions/)
-+ [https://www.regular-expressions.info/refadv.html](https://www.regular-expressions.info/refadv.html)
++ <a href="https://rcoh.me/posts/no-magic-regular-expressions/">write a regex engine</a>
++ <a href="https://www.regular-expressions.info/refadv.html">https://www.regular-expressions.info/refadv.html</a>
 
 
 ## Cryptography
-+ [http://security.stackexchange.com/questions/45963/diffie-hellman-key-exchange-in-plain-english](http://security.stackexchange.com/questions/45963/diffie-hellman-key-exchange-in-plain-english)
++ <a href="http://security.stackexchange.com/questions/45963/diffie-hellman-key-exchange-in-plain-english">http://security.stackexchange.com/questions/45963/diffie-hellman-key-exchange-in-plain-english</a>
 
 
 ## Machine learning
-+ [Deep Learning book](http://www.deeplearningbook.org/)
-+ [wasd12345 on GitHub](https://github.com/wasd12345)
++ <a href="http://www.deeplearningbook.org/">Deep Learning book</a>
++ <a href="https://github.com/wasd12345">wasd12345 on GitHub</a>
 
 
 ## Data science
 + Inspirational projects:
-  + [https://douweosinga.com/projects/](https://douweosinga.com/projects/)
+  + <a href="https://douweosinga.com/projects/">https://douweosinga.com/projects/</a>
 
 
 ## Web development
 + Jekyll blog:
-  + [https://www.youtube.com/watch?v=xdxfyFS3pog](https://www.youtube.com/watch?v=xdxfyFS3pog)
-  + [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/)
-+ [Bitballoon for hosting web apps](https://www.bitballoon.com)
+  + <a href="https://www.youtube.com/watch?v=xdxfyFS3pog">https://www.youtube.com/watch?v=xdxfyFS3pog</a>
+  + <a href="https://jekyllrb.com/docs/installation/">https://jekyllrb.com/docs/installation/</a>
++ <a href="https://www.bitballoon.com">Bitballoon for hosting web apps</a>
 
 
 ## CSS
 + Do a Mondrian generator with a CSS grid or JS
-+ [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-+ [Rachel Andrew (CSS grid examples)](https://codepen.io/rachelandrew/pens/public)
-+ [CSS cube](https://davidwalsh.name/css-cube)
++ <a href="https://css-tricks.com/snippets/css/complete-guide-grid/">Grid</a>
++ <a href="https://codepen.io/rachelandrew/pens/public">Rachel Andrew (CSS grid examples)</a>
++ <a href="https://davidwalsh.name/css-cube">CSS cube</a>
 
 
 ## JS
-+ [Dwitter (140 chars or less JS code)](https://www.dwitter.net/)
-+ [30 day vanilla JS challenge](https://javascript30.com/)
++ <a href="https://www.dwitter.net/">Dwitter (140 chars or less JS code)</a>
++ <a href="https://javascript30.com/">30 day vanilla JS challenge</a>
 + Socket.io:
-  + [https://socket.io/get-started/chat/](https://socket.io/get-started/chat/)
-  + [https://hackernoon.com/how-to-build-a-multiplayer-browser-game-4a793818c29b](https://hackernoon.com/how-to-build-a-multiplayer-browser-game-4a793818c29b)
-  + [http://www.dynetisgames.com/2017/03/06/how-to-make-a-multiplayer-online-game-with-phaser-socket-io-and-node-js/](http://www.dynetisgames.com/2017/03/06/how-to-make-a-multiplayer-online-game-with-phaser-socket-io-and-node-js/)
-+ [JS todo list](http://docs.railsbridge.org/javascript-to-do-list/adding\_an\_item)
+  + <a href="https://socket.io/get-started/chat/">https://socket.io/get-started/chat/</a>
+  + <a href="https://hackernoon.com/how-to-build-a-multiplayer-browser-game-4a793818c29b">https://hackernoon.com/how-to-build-a-multiplayer-browser-game-4a793818c29b</a>
+  + <a href="http://www.dynetisgames.com/2017/03/06/how-to-make-a-multiplayer-online-game-with-phaser-socket-io-and-node-js/">http://www.dynetisgames.com/2017/03/06/how-to-make-a-multiplayer-online-game-with-phaser-socket-io-and-node-js/</a>
++ <a href="http://docs.railsbridge.org/javascript-to-do-list/adding_an_item">JS todo list</a>
 
 
 ## PHP
-+ [PHP Sadness](http://phpsadness.com/)
++ <a href="http://phpsadness.com/">PHP Sadness</a>
 + Sessions/logins:
-  + [http://culttt.com/2013/02/04/how-to-save-php-sessions-to-a-database/](http://culttt.com/2013/02/04/how-to-save-php-sessions-to-a-database/)
-  + [http://shiflett.org/articles/storing-sessions-in-a-database](http://shiflett.org/articles/storing-sessions-in-a-database)
-  + [http://php.net/manual/en/function.session-set-save-handler.php](http://php.net/manual/en/function.session-set-save-handler.php)
-  + [https://www.sitepoint.com/writing-custom-session-handlers/](https://www.sitepoint.com/writing-custom-session-handlers/)
-  + [https://github.com/sprain/PHP-MySQL-Session-Handler/blob/master/MySqlSessionHandler.php](https://github.com/sprain/PHP-MySQL-Session-Handler/blob/master/MySqlSessionHandler.php)
-  + [https://github.com/JamieCressey/PHP-MySQL-Session-Handler](https://github.com/JamieCressey/PHP-MySQL-Session-Handler)
-  + [https://github.com/kahwee/php-db-session-handler](https://github.com/kahwee/php-db-session-handler)
-  + [https://www.allphptricks.com/simple-user-registration-login-script-in-php-and-mysqli/](https://www.allphptricks.com/simple-user-registration-login-script-in-php-and-mysqli/)
-  + [http://www.phpeasystep.com/workshopview.php?id=6](http://www.phpeasystep.com/workshopview.php?id=6)
-  + [http://www.eggslab.net/php-login-script/](http://www.eggslab.net/php-login-script/)
-  + [http://codewithawa.com/posts/admin-and-user-login-in-php-and-mysql-database](http://codewithawa.com/posts/admin-and-user-login-in-php-and-mysql-database)
-  + [https://www.formget.com/login-form-in-php/](https://www.formget.com/login-form-in-php/)
-+ [ZEND framework](https://www.youtube.com/watch?v=m7svJHmgJqs&list=PLF88B6AA17852E52E)
+  + <a href="http://culttt.com/2013/02/04/how-to-save-php-sessions-to-a-database/">http://culttt.com/2013/02/04/how-to-save-php-sessions-to-a-database/</a>
+  + <a href="http://shiflett.org/articles/storing-sessions-in-a-database">http://shiflett.org/articles/storing-sessions-in-a-database</a>
+  + <a href="http://php.net/manual/en/function.session-set-save-handler.php">http://php.net/manual/en/function.session-set-save-handler.php</a>
+  + <a href="https://www.sitepoint.com/writing-custom-session-handlers/">https://www.sitepoint.com/writing-custom-session-handlers/</a>
+  + <a href="https://github.com/sprain/PHP-MySQL-Session-Handler/blob/master/MySqlSessionHandler.php">https://github.com/sprain/PHP-MySQL-Session-Handler/blob/master/MySqlSessionHandler.php</a>
+  + <a href="https://github.com/JamieCressey/PHP-MySQL-Session-Handler">https://github.com/JamieCressey/PHP-MySQL-Session-Handler</a>
+  + <a href="https://github.com/kahwee/php-db-session-handler">https://github.com/kahwee/php-db-session-handler</a>
+  + <a href="https://www.allphptricks.com/simple-user-registration-login-script-in-php-and-mysqli/">https://www.allphptricks.com/simple-user-registration-login-script-in-php-and-mysqli/</a>
+  + <a href="http://www.phpeasystep.com/workshopview.php?id=6">http://www.phpeasystep.com/workshopview.php?id=6</a>
+  + <a href="http://www.eggslab.net/php-login-script/">http://www.eggslab.net/php-login-script/</a>
+  + <a href="http://codewithawa.com/posts/admin-and-user-login-in-php-and-mysql-database">http://codewithawa.com/posts/admin-and-user-login-in-php-and-mysql-database</a>
+  + <a href="https://www.formget.com/login-form-in-php/">https://www.formget.com/login-form-in-php/</a>
++ <a href="https://www.youtube.com/watch?v=m7svJHmgJqs&list=PLF88B6AA17852E52E">ZEND framework</a>
 + AJAX
-  + [http://stackoverflow.com/questions/23980733/jquery-ajax-file-upload-php](http://stackoverflow.com/questions/23980733/jquery-ajax-file-upload-php)
-  + [http://stackoverflow.com/questions/2269307/using-jquery-ajax-to-call-a-php-function](http://stackoverflow.com/questions/2269307/using-jquery-ajax-to-call-a-php-function)
-  + [https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php](https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php)
-  + [ajax/php tutorial](http://www.tizag.com/ajaxTutorial/ajaxxmlhttprequest.php)
-  + [ajax/php mailing list for label](https://www.sitepoint.com/use-ajax-php-build-mailing-list/)
+  + <a href="http://stackoverflow.com/questions/23980733/jquery-ajax-file-upload-php">http://stackoverflow.com/questions/23980733/jquery-ajax-file-upload-php</a>
+  + <a href="http://stackoverflow.com/questions/2269307/using-jquery-ajax-to-call-a-php-function">http://stackoverflow.com/questions/2269307/using-jquery-ajax-to-call-a-php-function</a>
+  + <a href="https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php">https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php</a>
+  + <a href="http://www.tizag.com/ajaxTutorial/ajaxxmlhttprequest.php">ajax/php tutorial</a>
+  + <a href="https://www.sitepoint.com/use-ajax-php-build-mailing-list/">ajax/php mailing list for label</a>
 + Make a simple DIY label CMS; host on Heroku?
 + PHP app to display SFPL paging lists via email:
-  + [https://stackoverflow.com/questions/5342822/php-mail-function-on-localhost](https://stackoverflow.com/questions/5342822/php-mail-function-on-localhost)
-  + [https://github.com/barbushin/php-imap](https://github.com/barbushin/php-imap)
-+ [PHP game scripts](https://www.ibm.com/developerworks/library/os-php-gamescripts1/)
-+ [Websocket chat](https://phppot.com/php/simple-php-chat-using-websocket/)
+  + <a href="https://stackoverflow.com/questions/5342822/php-mail-function-on-localhost">https://stackoverflow.com/questions/5342822/php-mail-function-on-localhost</a>
+  + <a href="https://github.com/barbushin/php-imap">https://github.com/barbushin/php-imap</a>
++ <a href="https://www.ibm.com/developerworks/library/os-php-gamescripts1/">PHP game scripts</a>
++ <a href="https://phppot.com/php/simple-php-chat-using-websocket/">Websocket chat</a>
 
 
 ## Python
-+ [Automate the boring stuff](https://automatetheboringstuff.com/#toc)
-+ [Natural language processing with Python](http://www.nltk.org/book/)
-+ [Pygame](http://inventwithpython.com/pygame/)
-+ [Simple Python graphics library](https://www.rose-hulman.edu/Users/faculty/young/CS-Classes/resources/Python/ZelleGraphics.html)
++ <a href="https://automatetheboringstuff.com/#toc">Automate the boring stuff</a>
++ <a href="http://www.nltk.org/book/">Natural language processing with Python</a>
++ <a href="http://inventwithpython.com/pygame/">Pygame</a>
++ <a href="https://www.rose-hulman.edu/Users/faculty/young/CS-Classes/resources/Python/ZelleGraphics.html">Simple Python graphics library</a>
 + Flask:
-  + [https://exploreflask.com/en/latest/](https://exploreflask.com/en/latest/)
-  + [https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-  + [http://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/](http://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/)
+  + <a href="https://exploreflask.com/en/latest/">https://exploreflask.com/en/latest/</a>
+  + <a href="https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world">https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world</a>
+  + <a href="http://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/">http://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/</a>
 + Python data structures & algorithms
-  + [http://interactivepython.org/runestone/static/pythonds/index.html](http://interactivepython.org/runestone/static/pythonds/index.html)
-  + [http://www.brpreiss.com/books/opus7/](http://www.brpreiss.com/books/opus7/)
-+ [Computer vision with python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision\_CCdraft.pdf)
-+ [Python yield keyword/iterators](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python)
-+ [Effective Python](http://www.effectivepython.com/)
-+ [Python exercises](http://www.ling.gu.se/~lager/python\_exercises.html)
-+ [How to think like a computer scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html)
-+ [Python Challenge](http://pythonchallenge.com/)
+  + <a href="http://interactivepython.org/runestone/static/pythonds/index.html">http://interactivepython.org/runestone/static/pythonds/index.html</a>
+  + <a href="http://www.brpreiss.com/books/opus7/">http://www.brpreiss.com/books/opus7/</a>
++ <a href="http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf">Computer vision with python</a>
++ <a href="http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python">Python yield keyword/iterators</a>
++ <a href="http://www.effectivepython.com/">Effective Python</a>
++ <a href="http://www.ling.gu.se/~lager/python_exercises.html">Python exercises</a>
++ <a href="http://interactivepython.org/courselib/static/thinkcspy/index.html">How to think like a computer scientist</a>
++ <a href="http://pythonchallenge.com/">Python Challenge</a>
 
 
 ## Java
-+ [Google style guide](https://google.github.io/styleguide/javaguide.html)
-+ [Good Java web framework for learning generics](https://struts.apache.org/)
-+ [Edx intro to Java](https://www.edx.org/course/introduction-java-programming-part-2-hkustx-comp102-2x-0)
-+ [Java sorting algorithms](http://java2novice.com/java-sorting-algorithms/)
-+ [Java send HTTP request](http://stackoverflow.com/questions/2793150/using-java-net-urlconnection-to-fire-and-handle-http-requests)
-+ [Java send email](http://stackoverflow.com/questions/3649014/send-email-using-java)
++ <a href="https://google.github.io/styleguide/javaguide.html">Google style guide</a>
++ <a href="https://struts.apache.org/">Good Java web framework for learning generics</a>
++ <a href="https://www.edx.org/course/introduction-java-programming-part-2-hkustx-comp102-2x-0">Edx intro to Java</a>
++ <a href="http://java2novice.com/java-sorting-algorithms/">Java sorting algorithms</a>
++ <a href="http://stackoverflow.com/questions/2793150/using-java-net-urlconnection-to-fire-and-handle-http-requests">Java send HTTP request</a>
++ <a href="http://stackoverflow.com/questions/3649014/send-email-using-java">Java send email</a>
 
 
 ## Ruby
-+ [Why's Poignant Guide to Ruby](http://poignant.guide/book/chapter-6.html)
-+ [Nice Ruby regex tutorial](http://ruby-doc.com/docs/ProgrammingRuby/html/tut\_stdtypes.html)
-+ [Programming Ruby](http://ruby-doc.com/docs/ProgrammingRuby/html/rubyworld.html)
-+ [Rails mailing list](http://aspiringwebdev.com/e-mail-in-rails-with-mailchimp-and-mandrill-a-comprehensive-guide)
++ <a href="http://poignant.guide/book/chapter-6.html">Why's Poignant Guide to Ruby</a>
++ <a href="http://ruby-doc.com/docs/ProgrammingRuby/html/tut_stdtypes.html">Nice Ruby regex tutorial</a>
++ <a href="http://ruby-doc.com/docs/ProgrammingRuby/html/rubyworld.html">Programming Ruby</a>
++ <a href="http://aspiringwebdev.com/e-mail-in-rails-with-mailchimp-and-mandrill-a-comprehensive-guide">Rails mailing list</a>
 
 
 ## C++
-+ [learncpp](http://www.learncpp.com/)
++ <a href="http://www.learncpp.com/">learncpp</a>
 + C++ SFML for games
 
 
 ## C
-+ [Write your own OS](https://wiki.osdev.org/Tutorials)
-+ [Build your own lisp](http://www.buildyourownlisp.com/)
-+ [Beej guide to GDB](https://beej.us/guide/bggdb/)
-+ [C coding standard](https://barrgroup.com/Embedded-Systems/Books/Embedded-C-Coding-Standard)
++ <a href="https://wiki.osdev.org/Tutorials">Write your own OS</a>
++ <a href="http://www.buildyourownlisp.com/">Build your own lisp</a>
++ <a href="https://beej.us/guide/bggdb/">Beej guide to GDB</a>
++ <a href="https://barrgroup.com/Embedded-Systems/Books/Embedded-C-Coding-Standard">C coding standard</a>
 
 
 ## Perl
-+ [Perl data structures cookbook](http://perldoc.perl.org/perldsc.html)
++ <a href="http://perldoc.perl.org/perldsc.html">Perl data structures cookbook</a>
 
 
 ## Unix
-+ [Bandit (learn UNIX)](http://overthewire.org/wargames/bandit/)
-+ [Learn vi](http://learnvimscriptthehardway.stevelosh.com/)
++ <a href="http://overthewire.org/wargames/bandit/">Bandit (learn UNIX)</a>
++ <a href="http://learnvimscriptthehardway.stevelosh.com/">Learn vi</a>
 
 
 ## Scratch/Snap
-+ [Sulfurous](https://sulfurous.aau.at/)
++ <a href="https://sulfurous.aau.at/">Sulfurous</a>
 + make more cellular automata in scratch
 + Useful Scratch reference topics:
-  + [https://wiki.scratch.mit.edu/wiki/Array#Multidimensional_Arrays_in_Scratch](https://wiki.scratch.mit.edu/wiki/Array#Multidimensional\_Arrays\_in\_Scratch)
-  + [https://wiki.scratch.mit.edu/wiki/List_of_Mathematical_Functions_Done_in_Scratch](https://wiki.scratch.mit.edu/wiki/List\_of\_Mathematical\_Functions\_Done\_in\_Scratch)
-  + [https://wiki.scratch.mit.edu/wiki/Recursion_and_Fractals#Creating_the_Koch_Curve](https://wiki.scratch.mit.edu/wiki/Recursion\_and\_Fractals#Creating\_the\_Koch\_Curve)
-+ [Snap instead of Scratch](http://www.ocsmag.com/2016/07/12/dump-scratch-use-blockly-or-snap-instead/)
-+ [Multiwingspan projects](http://www.multiwingspan.co.uk/scratch.php?page=ex1)
+  + <a href="https://wiki.scratch.mit.edu/wiki/Array#Multidimensional_Arrays_in_Scratch">https://wiki.scratch.mit.edu/wiki/Array#Multidimensional_Arrays_in_Scratch</a>
+  + <a href="https://wiki.scratch.mit.edu/wiki/List_of_Mathematical_Functions_Done_in_Scratch">https://wiki.scratch.mit.edu/wiki/List_of_Mathematical_Functions_Done_in_Scratch</a>
+  + <a href="https://wiki.scratch.mit.edu/wiki/Recursion_and_Fractals#Creating_the_Koch_Curve">https://wiki.scratch.mit.edu/wiki/Recursion_and_Fractals#Creating_the_Koch_Curve</a>
++ <a href="http://www.ocsmag.com/2016/07/12/dump-scratch-use-blockly-or-snap-instead/">Snap instead of Scratch</a>
++ <a href="http://www.multiwingspan.co.uk/scratch.php?page=ex1">Multiwingspan projects</a>
 
 
 ## Interview prep
-+ [Women Who Code Interview Prep](https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki)
-+ [Interview questions](https://docs.google.com/document/d/1L2nqcMLxQeFHVd9ZOfgzZTjxWZsJLJe65rAzKfmldsM/edit)
-+ [Interview algorithms and tips](http://meetupresources.herokuapp.com/index.html)
-+ [Assorted interview tips](http://kelukelu.me/interview/questions.html)
++ <a href="https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki">Women Who Code Interview Prep</a>
++ <a href="https://docs.google.com/document/d/1L2nqcMLxQeFHVd9ZOfgzZTjxWZsJLJe65rAzKfmldsM/edit">Interview questions</a>
++ <a href="http://meetupresources.herokuapp.com/index.html">Interview algorithms and tips</a>
++ <a href="http://kelukelu.me/interview/questions.html">Assorted interview tips</a>
 + Gayle McDowell:
-  + [talk at Canadian University Software Engineering Conference](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-  + [Ask Me Anything video (see the top comment with all the links to the individual questions)](https://www.youtube.com/watch?v=1fqxMuPmGak)
-  + [http://www.gayle.com/featured-blog-posts](http://www.gayle.com/featured-blog-posts)
-  + [a good overview of a technical interview (which you get to *after* the algorithm screen)](https://medium.com/@gayle/coding-interviews-and-the-importance-of-perfection-f381e486233e#.3zembxo47)
-  + [https://www.careercup.com](https://www.careercup.com)
+  + <a href="https://www.youtube.com/watch?v=rEJzOhC5ZtQ">talk at Canadian University Software Engineering Conference</a>
+  + <a href="https://www.youtube.com/watch?v=1fqxMuPmGak">Ask Me Anything video (see the top comment with all the links to the individual questions)</a>
+  + <a href="http://www.gayle.com/featured-blog-posts">http://www.gayle.com/featured-blog-posts</a>
+  + <a href="https://medium.com/@gayle/coding-interviews-and-the-importance-of-perfection-f381e486233e#.3zembxo47">a good overview of a technical interview (which you get to *after* the algorithm screen)</a>
+  + <a href="https://www.careercup.com">https://www.careercup.com</a>
 
 
 ## Bots
-+ [Twitter bot hosting](https://botwiki.org/tutorials/twitterbots/)
++ <a href="https://botwiki.org/tutorials/twitterbots/">Twitter bot hosting</a>
 + Tweet image:
-  + [http://stackoverflow.com/questions/24692147/how-to-upload-image-and-status-to-twitter-using-twitter4j](http://stackoverflow.com/questions/24692147/how-to-upload-image-and-status-to-twitter-using-twitter4j)
-  + [https://botwiki.org/tutorials/make-an-image-posting-twitter-bot/](https://botwiki.org/tutorials/make-an-image-posting-twitter-bot/)
+  + <a href="http://stackoverflow.com/questions/24692147/how-to-upload-image-and-status-to-twitter-using-twitter4j">http://stackoverflow.com/questions/24692147/how-to-upload-image-and-status-to-twitter-using-twitter4j</a>
+  + <a href="https://botwiki.org/tutorials/make-an-image-posting-twitter-bot/">https://botwiki.org/tutorials/make-an-image-posting-twitter-bot/</a>
 + Ideas for bots:
   + Chess vote bot with an ongoing game?
-  + [Game bots](http://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117)
-  + [Web crawler](http://scrapy.org/)
+  + <a href="http://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117">Game bots</a>
+  + <a href="http://scrapy.org/">Web crawler</a>
   + Bot where you can teach it words by tweeting @ it
   + Something quote-based like David Markson
 + FB bots:
-  + [http://nodotcom.org/python-facebook-tutorial.html](http://nodotcom.org/python-facebook-tutorial.html)
-  + [http://stackoverflow.com/questions/25400841/jsoup-how-to-get-content-of-facebook-event-page-as-logged-in-user](http://stackoverflow.com/questions/25400841/jsoup-how-to-get-content-of-facebook-event-page-as-logged-in-user)
-  + [http://jodd.org/doc/jerry/facebook-bot.html](http://jodd.org/doc/jerry/facebook-bot.html)
+  + <a href="http://nodotcom.org/python-facebook-tutorial.html">http://nodotcom.org/python-facebook-tutorial.html</a>
+  + <a href="http://stackoverflow.com/questions/25400841/jsoup-how-to-get-content-of-facebook-event-page-as-logged-in-user">http://stackoverflow.com/questions/25400841/jsoup-how-to-get-content-of-facebook-event-page-as-logged-in-user</a>
+  + <a href="http://jodd.org/doc/jerry/facebook-bot.html">http://jodd.org/doc/jerry/facebook-bot.html</a>
 + Tumblr bots:
-  + [https://epicjefferson.wordpress.com/2014/09/28/python-to-tumblr/](https://epicjefferson.wordpress.com/2014/09/28/python-to-tumblr/)
-  + [http://stackoverflow.com/questions/8286352/how-to-save-an-image-locally-using-python-whose-url-address-i-already-know](http://stackoverflow.com/questions/8286352/how-to-save-an-image-locally-using-python-whose-url-address-i-already-know)
-  + [http://verythorough.tumblr.com/post/101348170234/creating-a-twitterbot-in-python](http://verythorough.tumblr.com/post/101348170234/creating-a-twitterbot-in-python)
-+ [Java web robot](https://dadicy.wordpress.com/2007/10/17/how-to-write-a-simple-web-robot-in-java/)
+  + <a href="https://epicjefferson.wordpress.com/2014/09/28/python-to-tumblr/">https://epicjefferson.wordpress.com/2014/09/28/python-to-tumblr/</a>
+  + <a href="http://stackoverflow.com/questions/8286352/how-to-save-an-image-locally-using-python-whose-url-address-i-already-know">http://stackoverflow.com/questions/8286352/how-to-save-an-image-locally-using-python-whose-url-address-i-already-know</a>
+  + <a href="http://verythorough.tumblr.com/post/101348170234/creating-a-twitterbot-in-python">http://verythorough.tumblr.com/post/101348170234/creating-a-twitterbot-in-python</a>
++ <a href="https://dadicy.wordpress.com/2007/10/17/how-to-write-a-simple-web-robot-in-java/">Java web robot</a>
 + Java robot project: play online pianos at http://virtualpiano.net/
 
 
 ## Code golf
-+ [code-golf.io](https://code-golf.io/)
-+ [js1k](https://js1k.com/)
-+ [anarchy golf](http://golf.shinh.org/)
-+ [Perlgolf history](http://terje2.frox25.no-ip.org/perlgolf\_history\_070109.pdf)
++ <a href="https://code-golf.io/">code-golf.io</a>
++ <a href="https://js1k.com/">js1k</a>
++ <a href="http://golf.shinh.org/">anarchy golf</a>
++ <a href="http://terje2.frox25.no-ip.org/perlgolf_history_070109.pdf">Perlgolf history</a>
 
 
 ## Course sites
-+ [Coding the Matrix](http://codingthematrix.com/)
-+ [Egghead](https://egghead.io/)
-+ [Coursera algorithms classes (pts 1 & 2)](https://www.coursera.org/learn/algorithms-part1)
-+ [Nand2Tetris](http://nand2tetris.org/)
-+ [Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/)
-+ [Lynda SFPL](https://www.lynda.com/portal/patron?org=sfpl.org)
-+ ['7 Essential Skills Every New Developer Needs to Learn'](http://www.tweaktown.com/news/46511/7-essential-skills-new-developer-needs-learn/index.html)
++ <a href="http://codingthematrix.com/">Coding the Matrix</a>
++ <a href="https://egghead.io/">Egghead</a>
++ <a href="https://www.coursera.org/learn/algorithms-part1">Coursera algorithms classes (pts 1 & 2)</a>
++ <a href="http://nand2tetris.org/">Nand2Tetris</a>
++ <a href="https://www.udemy.com/the-advanced-web-developer-bootcamp/">Advanced Web Developer Bootcamp</a>
++ <a href="https://www.lynda.com/portal/patron?org=sfpl.org">Lynda SFPL</a>
++ <a href="http://www.tweaktown.com/news/46511/7-essential-skills-new-developer-needs-learn/index.html">'7 Essential Skills Every New Developer Needs to Learn'</a>
 
 ## Algorithmic challenge sites
-  + [Google Code Jam](https://code.google.com/codejam/past-contests)
-    + [Go-Hero](https://www.go-hero.net/jam/16/)  has archive all the past Google Code Jam problems w/ solutions
-  + [Daily Programmer](https://www.reddit.com/r/dailyprogrammer/)
-  + [Math problems](https://www.mathworks.com/matlabcentral/cody/problems)
-  + [Learneroo](https://www.learneroo.com/)
-  + [Topcoder](https://www.topcoder.com/getting-started)
-  + [Hacker Earth](https://www.hackerearth.com/challenges/)
-  + [Code chef](https://www.codechef.com/)
-  + [SPOJ](http://www.spoj.com/)
-  + [Exercism](http://www.exercism.io)
-    + [Talk on exercism](https://www.youtube.com/watch?v=neXJOhHj8ik&index=6&list=PLyGLemjnH3ukTGW8TYCzdu7jQe0U-wEKi)
-  + [Coding Bat](http://codingbat.com)
-  + [Code kata](http://codekata.pragprog.com/)
-  + [Root me](https://www.root-me.org/en/Challenges/Web-Client/Javascript-Native-code)
+  + <a href="https://code.google.com/codejam/past-contests">Google Code Jam</a>
+    + <a href="https://www.go-hero.net/jam/16/">Go-Hero</a>  has archive all the past Google Code Jam problems w/ solutions
+  + <a href="https://www.reddit.com/r/dailyprogrammer/">Daily Programmer</a>
+  + <a href="https://www.mathworks.com/matlabcentral/cody/problems">Math problems</a>
+  + <a href="https://www.learneroo.com/">Learneroo</a>
+  + <a href="https://www.topcoder.com/getting-started">Topcoder</a>
+  + <a href="https://www.hackerearth.com/challenges/">Hacker Earth</a>
+  + <a href="https://www.codechef.com/">Code chef</a>
+  + <a href="http://www.spoj.com/">SPOJ</a>
+  + <a href="http://www.exercism.io">Exercism</a>
+    + <a href="https://www.youtube.com/watch?v=neXJOhHj8ik&index=6&list=PLyGLemjnH3ukTGW8TYCzdu7jQe0U-wEKi">Talk on exercism</a>
+  + <a href="http://codingbat.com">Coding Bat</a>
+  + <a href="http://codekata.pragprog.com/">Code kata</a>
+  + <a href="https://www.root-me.org/en/Challenges/Web-Client/Javascript-Native-code">Root me</a>
 
 
 ## Competitive coding
-+ [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
-+ [Introduction to programming contests](http://web.stanford.edu/class/cs97si/)
-+ [Codeforces](http://codeforces.com/)
-+ [Topcoder](https://www.topcoder.com/community/competitive-programming/)
-+ [Tons of tips & links](http://www.pvv.ntnu.no/~spaans/programming.html)
-+ [Hacking competition for kids](https://picoctf.com/)
++ <a href="https://cses.fi/book/book.pdf">Competitive Programmer's Handbook</a>
++ <a href="http://web.stanford.edu/class/cs97si/">Introduction to programming contests</a>
++ <a href="http://codeforces.com/">Codeforces</a>
++ <a href="https://www.topcoder.com/community/competitive-programming/">Topcoder</a>
++ <a href="http://www.pvv.ntnu.no/~spaans/programming.html">Tons of tips & links</a>
++ <a href="https://picoctf.com/">Hacking competition for kids</a>
 
 
 ## Books
-+ [Definitive C++ book list](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
-+ [Tons of free CS books](http://proquest.safaribooksonline.com/)
++ <a href="https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list">Definitive C++ book list</a>
++ <a href="http://proquest.safaribooksonline.com/">Tons of free CS books</a>
 + "Etudes for Python: Exercises for Programmers" (available on LINK+)
 + "Book of Proof" Hammack
-+ [Think Bayes/DSP/Complexity/OS/etc](http://www.greenteapress.com/thinkbayes/html/index.html)
-+ [Fuzzing book (software testing)](https://www.fuzzingbook.org/)
++ <a href="http://www.greenteapress.com/thinkbayes/html/index.html">Think Bayes/DSP/Complexity/OS/etc</a>
++ <a href="https://www.fuzzingbook.org/">Fuzzing book (software testing)</a>
 
 
 ## Education
-+ [Udacity intro to theoretical CS](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
-+ [FSU Discreet Math I](https://www.math.fsu.edu/~pkirby/mad2104/SlideShow/CourseNotesMAD2104.pdf)
-+ [Jeff Erickson's algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
-+ [MIT OCW Math for CS](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
-+ [UW Data Structures & Algorithms](https://courses.cs.washington.edu/courses/cse326/03wi/326lecturesa.shtml)
++ <a href="https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313">Udacity intro to theoretical CS</a>
++ <a href="https://www.math.fsu.edu/~pkirby/mad2104/SlideShow/CourseNotesMAD2104.pdf">FSU Discreet Math I</a>
++ <a href="http://jeffe.cs.illinois.edu/teaching/algorithms/">Jeff Erickson's algorithms</a>
++ <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/">MIT OCW Math for CS</a>
++ <a href="https://courses.cs.washington.edu/courses/cse326/03wi/326lecturesa.shtml">UW Data Structures & Algorithms</a>
 + SFSU
-  + [http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ms-computer-science/](http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ms-computer-science/)
+  + <a href="http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ms-computer-science/">http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ms-computer-science/</a>
   + Prospective students are welcome to send any questions to the graduate advising assistant at (csgrad@sfsu.edu)
-+ [VT](http://www.vtmit.vt.edu/)
-+ [Bootcamps](http://getcoding.hackreactor.com/remote-part-time)
++ <a href="http://www.vtmit.vt.edu/">VT</a>
++ <a href="http://getcoding.hackreactor.com/remote-part-time">Bootcamps</a>
 + Internships:
-  + [https://www.indeed.com/q-Software-Engineering-Intern-l-San-Francisco-Bay-Area,-CA-jobs.html](https://www.indeed.com/q-Software-Engineering-Intern-l-San-Francisco-Bay-Area,-CA-jobs.html)
-  + [http://www.engineerjobs.com/internships/software-engineering/california/bay-area.php](http://www.engineerjobs.com/internships/software-engineering/california/bay-area.php)
-  + [https://www.smartrecruiters.com/Line2/112808690-web-developer-internship-front-end](https://www.smartrecruiters.com/Line2/112808690-web-developer-internship-front-end)
-+ [Mills](https://www.mills.edu/academics/graduate-programs/computer-science/)
-+ [CSU Fullerton](https://www.calstateonline.net/Cal-State-Campuses/CSU-Fullerton)
-+ [Adv. certif. in web/mobile via SDSU](https://www.ces.sdsu.edu/science-computers-technology/advanced-certificate-web-and-mobile-applications-development)
-+ [USC](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-cs-software-engineering/)
-+ [Northeastern Silicon Valley](http://www.northeastern.edu/siliconvalley/admissions/)
-+ [College choice CS](https://www.collegechoice.net/rankings/best-online-masters-in-computer-science/)
-+ [Recurse non-bootcamp](https://www.recurse.com/)
+  + <a href="https://www.indeed.com/q-Software-Engineering-Intern-l-San-Francisco-Bay-Area,-CA-jobs.html">https://www.indeed.com/q-Software-Engineering-Intern-l-San-Francisco-Bay-Area,-CA-jobs.html</a>
+  + <a href="http://www.engineerjobs.com/internships/software-engineering/california/bay-area.php">http://www.engineerjobs.com/internships/software-engineering/california/bay-area.php</a>
+  + <a href="https://www.smartrecruiters.com/Line2/112808690-web-developer-internship-front-end">https://www.smartrecruiters.com/Line2/112808690-web-developer-internship-front-end</a>
++ <a href="https://www.mills.edu/academics/graduate-programs/computer-science/">Mills</a>
++ <a href="https://www.calstateonline.net/Cal-State-Campuses/CSU-Fullerton">CSU Fullerton</a>
++ <a href="https://www.ces.sdsu.edu/science-computers-technology/advanced-certificate-web-and-mobile-applications-development">Adv. certif. in web/mobile via SDSU</a>
++ <a href="https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-cs-software-engineering/">USC</a>
++ <a href="http://www.northeastern.edu/siliconvalley/admissions/">Northeastern Silicon Valley</a>
++ <a href="https://www.collegechoice.net/rankings/best-online-masters-in-computer-science/">College choice CS</a>
++ <a href="https://www.recurse.com/">Recurse non-bootcamp</a>
 
 
 ## OMSCS
@@ -712,9 +713,9 @@
 
 
 ## CCSF
-+ [CCSF Coders resources page](https://github.com/CCSF-Coders/learning-resources)
-+ [CS department chair career resources](http://fog.ccsf.cc.ca.us/~cpersiko/csDept/NotesCareers.html)
-+ [CS211s notes](https://sites.google.com/site/koalalearn/fa2011/cs211s)
++ <a href="https://github.com/CCSF-Coders/learning-resources">CCSF Coders resources page</a>
++ <a href="http://fog.ccsf.cc.ca.us/~cpersiko/csDept/NotesCareers.html">CS department chair career resources</a>
++ <a href="https://sites.google.com/site/koalalearn/fa2011/cs211s">CS211s notes</a>
 
 ### CCSF courses to take
 + CS   177   Software Engineering
@@ -739,24 +740,24 @@
 + MATH 120   Linear Algebra
 
 ### CCSF certificates I've attained:
-  + [Java](https://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/ComputerProgrammingJavaCertificate.pdf)
-  + [Web application programming](http://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/WebApplicationProgrammingCertificate.pdf)
-  + [Computing skills for scientists](https://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/ComputingSkillsforScientistsCertificate.pdf)
-  + [JS specialist](http://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/JavaScriptSpecialistCertificate.pdf)
-  + [Web site development techniques](http://www.ccsf.edu/content/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/WebSiteDevelopmentTechniquesCertificate.pdf)
-  + [Mobile web app development](http://www.ccsf.edu/content/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/MobileWebAppDevelopmentCertificate.pdf)
+  + <a href="https://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/ComputerProgrammingJavaCertificate.pdf">Java</a>
+  + <a href="http://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/WebApplicationProgrammingCertificate.pdf">Web application programming</a>
+  + <a href="https://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/ComputingSkillsforScientistsCertificate.pdf">Computing skills for scientists</a>
+  + <a href="http://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/JavaScriptSpecialistCertificate.pdf">JS specialist</a>
+  + <a href="http://www.ccsf.edu/content/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/WebSiteDevelopmentTechniquesCertificate.pdf">Web site development techniques</a>
+  + <a href="http://www.ccsf.edu/content/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/MobileWebAppDevelopmentCertificate.pdf">Mobile web app development</a>
 
 
 ## Open source
-+ [Openhatch](https://openhatch.org/search/)
++ <a href="https://openhatch.org/search/">Openhatch</a>
 
 
 ## Fun
-+ [Regex to validate another regex](https://stackoverflow.com/questions/172303/is-there-a-regular-expression-to-detect-a-valid-regular-expression)
-+ [Quine](https://en.wikipedia.org/wiki/Quine\_(computing))
-+ [Hello World in every language](https://github.com/leachim6/hello-world)
-+ [99 bottles of beer in 1500 different languages](http://www.99-bottles-of-beer.net/)
-+ [Tetris written in Conway's Game of Life](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
-+ [FizzBuzz EE](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
-+ [Git man page generator](https://git-man-page-generator.lokaltog.net/)
++ <a href="https://stackoverflow.com/questions/172303/is-there-a-regular-expression-to-detect-a-valid-regular-expression">Regex to validate another regex</a>
++ <a href="https://en.wikipedia.org/wiki/Quine_(computing)">Quine</a>
++ <a href="https://github.com/leachim6/hello-world">Hello World in every language</a>
++ <a href="http://www.99-bottles-of-beer.net/">99 bottles of beer in 1500 different languages</a>
++ <a href="https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life">Tetris written in Conway's Game of Life</a>
++ <a href="https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition">FizzBuzz EE</a>
++ <a href="https://git-man-page-generator.lokaltog.net/">Git man page generator</a>
 + Write a bot that makes patterns in the github commits chart

@@ -13,6 +13,7 @@
 + Organize mp3s: beets.io and https://www.discogs.com/developers/
 + Christopher Alexander's Design Patterns: http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm
 + Operating Systems notes: https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/
++ CS4210 archive: https://www.cc.gatech.edu/classes/AY2010/cs4210_fall/
 + The Logo Foundation: http://el.media.mit.edu/logo-foundation/index.html
 
 
