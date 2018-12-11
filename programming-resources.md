@@ -6,10 +6,10 @@
 
 ## General
 + Inspiration!: https://www.chessprogramming.org/Keith_Gorlen
-+ Various basic programming links: https://anshbansal.wordpress.com/programming-links/
-+ "Programming by Doing" simple projects for students: https://programmingbydoing.com/
-+ Look for projects at: http://rosettacode.org/wiki/Rosetta_Code
 + Bit twiddling hacks: http://graphics.stanford.edu/~seander/bithacks.html
++ Various basic programming links: https://anshbansal.wordpress.com/programming-links/
++ Look for projects at: http://rosettacode.org/wiki/Rosetta_Code
++ "Programming by Doing" simple projects for students: https://programmingbydoing.com/
 + Organize mp3s: beets.io and https://www.discogs.com/developers/
 + Christopher Alexander's Design Patterns: http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm
 + Operating Systems notes: https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/
@@ -101,6 +101,27 @@
 + Life-like cellular automata (incl. Seeds): https://en.wikipedia.org/wiki/Life-like_cellular_automaton
 
 
+## Compilers
++ Stanford compilers course: https://online.stanford.edu/courses/soe-ycscs1-compilers
++ Udacity programming languages course: https://classroom.udacity.com/courses/cs262
++ OMSCS compilers: https://classroom.udacity.com/courses/ud168/lessons/9331262348/concepts/93290028450923
++ Let's build a simple interpreter: https://ruslanspivak.com/lsbasi-part1/
++ Incremental approach to compiler construction: http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf
++ Write a compiler: https://norasandler.com/2017/11/29/Write-a-Compiler.html
++ Crafting Interpreters: http://craftinginterpreters.com/
++ Python interpreter in Python: http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html
++ nearley/moo js: https://nearley.js.org/docs/grammar
++ Compiler books: https://dickgrune.com/
++ Create a simple tokenizer in C#: https://jack-vanlightly.com/blog/2016/2/3/creating-a-simple-tokenizer-lexer-in-c
+
+
+## Esoteric programming languages
++ Cat's Eye: http://catseye.tc/
++ Esolangs.org: https://esolangs.org/wiki/Main_Page
++ Esoteric programming languages: https://en.wikipedia.org/wiki/Esoteric_programming_language
++ Chess in befunge: http://www.frox25.no-ip.org/~mtve/code/eso/bef/chess/
+
+
 ## Game AI
 + IDDFS/single agent search: http://webdocs.cs.ualberta.ca/~jonathan/PREVIOUS/Courses/657/Notes/10.Single-agentSearch.pdf
 + IDA*: https://algorithmsinsight.wordpress.com/graph-theory-2/ida-star-algorithm-in-general/
@@ -128,27 +149,6 @@
   + Make a flood it solver/generator based on above link
 
 
-## Esoteric programming languages
-+ Cat's Eye: http://catseye.tc/
-+ Esolangs.org: https://esolangs.org/wiki/Main_Page
-+ Esoteric programming languages: https://en.wikipedia.org/wiki/Esoteric_programming_language
-+ Chess in befunge: http://www.frox25.no-ip.org/~mtve/code/eso/bef/chess/
-
-
-## Compilers
-+ Stanford compilers course: https://online.stanford.edu/courses/soe-ycscs1-compilers
-+ Udacity programming languages course: https://classroom.udacity.com/courses/cs262
-+ OMSCS compilers: https://classroom.udacity.com/courses/ud168/lessons/9331262348/concepts/93290028450923
-+ Let's build a simple interpreter: https://ruslanspivak.com/lsbasi-part1/
-+ Incremental approach to compiler construction: http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf
-+ Write a compiler: https://norasandler.com/2017/11/29/Write-a-Compiler.html
-+ Crafting Interpreters: http://craftinginterpreters.com/
-+ Python interpreter in Python: http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html
-+ nearley/moo js: https://nearley.js.org/docs/grammar
-+ Compiler books: https://dickgrune.com/
-+ Create a simple tokenizer in C#: https://jack-vanlightly.com/blog/2016/2/3/creating-a-simple-tokenizer-lexer-in-c
-
-
 ## Games
 + List of puzzle video games: https://en.wikipedia.org/wiki/List_of_puzzle_video_games
 + Tile-matching video games: https://en.wikipedia.org/wiki/Tile-matching_video_game
@@ -170,7 +170,6 @@
 + Nim: https://en.wikipedia.org/wiki/Nim
 + Emily's pegs game: http://www.instructables.com/id/Peg-Game-IQ-Test-Solution/
 + Fire & Ice: https://www.youtube.com/watch?v=1t782B0zK3Y
-+ Connect 4
 + Filler/Qualio: https://www.youtube.com/watch?v=WV-rQfYKSGA
 + Tower defense
 + Hexapawn: https://en.wikipedia.org/wiki/Hexapawn
@@ -180,21 +179,22 @@
 + Mancala: https://en.wikipedia.org/wiki/Mancala
 + Jezzball: https://en.wikipedia.org/wiki/JezzBall
 + Freerice clone
-+ Nine Men's Morris: https://en.wikipedia.org/wiki/Nine_Men%27s_Morris
 + Patience: https://en.wikipedia.org/wiki/Patience_(game)
 + Hex: https://en.wikipedia.org/wiki/Hex_(board_game)
-+ Hive
 + Lines of action: https://dke.maastrichtuniversity.nl/m.winands/loa/
 + Boulder Dash: https://en.wikipedia.org/wiki/Boulder_Dash
 + Ultimate tic tac toe or other variants: https://en.wikipedia.org/wiki/Tic-tac-toe_variants
 + Marble Madness: https://en.wikipedia.org/wiki/Marble_Madness
 + Loco-Motion: https://en.wikipedia.org/wiki/Loco-Motion_(video_game)
 + Digger: https://en.wikipedia.org/wiki/Digger_(video_game)
++ Nine Men's Morris: https://en.wikipedia.org/wiki/Nine_Men%27s_Morris
 + Hnefatafl
++ Hive
 + Go
 + 2048
 + Boggle
 + Lemmings
++ Snake: 2 player versions, add obstacles, snake tetris
 + Solved games list: https://en.wikipedia.org/wiki/Solved_game
 + Mastermind: https://en.wikipedia.org/wiki/Mastermind_(board_game)
 + List of abstract strategy games: https://en.wikipedia.org/wiki/List_of_abstract_strategy_games
@@ -203,10 +203,6 @@
   + https://boardgamegeek.com/geeklist/147417/best-checkers-variants
   + http://www.di.fc.ul.pt/~jpn/gv/checkers.htm
   + https://en.wikipedia.org/wiki/Draughts#Invented_variants
-+ Dodge falling objects game with rotation component like super hexagon?
-+ Sidescroller where you build steps to get your dude over obstacles instead of jump button
-+ Try frequency distribution array for card games/poker problem
-+ Snake: 2 player versions, add obstacles
 + ASCII games: 
   + http://ifarchive.org/
   + http://www.8bs.com/othrdnld/manuals/publications.shtml
@@ -270,7 +266,7 @@
 
 
 ## Visual/animation
-+ Inspiring: http://zreference.com/projects/graphics/
++ Inspiring zreference projects: http://zreference.com/projects/graphics/
 + Also inspiring, bit101 dailies: https://bit101.github.io/lab/dailies/170413.html
 + Handbook of Graph Drawing and Visualization: https://cs.brown.edu/~rt/gdhandbook/
 + Convex hull: 
@@ -293,7 +289,6 @@
 + Write a script that turns text into blocky ASCII text or renders images in ASCII
 + ThreeJS: https://threejs.org/
 + JSXGraph: https://jsxgraph.uni-bayreuth.de/wiki/index.php/Category:Examples
-+ Animated sorts and searches (and other algorithms)
 + WebGL tutorial: https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial
 + entibo examples/inspiration: http://entibo.fr/
 + Bezier Curves:
@@ -389,7 +384,7 @@
 
 
 ## Regex 
-+ write a regex engine: https://rcoh.me/posts/no-magic-regular-expressions/
++ Write a regex engine: https://rcoh.me/posts/no-magic-regular-expressions/
 + https://www.regular-expressions.info/refadv.html
 
 
@@ -407,18 +402,23 @@
   + https://douweosinga.com/projects/
 
 
+## C
++ Write your own OS: https://wiki.osdev.org/Tutorials
++ Build your own lisp: http://www.buildyourownlisp.com/
++ Beej guide to GDB: https://beej.us/guide/bggdb/
++ C coding standard: https://barrgroup.com/Embedded-Systems/Books/Embedded-C-Coding-Standard
+
+
+## C++
++ learncpp: http://www.learncpp.com/
++ C++ SFML for games
+
+
 ## Web development
 + Jekyll blog: 
   + https://www.youtube.com/watch?v=xdxfyFS3pog
   + https://jekyllrb.com/docs/installation/
 + Bitballoon for hosting web apps: https://www.bitballoon.com
-
-
-## CSS
-+ Do a Mondrian generator with a CSS grid or JS
-+ Grid: https://css-tricks.com/snippets/css/complete-guide-grid/
-+ Rachel Andrew (CSS grid examples): https://codepen.io/rachelandrew/pens/public
-+ CSS cube: https://davidwalsh.name/css-cube
 
 
 ## JS
@@ -429,6 +429,13 @@
   + https://hackernoon.com/how-to-build-a-multiplayer-browser-game-4a793818c29b
   + http://www.dynetisgames.com/2017/03/06/how-to-make-a-multiplayer-online-game-with-phaser-socket-io-and-node-js/
 + JS todo list: http://docs.railsbridge.org/javascript-to-do-list/adding_an_item
+
+
+## CSS
++ Do a Mondrian generator with a CSS grid or JS
++ Grid: https://css-tricks.com/snippets/css/complete-guide-grid/
++ Rachel Andrew (CSS grid examples): https://codepen.io/rachelandrew/pens/public
++ CSS cube: https://davidwalsh.name/css-cube
 
 
 ## PHP
@@ -453,10 +460,7 @@
   + https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php
   + ajax/php tutorial: http://www.tizag.com/ajaxTutorial/ajaxxmlhttprequest.php
   + ajax/php mailing list for label: https://www.sitepoint.com/use-ajax-php-build-mailing-list/
-+ Make a simple DIY label CMS; host on Heroku?
-+ PHP app to display SFPL paging lists via email:
-  + https://stackoverflow.com/questions/5342822/php-mail-function-on-localhost
-  + https://github.com/barbushin/php-imap 
++ Make a simple DIY label CMS; host on Heroku
 + PHP game scripts: https://www.ibm.com/developerworks/library/os-php-gamescripts1/
 + Websocket chat: https://phppot.com/php/simple-php-chat-using-websocket/
   
@@ -497,18 +501,6 @@
 + Rails mailing list: http://aspiringwebdev.com/e-mail-in-rails-with-mailchimp-and-mandrill-a-comprehensive-guide
 
 
-## C++
-+ learncpp: http://www.learncpp.com/
-+ C++ SFML for games
-
-
-## C
-+ Write your own OS: https://wiki.osdev.org/Tutorials
-+ Build your own lisp: http://www.buildyourownlisp.com/
-+ Beej guide to GDB: https://beej.us/guide/bggdb/
-+ C coding standard: https://barrgroup.com/Embedded-Systems/Books/Embedded-C-Coding-Standard
-
-
 ## Perl
 + Perl data structures cookbook: http://perldoc.perl.org/perldsc.html
 
@@ -520,7 +512,6 @@
 
 ## Scratch/Snap
 + Sulfurous: https://sulfurous.aau.at/
-+ make more cellular automata in scratch
 + Useful Scratch reference topics: 
   + https://wiki.scratch.mit.edu/wiki/Array#Multidimensional_Arrays_in_Scratch
   + https://wiki.scratch.mit.edu/wiki/List_of_Mathematical_Functions_Done_in_Scratch
@@ -530,39 +521,16 @@
 
 
 ## Interview prep
-+ Women Who Code Interview Prep: https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki
 + Interview questions: https://docs.google.com/document/d/1L2nqcMLxQeFHVd9ZOfgzZTjxWZsJLJe65rAzKfmldsM/edit
 + Interview algorithms and tips: http://meetupresources.herokuapp.com/index.html
 + Assorted interview tips: http://kelukelu.me/interview/questions.html
++ Women Who Code Interview Prep: https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki
 + Gayle McDowell:
   + talk at Canadian University Software Engineering Conference: https://www.youtube.com/watch?v=rEJzOhC5ZtQ
   + Ask Me Anything video (see the top comment with all the links to the individual questions): https://www.youtube.com/watch?v=1fqxMuPmGak
   + http://www.gayle.com/featured-blog-posts
   + a good overview of a technical interview (which you get to *after* the algorithm screen): https://medium.com/@gayle/coding-interviews-and-the-importance-of-perfection-f381e486233e#.3zembxo47
   + https://www.careercup.com
-
-
-## Bots
-+ Twitter bot hosting: https://botwiki.org/tutorials/twitterbots/
-+ Tweet image:
-  + http://stackoverflow.com/questions/24692147/how-to-upload-image-and-status-to-twitter-using-twitter4j
-  + https://botwiki.org/tutorials/make-an-image-posting-twitter-bot/  
-+ Ideas for bots:
-  + Chess vote bot with an ongoing game?
-  + Game bots: http://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117
-  + Web crawler: http://scrapy.org/
-  + Bot where you can teach it words by tweeting @ it
-  + Something quote-based like David Markson
-+ FB bots:
-  + http://nodotcom.org/python-facebook-tutorial.html
-  + http://stackoverflow.com/questions/25400841/jsoup-how-to-get-content-of-facebook-event-page-as-logged-in-user
-  + http://jodd.org/doc/jerry/facebook-bot.html
-+ Tumblr bots:
-  + https://epicjefferson.wordpress.com/2014/09/28/python-to-tumblr/
-  + http://stackoverflow.com/questions/8286352/how-to-save-an-image-locally-using-python-whose-url-address-i-already-know
-  + http://verythorough.tumblr.com/post/101348170234/creating-a-twitterbot-in-python
-+ Java web robot: https://dadicy.wordpress.com/2007/10/17/how-to-write-a-simple-web-robot-in-java/
-+ Java robot project: play online pianos at http://virtualpiano.net/
 
 
 ## Code golf
@@ -580,6 +548,7 @@
 + Advanced Web Developer Bootcamp: https://www.udemy.com/the-advanced-web-developer-bootcamp/
 + Lynda SFPL: https://www.lynda.com/portal/patron?org=sfpl.org
 + '7 Essential Skills Every New Developer Needs to Learn': http://www.tweaktown.com/news/46511/7-essential-skills-new-developer-needs-learn/index.html
+
 
 ## Algorithmic challenge sites
   + Google Code Jam: https://code.google.com/codejam/past-contests
@@ -644,12 +613,12 @@
 
 ### Tier 1
 + CS 6210 Advanced Operating Systems (https://www.udacity.com/wiki/ud156-readings)
-+ CS 6291 Embedded System Optimization
 + CS 6290 High Performance Computer Architecture
-+ CS 6460 Educational Technology (foundational requirements met--summer '19? autograder or block/turtle/ascii drawing language?)
++ CS 6291 Embedded System Optimization
++ CS 6460 Educational Technology
 + CS 6515 Graduate Algorithms
-+ CS 6250 Computer Networks (networking)
 + CS 7637 Knowledge Based AI
++ CS 6250 Computer Networks (networking)
 + CS 6340 Software Analysis and Test
 + CS 8803 O08: Special Topics Compilers- Theory & Practice (non-core)
  
@@ -668,7 +637,6 @@
 
 ## CCSF
 + CCSF Coders resources page: https://github.com/CCSF-Coders/learning-resources
-+ CS department chair career resources: http://fog.ccsf.cc.ca.us/~cpersiko/csDept/NotesCareers.html
 + CS211s notes: https://sites.google.com/site/koalalearn/fa2011/cs211s
 
 ### CCSF courses to take

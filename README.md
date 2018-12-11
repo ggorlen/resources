@@ -11,9 +11,9 @@
 7. [Strings/arrays](#strings/arrays)
 8. [Mazes](#mazes)
 9. [Cellular automata](#cellular-automata)
-10. [Game AI](#game-ai)
+10. [Compilers](#compilers)
 11. [Esoteric programming languages](#esoteric-programming-languages)
-12. [Compilers](#compilers)
+12. [Game AI](#game-ai)
 13. [Games](#games)
 14. [Puzzles](#puzzles)
 15. [Fractals and L-systems](#fractals-and-l-systems)
@@ -24,38 +24,37 @@
 20. [Cryptography](#cryptography)
 21. [Machine learning](#machine-learning)
 22. [Data science](#data-science)
-23. [Web development](#web-development)
-24. [CSS](#css)
-25. [JS](#js)
-26. [PHP](#php)
-27. [Python](#python)
-28. [Java](#java)
-29. [Ruby](#ruby)
-30. [C++](#c++)
-31. [C](#c)
+23. [C](#c)
+24. [C++](#c++)
+25. [Web development](#web-development)
+26. [JS](#js)
+27. [CSS](#css)
+28. [PHP](#php)
+29. [Python](#python)
+30. [Java](#java)
+31. [Ruby](#ruby)
 32. [Perl](#perl)
 33. [Unix](#unix)
 34. [Scratch/Snap](#scratch/snap)
 35. [Interview prep](#interview-prep)
-36. [Bots](#bots)
-37. [Code golf](#code-golf)
-38. [Course sites](#course-sites)
-39. [Algorithmic challenge sites](#algorithmic-challenge-sites)
-40. [Competitive coding](#competitive-coding)
-41. [Books](#books)
-42. [Education](#education)
-43. [OMSCS](#omscs)
-44. [CCSF](#ccsf)
-45. [Open source](#open-source)
-46. [Fun](#fun)
+36. [Code golf](#code-golf)
+37. [Course sites](#course-sites)
+38. [Algorithmic challenge sites](#algorithmic-challenge-sites)
+39. [Competitive coding](#competitive-coding)
+40. [Books](#books)
+41. [Education](#education)
+42. [OMSCS](#omscs)
+43. [CCSF](#ccsf)
+44. [Open source](#open-source)
+45. [Fun](#fun)
 
 
 ## General
 + <a href="https://www.chessprogramming.org/Keith_Gorlen">Inspiration!</a>
-+ <a href="https://anshbansal.wordpress.com/programming-links/">Various basic programming links</a>
-+ <a href="https://programmingbydoing.com/">"Programming by Doing" simple projects for students</a>
-+ <a href="http://rosettacode.org/wiki/Rosetta_Code">Look for projects at</a>
 + <a href="http://graphics.stanford.edu/~seander/bithacks.html">Bit twiddling hacks</a>
++ <a href="https://anshbansal.wordpress.com/programming-links/">Various basic programming links</a>
++ <a href="http://rosettacode.org/wiki/Rosetta_Code">Look for projects at</a>
++ <a href="https://programmingbydoing.com/">"Programming by Doing" simple projects for students</a>
 + Organize mp3s: beets.io and https://www.discogs.com/developers/
 + <a href="http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm">Christopher Alexander's Design Patterns</a>
 + <a href="https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/">Operating Systems notes</a>
@@ -147,6 +146,27 @@
 + <a href="https://en.wikipedia.org/wiki/Life-like_cellular_automaton">Life-like cellular automata (incl. Seeds)</a>
 
 
+## Compilers
++ <a href="https://online.stanford.edu/courses/soe-ycscs1-compilers">Stanford compilers course</a>
++ <a href="https://classroom.udacity.com/courses/cs262">Udacity programming languages course</a>
++ <a href="https://classroom.udacity.com/courses/ud168/lessons/9331262348/concepts/93290028450923">OMSCS compilers</a>
++ <a href="https://ruslanspivak.com/lsbasi-part1/">Let's build a simple interpreter</a>
++ <a href="http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf">Incremental approach to compiler construction</a>
++ <a href="https://norasandler.com/2017/11/29/Write-a-Compiler.html">Write a compiler</a>
++ <a href="http://craftinginterpreters.com/">Crafting Interpreters</a>
++ <a href="http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html">Python interpreter in Python</a>
++ <a href="https://nearley.js.org/docs/grammar">nearley/moo js</a>
++ <a href="https://dickgrune.com/">Compiler books</a>
++ <a href="https://jack-vanlightly.com/blog/2016/2/3/creating-a-simple-tokenizer-lexer-in-c">Create a simple tokenizer in C#</a>
+
+
+## Esoteric programming languages
++ <a href="http://catseye.tc/">Cat's Eye</a>
++ <a href="https://esolangs.org/wiki/Main_Page">Esolangs.org</a>
++ <a href="https://en.wikipedia.org/wiki/Esoteric_programming_language">Esoteric programming languages</a>
++ <a href="http://www.frox25.no-ip.org/~mtve/code/eso/bef/chess/">Chess in befunge</a>
+
+
 ## Game AI
 + <a href="http://webdocs.cs.ualberta.ca/~jonathan/PREVIOUS/Courses/657/Notes/10.Single-agentSearch.pdf">IDDFS/single agent search</a>
 + <a href="https://algorithmsinsight.wordpress.com/graph-theory-2/ida-star-algorithm-in-general/">IDA*</a>
@@ -174,27 +194,6 @@
   + Make a flood it solver/generator based on above link
 
 
-## Esoteric programming languages
-+ <a href="http://catseye.tc/">Cat's Eye</a>
-+ <a href="https://esolangs.org/wiki/Main_Page">Esolangs.org</a>
-+ <a href="https://en.wikipedia.org/wiki/Esoteric_programming_language">Esoteric programming languages</a>
-+ <a href="http://www.frox25.no-ip.org/~mtve/code/eso/bef/chess/">Chess in befunge</a>
-
-
-## Compilers
-+ <a href="https://online.stanford.edu/courses/soe-ycscs1-compilers">Stanford compilers course</a>
-+ <a href="https://classroom.udacity.com/courses/cs262">Udacity programming languages course</a>
-+ <a href="https://classroom.udacity.com/courses/ud168/lessons/9331262348/concepts/93290028450923">OMSCS compilers</a>
-+ <a href="https://ruslanspivak.com/lsbasi-part1/">Let's build a simple interpreter</a>
-+ <a href="http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf">Incremental approach to compiler construction</a>
-+ <a href="https://norasandler.com/2017/11/29/Write-a-Compiler.html">Write a compiler</a>
-+ <a href="http://craftinginterpreters.com/">Crafting Interpreters</a>
-+ <a href="http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html">Python interpreter in Python</a>
-+ <a href="https://nearley.js.org/docs/grammar">nearley/moo js</a>
-+ <a href="https://dickgrune.com/">Compiler books</a>
-+ <a href="https://jack-vanlightly.com/blog/2016/2/3/creating-a-simple-tokenizer-lexer-in-c">Create a simple tokenizer in C#</a>
-
-
 ## Games
 + <a href="https://en.wikipedia.org/wiki/List_of_puzzle_video_games">List of puzzle video games</a>
 + <a href="https://en.wikipedia.org/wiki/Tile-matching_video_game">Tile-matching video games</a>
@@ -216,7 +215,6 @@
 + <a href="https://en.wikipedia.org/wiki/Nim">Nim</a>
 + <a href="http://www.instructables.com/id/Peg-Game-IQ-Test-Solution/">Emily's pegs game</a>
 + <a href="https://www.youtube.com/watch?v=1t782B0zK3Y">Fire & Ice</a>
-+ Connect 4
 + <a href="https://www.youtube.com/watch?v=WV-rQfYKSGA">Filler/Qualio</a>
 + Tower defense
 + <a href="https://en.wikipedia.org/wiki/Hexapawn">Hexapawn</a>
@@ -226,21 +224,22 @@
 + <a href="https://en.wikipedia.org/wiki/Mancala">Mancala</a>
 + <a href="https://en.wikipedia.org/wiki/JezzBall">Jezzball</a>
 + Freerice clone
-+ <a href="https://en.wikipedia.org/wiki/Nine_Men%27s_Morris">Nine Men's Morris</a>
 + <a href="https://en.wikipedia.org/wiki/Patience_(game)">Patience</a>
 + <a href="https://en.wikipedia.org/wiki/Hex_(board_game)">Hex</a>
-+ Hive
 + <a href="https://dke.maastrichtuniversity.nl/m.winands/loa/">Lines of action</a>
 + <a href="https://en.wikipedia.org/wiki/Boulder_Dash">Boulder Dash</a>
 + <a href="https://en.wikipedia.org/wiki/Tic-tac-toe_variants">Ultimate tic tac toe or other variants</a>
 + <a href="https://en.wikipedia.org/wiki/Marble_Madness">Marble Madness</a>
 + <a href="https://en.wikipedia.org/wiki/Loco-Motion_(video_game)">Loco-Motion</a>
 + <a href="https://en.wikipedia.org/wiki/Digger_(video_game)">Digger</a>
++ <a href="https://en.wikipedia.org/wiki/Nine_Men%27s_Morris">Nine Men's Morris</a>
 + Hnefatafl
++ Hive
 + Go
 + 2048
 + Boggle
 + Lemmings
++ Snake: 2 player versions, add obstacles, snake tetris
 + <a href="https://en.wikipedia.org/wiki/Solved_game">Solved games list</a>
 + <a href="https://en.wikipedia.org/wiki/Mastermind_(board_game)">Mastermind</a>
 + <a href="https://en.wikipedia.org/wiki/List_of_abstract_strategy_games">List of abstract strategy games</a>
@@ -249,10 +248,6 @@
   + <a href="https://boardgamegeek.com/geeklist/147417/best-checkers-variants">https://boardgamegeek.com/geeklist/147417/best-checkers-variants</a>
   + <a href="http://www.di.fc.ul.pt/~jpn/gv/checkers.htm">http://www.di.fc.ul.pt/~jpn/gv/checkers.htm</a>
   + <a href="https://en.wikipedia.org/wiki/Draughts#Invented_variants">https://en.wikipedia.org/wiki/Draughts#Invented_variants</a>
-+ Dodge falling objects game with rotation component like super hexagon?
-+ Sidescroller where you build steps to get your dude over obstacles instead of jump button
-+ Try frequency distribution array for card games/poker problem
-+ Snake: 2 player versions, add obstacles
 + ASCII games:
   + <a href="http://ifarchive.org/">http://ifarchive.org/</a>
   + <a href="http://www.8bs.com/othrdnld/manuals/publications.shtml">http://www.8bs.com/othrdnld/manuals/publications.shtml</a>
@@ -316,7 +311,7 @@
 
 
 ## Visual/animation
-+ <a href="http://zreference.com/projects/graphics/">Inspiring</a>
++ <a href="http://zreference.com/projects/graphics/">Inspiring zreference projects</a>
 + <a href="https://bit101.github.io/lab/dailies/170413.html">Also inspiring, bit101 dailies</a>
 + <a href="https://cs.brown.edu/~rt/gdhandbook/">Handbook of Graph Drawing and Visualization</a>
 + Convex hull:
@@ -339,7 +334,6 @@
 + Write a script that turns text into blocky ASCII text or renders images in ASCII
 + <a href="https://threejs.org/">ThreeJS</a>
 + <a href="https://jsxgraph.uni-bayreuth.de/wiki/index.php/Category:Examples">JSXGraph</a>
-+ Animated sorts and searches (and other algorithms)
 + <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial">WebGL tutorial</a>
 + <a href="http://entibo.fr/">entibo examples/inspiration</a>
 + Bezier Curves:
@@ -435,7 +429,7 @@
 
 
 ## Regex
-+ <a href="https://rcoh.me/posts/no-magic-regular-expressions/">write a regex engine</a>
++ <a href="https://rcoh.me/posts/no-magic-regular-expressions/">Write a regex engine</a>
 + <a href="https://www.regular-expressions.info/refadv.html">https://www.regular-expressions.info/refadv.html</a>
 
 
@@ -453,18 +447,23 @@
   + <a href="https://douweosinga.com/projects/">https://douweosinga.com/projects/</a>
 
 
+## C
++ <a href="https://wiki.osdev.org/Tutorials">Write your own OS</a>
++ <a href="http://www.buildyourownlisp.com/">Build your own lisp</a>
++ <a href="https://beej.us/guide/bggdb/">Beej guide to GDB</a>
++ <a href="https://barrgroup.com/Embedded-Systems/Books/Embedded-C-Coding-Standard">C coding standard</a>
+
+
+## C++
++ <a href="http://www.learncpp.com/">learncpp</a>
++ C++ SFML for games
+
+
 ## Web development
 + Jekyll blog:
   + <a href="https://www.youtube.com/watch?v=xdxfyFS3pog">https://www.youtube.com/watch?v=xdxfyFS3pog</a>
   + <a href="https://jekyllrb.com/docs/installation/">https://jekyllrb.com/docs/installation/</a>
 + <a href="https://www.bitballoon.com">Bitballoon for hosting web apps</a>
-
-
-## CSS
-+ Do a Mondrian generator with a CSS grid or JS
-+ <a href="https://css-tricks.com/snippets/css/complete-guide-grid/">Grid</a>
-+ <a href="https://codepen.io/rachelandrew/pens/public">Rachel Andrew (CSS grid examples)</a>
-+ <a href="https://davidwalsh.name/css-cube">CSS cube</a>
 
 
 ## JS
@@ -475,6 +474,13 @@
   + <a href="https://hackernoon.com/how-to-build-a-multiplayer-browser-game-4a793818c29b">https://hackernoon.com/how-to-build-a-multiplayer-browser-game-4a793818c29b</a>
   + <a href="http://www.dynetisgames.com/2017/03/06/how-to-make-a-multiplayer-online-game-with-phaser-socket-io-and-node-js/">http://www.dynetisgames.com/2017/03/06/how-to-make-a-multiplayer-online-game-with-phaser-socket-io-and-node-js/</a>
 + <a href="http://docs.railsbridge.org/javascript-to-do-list/adding_an_item">JS todo list</a>
+
+
+## CSS
++ Do a Mondrian generator with a CSS grid or JS
++ <a href="https://css-tricks.com/snippets/css/complete-guide-grid/">Grid</a>
++ <a href="https://codepen.io/rachelandrew/pens/public">Rachel Andrew (CSS grid examples)</a>
++ <a href="https://davidwalsh.name/css-cube">CSS cube</a>
 
 
 ## PHP
@@ -499,10 +505,7 @@
   + <a href="https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php">https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php</a>
   + <a href="http://www.tizag.com/ajaxTutorial/ajaxxmlhttprequest.php">ajax/php tutorial</a>
   + <a href="https://www.sitepoint.com/use-ajax-php-build-mailing-list/">ajax/php mailing list for label</a>
-+ Make a simple DIY label CMS; host on Heroku?
-+ PHP app to display SFPL paging lists via email:
-  + <a href="https://stackoverflow.com/questions/5342822/php-mail-function-on-localhost">https://stackoverflow.com/questions/5342822/php-mail-function-on-localhost</a>
-  + <a href="https://github.com/barbushin/php-imap">https://github.com/barbushin/php-imap</a>
++ Make a simple DIY label CMS; host on Heroku
 + <a href="https://www.ibm.com/developerworks/library/os-php-gamescripts1/">PHP game scripts</a>
 + <a href="https://phppot.com/php/simple-php-chat-using-websocket/">Websocket chat</a>
 
@@ -543,18 +546,6 @@
 + <a href="http://aspiringwebdev.com/e-mail-in-rails-with-mailchimp-and-mandrill-a-comprehensive-guide">Rails mailing list</a>
 
 
-## C++
-+ <a href="http://www.learncpp.com/">learncpp</a>
-+ C++ SFML for games
-
-
-## C
-+ <a href="https://wiki.osdev.org/Tutorials">Write your own OS</a>
-+ <a href="http://www.buildyourownlisp.com/">Build your own lisp</a>
-+ <a href="https://beej.us/guide/bggdb/">Beej guide to GDB</a>
-+ <a href="https://barrgroup.com/Embedded-Systems/Books/Embedded-C-Coding-Standard">C coding standard</a>
-
-
 ## Perl
 + <a href="http://perldoc.perl.org/perldsc.html">Perl data structures cookbook</a>
 
@@ -566,7 +557,6 @@
 
 ## Scratch/Snap
 + <a href="https://sulfurous.aau.at/">Sulfurous</a>
-+ make more cellular automata in scratch
 + Useful Scratch reference topics:
   + <a href="https://wiki.scratch.mit.edu/wiki/Array#Multidimensional_Arrays_in_Scratch">https://wiki.scratch.mit.edu/wiki/Array#Multidimensional_Arrays_in_Scratch</a>
   + <a href="https://wiki.scratch.mit.edu/wiki/List_of_Mathematical_Functions_Done_in_Scratch">https://wiki.scratch.mit.edu/wiki/List_of_Mathematical_Functions_Done_in_Scratch</a>
@@ -576,39 +566,16 @@
 
 
 ## Interview prep
-+ <a href="https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki">Women Who Code Interview Prep</a>
 + <a href="https://docs.google.com/document/d/1L2nqcMLxQeFHVd9ZOfgzZTjxWZsJLJe65rAzKfmldsM/edit">Interview questions</a>
 + <a href="http://meetupresources.herokuapp.com/index.html">Interview algorithms and tips</a>
 + <a href="http://kelukelu.me/interview/questions.html">Assorted interview tips</a>
++ <a href="https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki">Women Who Code Interview Prep</a>
 + Gayle McDowell:
   + <a href="https://www.youtube.com/watch?v=rEJzOhC5ZtQ">talk at Canadian University Software Engineering Conference</a>
   + <a href="https://www.youtube.com/watch?v=1fqxMuPmGak">Ask Me Anything video (see the top comment with all the links to the individual questions)</a>
   + <a href="http://www.gayle.com/featured-blog-posts">http://www.gayle.com/featured-blog-posts</a>
   + <a href="https://medium.com/@gayle/coding-interviews-and-the-importance-of-perfection-f381e486233e#.3zembxo47">a good overview of a technical interview (which you get to *after* the algorithm screen)</a>
   + <a href="https://www.careercup.com">https://www.careercup.com</a>
-
-
-## Bots
-+ <a href="https://botwiki.org/tutorials/twitterbots/">Twitter bot hosting</a>
-+ Tweet image:
-  + <a href="http://stackoverflow.com/questions/24692147/how-to-upload-image-and-status-to-twitter-using-twitter4j">http://stackoverflow.com/questions/24692147/how-to-upload-image-and-status-to-twitter-using-twitter4j</a>
-  + <a href="https://botwiki.org/tutorials/make-an-image-posting-twitter-bot/">https://botwiki.org/tutorials/make-an-image-posting-twitter-bot/</a>
-+ Ideas for bots:
-  + Chess vote bot with an ongoing game?
-  + <a href="http://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117">Game bots</a>
-  + <a href="http://scrapy.org/">Web crawler</a>
-  + Bot where you can teach it words by tweeting @ it
-  + Something quote-based like David Markson
-+ FB bots:
-  + <a href="http://nodotcom.org/python-facebook-tutorial.html">http://nodotcom.org/python-facebook-tutorial.html</a>
-  + <a href="http://stackoverflow.com/questions/25400841/jsoup-how-to-get-content-of-facebook-event-page-as-logged-in-user">http://stackoverflow.com/questions/25400841/jsoup-how-to-get-content-of-facebook-event-page-as-logged-in-user</a>
-  + <a href="http://jodd.org/doc/jerry/facebook-bot.html">http://jodd.org/doc/jerry/facebook-bot.html</a>
-+ Tumblr bots:
-  + <a href="https://epicjefferson.wordpress.com/2014/09/28/python-to-tumblr/">https://epicjefferson.wordpress.com/2014/09/28/python-to-tumblr/</a>
-  + <a href="http://stackoverflow.com/questions/8286352/how-to-save-an-image-locally-using-python-whose-url-address-i-already-know">http://stackoverflow.com/questions/8286352/how-to-save-an-image-locally-using-python-whose-url-address-i-already-know</a>
-  + <a href="http://verythorough.tumblr.com/post/101348170234/creating-a-twitterbot-in-python">http://verythorough.tumblr.com/post/101348170234/creating-a-twitterbot-in-python</a>
-+ <a href="https://dadicy.wordpress.com/2007/10/17/how-to-write-a-simple-web-robot-in-java/">Java web robot</a>
-+ Java robot project: play online pianos at http://virtualpiano.net/
 
 
 ## Code golf
@@ -626,6 +593,7 @@
 + <a href="https://www.udemy.com/the-advanced-web-developer-bootcamp/">Advanced Web Developer Bootcamp</a>
 + <a href="https://www.lynda.com/portal/patron?org=sfpl.org">Lynda SFPL</a>
 + <a href="http://www.tweaktown.com/news/46511/7-essential-skills-new-developer-needs-learn/index.html">'7 Essential Skills Every New Developer Needs to Learn'</a>
+
 
 ## Algorithmic challenge sites
   + <a href="https://code.google.com/codejam/past-contests">Google Code Jam</a>
@@ -690,12 +658,12 @@
 
 ### Tier 1
 + CS 6210 Advanced Operating Systems (https://www.udacity.com/wiki/ud156-readings)
-+ CS 6291 Embedded System Optimization
 + CS 6290 High Performance Computer Architecture
-+ CS 6460 Educational Technology (foundational requirements met--summer '19? autograder or block/turtle/ascii drawing language?)
++ CS 6291 Embedded System Optimization
++ CS 6460 Educational Technology
 + CS 6515 Graduate Algorithms
-+ CS 6250 Computer Networks (networking)
 + CS 7637 Knowledge Based AI
++ CS 6250 Computer Networks (networking)
 + CS 6340 Software Analysis and Test
 + CS 8803 O08: Special Topics Compilers- Theory & Practice (non-core)
 
@@ -714,7 +682,6 @@
 
 ## CCSF
 + <a href="https://github.com/CCSF-Coders/learning-resources">CCSF Coders resources page</a>
-+ <a href="http://fog.ccsf.cc.ca.us/~cpersiko/csDept/NotesCareers.html">CS department chair career resources</a>
 + <a href="https://sites.google.com/site/koalalearn/fa2011/cs211s">CS211s notes</a>
 
 ### CCSF courses to take
