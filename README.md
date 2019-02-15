@@ -3,50 +3,52 @@
 
 ## Table of Contents
 1. [General](#general)
-2. [Project Euler](#project-euler)
-3. [Algorithms](#algorithms)
-4. [DP](#dp)
-5. [Graphs](#graphs)
-6. [Trees](#trees)
-7. [Strings/arrays](#strings/arrays)
-8. [Mazes](#mazes)
-9. [Cellular automata](#cellular-automata)
-10. [Compilers](#compilers)
-11. [Esoteric programming languages](#esoteric-programming-languages)
-12. [Game AI](#game-ai)
-13. [Games](#games)
-14. [Puzzles](#puzzles)
-15. [Fractals and L-systems](#fractals-and-l-systems)
-16. [Visual/animation](#visual/animation)
-17. [Tiling and packing](#tiling-and-packing)
-18. [Physics simulations](#physics-simulations)
-19. [Regex](#regex)
-20. [Cryptography](#cryptography)
-21. [Machine learning](#machine-learning)
-22. [Data science](#data-science)
-23. [C](#c)
-24. [C++](#c++)
-25. [Web development](#web-development)
-26. [JS](#js)
-27. [CSS](#css)
-28. [PHP](#php)
-29. [Python](#python)
-30. [Java](#java)
-31. [Ruby](#ruby)
-32. [Perl](#perl)
-33. [Unix](#unix)
-34. [Scratch/Snap](#scratch/snap)
-35. [Interview prep](#interview-prep)
-36. [Code golf](#code-golf)
-37. [Course sites](#course-sites)
-38. [Algorithmic challenge sites](#algorithmic-challenge-sites)
-39. [Competitive coding](#competitive-coding)
-40. [Books](#books)
-41. [Education](#education)
-42. [OMSCS](#omscs)
-43. [CCSF](#ccsf)
-44. [Open source](#open-source)
-45. [Fun](#fun)
+2. [Operating Systems](#operating-systems)
+3. [Project Euler](#project-euler)
+4. [Algorithms](#algorithms)
+5. [DP](#dp)
+6. [Graphs](#graphs)
+7. [Trees](#trees)
+8. [Strings/arrays](#strings/arrays)
+9. [Mazes](#mazes)
+10. [Cellular automata](#cellular-automata)
+11. [Compilers/interpreters](#compilers/interpreters)
+12. [Esoteric programming languages](#esoteric-programming-languages)
+13. [Game AI](#game-ai)
+14. [Games](#games)
+15. [Puzzles](#puzzles)
+16. [Fractals and L-systems](#fractals-and-l-systems)
+17. [Visual/animation](#visual/animation)
+18. [Tiling and packing](#tiling-and-packing)
+19. [Physics simulations](#physics-simulations)
+20. [Regex](#regex)
+21. [Cryptography](#cryptography)
+22. [Machine learning](#machine-learning)
+23. [Data science](#data-science)
+24. [C](#c)
+25. [C++](#c++)
+26. [Web development](#web-development)
+27. [JS](#js)
+28. [CSS](#css)
+29. [PHP](#php)
+30. [Python](#python)
+31. [Java](#java)
+32. [Ruby](#ruby)
+33. [Perl](#perl)
+34. [Unix](#unix)
+35. [Scratch/Snap](#scratch/snap)
+36. [Interview prep](#interview-prep)
+37. [Code golf](#code-golf)
+38. [Course sites](#course-sites)
+39. [Algorithmic challenge sites](#algorithmic-challenge-sites)
+40. [Competitive coding](#competitive-coding)
+41. [Books](#books)
+42. [Education](#education)
+43. [OMSCS](#omscs)
+44. [CCSF](#ccsf)
+45. [Jobs](#jobs)
+46. [Open source](#open-source)
+47. [Fun](#fun)
 
 
 ## General
@@ -57,9 +59,14 @@
 + <a href="https://programmingbydoing.com/">"Programming by Doing" simple projects for students</a>
 + Organize mp3s: beets.io and https://www.discogs.com/developers/
 + <a href="http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm">Christopher Alexander's Design Patterns</a>
-+ <a href="https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/">Operating Systems notes</a>
-+ <a href="https://www.cc.gatech.edu/classes/AY2010/cs4210_fall/">CS4210 archive</a>
 + <a href="http://el.media.mit.edu/logo-foundation/index.html">The Logo Foundation</a>
+
+
+## Operating Systems
++ <a href="https://www.cc.gatech.edu/classes/AY2010/cs4210_fall/">CS4210 archive</a>
++ <a href="https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/">Operating Systems notes</a>
++ <a href="https://cs.nyu.edu/~mwalfish/classes/ut/s11-cs372h/hw/sol8.html">OS @ NYU</a>
++ <a href="https://akkadia.org/drepper/cpumemory.pdf">What every programmer should know about memory</a>
 
 
 ## Project Euler
@@ -115,6 +122,7 @@
 
 
 ## Trees
++ <a href="https://algs4.cs.princeton.edu/33balanced/">Balanced search trees</a>
 + <a href="http://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/">Tree traversal construction</a>
 + <a href="https://www.youtube.com/watch?v=H13iz0rbeeo">Determine if a tree is a BST</a>
 
@@ -146,8 +154,11 @@
 + <a href="https://en.wikipedia.org/wiki/Life-like_cellular_automaton">Life-like cellular automata (incl. Seeds)</a>
 
 
-## Compilers
-+ <a href="https://online.stanford.edu/courses/soe-ycscs1-compilers">Stanford compilers course</a>
+## Compilers/interpreters
++ <a href="https://www.forth.com/starting-forth/9-forth-execution/">Forth lang tutorial</a>
++ Stanford compilers courses:
+  + <a href="http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/">http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/</a>
+  + <a href="https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about">https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about</a>
 + <a href="https://classroom.udacity.com/courses/cs262">Udacity programming languages course</a>
 + <a href="https://classroom.udacity.com/courses/ud168/lessons/9331262348/concepts/93290028450923">OMSCS compilers</a>
 + <a href="https://ruslanspivak.com/lsbasi-part1/">Let's build a simple interpreter</a>
@@ -657,18 +668,22 @@
 ## OMSCS
 
 ### Tier 1
-+ CS 6210 Advanced Operating Systems (https://www.udacity.com/wiki/ud156-readings)
++ CS 6210 Advanced Operating Systems
 + CS 6290 High Performance Computer Architecture
 + CS 6291 Embedded System Optimization
 + CS 6460 Educational Technology
-+ CS 6515 Graduate Algorithms
 + CS 7637 Knowledge Based AI
-+ CS 6250 Computer Networks (networking)
++ CS 6515 Graduate Algorithms
++ CS 6250 Computer Networks
 + CS 6340 Software Analysis and Test
-+ CS 8803 O08: Special Topics Compilers- Theory & Practice (non-core)
+  - https://cs.au.dk/~amoeller/spa/
+  - https://d1b10bmlvqabco.cloudfront.net/attach/jbe3aw2nwc031n/ixory6sosP2/jcigv7z03w61/books.pdf
++ CS 8803 O08: Compilers
 
 ### Tier 2
++ CSE 6220: Intro to High Performance Computing
 + CS 6310 Software Architecture and Design
+  - https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/
 + CS 6300 Software Development Process
 + CS 6035 Intro to Information Security (C, networking, discrete)
 + CS 6262 Network Security
@@ -713,6 +728,12 @@
   + <a href="http://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/JavaScriptSpecialistCertificate.pdf">JS specialist</a>
   + <a href="http://www.ccsf.edu/content/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/WebSiteDevelopmentTechniquesCertificate.pdf">Web site development techniques</a>
   + <a href="http://www.ccsf.edu/content/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/MobileWebAppDevelopmentCertificate.pdf">Mobile web app development</a>
+
+
+## Jobs
++ <a href="https://www.codeforamerica.org/jobs?gh_jid=1500593">Code for America</a>
++ <a href="http://www.sfstudentintern.org/">SF student internship</a>
++ <a href="https://weworkremotely.com/categories/remote-programming-jobs">Weworkremotely programming jobs</a>
 
 
 ## Open source

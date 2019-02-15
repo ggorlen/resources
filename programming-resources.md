@@ -12,9 +12,14 @@
 + "Programming by Doing" simple projects for students: https://programmingbydoing.com/
 + Organize mp3s: beets.io and https://www.discogs.com/developers/
 + Christopher Alexander's Design Patterns: http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm
-+ Operating Systems notes: https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/
-+ CS4210 archive: https://www.cc.gatech.edu/classes/AY2010/cs4210_fall/
 + The Logo Foundation: http://el.media.mit.edu/logo-foundation/index.html
+
+
+## Operating Systems
++ CS4210 archive: https://www.cc.gatech.edu/classes/AY2010/cs4210_fall/
++ Operating Systems notes: https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/
++ OS @ NYU: https://cs.nyu.edu/~mwalfish/classes/ut/s11-cs372h/hw/sol8.html
++ What every programmer should know about memory: https://akkadia.org/drepper/cpumemory.pdf
 
 
 ## Project Euler
@@ -70,6 +75,7 @@
 
 
 ## Trees
++ Balanced search trees: https://algs4.cs.princeton.edu/33balanced/
 + Tree traversal construction: http://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/
 + Determine if a tree is a BST: https://www.youtube.com/watch?v=H13iz0rbeeo
 
@@ -101,8 +107,11 @@
 + Life-like cellular automata (incl. Seeds): https://en.wikipedia.org/wiki/Life-like_cellular_automaton
 
 
-## Compilers
-+ Stanford compilers course: https://online.stanford.edu/courses/soe-ycscs1-compilers
+## Compilers/interpreters
++ Forth lang tutorial: https://www.forth.com/starting-forth/9-forth-execution/
++ Stanford compilers courses: 
+  + http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/
+  + https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about
 + Udacity programming languages course: https://classroom.udacity.com/courses/cs262
 + OMSCS compilers: https://classroom.udacity.com/courses/ud168/lessons/9331262348/concepts/93290028450923
 + Let's build a simple interpreter: https://ruslanspivak.com/lsbasi-part1/
@@ -612,18 +621,22 @@
 ## OMSCS
 
 ### Tier 1
-+ CS 6210 Advanced Operating Systems (https://www.udacity.com/wiki/ud156-readings)
++ CS 6210 Advanced Operating Systems 
 + CS 6290 High Performance Computer Architecture
 + CS 6291 Embedded System Optimization
 + CS 6460 Educational Technology
-+ CS 6515 Graduate Algorithms
 + CS 7637 Knowledge Based AI
-+ CS 6250 Computer Networks (networking)
++ CS 6515 Graduate Algorithms
++ CS 6250 Computer Networks
 + CS 6340 Software Analysis and Test
-+ CS 8803 O08: Special Topics Compilers- Theory & Practice (non-core)
+  - https://cs.au.dk/~amoeller/spa/
+  - https://d1b10bmlvqabco.cloudfront.net/attach/jbe3aw2nwc031n/ixory6sosP2/jcigv7z03w61/books.pdf
++ CS 8803 O08: Compilers
  
 ### Tier 2
++ CSE 6220: Intro to High Performance Computing
 + CS 6310 Software Architecture and Design
+  - https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/
 + CS 6300 Software Development Process
 + CS 6035 Intro to Information Security (C, networking, discrete)
 + CS 6262 Network Security
@@ -668,6 +681,12 @@
   + JS specialist: http://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/JavaScriptSpecialistCertificate.pdf
   + Web site development techniques: http://www.ccsf.edu/content/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/WebSiteDevelopmentTechniquesCertificate.pdf 
   + Mobile web app development: http://www.ccsf.edu/content/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/MobileWebAppDevelopmentCertificate.pdf
+
+
+## Jobs
++ Code for America: https://www.codeforamerica.org/jobs?gh_jid=1500593
++ SF student internship: http://www.sfstudentintern.org/
++ Weworkremotely programming jobs: https://weworkremotely.com/categories/remote-programming-jobs
 
 
 ## Open source
