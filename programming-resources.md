@@ -13,6 +13,7 @@
 + Organize mp3s: beets.io and https://www.discogs.com/developers/
 + Christopher Alexander's Design Patterns: http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm
 + The Logo Foundation: http://el.media.mit.edu/logo-foundation/index.html
++ NetLogo: https://en.wikipedia.org/wiki/NetLogo
 
 
 ## Operating Systems
@@ -20,6 +21,7 @@
 + Operating Systems notes: https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/
 + OS @ NYU: https://cs.nyu.edu/~mwalfish/classes/ut/s11-cs372h/hw/sol8.html
 + What every programmer should know about memory: https://akkadia.org/drepper/cpumemory.pdf
++ The Little Book of Semaphores: https://greenteapress.com/wp/semaphores/
 
 
 ## Project Euler
@@ -237,6 +239,8 @@
 + Generating sudoku boards: https://stackoverflow.com/questions/6924216/how-to-generate-sudoku-boards-with-unique-solutions
 + Mondrian puzzle: https://www.youtube.com/watch?v=49KvZrioFB0
 + Various puzzles from the Sudoku inventors: http://nikoli.co.jp/en/puzzles/
++ Peter Norvig on Sudoku and other constraint problems (such as the skyscraper puzzle): http://norvig.com/sudoku.html
++ More constraint puzzles: https://www.wikihow.com/Solve-a-Magnets-Puzzle
 + Nonogram: https://en.wikipedia.org/wiki/Nonogram
 + Ricochet Robots: https://en.wikipedia.org/wiki/Ricochet_Robot
 + Slothouber-Graatsma puzzle: https://en.wikipedia.org/wiki/Slothouber%E2%80%93Graatsma_puzzle 
@@ -421,6 +425,7 @@
 ## C++
 + learncpp: http://www.learncpp.com/
 + C++ SFML for games
++ Async C++ tutorial: https://solarianprogrammer.com/2012/10/17/cpp-11-async-tutorial/
 
 
 ## Web development
@@ -475,9 +480,11 @@
   
   
 ## Python
-+ Automate the boring stuff: https://automatetheboringstuff.com/#toc
++ Host a free Python web app: https://www.pythonanywhere.com/
++ Write a Lisp interpreter in Python: http://norvig.com/lispy.html
 + Natural language processing with Python: http://www.nltk.org/book/
 + Pygame: http://inventwithpython.com/pygame/
++ Automate the boring stuff: https://automatetheboringstuff.com/#toc
 + Simple Python graphics library: https://www.rose-hulman.edu/Users/faculty/young/CS-Classes/resources/Python/ZelleGraphics.html
 + Flask:
   + https://exploreflask.com/en/latest/
@@ -487,11 +494,10 @@
   + http://interactivepython.org/runestone/static/pythonds/index.html
   + http://www.brpreiss.com/books/opus7/
 + Computer vision with python: http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf
-+ Python yield keyword/iterators: http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python
 + Effective Python: http://www.effectivepython.com/
-+ Python exercises: http://www.ling.gu.se/~lager/python_exercises.html
 + How to think like a computer scientist: http://interactivepython.org/courselib/static/thinkcspy/index.html
 + Python Challenge: http://pythonchallenge.com/
++ Tkinterbook: http://effbot.org/tkinterbook/
 
 
 ## Java
@@ -588,7 +594,6 @@
 ## Books 
 + Definitive C++ book list: https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
 + Tons of free CS books: http://proquest.safaribooksonline.com/
-+ "Etudes for Python: Exercises for Programmers" (available on LINK+)
 + "Book of Proof" Hammack
 + Think Bayes/DSP/Complexity/OS/etc: http://www.greenteapress.com/thinkbayes/html/index.html
 + Fuzzing book (software testing): https://www.fuzzingbook.org/
@@ -621,31 +626,36 @@
 ## OMSCS
 
 ### Tier 1
-+ CS 6210 Advanced Operating Systems 
-+ CS 6290 High Performance Computer Architecture
-+ CS 6291 Embedded System Optimization
-+ CS 6460 Educational Technology
-+ CS 7637 Knowledge Based AI
-+ CS 6515 Graduate Algorithms
-+ CS 6250 Computer Networks
 + CS 6340 Software Analysis and Test
   - https://cs.au.dk/~amoeller/spa/
   - https://d1b10bmlvqabco.cloudfront.net/attach/jbe3aw2nwc031n/ixory6sosP2/jcigv7z03w61/books.pdf
+  - http://rightingcode.org/
 + CS 8803 O08: Compilers
++ CS 6460 Educational Technology
++ CS 6290 High Performance Computer Architecture
++ CS 6291 Embedded System Optimization
++ CS 6515 Graduate Algorithms
+  - https://gt-algorithms.com/
+  - https://cs170.org/
++ CSE 6220: Intro to High Performance Computing
+  - https://www-users.cs.umn.edu/~karypis/parbook/
++ CS 7637 Knowledge Based AI http://lucylabs.gatech.edu/kbai/
++ CS 6250 Computer Networks
+  - prereq course: https://www.cc.gatech.edu/~rama/CS2200-External/
  
 ### Tier 2
-+ CSE 6220: Intro to High Performance Computing
-+ CS 6310 Software Architecture and Design
-  - https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/
-+ CS 6300 Software Development Process
++ CS 7646 Machine Learning for Trading
 + CS 6035 Intro to Information Security (C, networking, discrete)
 + CS 6262 Network Security
-+ CS 7646 Machine Learning for Trading
++ CS 6310 Software Architecture and Design
+  - https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/
 + CS 6400 Database Systems Concepts and Design
++ CS 6300 Software Development Process
 + CS 6440 Intro to Health Informatics
 
 ### Completed
 + CS 6200 Intro to Operating Systems
++ CS 6210 Advanced Operating Systems 
 
 
 ## CCSF
@@ -687,6 +697,8 @@
 + Code for America: https://www.codeforamerica.org/jobs?gh_jid=1500593
 + SF student internship: http://www.sfstudentintern.org/
 + Weworkremotely programming jobs: https://weworkremotely.com/categories/remote-programming-jobs
++ Indeed/indeed prime
++ Upwork/Fiverr
 
 
 ## Open source

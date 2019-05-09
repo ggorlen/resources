@@ -60,6 +60,7 @@
 + Organize mp3s: beets.io and https://www.discogs.com/developers/
 + <a href="http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm">Christopher Alexander's Design Patterns</a>
 + <a href="http://el.media.mit.edu/logo-foundation/index.html">The Logo Foundation</a>
++ <a href="https://en.wikipedia.org/wiki/NetLogo">NetLogo</a>
 
 
 ## Operating Systems
@@ -67,6 +68,7 @@
 + <a href="https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/">Operating Systems notes</a>
 + <a href="https://cs.nyu.edu/~mwalfish/classes/ut/s11-cs372h/hw/sol8.html">OS @ NYU</a>
 + <a href="https://akkadia.org/drepper/cpumemory.pdf">What every programmer should know about memory</a>
++ <a href="https://greenteapress.com/wp/semaphores/">The Little Book of Semaphores</a>
 
 
 ## Project Euler
@@ -284,6 +286,8 @@
 + <a href="https://stackoverflow.com/questions/6924216/how-to-generate-sudoku-boards-with-unique-solutions">Generating sudoku boards</a>
 + <a href="https://www.youtube.com/watch?v=49KvZrioFB0">Mondrian puzzle</a>
 + <a href="http://nikoli.co.jp/en/puzzles/">Various puzzles from the Sudoku inventors</a>
++ <a href="http://norvig.com/sudoku.html">Peter Norvig on Sudoku and other constraint problems (such as the skyscraper puzzle)</a>
++ <a href="https://www.wikihow.com/Solve-a-Magnets-Puzzle">More constraint puzzles</a>
 + <a href="https://en.wikipedia.org/wiki/Nonogram">Nonogram</a>
 + <a href="https://en.wikipedia.org/wiki/Ricochet_Robot">Ricochet Robots</a>
 + <a href="https://en.wikipedia.org/wiki/Slothouber%E2%80%93Graatsma_puzzle">Slothouber-Graatsma puzzle</a>
@@ -468,6 +472,7 @@
 ## C++
 + <a href="http://www.learncpp.com/">learncpp</a>
 + C++ SFML for games
++ <a href="https://solarianprogrammer.com/2012/10/17/cpp-11-async-tutorial/">Async C++ tutorial</a>
 
 
 ## Web development
@@ -522,9 +527,11 @@
 
 
 ## Python
-+ <a href="https://automatetheboringstuff.com/#toc">Automate the boring stuff</a>
++ <a href="https://www.pythonanywhere.com/">Host a free Python web app</a>
++ <a href="http://norvig.com/lispy.html">Write a Lisp interpreter in Python</a>
 + <a href="http://www.nltk.org/book/">Natural language processing with Python</a>
 + <a href="http://inventwithpython.com/pygame/">Pygame</a>
++ <a href="https://automatetheboringstuff.com/#toc">Automate the boring stuff</a>
 + <a href="https://www.rose-hulman.edu/Users/faculty/young/CS-Classes/resources/Python/ZelleGraphics.html">Simple Python graphics library</a>
 + Flask:
   + <a href="https://exploreflask.com/en/latest/">https://exploreflask.com/en/latest/</a>
@@ -534,11 +541,10 @@
   + <a href="http://interactivepython.org/runestone/static/pythonds/index.html">http://interactivepython.org/runestone/static/pythonds/index.html</a>
   + <a href="http://www.brpreiss.com/books/opus7/">http://www.brpreiss.com/books/opus7/</a>
 + <a href="http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf">Computer vision with python</a>
-+ <a href="http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python">Python yield keyword/iterators</a>
 + <a href="http://www.effectivepython.com/">Effective Python</a>
-+ <a href="http://www.ling.gu.se/~lager/python_exercises.html">Python exercises</a>
 + <a href="http://interactivepython.org/courselib/static/thinkcspy/index.html">How to think like a computer scientist</a>
 + <a href="http://pythonchallenge.com/">Python Challenge</a>
++ <a href="http://effbot.org/tkinterbook/">Tkinterbook</a>
 
 
 ## Java
@@ -635,7 +641,6 @@
 ## Books
 + <a href="https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list">Definitive C++ book list</a>
 + <a href="http://proquest.safaribooksonline.com/">Tons of free CS books</a>
-+ "Etudes for Python: Exercises for Programmers" (available on LINK+)
 + "Book of Proof" Hammack
 + <a href="http://www.greenteapress.com/thinkbayes/html/index.html">Think Bayes/DSP/Complexity/OS/etc</a>
 + <a href="https://www.fuzzingbook.org/">Fuzzing book (software testing)</a>
@@ -668,31 +673,36 @@
 ## OMSCS
 
 ### Tier 1
-+ CS 6210 Advanced Operating Systems
-+ CS 6290 High Performance Computer Architecture
-+ CS 6291 Embedded System Optimization
-+ CS 6460 Educational Technology
-+ CS 7637 Knowledge Based AI
-+ CS 6515 Graduate Algorithms
-+ CS 6250 Computer Networks
 + CS 6340 Software Analysis and Test
   - https://cs.au.dk/~amoeller/spa/
   - https://d1b10bmlvqabco.cloudfront.net/attach/jbe3aw2nwc031n/ixory6sosP2/jcigv7z03w61/books.pdf
+  - http://rightingcode.org/
 + CS 8803 O08: Compilers
++ CS 6460 Educational Technology
++ CS 6290 High Performance Computer Architecture
++ CS 6291 Embedded System Optimization
++ CS 6515 Graduate Algorithms
+  - https://gt-algorithms.com/
+  - https://cs170.org/
++ CSE 6220: Intro to High Performance Computing
+  - https://www-users.cs.umn.edu/~karypis/parbook/
++ CS 7637 Knowledge Based AI http://lucylabs.gatech.edu/kbai/
++ CS 6250 Computer Networks
+  - prereq course: https://www.cc.gatech.edu/~rama/CS2200-External/
 
 ### Tier 2
-+ CSE 6220: Intro to High Performance Computing
-+ CS 6310 Software Architecture and Design
-  - https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/
-+ CS 6300 Software Development Process
++ CS 7646 Machine Learning for Trading
 + CS 6035 Intro to Information Security (C, networking, discrete)
 + CS 6262 Network Security
-+ CS 7646 Machine Learning for Trading
++ CS 6310 Software Architecture and Design
+  - https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/
 + CS 6400 Database Systems Concepts and Design
++ CS 6300 Software Development Process
 + CS 6440 Intro to Health Informatics
 
 ### Completed
 + CS 6200 Intro to Operating Systems
++ CS 6210 Advanced Operating Systems
 
 
 ## CCSF
@@ -734,6 +744,8 @@
 + <a href="https://www.codeforamerica.org/jobs?gh_jid=1500593">Code for America</a>
 + <a href="http://www.sfstudentintern.org/">SF student internship</a>
 + <a href="https://weworkremotely.com/categories/remote-programming-jobs">Weworkremotely programming jobs</a>
++ Indeed/indeed prime
++ Upwork/Fiverr
 
 
 ## Open source
