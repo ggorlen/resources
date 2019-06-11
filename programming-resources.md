@@ -124,6 +124,7 @@
 + nearley/moo js: https://nearley.js.org/docs/grammar
 + Compiler books: https://dickgrune.com/
 + Create a simple tokenizer in C#: https://jack-vanlightly.com/blog/2016/2/3/creating-a-simple-tokenizer-lexer-in-c
++ Writing your own toy compiler: https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/
 
 
 ## Esoteric programming languages
@@ -208,6 +209,7 @@
 + Snake: 2 player versions, add obstacles, snake tetris
 + Solved games list: https://en.wikipedia.org/wiki/Solved_game
 + Mastermind: https://en.wikipedia.org/wiki/Mastermind_(board_game)
++ Open souce game clones: https://osgameclones.com/
 + List of abstract strategy games: https://en.wikipedia.org/wiki/List_of_abstract_strategy_games
 + Reversi: http://inventwithpython.com/chapter15.html
 + Checkers, misere checkers and variants:
@@ -424,7 +426,7 @@
 
 ## C++
 + learncpp: http://www.learncpp.com/
-+ C++ SFML for games
++ C++ SFML for games and graphics
 + Async C++ tutorial: https://solarianprogrammer.com/2012/10/17/cpp-11-async-tutorial/
 
 
@@ -480,11 +482,11 @@
   
   
 ## Python
-+ Host a free Python web app: https://www.pythonanywhere.com/
 + Write a Lisp interpreter in Python: http://norvig.com/lispy.html
++ Host a free Python web app: https://www.pythonanywhere.com/
 + Natural language processing with Python: http://www.nltk.org/book/
 + Pygame: http://inventwithpython.com/pygame/
-+ Automate the boring stuff: https://automatetheboringstuff.com/#toc
++ Automate the boring stuff: https://automatetheboringstuff.com/
 + Simple Python graphics library: https://www.rose-hulman.edu/Users/faculty/young/CS-Classes/resources/Python/ZelleGraphics.html
 + Flask:
   + https://exploreflask.com/en/latest/
@@ -522,7 +524,7 @@
 
 ## Unix
 + Bandit (learn UNIX): http://overthewire.org/wargames/bandit/
-+ Learn vi: http://learnvimscriptthehardway.stevelosh.com/
++ Learn vim script: http://learnvimscriptthehardway.stevelosh.com/
 
 
 ## Scratch/Snap
@@ -535,19 +537,6 @@
 + Multiwingspan projects: http://www.multiwingspan.co.uk/scratch.php?page=ex1
 
 
-## Interview prep
-+ Interview questions: https://docs.google.com/document/d/1L2nqcMLxQeFHVd9ZOfgzZTjxWZsJLJe65rAzKfmldsM/edit
-+ Interview algorithms and tips: http://meetupresources.herokuapp.com/index.html
-+ Assorted interview tips: http://kelukelu.me/interview/questions.html
-+ Women Who Code Interview Prep: https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki
-+ Gayle McDowell:
-  + talk at Canadian University Software Engineering Conference: https://www.youtube.com/watch?v=rEJzOhC5ZtQ
-  + Ask Me Anything video (see the top comment with all the links to the individual questions): https://www.youtube.com/watch?v=1fqxMuPmGak
-  + http://www.gayle.com/featured-blog-posts
-  + a good overview of a technical interview (which you get to *after* the algorithm screen): https://medium.com/@gayle/coding-interviews-and-the-importance-of-perfection-f381e486233e#.3zembxo47
-  + https://www.careercup.com
-
-
 ## Code golf
 + code-golf.io: https://code-golf.io/
 + js1k: https://js1k.com/
@@ -557,29 +546,28 @@
 
 ## Course sites
 + Coding the Matrix: http://codingthematrix.com/
-+ Egghead: https://egghead.io/
-+ Coursera algorithms classes (pts 1 & 2): https://www.coursera.org/learn/algorithms-part1
 + Nand2Tetris: http://nand2tetris.org/
-+ Advanced Web Developer Bootcamp: https://www.udemy.com/the-advanced-web-developer-bootcamp/
 + Lynda SFPL: https://www.lynda.com/portal/patron?org=sfpl.org
-+ '7 Essential Skills Every New Developer Needs to Learn': http://www.tweaktown.com/news/46511/7-essential-skills-new-developer-needs-learn/index.html
++ Advanced Web Developer Bootcamp: https://www.udemy.com/the-advanced-web-developer-bootcamp/
++ Coursera algorithms classes (pts 1 & 2): https://www.coursera.org/learn/algorithms-part1
++ Egghead: https://egghead.io/
 
 
 ## Algorithmic challenge sites
-  + Google Code Jam: https://code.google.com/codejam/past-contests
-    + Go-Hero: https://www.go-hero.net/jam/16/ has archive all the past Google Code Jam problems w/ solutions
-  + Daily Programmer: https://www.reddit.com/r/dailyprogrammer/
-  + Math problems: https://www.mathworks.com/matlabcentral/cody/problems
-  + Learneroo: https://www.learneroo.com/
-  + Topcoder: https://www.topcoder.com/getting-started
-  + Hacker Earth: https://www.hackerearth.com/challenges/
-  + Code chef: https://www.codechef.com/
-  + SPOJ: http://www.spoj.com/
-  + Exercism: http://www.exercism.io
-    + Talk on exercism: https://www.youtube.com/watch?v=neXJOhHj8ik&index=6&list=PLyGLemjnH3ukTGW8TYCzdu7jQe0U-wEKi
-  + Coding Bat: http://codingbat.com
-  + Code kata: http://codekata.pragprog.com/
-  + Root me: https://www.root-me.org/en/Challenges/Web-Client/Javascript-Native-code
++ Google Code Jam: https://code.google.com/codejam/past-contests
+  + Go-Hero: https://www.go-hero.net/jam/16/ has archive all the past Google Code Jam problems w/ solutions
++ Daily Programmer: https://www.reddit.com/r/dailyprogrammer/
++ Math problems: https://www.mathworks.com/matlabcentral/cody/problems
++ Learneroo: https://www.learneroo.com/
++ Topcoder: https://www.topcoder.com/getting-started
++ Hacker Earth: https://www.hackerearth.com/challenges/
++ Code chef: https://www.codechef.com/
++ SPOJ: http://www.spoj.com/
++ Exercism: http://www.exercism.io
+  + Talk on exercism: https://www.youtube.com/watch?v=neXJOhHj8ik&index=6&list=PLyGLemjnH3ukTGW8TYCzdu7jQe0U-wEKi
++ Coding Bat: http://codingbat.com
++ Code kata: http://codekata.pragprog.com/
++ Root me: https://www.root-me.org/en/Challenges/Web-Client/Javascript-Native-code
 
 
 ## Competitive coding
@@ -626,36 +614,35 @@
 ## OMSCS
 
 ### Tier 1
-+ CS 6340 Software Analysis and Test
-  - https://cs.au.dk/~amoeller/spa/
-  - https://d1b10bmlvqabco.cloudfront.net/attach/jbe3aw2nwc031n/ixory6sosP2/jcigv7z03w61/books.pdf
-  - http://rightingcode.org/
++ CS 6290 High Performance Computer Architecture
 + CS 8803 O08: Compilers
 + CS 6460 Educational Technology
-+ CS 6290 High Performance Computer Architecture
 + CS 6291 Embedded System Optimization
 + CS 6515 Graduate Algorithms
-  - https://gt-algorithms.com/
-  - https://cs170.org/
+  + https://gt-algorithms.com/
+  + https://cs170.org/
 + CSE 6220: Intro to High Performance Computing
-  - https://www-users.cs.umn.edu/~karypis/parbook/
-+ CS 7637 Knowledge Based AI http://lucylabs.gatech.edu/kbai/
+  + https://www-users.cs.umn.edu/~karypis/parbook/
 + CS 6250 Computer Networks
-  - prereq course: https://www.cc.gatech.edu/~rama/CS2200-External/
+  + prereq course: https://www.cc.gatech.edu/~rama/CS2200-External/
  
 ### Tier 2
++ CS 7637 Knowledge Based AI http://lucylabs.gatech.edu/kbai/
 + CS 7646 Machine Learning for Trading
-+ CS 6035 Intro to Information Security (C, networking, discrete)
++ CS 6035 Intro to Information Security
 + CS 6262 Network Security
-+ CS 6310 Software Architecture and Design
-  - https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/
 + CS 6400 Database Systems Concepts and Design
 + CS 6300 Software Development Process
+  + https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/
 + CS 6440 Intro to Health Informatics
 
 ### Completed
 + CS 6200 Intro to Operating Systems
 + CS 6210 Advanced Operating Systems 
++ CS 6340 Software Analysis and Test
+  + https://cs.au.dk/~amoeller/spa/
+  + https://d1b10bmlvqabco.cloudfront.net/attach/jbe3aw2nwc031n/ixory6sosP2/jcigv7z03w61/books.pdf
+  + http://rightingcode.org/
 
 
 ## CCSF
@@ -677,7 +664,6 @@
 + CS   199   Independent Study
 + CS   256   Data Visualization 
 + CNIT 141   Cryptography for Computers
-+ CNIT 214   Internet of Things
 + MATH  80   Probability and Statistics 
 + MATH  95   Trigonometry
 + MATH 110A  Calculus I 
@@ -694,11 +680,24 @@
 
 
 ## Jobs
-+ Code for America: https://www.codeforamerica.org/jobs?gh_jid=1500593
-+ SF student internship: http://www.sfstudentintern.org/
 + Weworkremotely programming jobs: https://weworkremotely.com/categories/remote-programming-jobs
++ Codementor: https://www.codementor.io
++ General Assembly teaching: http://generalassemb.ly/how-we-work/teach-at-general-assembly
++ Thinkful web dev
 + Indeed/indeed prime
 + Upwork/Fiverr
++ Code for America: https://www.codeforamerica.org/jobs?gh_jid=1500593
++ SF student internship: http://www.sfstudentintern.org/
+
+
+## Interview prep
++ Interview questions: https://docs.google.com/document/d/1L2nqcMLxQeFHVd9ZOfgzZTjxWZsJLJe65rAzKfmldsM/edit
++ Interview algorithms and tips: http://meetupresources.herokuapp.com/index.html
++ Assorted interview tips: http://kelukelu.me/interview/questions.html
++ Women Who Code Interview Prep: https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki
++ Gayle McDowell:
+  + talk at Canadian University Software Engineering Conference: https://www.youtube.com/watch?v=rEJzOhC5ZtQ
+  + Ask Me Anything video (see the top comment with all the links to the individual questions): https://www.youtube.com/watch?v=1fqxMuPmGak
 
 
 ## Open source

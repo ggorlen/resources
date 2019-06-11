@@ -37,16 +37,16 @@
 33. [Perl](#perl)
 34. [Unix](#unix)
 35. [Scratch/Snap](#scratch/snap)
-36. [Interview prep](#interview-prep)
-37. [Code golf](#code-golf)
-38. [Course sites](#course-sites)
-39. [Algorithmic challenge sites](#algorithmic-challenge-sites)
-40. [Competitive coding](#competitive-coding)
-41. [Books](#books)
-42. [Education](#education)
-43. [OMSCS](#omscs)
-44. [CCSF](#ccsf)
-45. [Jobs](#jobs)
+36. [Code golf](#code-golf)
+37. [Course sites](#course-sites)
+38. [Algorithmic challenge sites](#algorithmic-challenge-sites)
+39. [Competitive coding](#competitive-coding)
+40. [Books](#books)
+41. [Education](#education)
+42. [OMSCS](#omscs)
+43. [CCSF](#ccsf)
+44. [Jobs](#jobs)
+45. [Interview prep](#interview-prep)
 46. [Open source](#open-source)
 47. [Fun](#fun)
 
@@ -171,6 +171,7 @@
 + <a href="https://nearley.js.org/docs/grammar">nearley/moo js</a>
 + <a href="https://dickgrune.com/">Compiler books</a>
 + <a href="https://jack-vanlightly.com/blog/2016/2/3/creating-a-simple-tokenizer-lexer-in-c">Create a simple tokenizer in C#</a>
++ <a href="https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/">Writing your own toy compiler</a>
 
 
 ## Esoteric programming languages
@@ -255,6 +256,7 @@
 + Snake: 2 player versions, add obstacles, snake tetris
 + <a href="https://en.wikipedia.org/wiki/Solved_game">Solved games list</a>
 + <a href="https://en.wikipedia.org/wiki/Mastermind_(board_game)">Mastermind</a>
++ <a href="https://osgameclones.com/">Open souce game clones</a>
 + <a href="https://en.wikipedia.org/wiki/List_of_abstract_strategy_games">List of abstract strategy games</a>
 + <a href="http://inventwithpython.com/chapter15.html">Reversi</a>
 + Checkers, misere checkers and variants:
@@ -471,7 +473,7 @@
 
 ## C++
 + <a href="http://www.learncpp.com/">learncpp</a>
-+ C++ SFML for games
++ C++ SFML for games and graphics
 + <a href="https://solarianprogrammer.com/2012/10/17/cpp-11-async-tutorial/">Async C++ tutorial</a>
 
 
@@ -527,11 +529,11 @@
 
 
 ## Python
-+ <a href="https://www.pythonanywhere.com/">Host a free Python web app</a>
 + <a href="http://norvig.com/lispy.html">Write a Lisp interpreter in Python</a>
++ <a href="https://www.pythonanywhere.com/">Host a free Python web app</a>
 + <a href="http://www.nltk.org/book/">Natural language processing with Python</a>
 + <a href="http://inventwithpython.com/pygame/">Pygame</a>
-+ <a href="https://automatetheboringstuff.com/#toc">Automate the boring stuff</a>
++ <a href="https://automatetheboringstuff.com/">Automate the boring stuff</a>
 + <a href="https://www.rose-hulman.edu/Users/faculty/young/CS-Classes/resources/Python/ZelleGraphics.html">Simple Python graphics library</a>
 + Flask:
   + <a href="https://exploreflask.com/en/latest/">https://exploreflask.com/en/latest/</a>
@@ -569,7 +571,7 @@
 
 ## Unix
 + <a href="http://overthewire.org/wargames/bandit/">Bandit (learn UNIX)</a>
-+ <a href="http://learnvimscriptthehardway.stevelosh.com/">Learn vi</a>
++ <a href="http://learnvimscriptthehardway.stevelosh.com/">Learn vim script</a>
 
 
 ## Scratch/Snap
@@ -582,19 +584,6 @@
 + <a href="http://www.multiwingspan.co.uk/scratch.php?page=ex1">Multiwingspan projects</a>
 
 
-## Interview prep
-+ <a href="https://docs.google.com/document/d/1L2nqcMLxQeFHVd9ZOfgzZTjxWZsJLJe65rAzKfmldsM/edit">Interview questions</a>
-+ <a href="http://meetupresources.herokuapp.com/index.html">Interview algorithms and tips</a>
-+ <a href="http://kelukelu.me/interview/questions.html">Assorted interview tips</a>
-+ <a href="https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki">Women Who Code Interview Prep</a>
-+ Gayle McDowell:
-  + <a href="https://www.youtube.com/watch?v=rEJzOhC5ZtQ">talk at Canadian University Software Engineering Conference</a>
-  + <a href="https://www.youtube.com/watch?v=1fqxMuPmGak">Ask Me Anything video (see the top comment with all the links to the individual questions)</a>
-  + <a href="http://www.gayle.com/featured-blog-posts">http://www.gayle.com/featured-blog-posts</a>
-  + <a href="https://medium.com/@gayle/coding-interviews-and-the-importance-of-perfection-f381e486233e#.3zembxo47">a good overview of a technical interview (which you get to *after* the algorithm screen)</a>
-  + <a href="https://www.careercup.com">https://www.careercup.com</a>
-
-
 ## Code golf
 + <a href="https://code-golf.io/">code-golf.io</a>
 + <a href="https://js1k.com/">js1k</a>
@@ -604,29 +593,28 @@
 
 ## Course sites
 + <a href="http://codingthematrix.com/">Coding the Matrix</a>
-+ <a href="https://egghead.io/">Egghead</a>
-+ <a href="https://www.coursera.org/learn/algorithms-part1">Coursera algorithms classes (pts 1 & 2)</a>
 + <a href="http://nand2tetris.org/">Nand2Tetris</a>
-+ <a href="https://www.udemy.com/the-advanced-web-developer-bootcamp/">Advanced Web Developer Bootcamp</a>
 + <a href="https://www.lynda.com/portal/patron?org=sfpl.org">Lynda SFPL</a>
-+ <a href="http://www.tweaktown.com/news/46511/7-essential-skills-new-developer-needs-learn/index.html">'7 Essential Skills Every New Developer Needs to Learn'</a>
++ <a href="https://www.udemy.com/the-advanced-web-developer-bootcamp/">Advanced Web Developer Bootcamp</a>
++ <a href="https://www.coursera.org/learn/algorithms-part1">Coursera algorithms classes (pts 1 & 2)</a>
++ <a href="https://egghead.io/">Egghead</a>
 
 
 ## Algorithmic challenge sites
-  + <a href="https://code.google.com/codejam/past-contests">Google Code Jam</a>
-    + <a href="https://www.go-hero.net/jam/16/">Go-Hero</a>  has archive all the past Google Code Jam problems w/ solutions
-  + <a href="https://www.reddit.com/r/dailyprogrammer/">Daily Programmer</a>
-  + <a href="https://www.mathworks.com/matlabcentral/cody/problems">Math problems</a>
-  + <a href="https://www.learneroo.com/">Learneroo</a>
-  + <a href="https://www.topcoder.com/getting-started">Topcoder</a>
-  + <a href="https://www.hackerearth.com/challenges/">Hacker Earth</a>
-  + <a href="https://www.codechef.com/">Code chef</a>
-  + <a href="http://www.spoj.com/">SPOJ</a>
-  + <a href="http://www.exercism.io">Exercism</a>
-    + <a href="https://www.youtube.com/watch?v=neXJOhHj8ik&index=6&list=PLyGLemjnH3ukTGW8TYCzdu7jQe0U-wEKi">Talk on exercism</a>
-  + <a href="http://codingbat.com">Coding Bat</a>
-  + <a href="http://codekata.pragprog.com/">Code kata</a>
-  + <a href="https://www.root-me.org/en/Challenges/Web-Client/Javascript-Native-code">Root me</a>
++ <a href="https://code.google.com/codejam/past-contests">Google Code Jam</a>
+  + <a href="https://www.go-hero.net/jam/16/">Go-Hero</a>  has archive all the past Google Code Jam problems w/ solutions
++ <a href="https://www.reddit.com/r/dailyprogrammer/">Daily Programmer</a>
++ <a href="https://www.mathworks.com/matlabcentral/cody/problems">Math problems</a>
++ <a href="https://www.learneroo.com/">Learneroo</a>
++ <a href="https://www.topcoder.com/getting-started">Topcoder</a>
++ <a href="https://www.hackerearth.com/challenges/">Hacker Earth</a>
++ <a href="https://www.codechef.com/">Code chef</a>
++ <a href="http://www.spoj.com/">SPOJ</a>
++ <a href="http://www.exercism.io">Exercism</a>
+  + <a href="https://www.youtube.com/watch?v=neXJOhHj8ik&index=6&list=PLyGLemjnH3ukTGW8TYCzdu7jQe0U-wEKi">Talk on exercism</a>
++ <a href="http://codingbat.com">Coding Bat</a>
++ <a href="http://codekata.pragprog.com/">Code kata</a>
++ <a href="https://www.root-me.org/en/Challenges/Web-Client/Javascript-Native-code">Root me</a>
 
 
 ## Competitive coding
@@ -673,36 +661,35 @@
 ## OMSCS
 
 ### Tier 1
-+ CS 6340 Software Analysis and Test
-  - https://cs.au.dk/~amoeller/spa/
-  - https://d1b10bmlvqabco.cloudfront.net/attach/jbe3aw2nwc031n/ixory6sosP2/jcigv7z03w61/books.pdf
-  - http://rightingcode.org/
++ CS 6290 High Performance Computer Architecture
 + CS 8803 O08: Compilers
 + CS 6460 Educational Technology
-+ CS 6290 High Performance Computer Architecture
 + CS 6291 Embedded System Optimization
 + CS 6515 Graduate Algorithms
-  - https://gt-algorithms.com/
-  - https://cs170.org/
+  + <a href="https://gt-algorithms.com/">https://gt-algorithms.com/</a>
+  + <a href="https://cs170.org/">https://cs170.org/</a>
 + CSE 6220: Intro to High Performance Computing
-  - https://www-users.cs.umn.edu/~karypis/parbook/
-+ CS 7637 Knowledge Based AI http://lucylabs.gatech.edu/kbai/
+  + <a href="https://www-users.cs.umn.edu/~karypis/parbook/">https://www-users.cs.umn.edu/~karypis/parbook/</a>
 + CS 6250 Computer Networks
-  - prereq course: https://www.cc.gatech.edu/~rama/CS2200-External/
+  + <a href="https://www.cc.gatech.edu/~rama/CS2200-External/">prereq course</a>
 
 ### Tier 2
++ CS 7637 Knowledge Based AI http://lucylabs.gatech.edu/kbai/
 + CS 7646 Machine Learning for Trading
-+ CS 6035 Intro to Information Security (C, networking, discrete)
++ CS 6035 Intro to Information Security
 + CS 6262 Network Security
-+ CS 6310 Software Architecture and Design
-  - https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/
 + CS 6400 Database Systems Concepts and Design
 + CS 6300 Software Development Process
+  + <a href="https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/">https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/</a>
 + CS 6440 Intro to Health Informatics
 
 ### Completed
 + CS 6200 Intro to Operating Systems
 + CS 6210 Advanced Operating Systems
++ CS 6340 Software Analysis and Test
+  + <a href="https://cs.au.dk/~amoeller/spa/">https://cs.au.dk/~amoeller/spa/</a>
+  + <a href="https://d1b10bmlvqabco.cloudfront.net/attach/jbe3aw2nwc031n/ixory6sosP2/jcigv7z03w61/books.pdf">https://d1b10bmlvqabco.cloudfront.net/attach/jbe3aw2nwc031n/ixory6sosP2/jcigv7z03w61/books.pdf</a>
+  + <a href="http://rightingcode.org/">http://rightingcode.org/</a>
 
 
 ## CCSF
@@ -724,7 +711,6 @@
 + CS   199   Independent Study
 + CS   256   Data Visualization
 + CNIT 141   Cryptography for Computers
-+ CNIT 214   Internet of Things
 + MATH  80   Probability and Statistics
 + MATH  95   Trigonometry
 + MATH 110A  Calculus I
@@ -741,11 +727,24 @@
 
 
 ## Jobs
-+ <a href="https://www.codeforamerica.org/jobs?gh_jid=1500593">Code for America</a>
-+ <a href="http://www.sfstudentintern.org/">SF student internship</a>
 + <a href="https://weworkremotely.com/categories/remote-programming-jobs">Weworkremotely programming jobs</a>
++ <a href="https://www.codementor.io">Codementor</a>
++ <a href="http://generalassemb.ly/how-we-work/teach-at-general-assembly">General Assembly teaching</a>
++ Thinkful web dev
 + Indeed/indeed prime
 + Upwork/Fiverr
++ <a href="https://www.codeforamerica.org/jobs?gh_jid=1500593">Code for America</a>
++ <a href="http://www.sfstudentintern.org/">SF student internship</a>
+
+
+## Interview prep
++ <a href="https://docs.google.com/document/d/1L2nqcMLxQeFHVd9ZOfgzZTjxWZsJLJe65rAzKfmldsM/edit">Interview questions</a>
++ <a href="http://meetupresources.herokuapp.com/index.html">Interview algorithms and tips</a>
++ <a href="http://kelukelu.me/interview/questions.html">Assorted interview tips</a>
++ <a href="https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki">Women Who Code Interview Prep</a>
++ Gayle McDowell:
+  + <a href="https://www.youtube.com/watch?v=rEJzOhC5ZtQ">talk at Canadian University Software Engineering Conference</a>
+  + <a href="https://www.youtube.com/watch?v=1fqxMuPmGak">Ask Me Anything video (see the top comment with all the links to the individual questions)</a>
 
 
 ## Open source
