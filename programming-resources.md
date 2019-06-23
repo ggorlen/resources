@@ -22,6 +22,7 @@
 + OS @ NYU: https://cs.nyu.edu/~mwalfish/classes/ut/s11-cs372h/hw/sol8.html
 + What every programmer should know about memory: https://akkadia.org/drepper/cpumemory.pdf
 + The Little Book of Semaphores: https://greenteapress.com/wp/semaphores/
++ Computer Systems: A Programmer's Perspective: https://csapp.cs.cmu.edu/
 
 
 ## Project Euler
@@ -52,6 +53,7 @@
 + Simplify a fraction: http://codereview.stackexchange.com/questions/66450/simplify-a-fraction
 + Basil & Fabian: http://blog.jamisbuck.org/
 + Car talk puzzlers: https://developmentality.wordpress.com/tag/car-talk/
++ Sliding puzzle solving with hill climbing: https://towardsdatascience.com/solve-slide-puzzle-with-hill-climbing-search-algorithm-d7fb93321325
 
 
 ## DP
@@ -702,6 +704,13 @@
 
 ## Open source
 + Openhatch: https://openhatch.org/search/
+
+
+## Stack Overflow
++ Users I like:
+  + https://stackoverflow.com/users/559737/
+  + https://stackoverflow.com/users/895245/
+  + https://stackoverflow.com/users/5459839/
 
 
 ## Fun

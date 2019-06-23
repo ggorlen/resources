@@ -48,7 +48,8 @@
 44. [Jobs](#jobs)
 45. [Interview prep](#interview-prep)
 46. [Open source](#open-source)
-47. [Fun](#fun)
+47. [Stack Overflow](#stack-overflow)
+48. [Fun](#fun)
 
 
 ## General
@@ -69,6 +70,7 @@
 + <a href="https://cs.nyu.edu/~mwalfish/classes/ut/s11-cs372h/hw/sol8.html">OS @ NYU</a>
 + <a href="https://akkadia.org/drepper/cpumemory.pdf">What every programmer should know about memory</a>
 + <a href="https://greenteapress.com/wp/semaphores/">The Little Book of Semaphores</a>
++ <a href="https://csapp.cs.cmu.edu/">Computer Systems: A Programmer's Perspective</a>
 
 
 ## Project Euler
@@ -99,6 +101,7 @@
 + <a href="http://codereview.stackexchange.com/questions/66450/simplify-a-fraction">Simplify a fraction</a>
 + <a href="http://blog.jamisbuck.org/">Basil & Fabian</a>
 + <a href="https://developmentality.wordpress.com/tag/car-talk/">Car talk puzzlers</a>
++ <a href="https://towardsdatascience.com/solve-slide-puzzle-with-hill-climbing-search-algorithm-d7fb93321325">Sliding puzzle solving with hill climbing</a>
 
 
 ## DP
@@ -346,7 +349,7 @@
   + <a href="http://www.gamedesign.jp/flash/slidingblock/slidingblock.html">http://www.gamedesign.jp/flash/slidingblock/slidingblock.html</a>
 + <a href="http://goto80.com/chipflip/06/">goto80 ASCII art</a>
 + <a href="https://en.wikipedia.org/wiki/Fibonacci_number">Fibonacci spiral</a>
-+ Architecture: look for triangle perspective designs, Escher: https://s-media-cache-ak0.pinimg.com/564x/d6/ff/64/d6ff6450173c6410c919b06e07958227.jpg
++ <a href="https://s-media-cache-ak0.pinimg.com/564x/d6/ff/64/d6ff6450173c6410c919b06e07958227.jpg">Architecture: look for triangle perspective designs, Escher</a>
 + Do a visual plotting the orthocenter, medicenter, and circumcenter of a triangle
 + Write a script that turns text into blocky ASCII text or renders images in ASCII
 + <a href="https://threejs.org/">ThreeJS</a>
@@ -749,6 +752,13 @@
 
 ## Open source
 + <a href="https://openhatch.org/search/">Openhatch</a>
+
+
+## Stack Overflow
++ Users I like:
+  + <a href="https://stackoverflow.com/users/559737/">https://stackoverflow.com/users/559737/</a>
+  + <a href="https://stackoverflow.com/users/895245/">https://stackoverflow.com/users/895245/</a>
+  + <a href="https://stackoverflow.com/users/5459839/">https://stackoverflow.com/users/5459839/</a>
 
 
 ## Fun

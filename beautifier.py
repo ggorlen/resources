@@ -30,7 +30,7 @@ for line in text:
         toc.append("%s. [%s](%s)" % (len(toc), m.group(1), link))
         result.append(line)
     else:
-        m = re.compile(r"^( *\+ +)([^:]+): *(https?://[^ ]+)(.*)$").search(line)
+        m = re.compile(r"^( *\+ +)(.+): *(https?://[^ ]+)(.*)$").search(line)
         
         if m: 
             result.append(m.group(1) + md_link(m.group(2), m.group(3)))
