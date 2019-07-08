@@ -26,6 +26,7 @@
 
 
 ## Project Euler
++ Next to solve: 189, 244
 + #93 Sudoku can also be solved using Integer Linear Programming :https://pythonhosted.org/PuLP/CaseStudies/a_sudoku_problem.html
 + #84 Monopoly is one of the best. Worth solving using both simulation (I used first-class functions) and stochastic matrix (I used numpy). Working out the initial probabilities for the stochastic matrix requires only basic probability, but it's tricky.
 + Euler's totient function: http://www.geeksforgeeks.org/eulers-totient-function/
@@ -112,13 +113,17 @@
 
 
 ## Compilers/interpreters
-+ Forth lang tutorial: https://www.forth.com/starting-forth/9-forth-execution/
++ Write a Forth interpreter:
+  + Forth lang tutorial: https://www.forth.com/starting-forth/9-forth-execution/
+  + Python Forth interpreter: http://openbookproject.net/py4fun/forth/forth.html
+  + Easy Forth tutorial: https://skilldrick.github.io/easyforth/
 + Stanford compilers courses: 
   + http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/
   + https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about
 + Udacity programming languages course: https://classroom.udacity.com/courses/cs262
 + OMSCS compilers: https://classroom.udacity.com/courses/ud168/lessons/9331262348/concepts/93290028450923
 + Let's build a simple interpreter: https://ruslanspivak.com/lsbasi-part1/
++ JS interpreter in JS (good for sandboxing): https://github.com/NeilFraser/JS-Interpreter
 + Incremental approach to compiler construction: http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf
 + Write a compiler: https://norasandler.com/2017/11/29/Write-a-Compiler.html
 + Crafting Interpreters: http://craftinginterpreters.com/
@@ -403,6 +408,9 @@
 ## Regex 
 + Write a regex engine: https://rcoh.me/posts/no-magic-regular-expressions/
 + https://www.regular-expressions.info/refadv.html
++ Regex Static Analysis: http://www.cs.sun.ac.za/~abvdm/regex.html
++ Catastrophic Backtracking: https://www.regular-expressions.info/catastrophic.html
++ Implementing Regular Expressions: https://swtch.com/~rsc/regexp/
 
 
 ## Cryptography
@@ -711,6 +719,7 @@
   + https://stackoverflow.com/users/559737/
   + https://stackoverflow.com/users/895245/
   + https://stackoverflow.com/users/5459839/
+  + https://stackoverflow.com/users/3000206/
 
 
 ## Fun

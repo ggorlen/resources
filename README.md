@@ -74,6 +74,7 @@
 
 
 ## Project Euler
++ Next to solve: 189, 244
 + <a href="https://pythonhosted.org/PuLP/CaseStudies/a_sudoku_problem.html">#93 Sudoku can also be solved using Integer Linear Programming </a>
 + #84 Monopoly is one of the best. Worth solving using both simulation (I used first-class functions) and stochastic matrix (I used numpy). Working out the initial probabilities for the stochastic matrix requires only basic probability, but it's tricky.
 + <a href="http://www.geeksforgeeks.org/eulers-totient-function/">Euler's totient function</a>
@@ -160,13 +161,17 @@
 
 
 ## Compilers/interpreters
-+ <a href="https://www.forth.com/starting-forth/9-forth-execution/">Forth lang tutorial</a>
++ Write a Forth interpreter:
+  + <a href="https://www.forth.com/starting-forth/9-forth-execution/">Forth lang tutorial</a>
+  + <a href="http://openbookproject.net/py4fun/forth/forth.html">Python Forth interpreter</a>
+  + <a href="https://skilldrick.github.io/easyforth/">Easy Forth tutorial</a>
 + Stanford compilers courses:
   + <a href="http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/">http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/</a>
   + <a href="https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about">https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about</a>
 + <a href="https://classroom.udacity.com/courses/cs262">Udacity programming languages course</a>
 + <a href="https://classroom.udacity.com/courses/ud168/lessons/9331262348/concepts/93290028450923">OMSCS compilers</a>
 + <a href="https://ruslanspivak.com/lsbasi-part1/">Let's build a simple interpreter</a>
++ <a href="https://github.com/NeilFraser/JS-Interpreter">JS interpreter in JS (good for sandboxing)</a>
 + <a href="http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf">Incremental approach to compiler construction</a>
 + <a href="https://norasandler.com/2017/11/29/Write-a-Compiler.html">Write a compiler</a>
 + <a href="http://craftinginterpreters.com/">Crafting Interpreters</a>
@@ -451,6 +456,9 @@
 ## Regex
 + <a href="https://rcoh.me/posts/no-magic-regular-expressions/">Write a regex engine</a>
 + <a href="https://www.regular-expressions.info/refadv.html">https://www.regular-expressions.info/refadv.html</a>
++ <a href="http://www.cs.sun.ac.za/~abvdm/regex.html">Regex Static Analysis</a>
++ <a href="https://www.regular-expressions.info/catastrophic.html">Catastrophic Backtracking</a>
++ <a href="https://swtch.com/~rsc/regexp/">Implementing Regular Expressions</a>
 
 
 ## Cryptography
@@ -759,6 +767,7 @@
   + <a href="https://stackoverflow.com/users/559737/">https://stackoverflow.com/users/559737/</a>
   + <a href="https://stackoverflow.com/users/895245/">https://stackoverflow.com/users/895245/</a>
   + <a href="https://stackoverflow.com/users/5459839/">https://stackoverflow.com/users/5459839/</a>
+  + <a href="https://stackoverflow.com/users/3000206/">https://stackoverflow.com/users/3000206/</a>
 
 
 ## Fun
