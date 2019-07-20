@@ -47,9 +47,8 @@
 43. [CCSF](#ccsf)
 44. [Jobs](#jobs)
 45. [Interview prep](#interview-prep)
-46. [Open source](#open-source)
-47. [Stack Overflow](#stack-overflow)
-48. [Fun](#fun)
+46. [Stack Overflow](#stack-overflow)
+47. [Fun](#fun)
 
 
 ## General
@@ -64,6 +63,10 @@
 + <a href="http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm">Christopher Alexander's Design Patterns</a>
 + <a href="http://el.media.mit.edu/logo-foundation/index.html">The Logo Foundation</a>
 + <a href="https://en.wikipedia.org/wiki/NetLogo">NetLogo</a>
++ <a href="https://www.btbytes.com/pl.html">Interesting programming languages</a>
++ write a non-acct twitter (or SO) client that can fav and show imgs like birdfeed without having an account.
++ write some RTS demo sketches
++ write a sandboxed compiler+code runner
 
 
 ## Operating Systems
@@ -108,8 +111,7 @@
 
 
 ## DP
-+ <a href="https://articles.leetcode.com/coins-in-line/">Coins in line</a>
-+ <a href="http://interactivepython.org/KKOkZ/courselib/static/pythonds/Recursion/DynamicProgramming.html">Coin change</a>
++ <a href="https://runestone.academy/runestone/books/published/pythonds/Recursion/DynamicProgramming.html">Coin change</a>
 + <a href="https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm_(Algorithm_3:_Dynamic_Programming)">Maximum subarray problem (Kadane's algorithm)</a>
 + <a href="https://www.geeksforgeeks.org/dynamic-programming-set-18-word-wrap/">DP text justify</a>
 + <a href="http://algorithms.tutorialhorizon.com/dynamic-programming-coin-change-problem/">DP coin change</a>
@@ -212,7 +214,7 @@
 + <a href="https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning">Alpha-beta pruning</a>
 + <a href="http://cwoebker.com/posts/tic-tac-toe">Tic tac toe AI</a>
 + Minimax:
-  + <a href="http://neverstopbuilding.com/minimax">http://neverstopbuilding.com/minimax</a>
+  + <a href="https://www.neverstopbuilding.com/blog/minimax">https://www.neverstopbuilding.com/blog/minimax</a>
   + <a href="https://www.leaseweb.com/labs/2013/12/python-tictactoe-tk-minimax-ai/">https://www.leaseweb.com/labs/2013/12/python-tictactoe-tk-minimax-ai/</a>
 + <a href="https://en.wikipedia.org/wiki/Negamax">Negamax</a>
 + <a href="https://inventwithpython.com/invent4thed/chapter15.html">Othello basic</a>
@@ -229,10 +231,10 @@
   + <a href="https://www.redblobgames.com/articles/visibility/">https://www.redblobgames.com/articles/visibility/</a>
   + <a href="http://journal.stuffwithstuff.com/2015/09/07/what-the-hero-sees/">http://journal.stuffwithstuff.com/2015/09/07/what-the-hero-sees/</a>
   + <a href="https://legends2k.github.io/2d-fov/design.html">https://legends2k.github.io/2d-fov/design.html</a>
-  + <a href="http://www.emanueleferonato.com/2015/02/03/play-with-light-and-dark-using-ray-casting-and-visibility-polygons/">In Phaser using a nice raycasting lib</a>
+  + <a href="https://www.emanueleferonato.com/2015/02/03/play-with-light-and-dark-using-ray-casting-and-visibility-polygons/">In Phaser using a nice raycasting lib</a>
 + <a href="https://dev.opera.com/articles/3d-games-with-canvas-and-raycasting-part-1/">3d Wolfenstein raycasting tutorial in JS</a>
 + <a href="https://en.wikipedia.org/wiki/Minichess">Minichess</a>
-+ <a href="https://www.redblobgames.com/grids/hexagons/">Minesweeper with hex grid</a>
++ <a href="https://www.redblobgames.com/grids/hexagons/">Minesweeper with hex grid (try tri grid as well)</a>
 + <a href="https://www.youtube.com/watch?v=KboGyIilP6k">Dots and boxes</a>
 + <a href="https://en.wikipedia.org/wiki/Breakthru_(board_game)">Breakthru</a>
 + <a href="https://en.wikipedia.org/wiki/Beast_(video_game)">Beast</a>
@@ -289,9 +291,9 @@
 
 
 ## Puzzles
++ <a href="https://en.wikipedia.org/wiki/Category:Logic_puzzles">Logic puzzles list (KenKen, Sudoku, Sokoban, etc)</a>
 + <a href="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/">Simon Tatham</a>
 + Do chess packing puzzles
-+ <a href="https://en.wikipedia.org/wiki/Category:Logic_puzzles">https://en.wikipedia.org/wiki/Category:Logic_puzzles</a>
 + <a href="http://www2.stetson.edu/~efriedma/">Erich Friendman's Puzzle Palace</a>
 + <a href="https://en.wikipedia.org/wiki/Slitherlink">Slitherlink</a>
 + <a href="http://www.mindsports.nl/index.php/puzzle-links">Mindsports (links resource)</a>
@@ -342,14 +344,13 @@
 ## Visual/animation
 + <a href="http://zreference.com/projects/graphics/">Inspiring zreference projects</a>
 + <a href="https://bit101.github.io/lab/dailies/170413.html">Also inspiring, bit101 dailies</a>
-+ <a href="https://cs.brown.edu/~rt/gdhandbook/">Handbook of Graph Drawing and Visualization</a>
++ <a href="http://cs.brown.edu/people/rtamassi/gdhandbook/">Handbook of Graph Drawing and Visualization</a>
 + Convex hull:
   + <a href="https://en.wikipedia.org/wiki/Convex_hull_algorithms">https://en.wikipedia.org/wiki/Convex_hull_algorithms</a>
   + <a href="https://en.wikipedia.org/wiki/Orthogonal_convex_hull">https://en.wikipedia.org/wiki/Orthogonal_convex_hull</a>
 + Delaunay triangulation:
   + <a href="https://transcendentcode.wordpress.com/2014/01/26/triangulation/">https://transcendentcode.wordpress.com/2014/01/26/triangulation/</a>
   + <a href="https://en.wikipedia.org/wiki/Delaunay_triangulation">https://en.wikipedia.org/wiki/Delaunay_triangulation</a>
-  + <a href="http://www.cs.uu.nl/docs/vakken/ga/slides9alt.pdf">http://www.cs.uu.nl/docs/vakken/ga/slides9alt.pdf</a>
   + <a href="http://www.geom.uiuc.edu/~samuelp/del_project.html#algorithms">http://www.geom.uiuc.edu/~samuelp/del_project.html#algorithms</a>
   + <a href="https://en.wikipedia.org/wiki/Voronoi_diagram#Algorithms">https://en.wikipedia.org/wiki/Voronoi_diagram#Algorithms</a>
 + <a href="https://en.wikipedia.org/wiki/Graph_drawing">Graph drawing</a>
@@ -364,7 +365,6 @@
 + <a href="https://threejs.org/">ThreeJS</a>
 + <a href="https://jsxgraph.uni-bayreuth.de/wiki/index.php/Category:Examples">JSXGraph</a>
 + <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial">WebGL tutorial</a>
-+ <a href="http://entibo.fr/">entibo examples/inspiration</a>
 + Bezier Curves:
   + <a href="https://pomax.github.io/bezierinfo/">A Primer on Bezier Curves</a>
   + <a href="http://www.victoriakirst.com/beziertool/">Bezier curve tool</a>
@@ -379,11 +379,11 @@
 + <a href="http://arc.id.au/CanvasLayers.html">Canvas stack</a>
 + <a href="https://stackoverflow.com/questions/10486084/generate-animated-gif-with-html5-canvas">Create gif from a canvas animation</a>
 + Animate the Collatz Conjecture
-+ <a href="http://recodeproject.com">ReCode Project (computer art repository)</a>
++ <a href="https://mepler.com/The-ReCode-Project">ReCode Project (computer art repository)</a>
 + <a href="http://dada.compart-bremen.de">CompArt</a>
 + <a href="http://algorists.org/algorist.html">The Algorists</a>
 + <a href="https://en.wikipedia.org/wiki/Sol_LeWitt">Sol LeWitt</a>
-+ <a href="http://js.do/blog/processing/sombrero-3d/">3d sombrero and other algorithms</a>
++ <a href="https://js.do/samples/sombrero">3d sombrero and other algorithms</a>
 + <a href="https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/">Necessary Disorder</a>
 + <a href="http://mrdoob.com/">Mr. Doob three.js collection</a>
 
@@ -412,7 +412,7 @@
 
 ## Physics simulations
 + <a href="https://en.wikipedia.org/wiki/Falling-sand_game">Falling sand game</a>
-+ <a href="http://andrew.wang-hoyer.com/experiments/cloth/">Cloth physics</a>
++ <a href="https://andrew.wang-hoyer.com/experiments/cloth/">Cloth physics</a>
 + <a href="https://www.youtube.com/watch?v=3HjO_RGIjCU">Verlet integration</a>
 + <a href="https://en.wikipedia.org/wiki/Ragdoll_physics">Ragdoll physics</a>
 + <a href="https://www.youtube.com/watch?v=11ZmRlR7sOQ">Coding math tutorial</a>
@@ -527,7 +527,7 @@
   + <a href="https://github.com/JamieCressey/PHP-MySQL-Session-Handler">https://github.com/JamieCressey/PHP-MySQL-Session-Handler</a>
   + <a href="https://github.com/kahwee/php-db-session-handler">https://github.com/kahwee/php-db-session-handler</a>
   + <a href="https://www.allphptricks.com/simple-user-registration-login-script-in-php-and-mysqli/">https://www.allphptricks.com/simple-user-registration-login-script-in-php-and-mysqli/</a>
-  + <a href="http://www.phpeasystep.com/workshopview.php?id=6">http://www.phpeasystep.com/workshopview.php?id=6</a>
+  + <a href="https://phpeasystep.com/workshopview.php?id=6">https://phpeasystep.com/workshopview.php?id=6</a>
   + <a href="http://www.eggslab.net/php-login-script/">http://www.eggslab.net/php-login-script/</a>
   + <a href="http://codewithawa.com/posts/admin-and-user-login-in-php-and-mysql-database">http://codewithawa.com/posts/admin-and-user-login-in-php-and-mysql-database</a>
   + <a href="https://www.formget.com/login-form-in-php/">https://www.formget.com/login-form-in-php/</a>
@@ -577,7 +577,7 @@
 + <a href="http://poignant.guide/book/chapter-6.html">Why's Poignant Guide to Ruby</a>
 + <a href="http://ruby-doc.com/docs/ProgrammingRuby/html/tut_stdtypes.html">Nice Ruby regex tutorial</a>
 + <a href="http://ruby-doc.com/docs/ProgrammingRuby/html/rubyworld.html">Programming Ruby</a>
-+ <a href="http://aspiringwebdev.com/e-mail-in-rails-with-mailchimp-and-mandrill-a-comprehensive-guide">Rails mailing list</a>
++ <a href="https://aspiringwebdev.com/e-mail-in-rails-with-mailchimp-and-mandrill-a-comprehensive-guide/">Rails mailing list</a>
 
 
 ## Perl
@@ -613,6 +613,17 @@
 + <a href="https://www.lynda.com/portal/patron?org=sfpl.org">Lynda SFPL</a>
 + <a href="https://www.coursera.org/learn/algorithms-part1">Coursera algorithms classes (pts 1 & 2)</a>
 + <a href="https://egghead.io/">Egghead</a>
++ <a href="https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313">Udacity intro to theoretical CS</a>
++ <a href="http://jeffe.cs.illinois.edu/teaching/algorithms/">Jeff Erickson's algorithms</a>
++ <a href="https://courses.cs.washington.edu/courses/cse326/03wi/326lecturesa.shtml">UW Data Structures & Algorithms</a>
++ Math:
+  + <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/">MIT OCW Math for CS</a>
+  + <a href="https://www.math.fsu.edu/~pkirby/mad2104/SlideShow/CourseNotesMAD2104.pdf">FSU Discreet Math I</a>
+  + <a href="http://www-math.mit.edu/~djk/calculus_beginners/">Calculus for beginners</a>
+  + <a href="https://www.calculusexpert.com/library/">https://www.calculusexpert.com/library/</a>
+  + <a href="http://www.mathmeetsyou.com/home/trigonometry">http://www.mathmeetsyou.com/home/trigonometry</a>
+  + <a href="http://www.greenteapress.com/thinkbayes/html/index.html">http://www.greenteapress.com/thinkbayes/html/index.html</a>
+  + <a href="https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/">https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/</a>
 
 
 ## Algorithmic challenge sites
@@ -651,11 +662,6 @@
 
 
 ## Education
-+ <a href="https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313">Udacity intro to theoretical CS</a>
-+ <a href="https://www.math.fsu.edu/~pkirby/mad2104/SlideShow/CourseNotesMAD2104.pdf">FSU Discreet Math I</a>
-+ <a href="http://jeffe.cs.illinois.edu/teaching/algorithms/">Jeff Erickson's algorithms</a>
-+ <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/">MIT OCW Math for CS</a>
-+ <a href="https://courses.cs.washington.edu/courses/cse326/03wi/326lecturesa.shtml">UW Data Structures & Algorithms</a>
 + SFSU
   + <a href="http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ms-computer-science/">http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ms-computer-science/</a>
   + Prospective students are welcome to send any questions to the graduate advising assistant at (csgrad@sfsu.edu)
@@ -761,10 +767,6 @@
 + Gayle McDowell:
   + <a href="https://www.youtube.com/watch?v=rEJzOhC5ZtQ">talk at Canadian University Software Engineering Conference</a>
   + <a href="https://www.youtube.com/watch?v=1fqxMuPmGak">Ask Me Anything video (see the top comment with all the links to the individual questions)</a>
-
-
-## Open source
-+ <a href="https://openhatch.org/search/">Openhatch</a>
 
 
 ## Stack Overflow

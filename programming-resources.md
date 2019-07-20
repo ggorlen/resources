@@ -64,8 +64,7 @@
 
 
 ## DP
-+ Coins in line: https://articles.leetcode.com/coins-in-line/
-+ Coin change: http://interactivepython.org/KKOkZ/courselib/static/pythonds/Recursion/DynamicProgramming.html
++ Coin change: https://runestone.academy/runestone/books/published/pythonds/Recursion/DynamicProgramming.html
 + Maximum subarray problem (Kadane's algorithm): https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm_(Algorithm_3:_Dynamic_Programming)
 + DP text justify: https://www.geeksforgeeks.org/dynamic-programming-set-18-word-wrap/
 + DP coin change: http://algorithms.tutorialhorizon.com/dynamic-programming-coin-change-problem/
@@ -168,7 +167,7 @@
 + Alpha-beta pruning: https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning
 + Tic tac toe AI: http://cwoebker.com/posts/tic-tac-toe
 + Minimax: 
-  + http://neverstopbuilding.com/minimax
+  + https://www.neverstopbuilding.com/blog/minimax
   + https://www.leaseweb.com/labs/2013/12/python-tictactoe-tk-minimax-ai/
 + Negamax: https://en.wikipedia.org/wiki/Negamax
 + Othello basic: https://inventwithpython.com/invent4thed/chapter15.html
@@ -185,7 +184,7 @@
   + https://www.redblobgames.com/articles/visibility/
   + http://journal.stuffwithstuff.com/2015/09/07/what-the-hero-sees/
   + https://legends2k.github.io/2d-fov/design.html
-  + In Phaser using a nice raycasting lib: http://www.emanueleferonato.com/2015/02/03/play-with-light-and-dark-using-ray-casting-and-visibility-polygons/
+  + In Phaser using a nice raycasting lib: https://www.emanueleferonato.com/2015/02/03/play-with-light-and-dark-using-ray-casting-and-visibility-polygons/
 + 3d Wolfenstein raycasting tutorial in JS: https://dev.opera.com/articles/3d-games-with-canvas-and-raycasting-part-1/  
 + Minichess: https://en.wikipedia.org/wiki/Minichess
 + Minesweeper with hex grid (try tri grid as well): https://www.redblobgames.com/grids/hexagons/
@@ -298,14 +297,13 @@
 ## Visual/animation
 + Inspiring zreference projects: http://zreference.com/projects/graphics/
 + Also inspiring, bit101 dailies: https://bit101.github.io/lab/dailies/170413.html
-+ Handbook of Graph Drawing and Visualization: https://cs.brown.edu/~rt/gdhandbook/
++ Handbook of Graph Drawing and Visualization: http://cs.brown.edu/people/rtamassi/gdhandbook/
 + Convex hull: 
   + https://en.wikipedia.org/wiki/Convex_hull_algorithms
   + https://en.wikipedia.org/wiki/Orthogonal_convex_hull
 + Delaunay triangulation:
   + https://transcendentcode.wordpress.com/2014/01/26/triangulation/
   + https://en.wikipedia.org/wiki/Delaunay_triangulation
-  + http://www.cs.uu.nl/docs/vakken/ga/slides9alt.pdf
   + http://www.geom.uiuc.edu/~samuelp/del_project.html#algorithms
   + https://en.wikipedia.org/wiki/Voronoi_diagram#Algorithms
 + Graph drawing: https://en.wikipedia.org/wiki/Graph_drawing
@@ -320,7 +318,6 @@
 + ThreeJS: https://threejs.org/
 + JSXGraph: https://jsxgraph.uni-bayreuth.de/wiki/index.php/Category:Examples
 + WebGL tutorial: https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial
-+ entibo examples/inspiration: http://entibo.fr/
 + Bezier Curves:
   + A Primer on Bezier Curves: https://pomax.github.io/bezierinfo/
   + Bezier curve tool: http://www.victoriakirst.com/beziertool/
@@ -335,11 +332,11 @@
 + Canvas stack: http://arc.id.au/CanvasLayers.html
 + Create gif from a canvas animation: https://stackoverflow.com/questions/10486084/generate-animated-gif-with-html5-canvas
 + Animate the Collatz Conjecture
-+ ReCode Project (computer art repository): http://recodeproject.com
++ ReCode Project (computer art repository): https://mepler.com/The-ReCode-Project
 + CompArt: http://dada.compart-bremen.de
 + The Algorists: http://algorists.org/algorist.html
 + Sol LeWitt: https://en.wikipedia.org/wiki/Sol_LeWitt
-+ 3d sombrero and other algorithms: http://js.do/blog/processing/sombrero-3d/
++ 3d sombrero and other algorithms: https://js.do/samples/sombrero
 + Necessary Disorder: https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/
 + Mr. Doob three.js collection: http://mrdoob.com/
 
@@ -368,7 +365,7 @@
 
 ## Physics simulations
 + Falling sand game: https://en.wikipedia.org/wiki/Falling-sand_game
-+ Cloth physics: http://andrew.wang-hoyer.com/experiments/cloth/ 
++ Cloth physics: https://andrew.wang-hoyer.com/experiments/cloth/
 + Verlet integration: https://www.youtube.com/watch?v=3HjO_RGIjCU
 + Ragdoll physics: https://en.wikipedia.org/wiki/Ragdoll_physics
 + Coding math tutorial: https://www.youtube.com/watch?v=11ZmRlR7sOQ 
@@ -483,7 +480,7 @@
   + https://github.com/JamieCressey/PHP-MySQL-Session-Handler
   + https://github.com/kahwee/php-db-session-handler
   + https://www.allphptricks.com/simple-user-registration-login-script-in-php-and-mysqli/
-  + http://www.phpeasystep.com/workshopview.php?id=6
+  + https://phpeasystep.com/workshopview.php?id=6
   + http://www.eggslab.net/php-login-script/
   + http://codewithawa.com/posts/admin-and-user-login-in-php-and-mysql-database
   + https://www.formget.com/login-form-in-php/
@@ -533,7 +530,7 @@
 + Why's Poignant Guide to Ruby: http://poignant.guide/book/chapter-6.html
 + Nice Ruby regex tutorial: http://ruby-doc.com/docs/ProgrammingRuby/html/tut_stdtypes.html
 + Programming Ruby: http://ruby-doc.com/docs/ProgrammingRuby/html/rubyworld.html
-+ Rails mailing list: http://aspiringwebdev.com/e-mail-in-rails-with-mailchimp-and-mandrill-a-comprehensive-guide
++ Rails mailing list: https://aspiringwebdev.com/e-mail-in-rails-with-mailchimp-and-mandrill-a-comprehensive-guide/
 
 
 ## Perl
@@ -725,10 +722,6 @@
   + Ask Me Anything video (see the top comment with all the links to the individual questions): https://www.youtube.com/watch?v=1fqxMuPmGak
 
 
-## Open source
-+ Openhatch: https://openhatch.org/search/
-
-
 ## Stack Overflow
 + Users I like:
   + https://stackoverflow.com/users/559737/
@@ -746,3 +739,4 @@
 + FizzBuzz EE: https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
 + Git man page generator: https://git-man-page-generator.lokaltog.net/
 + Write a bot that makes patterns in the github commits chart
+
