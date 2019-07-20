@@ -55,8 +55,10 @@
 ## General
 + <a href="https://www.chessprogramming.org/Keith_Gorlen">Inspiration!</a>
 + <a href="http://graphics.stanford.edu/~seander/bithacks.html">Bit twiddling hacks</a>
-+ <a href="https://anshbansal.wordpress.com/programming-links/">Various basic programming links</a>
-+ <a href="http://rosettacode.org/wiki/Rosetta_Code">Look for projects at</a>
++ Challenge/project idea lists:
+  + <a href="https://www.webfx.com/blog/web-design/10-puzzle-websites-to-sharpen-your-programming-skills/">https://www.webfx.com/blog/web-design/10-puzzle-websites-to-sharpen-your-programming-skills/</a>
+  + <a href="https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/">https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/</a>
++ <a href="http://rosettacode.org/wiki/Rosetta_Code">Look for projects at Rosetta Code</a>
 + <a href="https://programmingbydoing.com/">"Programming by Doing" simple projects for students</a>
 + Organize mp3s: beets.io and https://www.discogs.com/developers/
 + <a href="http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm">Christopher Alexander's Design Patterns</a>
@@ -98,7 +100,7 @@
 + <a href="https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes">Sieve of Eratosthenes</a>
 + <a href="https://en.wikipedia.org/wiki/Fermat%27s_factorization_method">Fermat's factorization method</a>
 + <a href="http://andreinc.net/2010/12/11/euclids-algorithm-reducing-fraction-to-lowest-terms/">Euclid's algorithm</a>
-+ <a href="https://en.wikipedia.org/wiki/Karatsuba_algorithm">Katasuba algorithm</a>
++ <a href="https://en.wikipedia.org/wiki/Karatsuba_algorithm">Karatsuba algorithm</a>
 + <a href="http://codereview.stackexchange.com/questions/66450/simplify-a-fraction">Simplify a fraction</a>
 + <a href="http://blog.jamisbuck.org/">Basil & Fabian</a>
 + <a href="https://developmentality.wordpress.com/tag/car-talk/">Car talk puzzlers</a>
@@ -180,6 +182,8 @@
 + <a href="https://dickgrune.com/">Compiler books</a>
 + <a href="https://jack-vanlightly.com/blog/2016/2/3/creating-a-simple-tokenizer-lexer-in-c">Create a simple tokenizer in C#</a>
 + <a href="https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/">Writing your own toy compiler</a>
++ <a href="https://en.wikibooks.org/wiki/Compiler_Construction/Lexical_analysis">Lexical analysis</a>
++ <a href="https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/#references">Simple tutorial and useful references</a>
 
 
 ## Esoteric programming languages
@@ -476,8 +480,8 @@
 
 
 ## C
-+ <a href="https://wiki.osdev.org/Tutorials">Write your own OS</a>
 + <a href="http://www.buildyourownlisp.com/">Build your own lisp</a>
++ <a href="https://wiki.osdev.org/Tutorials">Write your own OS</a>
 + <a href="https://beej.us/guide/bggdb/">Beej guide to GDB</a>
 + <a href="https://barrgroup.com/Embedded-Systems/Books/Embedded-C-Coding-Standard">C coding standard</a>
 
@@ -603,10 +607,10 @@
 
 
 ## Course sites
-+ <a href="http://codingthematrix.com/">Coding the Matrix</a>
 + <a href="http://nand2tetris.org/">Nand2Tetris</a>
-+ <a href="https://www.lynda.com/portal/patron?org=sfpl.org">Lynda SFPL</a>
++ <a href="http://codingthematrix.com/">Coding the Matrix</a>
 + <a href="https://www.udemy.com/the-advanced-web-developer-bootcamp/">Advanced Web Developer Bootcamp</a>
++ <a href="https://www.lynda.com/portal/patron?org=sfpl.org">Lynda SFPL</a>
 + <a href="https://www.coursera.org/learn/algorithms-part1">Coursera algorithms classes (pts 1 & 2)</a>
 + <a href="https://egghead.io/">Egghead</a>
 
@@ -623,6 +627,7 @@
 + <a href="http://www.spoj.com/">SPOJ</a>
 + <a href="http://www.exercism.io">Exercism</a>
   + <a href="https://www.youtube.com/watch?v=neXJOhHj8ik&index=6&list=PLyGLemjnH3ukTGW8TYCzdu7jQe0U-wEKi">Talk on exercism</a>
++ <a href="https://kattis.com">Kattis</a>
 + <a href="http://codingbat.com">Coding Bat</a>
 + <a href="http://codekata.pragprog.com/">Code kata</a>
 + <a href="https://www.root-me.org/en/Challenges/Web-Client/Javascript-Native-code">Root me</a>
@@ -681,26 +686,26 @@
   + <a href="https://cs170.org/">https://cs170.org/</a>
 + CSE 6220: Intro to High Performance Computing
   + <a href="https://www-users.cs.umn.edu/~karypis/parbook/">https://www-users.cs.umn.edu/~karypis/parbook/</a>
-+ CS 6250 Computer Networks
-  + <a href="https://www.cc.gatech.edu/~rama/CS2200-External/">prereq course</a>
++ CS 6238 Secure Computer Systems
 
 ### Tier 2
-+ CS 7637 Knowledge Based AI http://lucylabs.gatech.edu/kbai/
++ CS 7641 ML or CS 7642 RL
 + CS 7646 Machine Learning for Trading
++ CS 6250 Computer Networks
+  + <a href="https://www.cc.gatech.edu/~rama/CS2200-External/">prereq course</a>
++ CS 7637 Knowledge Based AI http://lucylabs.gatech.edu/kbai/
 + CS 6035 Intro to Information Security
-+ CS 6262 Network Security
 + CS 6400 Database Systems Concepts and Design
-+ CS 6300 Software Development Process
-  + <a href="https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/">https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/</a>
-+ CS 6440 Intro to Health Informatics
++ <a href="https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/">interesting 6310 textbooks worth looking into</a>
 
 ### Completed
 + CS 6200 Intro to Operating Systems
 + CS 6210 Advanced Operating Systems
 + CS 6340 Software Analysis and Test
-  + <a href="https://cs.au.dk/~amoeller/spa/">https://cs.au.dk/~amoeller/spa/</a>
-  + <a href="https://d1b10bmlvqabco.cloudfront.net/attach/jbe3aw2nwc031n/ixory6sosP2/jcigv7z03w61/books.pdf">https://d1b10bmlvqabco.cloudfront.net/attach/jbe3aw2nwc031n/ixory6sosP2/jcigv7z03w61/books.pdf</a>
-  + <a href="http://rightingcode.org/">http://rightingcode.org/</a>
+  + <a href="https://cs.au.dk/~amoeller/spa/">Static Program Analysis (main text)</a>
+  + <a href="https://d1b10bmlvqabco.cloudfront.net/attach/jbe3aw2nwc031n/ixory6sosP2/jcigv7z03w61/books.pdf">Relevant books</a>
+  + <a href="http://rightingcode.org/">Course website</a>
+  + <a href="https://classroom.udacity.com/courses/cs259">Nice follow-up Udacity course</a>
 
 
 ## CCSF

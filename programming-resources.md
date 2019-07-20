@@ -7,13 +7,19 @@
 ## General
 + Inspiration!: https://www.chessprogramming.org/Keith_Gorlen
 + Bit twiddling hacks: http://graphics.stanford.edu/~seander/bithacks.html
-+ Various basic programming links: https://anshbansal.wordpress.com/programming-links/
-+ Look for projects at: http://rosettacode.org/wiki/Rosetta_Code
++ Challenge/project idea lists:
+  + https://www.webfx.com/blog/web-design/10-puzzle-websites-to-sharpen-your-programming-skills/
+  + https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/
++ Look for projects at Rosetta Code: http://rosettacode.org/wiki/Rosetta_Code
 + "Programming by Doing" simple projects for students: https://programmingbydoing.com/
 + Organize mp3s: beets.io and https://www.discogs.com/developers/
 + Christopher Alexander's Design Patterns: http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm
 + The Logo Foundation: http://el.media.mit.edu/logo-foundation/index.html
 + NetLogo: https://en.wikipedia.org/wiki/NetLogo
++ Interesting programming languages: https://www.btbytes.com/pl.html
++ write a non-acct twitter (or SO) client that can fav and show imgs like birdfeed without having an account.
++ write some RTS demo sketches 
++ write a sandboxed compiler+code runner
 
 
 ## Operating Systems
@@ -50,7 +56,7 @@
 + Sieve of Eratosthenes: https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
 + Fermat's factorization method: https://en.wikipedia.org/wiki/Fermat%27s_factorization_method
 + Euclid's algorithm: http://andreinc.net/2010/12/11/euclids-algorithm-reducing-fraction-to-lowest-terms/
-+ Katasuba algorithm: https://en.wikipedia.org/wiki/Karatsuba_algorithm
++ Karatsuba algorithm: https://en.wikipedia.org/wiki/Karatsuba_algorithm
 + Simplify a fraction: http://codereview.stackexchange.com/questions/66450/simplify-a-fraction
 + Basil & Fabian: http://blog.jamisbuck.org/
 + Car talk puzzlers: https://developmentality.wordpress.com/tag/car-talk/
@@ -132,6 +138,8 @@
 + Compiler books: https://dickgrune.com/
 + Create a simple tokenizer in C#: https://jack-vanlightly.com/blog/2016/2/3/creating-a-simple-tokenizer-lexer-in-c
 + Writing your own toy compiler: https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/
++ Lexical analysis: https://en.wikibooks.org/wiki/Compiler_Construction/Lexical_analysis
++ Simple tutorial and useful references: https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/#references
 
 
 ## Esoteric programming languages
@@ -180,7 +188,7 @@
   + In Phaser using a nice raycasting lib: http://www.emanueleferonato.com/2015/02/03/play-with-light-and-dark-using-ray-casting-and-visibility-polygons/
 + 3d Wolfenstein raycasting tutorial in JS: https://dev.opera.com/articles/3d-games-with-canvas-and-raycasting-part-1/  
 + Minichess: https://en.wikipedia.org/wiki/Minichess
-+ Minesweeper with hex grid: https://www.redblobgames.com/grids/hexagons/
++ Minesweeper with hex grid (try tri grid as well): https://www.redblobgames.com/grids/hexagons/
 + Dots and boxes: https://www.youtube.com/watch?v=KboGyIilP6k
 + Breakthru: https://en.wikipedia.org/wiki/Breakthru_(board_game)
 + Beast: https://en.wikipedia.org/wiki/Beast_(video_game)
@@ -237,9 +245,9 @@
 
 
 ## Puzzles
++ Logic puzzles list (KenKen, Sudoku, Sokoban, etc): https://en.wikipedia.org/wiki/Category:Logic_puzzles
 + Simon Tatham: https://www.chiark.greenend.org.uk/~sgtatham/puzzles/
 + Do chess packing puzzles
-+ https://en.wikipedia.org/wiki/Category:Logic_puzzles
 + Erich Friendman's Puzzle Palace: http://www2.stetson.edu/~efriedma/
 + Slitherlink: https://en.wikipedia.org/wiki/Slitherlink
 + Mindsports (links resource): http://www.mindsports.nl/index.php/puzzle-links
@@ -428,8 +436,8 @@
 
 
 ## C
-+ Write your own OS: https://wiki.osdev.org/Tutorials
 + Build your own lisp: http://www.buildyourownlisp.com/
++ Write your own OS: https://wiki.osdev.org/Tutorials
 + Beej guide to GDB: https://beej.us/guide/bggdb/
 + C coding standard: https://barrgroup.com/Embedded-Systems/Books/Embedded-C-Coding-Standard
 
@@ -489,8 +497,8 @@
 + Make a simple DIY label CMS; host on Heroku
 + PHP game scripts: https://www.ibm.com/developerworks/library/os-php-gamescripts1/
 + Websocket chat: https://phppot.com/php/simple-php-chat-using-websocket/
-  
-  
+
+
 ## Python
 + Write a Lisp interpreter in Python: http://norvig.com/lispy.html
 + Host a free Python web app: https://www.pythonanywhere.com/
@@ -555,12 +563,23 @@
 
 
 ## Course sites
-+ Coding the Matrix: http://codingthematrix.com/
 + Nand2Tetris: http://nand2tetris.org/
-+ Lynda SFPL: https://www.lynda.com/portal/patron?org=sfpl.org
++ Coding the Matrix: http://codingthematrix.com/
 + Advanced Web Developer Bootcamp: https://www.udemy.com/the-advanced-web-developer-bootcamp/
++ Lynda SFPL: https://www.lynda.com/portal/patron?org=sfpl.org
 + Coursera algorithms classes (pts 1 & 2): https://www.coursera.org/learn/algorithms-part1
 + Egghead: https://egghead.io/
++ Udacity intro to theoretical CS: https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313
++ Jeff Erickson's algorithms: http://jeffe.cs.illinois.edu/teaching/algorithms/
++ UW Data Structures & Algorithms: https://courses.cs.washington.edu/courses/cse326/03wi/326lecturesa.shtml
++ Math: 
+  + MIT OCW Math for CS: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/
+  + FSU Discreet Math I: https://www.math.fsu.edu/~pkirby/mad2104/SlideShow/CourseNotesMAD2104.pdf
+  + Calculus for beginners: http://www-math.mit.edu/~djk/calculus_beginners/
+  + https://www.calculusexpert.com/library/ 
+  + http://www.mathmeetsyou.com/home/trigonometry
+  + http://www.greenteapress.com/thinkbayes/html/index.html
+  + https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
 
 ## Algorithmic challenge sites
@@ -575,6 +594,7 @@
 + SPOJ: http://www.spoj.com/
 + Exercism: http://www.exercism.io
   + Talk on exercism: https://www.youtube.com/watch?v=neXJOhHj8ik&index=6&list=PLyGLemjnH3ukTGW8TYCzdu7jQe0U-wEKi
++ Kattis: https://kattis.com
 + Coding Bat: http://codingbat.com
 + Code kata: http://codekata.pragprog.com/
 + Root me: https://www.root-me.org/en/Challenges/Web-Client/Javascript-Native-code
@@ -598,11 +618,6 @@
 
 
 ## Education
-+ Udacity intro to theoretical CS: https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313
-+ FSU Discreet Math I: https://www.math.fsu.edu/~pkirby/mad2104/SlideShow/CourseNotesMAD2104.pdf
-+ Jeff Erickson's algorithms: http://jeffe.cs.illinois.edu/teaching/algorithms/
-+ MIT OCW Math for CS: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/
-+ UW Data Structures & Algorithms: https://courses.cs.washington.edu/courses/cse326/03wi/326lecturesa.shtml
 + SFSU
   + http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ms-computer-science/
   + Prospective students are welcome to send any questions to the graduate advising assistant at (csgrad@sfsu.edu)
@@ -633,26 +648,26 @@
   + https://cs170.org/
 + CSE 6220: Intro to High Performance Computing
   + https://www-users.cs.umn.edu/~karypis/parbook/
-+ CS 6250 Computer Networks
-  + prereq course: https://www.cc.gatech.edu/~rama/CS2200-External/
++ CS 6238 Secure Computer Systems
  
 ### Tier 2
-+ CS 7637 Knowledge Based AI http://lucylabs.gatech.edu/kbai/
++ CS 7641 ML or CS 7642 RL 
 + CS 7646 Machine Learning for Trading
++ CS 6250 Computer Networks
+  + prereq course: https://www.cc.gatech.edu/~rama/CS2200-External/
++ CS 7637 Knowledge Based AI http://lucylabs.gatech.edu/kbai/
 + CS 6035 Intro to Information Security
-+ CS 6262 Network Security
 + CS 6400 Database Systems Concepts and Design
-+ CS 6300 Software Development Process
-  + https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/
-+ CS 6440 Intro to Health Informatics
++ interesting 6310 textbooks worth looking into: https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/
 
 ### Completed
 + CS 6200 Intro to Operating Systems
 + CS 6210 Advanced Operating Systems 
 + CS 6340 Software Analysis and Test
-  + https://cs.au.dk/~amoeller/spa/
-  + https://d1b10bmlvqabco.cloudfront.net/attach/jbe3aw2nwc031n/ixory6sosP2/jcigv7z03w61/books.pdf
-  + http://rightingcode.org/
+  + Static Program Analysis (main text): https://cs.au.dk/~amoeller/spa/
+  + Relevant books: https://d1b10bmlvqabco.cloudfront.net/attach/jbe3aw2nwc031n/ixory6sosP2/jcigv7z03w61/books.pdf
+  + Course website: http://rightingcode.org/
+  + Nice follow-up Udacity course: https://classroom.udacity.com/courses/cs259
 
 
 ## CCSF
