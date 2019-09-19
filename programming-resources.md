@@ -43,6 +43,8 @@
 + Stanford CS Education Library: http://cslibrary.stanford.edu/
 + Berkeley CS61B lectures: https://inst.eecs.berkeley.edu/~cs61b/fa17/materials/lectures/ 
 + Algorithm archive: https://www.algorithm-archive.org/
++ Skip list: https://en.wikipedia.org/wiki/Skip_list
++ Splay tree: https://en.wikipedia.org/wiki/Splay_tree
 + Word ladder: https://www.geeksforgeeks.org/word-ladder-length-of-shortest-chain-to-reach-a-target-word/
 + Do projects from Data Structures & algorithms text
 + Disjoint set union find: 
@@ -90,9 +92,13 @@
 + Determine if a tree is a BST: https://www.youtube.com/watch?v=H13iz0rbeeo
 
 
+## AI
++ Berkeley CS188 AI with Pacman: http://ai.berkeley.edu/project_overview.html
+
+
 ## Strings/arrays
-+ Permute a string: http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/
 + Find combinations of a string in another string: http://stackoverflow.com/questions/24720332/c-find-all-possible-combinations-of-a-string-in-another-string 
++ Rabin-Karp: https://en.wikipedia.org/wiki/Rabin–Karp_algorithm
 
 
 ## Mazes
@@ -139,6 +145,10 @@
 + Writing your own toy compiler: https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/
 + Lexical analysis: https://en.wikibooks.org/wiki/Compiler_Construction/Lexical_analysis
 + Simple tutorial and useful references: https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/#references
++ Simple top-down parsing: http://effbot.org/zone/simple-top-down-parsing.htm
++ My first language front-end: 
+  + https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html
+  + https://github.com/llvm-mirror/llvm/blob/master/examples/Kaleidoscope/MCJIT/initial/toy.cpp
 
 
 ## Esoteric programming languages
@@ -636,35 +646,34 @@
 ## OMSCS
 
 ### Tier 1
-+ CS 6290 High Performance Computer Architecture
-+ CS 8803 O08: Compilers
-+ CS 6460 Educational Technology
-+ CS 6291 Embedded System Optimization
-+ CS 6515 Graduate Algorithms
++ Spring 20: CS 6601 Artificial Intelligence
++ Fall 20: CS 8803 O08: Compilers
++ Summer 20: CS 6291 Embedded System Optimization
++ Spring 21: CSE 6220: Intro to High Performance Computing
+  + https://www-users.cs.umn.edu/~karypis/parbook/
++ Summer 21: CS 7641 ML or CS 7642 RL 
++ Fall 21: CS 6515 Graduate Algorithms
   + https://gt-algorithms.com/
   + https://cs170.org/
-+ CSE 6220: Intro to High Performance Computing
-  + https://www-users.cs.umn.edu/~karypis/parbook/
-+ CS 6238 Secure Computer Systems
  
 ### Tier 2
-+ CS 7641 ML or CS 7642 RL 
++ CS 6460 Educational Technology
++ CS 6238 Secure Computer Systems
 + CS 7646 Machine Learning for Trading
 + CS 6250 Computer Networks
   + prereq course: https://www.cc.gatech.edu/~rama/CS2200-External/
 + CS 7637 Knowledge Based AI http://lucylabs.gatech.edu/kbai/
-+ CS 6035 Intro to Information Security
-+ CS 6400 Database Systems Concepts and Design
 + interesting 6310 textbooks worth looking into: https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/
 
 ### Completed
-+ CS 6200 Intro to Operating Systems
-+ CS 6210 Advanced Operating Systems 
-+ CS 6340 Software Analysis and Test
++ Fall 18: CS 6200 Intro to Operating Systems
++ Spring 19: CS 6210 Advanced Operating Systems 
++ Summer 19: CS 6340 Software Analysis and Test
   + Static Program Analysis (main text): https://cs.au.dk/~amoeller/spa/
   + Relevant books: https://d1b10bmlvqabco.cloudfront.net/attach/jbe3aw2nwc031n/ixory6sosP2/jcigv7z03w61/books.pdf
   + Course website: http://rightingcode.org/
   + Nice follow-up Udacity course: https://classroom.udacity.com/courses/cs259
++ Fall 19: CS 6290 High Performance Computer Architecture
 
 
 ## CCSF
@@ -705,7 +714,7 @@
 + Weworkremotely programming jobs: https://weworkremotely.com/categories/remote-programming-jobs
 + Codementor: https://www.codementor.io
 + General Assembly teaching: http://generalassemb.ly/how-we-work/teach-at-general-assembly
-+ Thinkful web dev
++ Thinkful web dev instructor
 + Indeed/indeed prime
 + Upwork/Fiverr
 + Code for America: https://www.codeforamerica.org/jobs?gh_jid=1500593
@@ -728,6 +737,7 @@
   + https://stackoverflow.com/users/895245/
   + https://stackoverflow.com/users/5459839/
   + https://stackoverflow.com/users/3000206/
+  + https://stackoverflow.com/users/168657/
 
 
 ## Fun
@@ -736,7 +746,9 @@
 + Hello World in every language: https://github.com/leachim6/hello-world
 + 99 bottles of beer in 1500 different languages: http://www.99-bottles-of-beer.net/
 + Tetris written in Conway's Game of Life: https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life
-+ FizzBuzz EE: https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
++ FizzBuzz stuff: 
+  + http://wiki.c2.com/?FizzBuzzTest
+  + https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
 + Git man page generator: https://git-man-page-generator.lokaltog.net/
 + Write a bot that makes patterns in the github commits chart
 

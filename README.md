@@ -9,46 +9,47 @@
 5. [DP](#dp)
 6. [Graphs](#graphs)
 7. [Trees](#trees)
-8. [Strings/arrays](#strings/arrays)
-9. [Mazes](#mazes)
-10. [Cellular automata](#cellular-automata)
-11. [Compilers/interpreters](#compilers/interpreters)
-12. [Esoteric programming languages](#esoteric-programming-languages)
-13. [Game AI](#game-ai)
-14. [Games](#games)
-15. [Puzzles](#puzzles)
-16. [Fractals and L-systems](#fractals-and-l-systems)
-17. [Visual/animation](#visual/animation)
-18. [Tiling and packing](#tiling-and-packing)
-19. [Physics simulations](#physics-simulations)
-20. [Regex](#regex)
-21. [Cryptography](#cryptography)
-22. [Machine learning](#machine-learning)
-23. [Data science](#data-science)
-24. [C](#c)
-25. [C++](#c++)
-26. [Web development](#web-development)
-27. [JS](#js)
-28. [CSS](#css)
-29. [PHP](#php)
-30. [Python](#python)
-31. [Java](#java)
-32. [Ruby](#ruby)
-33. [Perl](#perl)
-34. [Unix](#unix)
-35. [Scratch/Snap](#scratch/snap)
-36. [Code golf](#code-golf)
-37. [Course sites](#course-sites)
-38. [Algorithmic challenge sites](#algorithmic-challenge-sites)
-39. [Competitive coding](#competitive-coding)
-40. [Books](#books)
-41. [Education](#education)
-42. [OMSCS](#omscs)
-43. [CCSF](#ccsf)
-44. [Jobs](#jobs)
-45. [Interview prep](#interview-prep)
-46. [Stack Overflow](#stack-overflow)
-47. [Fun](#fun)
+8. [AI](#ai)
+9. [Strings/arrays](#strings/arrays)
+10. [Mazes](#mazes)
+11. [Cellular automata](#cellular-automata)
+12. [Compilers/interpreters](#compilers/interpreters)
+13. [Esoteric programming languages](#esoteric-programming-languages)
+14. [Game AI](#game-ai)
+15. [Games](#games)
+16. [Puzzles](#puzzles)
+17. [Fractals and L-systems](#fractals-and-l-systems)
+18. [Visual/animation](#visual/animation)
+19. [Tiling and packing](#tiling-and-packing)
+20. [Physics simulations](#physics-simulations)
+21. [Regex](#regex)
+22. [Cryptography](#cryptography)
+23. [Machine learning](#machine-learning)
+24. [Data science](#data-science)
+25. [C](#c)
+26. [C++](#c++)
+27. [Web development](#web-development)
+28. [JS](#js)
+29. [CSS](#css)
+30. [PHP](#php)
+31. [Python](#python)
+32. [Java](#java)
+33. [Ruby](#ruby)
+34. [Perl](#perl)
+35. [Unix](#unix)
+36. [Scratch/Snap](#scratch/snap)
+37. [Code golf](#code-golf)
+38. [Course sites](#course-sites)
+39. [Algorithmic challenge sites](#algorithmic-challenge-sites)
+40. [Competitive coding](#competitive-coding)
+41. [Books](#books)
+42. [Education](#education)
+43. [OMSCS](#omscs)
+44. [CCSF](#ccsf)
+45. [Jobs](#jobs)
+46. [Interview prep](#interview-prep)
+47. [Stack Overflow](#stack-overflow)
+48. [Fun](#fun)
 
 
 ## General
@@ -90,6 +91,8 @@
 + <a href="http://cslibrary.stanford.edu/">Stanford CS Education Library</a>
 + <a href="https://inst.eecs.berkeley.edu/~cs61b/fa17/materials/lectures/">Berkeley CS61B lectures</a>
 + <a href="https://www.algorithm-archive.org/">Algorithm archive</a>
++ <a href="https://en.wikipedia.org/wiki/Skip_list">Skip list</a>
++ <a href="https://en.wikipedia.org/wiki/Splay_tree">Splay tree</a>
 + <a href="https://www.geeksforgeeks.org/word-ladder-length-of-shortest-chain-to-reach-a-target-word/">Word ladder</a>
 + Do projects from Data Structures & algorithms text
 + Disjoint set union find:
@@ -137,9 +140,13 @@
 + <a href="https://www.youtube.com/watch?v=H13iz0rbeeo">Determine if a tree is a BST</a>
 
 
+## AI
++ <a href="http://ai.berkeley.edu/project_overview.html">Berkeley CS188 AI with Pacman</a>
+
+
 ## Strings/arrays
-+ <a href="http://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/">Permute a string</a>
 + <a href="http://stackoverflow.com/questions/24720332/c-find-all-possible-combinations-of-a-string-in-another-string">Find combinations of a string in another string</a>
++ <a href="https://en.wikipedia.org/wiki/Rabin–Karp_algorithm">Rabin-Karp</a>
 
 
 ## Mazes
@@ -186,6 +193,10 @@
 + <a href="https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/">Writing your own toy compiler</a>
 + <a href="https://en.wikibooks.org/wiki/Compiler_Construction/Lexical_analysis">Lexical analysis</a>
 + <a href="https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/#references">Simple tutorial and useful references</a>
++ <a href="http://effbot.org/zone/simple-top-down-parsing.htm">Simple top-down parsing</a>
++ My first language front-end:
+  + <a href="https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html">https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html</a>
+  + <a href="https://github.com/llvm-mirror/llvm/blob/master/examples/Kaleidoscope/MCJIT/initial/toy.cpp">https://github.com/llvm-mirror/llvm/blob/master/examples/Kaleidoscope/MCJIT/initial/toy.cpp</a>
 
 
 ## Esoteric programming languages
@@ -683,35 +694,34 @@
 ## OMSCS
 
 ### Tier 1
-+ CS 6290 High Performance Computer Architecture
-+ CS 8803 O08: Compilers
-+ CS 6460 Educational Technology
-+ CS 6291 Embedded System Optimization
-+ CS 6515 Graduate Algorithms
++ Spring 20: CS 6601 Artificial Intelligence
++ Fall 20: CS 8803 O08: Compilers
++ Summer 20: CS 6291 Embedded System Optimization
++ Spring 21: CSE 6220: Intro to High Performance Computing
+  + <a href="https://www-users.cs.umn.edu/~karypis/parbook/">https://www-users.cs.umn.edu/~karypis/parbook/</a>
++ Summer 21: CS 7641 ML or CS 7642 RL
++ Fall 21: CS 6515 Graduate Algorithms
   + <a href="https://gt-algorithms.com/">https://gt-algorithms.com/</a>
   + <a href="https://cs170.org/">https://cs170.org/</a>
-+ CSE 6220: Intro to High Performance Computing
-  + <a href="https://www-users.cs.umn.edu/~karypis/parbook/">https://www-users.cs.umn.edu/~karypis/parbook/</a>
-+ CS 6238 Secure Computer Systems
 
 ### Tier 2
-+ CS 7641 ML or CS 7642 RL
++ CS 6460 Educational Technology
++ CS 6238 Secure Computer Systems
 + CS 7646 Machine Learning for Trading
 + CS 6250 Computer Networks
   + <a href="https://www.cc.gatech.edu/~rama/CS2200-External/">prereq course</a>
 + CS 7637 Knowledge Based AI http://lucylabs.gatech.edu/kbai/
-+ CS 6035 Intro to Information Security
-+ CS 6400 Database Systems Concepts and Design
 + <a href="https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/">interesting 6310 textbooks worth looking into</a>
 
 ### Completed
-+ CS 6200 Intro to Operating Systems
-+ CS 6210 Advanced Operating Systems
-+ CS 6340 Software Analysis and Test
++ Fall 18: CS 6200 Intro to Operating Systems
++ Spring 19: CS 6210 Advanced Operating Systems
++ Summer 19: CS 6340 Software Analysis and Test
   + <a href="https://cs.au.dk/~amoeller/spa/">Static Program Analysis (main text)</a>
   + <a href="https://d1b10bmlvqabco.cloudfront.net/attach/jbe3aw2nwc031n/ixory6sosP2/jcigv7z03w61/books.pdf">Relevant books</a>
   + <a href="http://rightingcode.org/">Course website</a>
   + <a href="https://classroom.udacity.com/courses/cs259">Nice follow-up Udacity course</a>
++ Fall 19: CS 6290 High Performance Computer Architecture
 
 
 ## CCSF
@@ -752,7 +762,7 @@
 + <a href="https://weworkremotely.com/categories/remote-programming-jobs">Weworkremotely programming jobs</a>
 + <a href="https://www.codementor.io">Codementor</a>
 + <a href="http://generalassemb.ly/how-we-work/teach-at-general-assembly">General Assembly teaching</a>
-+ Thinkful web dev
++ Thinkful web dev instructor
 + Indeed/indeed prime
 + Upwork/Fiverr
 + <a href="https://www.codeforamerica.org/jobs?gh_jid=1500593">Code for America</a>
@@ -775,6 +785,7 @@
   + <a href="https://stackoverflow.com/users/895245/">https://stackoverflow.com/users/895245/</a>
   + <a href="https://stackoverflow.com/users/5459839/">https://stackoverflow.com/users/5459839/</a>
   + <a href="https://stackoverflow.com/users/3000206/">https://stackoverflow.com/users/3000206/</a>
+  + <a href="https://stackoverflow.com/users/168657/">https://stackoverflow.com/users/168657/</a>
 
 
 ## Fun
@@ -783,6 +794,8 @@
 + <a href="https://github.com/leachim6/hello-world">Hello World in every language</a>
 + <a href="http://www.99-bottles-of-beer.net/">99 bottles of beer in 1500 different languages</a>
 + <a href="https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life">Tetris written in Conway's Game of Life</a>
-+ <a href="https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition">FizzBuzz EE</a>
++ FizzBuzz stuff:
+  + <a href="http://wiki.c2.com/?FizzBuzzTest">http://wiki.c2.com/?FizzBuzzTest</a>
+  + <a href="https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition">https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition</a>
 + <a href="https://git-man-page-generator.lokaltog.net/">Git man page generator</a>
 + Write a bot that makes patterns in the github commits chart
