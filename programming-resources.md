@@ -162,6 +162,7 @@
 + IDDFS/single agent search: http://webdocs.cs.ualberta.ca/~jonathan/PREVIOUS/Courses/657/Notes/10.Single-agentSearch.pdf
 + IDA*: https://algorithmsinsight.wordpress.com/graph-theory-2/ida-star-algorithm-in-general/
 + A* n puzzle: https://algorithmsinsight.wordpress.com/graph-theory-2/a-star-in-general/implementing-a-star-to-solve-n-puzzle/
++ A* Jump-point search optimization: https://en.wikipedia.org/wiki/Jump_point_search
 + Breakthrough AI tutorial: https://www.codeproject.com/Articles/37024/Simple-AI-for-the-Game-of-Breakthrough
 + SSS*: https://en.wikipedia.org/wiki/SSS*
 + Monte Carlo Tree Search:
@@ -647,8 +648,8 @@
 
 ### Tier 1
 + Spring 20: CS 6601 Artificial Intelligence
-+ Fall 20: CS 8803 O08: Compilers
 + Summer 20: CS 6291 Embedded System Optimization
++ Fall 20: CS 8803 O08: Compilers
 + Spring 21: CSE 6220: Intro to High Performance Computing
   + https://www-users.cs.umn.edu/~karypis/parbook/
 + Summer 21: CS 7641 ML or CS 7642 RL 
@@ -733,11 +734,12 @@
 
 ## Stack Overflow
 + Users I like:
-  + https://stackoverflow.com/users/559737/
+  + https://stackoverflow.com/users/224132/
   + https://stackoverflow.com/users/895245/
   + https://stackoverflow.com/users/5459839/
   + https://stackoverflow.com/users/3000206/
   + https://stackoverflow.com/users/168657/
+  + https://stackoverflow.com/users/559737/
 
 
 ## Fun

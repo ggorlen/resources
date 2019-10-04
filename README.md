@@ -210,6 +210,7 @@
 + <a href="http://webdocs.cs.ualberta.ca/~jonathan/PREVIOUS/Courses/657/Notes/10.Single-agentSearch.pdf">IDDFS/single agent search</a>
 + <a href="https://algorithmsinsight.wordpress.com/graph-theory-2/ida-star-algorithm-in-general/">IDA*</a>
 + <a href="https://algorithmsinsight.wordpress.com/graph-theory-2/a-star-in-general/implementing-a-star-to-solve-n-puzzle/">A* n puzzle</a>
++ <a href="https://en.wikipedia.org/wiki/Jump_point_search">A* Jump-point search optimization</a>
 + <a href="https://www.codeproject.com/Articles/37024/Simple-AI-for-the-Game-of-Breakthrough">Breakthrough AI tutorial</a>
 + <a href="https://en.wikipedia.org/wiki/SSS*">SSS*</a>
 + Monte Carlo Tree Search:
@@ -695,8 +696,8 @@
 
 ### Tier 1
 + Spring 20: CS 6601 Artificial Intelligence
-+ Fall 20: CS 8803 O08: Compilers
 + Summer 20: CS 6291 Embedded System Optimization
++ Fall 20: CS 8803 O08: Compilers
 + Spring 21: CSE 6220: Intro to High Performance Computing
   + <a href="https://www-users.cs.umn.edu/~karypis/parbook/">https://www-users.cs.umn.edu/~karypis/parbook/</a>
 + Summer 21: CS 7641 ML or CS 7642 RL
@@ -781,11 +782,12 @@
 
 ## Stack Overflow
 + Users I like:
-  + <a href="https://stackoverflow.com/users/559737/">https://stackoverflow.com/users/559737/</a>
+  + <a href="https://stackoverflow.com/users/224132/">https://stackoverflow.com/users/224132/</a>
   + <a href="https://stackoverflow.com/users/895245/">https://stackoverflow.com/users/895245/</a>
   + <a href="https://stackoverflow.com/users/5459839/">https://stackoverflow.com/users/5459839/</a>
   + <a href="https://stackoverflow.com/users/3000206/">https://stackoverflow.com/users/3000206/</a>
   + <a href="https://stackoverflow.com/users/168657/">https://stackoverflow.com/users/168657/</a>
+  + <a href="https://stackoverflow.com/users/559737/">https://stackoverflow.com/users/559737/</a>
 
 
 ## Fun
