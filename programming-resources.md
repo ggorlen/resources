@@ -98,7 +98,7 @@
 
 ## Strings/arrays
 + Find combinations of a string in another string: http://stackoverflow.com/questions/24720332/c-find-all-possible-combinations-of-a-string-in-another-string 
-+ Rabin-Karp: https://en.wikipedia.org/wiki/Rabin–Karp_algorithm
++ Rabin-Karp
 
 
 ## Mazes
