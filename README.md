@@ -146,7 +146,7 @@
 
 ## Strings/arrays
 + <a href="http://stackoverflow.com/questions/24720332/c-find-all-possible-combinations-of-a-string-in-another-string">Find combinations of a string in another string</a>
-+ Rabin-Karp
++ <a href="https://en.wikipedia.org/wiki/Rabin–Karp_algorithm">Rabin-Karp</a>
 
 
 ## Mazes
