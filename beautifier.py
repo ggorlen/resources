@@ -9,44 +9,42 @@ import re
 from sys import argv
 
 
-def md_link(desc, url):
-   return '<a href="%s">%s</a>' % (url, desc)
+def fmt_md_link(desc, url):
+    return '<a href="%s">%s</a>' % (url, desc)
+
+def add_toc_entry(m, result, line, toc):
+    link = "#" + m.group(1).lower().replace(" ", "-")
+    toc.append("%s. [%s](%s)" % (len(toc), m.group(1), link))
+    result.append(line)
+
+def add_resource(m, result):
+    parts = m.groupdict()
+    label = re.sub(r":\s*$", "", parts["label"]) if parts["label"] else parts["url"]
+    result.append(parts["whitesp"] + fmt_md_link(label, parts["url"]) + parts["tail"])
+
+if __name__ == "__main__":
+    input_filename = argv[1] if len(argv) > 1 else "programming-resources.md"
+    output_filename = argv[2] if len(argv) > 2 else "README.md"
+    result = []
+    toc = []
     
-
-input_filename = argv[1] if len(argv) > 1 else "programming-resources.md"
-output_filename = argv[2] if len(argv) > 2 else "README.md"
-
-with open(input_filename) as f:
-    text = [x.rstrip() for x in f.readlines()]
+    with open(input_filename, "r") as f:
+        for line in f:
+            line = line.rstrip()
     
-result = []
-toc = []
-
-for line in text:
-    m = re.compile(r"^## (.+)$").search(line)
-
-    if m:
-        link = "#" + m.group(1).lower().replace(" ", "-")
-        toc.append("%s. [%s](%s)" % (len(toc), m.group(1), link))
-        result.append(line)
-    else:
-        m = re.compile(r"^( *\+ +)(.+): *(https?://[^ ]+)(.*)$").search(line)
-        
-        if m: 
-            result.append(m.group(1) + md_link(m.group(2), m.group(3)))
-
-            if m.group(4):
-                result[-1] += " " + m.group(4)
-        else:
-            m = re.compile(r"^( *\+ +) *(https?://[^ ]+)(.*)$").search(line)
-        
-            if m:
-                result.append(m.group(1) + md_link(m.group(2), m.group(2)))
-
-                if m.group(3):
-                    result[-1] += " " + m.group(3)
-            else:
+            patterns = (
+                (r"## (.+)$", lambda m, result: add_toc_entry(m, result, line, toc)),
+                (r"(?P<whitesp> *\+ +)(?P<label>.+: *)?(?P<url>https?://[^ ]+)(?P<tail>.*)$", add_resource),
+            )
+            
+            for pattern, fn in patterns:
+                m = re.match(re.compile(pattern), line)
+                
+                if m:
+                    fn(m, result)
+    
+            if not any([re.match(pattern[0], line) for pattern in patterns]):
                 result.append(line)
-
-with open(output_filename, "w") as f:
-    f.write("\n".join(result[:4] + toc[1:] + result[4:]))
+    
+    with open(output_filename, "w") as f:
+        f.write("\n".join(result[:4] + toc[1:] + result[4:]))

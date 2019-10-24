@@ -7,19 +7,27 @@
 ## General
 + Inspiration!: https://www.chessprogramming.org/Keith_Gorlen
 + Bit twiddling hacks: http://graphics.stanford.edu/~seander/bithacks.html
++ Interesting programming languages: https://www.btbytes.com/pl.html
++ Christopher Alexander's Design Patterns: http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm
+
+
+# Project Ideas
++ https://en.wikipedia.org/wiki/Tic-tac-toe_variants
++ write an app that scrapes recent posts by favorite SO users
 + Challenge/project idea lists:
   + https://www.webfx.com/blog/web-design/10-puzzle-websites-to-sharpen-your-programming-skills/
   + https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/
 + Look for projects at Rosetta Code: http://rosettacode.org/wiki/Rosetta_Code
 + "Programming by Doing" simple projects for students: https://programmingbydoing.com/
 + Organize mp3s: beets.io and https://www.discogs.com/developers/
-+ Christopher Alexander's Design Patterns: http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm
 + The Logo Foundation: http://el.media.mit.edu/logo-foundation/index.html
 + NetLogo: https://en.wikipedia.org/wiki/NetLogo
-+ Interesting programming languages: https://www.btbytes.com/pl.html
 + write a non-acct twitter (or SO) client that can fav and show imgs like birdfeed without having an account.
 + write some RTS demo sketches 
 + write a sandboxed compiler+code runner
++ write a winamp plugin that broadcasts now playing to node API on glitch
+  + http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide
+  + http://forums.winamp.com/showthread.php?t=224914
 
 
 ## Operating Systems
@@ -47,9 +55,7 @@
 + Splay tree: https://en.wikipedia.org/wiki/Splay_tree
 + Word ladder: https://www.geeksforgeeks.org/word-ladder-length-of-shortest-chain-to-reach-a-target-word/
 + Do projects from Data Structures & algorithms text
-+ Disjoint set union find: 
-  + https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/
-  + https://en.wikipedia.org/wiki/Disjoint-set_data_structure
++ Disjoint set/ union find: https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/
 + Segment trees: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/
 + Self-avoiding walk: https://en.wikipedia.org/wiki/Self-avoiding_walk
 + Bellman-Ford: https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm
@@ -65,38 +71,31 @@
 + Sliding puzzle solving with hill climbing: https://towardsdatascience.com/solve-slide-puzzle-with-hill-climbing-search-algorithm-d7fb93321325
 
 
-## DP
+### DP
 + Coin change: https://runestone.academy/runestone/books/published/pythonds/Recursion/DynamicProgramming.html
 + Maximum subarray problem (Kadane's algorithm): https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm_(Algorithm_3:_Dynamic_Programming)
 + DP text justify: https://www.geeksforgeeks.org/dynamic-programming-set-18-word-wrap/
 + DP coin change: http://algorithms.tutorialhorizon.com/dynamic-programming-coin-change-problem/
 + MIT open courseware DP lecture: https://www.youtube.com/watch?v=ocZMDMZwhCY
 + Algs/DP: https://people.eecs.berkeley.edu/~vazirani/algorithms/chap6.pdf
-+ Memoization: http://www.python-course.eu/python3_memoization.php
 + The "correct change" problem looks like it's equivalent to the "subset sum" problem (https://en.wikipedia.org/wiki/Subset_sum_problem), which is a special case of the knapsack problem. Wikipedia says these are all NP, but efficiency can be improved by dynamic programming. That's why I'm thinking a transposition table may help.
 + Sum numbers in a list: http://stackoverflow.com/questions/3420937/algorithm-to-find-which-number-in-a-list-sum-up-to-a-certain-number
 + Knapsack problem: https://en.wikipedia.org/wiki/Knapsack_problem
 
-
-## Graphs
+### Graphs
++ Pathfinding algorithm comparison: https://cstheory.stackexchange.com/questions/11855/how-do-the-state-of-the-art-pathfinding-algorithms-for-changing-graphs-d-d-l
 + Shortest path algorithms: https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/tutorial/
 + MST: https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/
 + Floyd Warshall algorithm: http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm
 + Dijkstra's algorithm: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 + Topological sort: https://www.geeksforgeeks.org/topological-sorting/
 
-
-## Trees
+### Trees
 + Balanced search trees: https://algs4.cs.princeton.edu/33balanced/
 + Tree traversal construction: http://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/
 + Determine if a tree is a BST: https://www.youtube.com/watch?v=H13iz0rbeeo
 
-
-## AI
-+ Berkeley CS188 AI with Pacman: http://ai.berkeley.edu/project_overview.html
-
-
-## Strings/arrays
+### Strings/arrays
 + Find combinations of a string in another string: http://stackoverflow.com/questions/24720332/c-find-all-possible-combinations-of-a-string-in-another-string 
 + Rabin-Karp
 
@@ -121,6 +120,7 @@
 + Langton's loops: https://en.wikipedia.org/wiki/Langton%27s_loops
 + CoDi: https://en.wikipedia.org/wiki/CoDi
 + Life-like cellular automata (incl. Seeds): https://en.wikipedia.org/wiki/Life-like_cellular_automaton
++ Interactive CA and other sundry JS animations: http://math.hws.edu/eck/js/edge-of-chaos/CA-info.html
 
 
 ## Compilers/interpreters
@@ -149,6 +149,7 @@
 + My first language front-end: 
   + https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html
   + https://github.com/llvm-mirror/llvm/blob/master/examples/Kaleidoscope/MCJIT/initial/toy.cpp
++ Mega compilers resource: https://stackoverflow.com/questions/1669/learning-to-write-a-compiler
 
 
 ## Esoteric programming languages
@@ -168,7 +169,6 @@
 + Monte Carlo Tree Search:
   + https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/
   + http://www.baeldung.com/java-monte-carlo-tree-search
-  + http://mcts.ai/code/java.html
   + https://introcs.cs.princeton.edu/java/98simulation/
   + https://www.coursera.org/lecture/c-plus-plus-b/4-2-monte-carlo-a3Z4u
 + Principal variation search: https://en.wikipedia.org/wiki/Principal_variation_search
@@ -183,7 +183,6 @@
 + Negamax: https://en.wikipedia.org/wiki/Negamax
 + Othello basic: https://inventwithpython.com/invent4thed/chapter15.html
 + 4 grid games from Al Sweigart: http://inventwithpython.com/pygame/chapter10.html 
-  + Make a flood it solver/generator based on above link
 
 
 ## Games
@@ -195,7 +194,7 @@
   + https://www.redblobgames.com/articles/visibility/
   + http://journal.stuffwithstuff.com/2015/09/07/what-the-hero-sees/
   + https://legends2k.github.io/2d-fov/design.html
-  + In Phaser using a nice raycasting lib: https://www.emanueleferonato.com/2015/02/03/play-with-light-and-dark-using-ray-casting-and-visibility-polygons/
+  + In Phaser using a raycasting lib: https://www.emanueleferonato.com/2015/02/03/play-with-light-and-dark-using-ray-casting-and-visibility-polygons/
 + 3d Wolfenstein raycasting tutorial in JS: https://dev.opera.com/articles/3d-games-with-canvas-and-raycasting-part-1/  
 + Minichess: https://en.wikipedia.org/wiki/Minichess
 + Minesweeper with hex grid (try tri grid as well): https://www.redblobgames.com/grids/hexagons/
@@ -354,7 +353,6 @@
 
 ## Tiling and packing
 + Lubachevsky packing algorithm: https://en.wikipedia.org/wiki/Lubachevsky%E2%80%93Stillinger_algorithm
-+ Jason Davies: https://www.jasondavies.com/
 + Rhombile tiling: https://en.wikipedia.org/wiki/Rhombille_tiling
 + Tangrams: https://en.wikipedia.org/wiki/Tangram
 + Tiling puzzle: https://en.wikipedia.org/wiki/Tiling_puzzle
@@ -371,6 +369,7 @@
 + Triaki's: https://en.wikipedia.org/wiki/Truncated_hexagonal_tiling#Triakis_triangular_tiling
 + Litema: https://en.wikipedia.org/wiki/Litema
 + Kuba textiles: https://en.wikipedia.org/wiki/Kuba_textiles
++ Jason Davies: https://www.jasondavies.com/
 + Circle packing flickr: https://www.flickr.com/photos/quasimondo/albums/72157624374940604
 
 
@@ -402,7 +401,6 @@
   + http://www.dyn4j.org/2010/01/sat/
   + https://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169
   + https://wildbunny.co.uk/blog/2011/04/20/collision-detection-for-dummies/
-  + http://blog.theliuy.com/determine-if-two-rotated-rectangles-overlap-each-other/ 
   + https://www.codeproject.com/Articles/15573/2D-Polygon-Collision-Detection
   + https://stackoverflow.com/questions/10962379/how-to-check-intersection-between-2-rotated-rectangles/12414951#12414951
   + https://github.com/antishow/collision-demo/tree/master/library/js/src
@@ -429,13 +427,22 @@
 + Implementing Regular Expressions: https://swtch.com/~rsc/regexp/
 
 
-## Cryptography
-+ http://security.stackexchange.com/questions/45963/diffie-hellman-key-exchange-in-plain-english
+## Computer Science
+- CS FAQ: https://cs.meta.stackexchange.com/questions/599/reference-answers-to-frequently-asked-questions/847#847
+- http://www.cs.toronto.edu/~hehner/best.html
 
 
 ## Machine learning
 + Deep Learning book: http://www.deeplearningbook.org/
 + wasd12345 on GitHub: https://github.com/wasd12345
+
+
+## AI
++ Berkeley CS188 AI with Pacman: http://ai.berkeley.edu/project_overview.html
+
+
+## Cryptography
++ DH key exchange in plain English: http://security.stackexchange.com/questions/45963/diffie-hellman-key-exchange-in-plain-english
 
 
 ## Data science
@@ -451,9 +458,19 @@
 
 
 ## C++
-+ learncpp: http://www.learncpp.com/
 + C++ SFML for games and graphics
 + Async C++ tutorial: https://solarianprogrammer.com/2012/10/17/cpp-11-async-tutorial/
+
+
+## JS
++ Dwitter (140 chars or less JS code): https://www.dwitter.net/ 
++ 30 day vanilla JS challenge: https://javascript30.com/
++ JS todo list: http://docs.railsbridge.org/javascript-to-do-list/adding_an_item
++ https://codeburst.io/getting-started-with-react-router-5c978f70df91
++ https://react-redux.js.org/introduction/quick-start
++ https://www.leighhalliday.com/async-axios-react-testing-library
++ https://github.com/testing-library/react-testing-library#hooks
++ https://levelup.gitconnected.com/testing-asynchronous-and-synchronous-react-components-with-jest-and-enzyme-a979ab425aa1
 
 
 ## Web development
@@ -463,21 +480,32 @@
 + Bitballoon for hosting web apps: https://www.bitballoon.com
 
 
-## JS
-+ Dwitter (140 chars or less JS code): https://www.dwitter.net/ 
-+ 30 day vanilla JS challenge: https://javascript30.com/
-+ Socket.io: 
-  + https://socket.io/get-started/chat/
-  + https://hackernoon.com/how-to-build-a-multiplayer-browser-game-4a793818c29b
-  + http://www.dynetisgames.com/2017/03/06/how-to-make-a-multiplayer-online-game-with-phaser-socket-io-and-node-js/
-+ JS todo list: http://docs.railsbridge.org/javascript-to-do-list/adding_an_item
-
-
 ## CSS
 + Do a Mondrian generator with a CSS grid or JS
 + Grid: https://css-tricks.com/snippets/css/complete-guide-grid/
 + Rachel Andrew (CSS grid examples): https://codepen.io/rachelandrew/pens/public
 + CSS cube: https://davidwalsh.name/css-cube
+
+
+## Python
++ Write a Lisp interpreter in Python: http://norvig.com/lispy.html
++ Host a free Python web app: https://www.pythonanywhere.com/
++ Natural language processing with Python: http://www.nltk.org/book/
++ Pygame: http://inventwithpython.com/pygame/
++ Automate the boring stuff: https://automatetheboringstuff.com/
++ Simple Python graphics library: https://www.rose-hulman.edu/Users/faculty/young/CS-Classes/resources/Python/ZelleGraphics.html
++ Flask:
+  + https://exploreflask.com/en/latest/
+  + https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+  + http://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/
++ Python data structures & algorithms
+  + http://interactivepython.org/runestone/static/pythonds/index.html
+  + http://www.brpreiss.com/books/opus7/
++ Computer vision with python: http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf
++ Effective Python: http://www.effectivepython.com/
++ How to think like a computer scientist: http://interactivepython.org/courselib/static/thinkcspy/index.html
++ Python Challenge: http://pythonchallenge.com/
++ Tkinterbook: http://effbot.org/tkinterbook/
 
 
 ## PHP
@@ -502,36 +530,14 @@
   + https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php
   + ajax/php tutorial: http://www.tizag.com/ajaxTutorial/ajaxxmlhttprequest.php
   + ajax/php mailing list for label: https://www.sitepoint.com/use-ajax-php-build-mailing-list/
-+ Make a simple DIY label CMS; host on Heroku
++ Make a simple DIY label CMS or bandcamp clone; host on Heroku
 + PHP game scripts: https://www.ibm.com/developerworks/library/os-php-gamescripts1/
 + Websocket chat: https://phppot.com/php/simple-php-chat-using-websocket/
-
-
-## Python
-+ Write a Lisp interpreter in Python: http://norvig.com/lispy.html
-+ Host a free Python web app: https://www.pythonanywhere.com/
-+ Natural language processing with Python: http://www.nltk.org/book/
-+ Pygame: http://inventwithpython.com/pygame/
-+ Automate the boring stuff: https://automatetheboringstuff.com/
-+ Simple Python graphics library: https://www.rose-hulman.edu/Users/faculty/young/CS-Classes/resources/Python/ZelleGraphics.html
-+ Flask:
-  + https://exploreflask.com/en/latest/
-  + https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
-  + http://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/
-+ Python data structures & algorithms
-  + http://interactivepython.org/runestone/static/pythonds/index.html
-  + http://www.brpreiss.com/books/opus7/
-+ Computer vision with python: http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf
-+ Effective Python: http://www.effectivepython.com/
-+ How to think like a computer scientist: http://interactivepython.org/courselib/static/thinkcspy/index.html
-+ Python Challenge: http://pythonchallenge.com/
-+ Tkinterbook: http://effbot.org/tkinterbook/
 
 
 ## Java
 + Google style guide: https://google.github.io/styleguide/javaguide.html
 + Good Java web framework for learning generics: https://struts.apache.org/ 
-+ Edx intro to Java: https://www.edx.org/course/introduction-java-programming-part-2-hkustx-comp102-2x-0
 + Java sorting algorithms: http://java2novice.com/java-sorting-algorithms/
 + Java send HTTP request: http://stackoverflow.com/questions/2793150/using-java-net-urlconnection-to-fire-and-handle-http-requests
 + Java send email: http://stackoverflow.com/questions/3649014/send-email-using-java
@@ -541,7 +547,6 @@
 + Why's Poignant Guide to Ruby: http://poignant.guide/book/chapter-6.html
 + Nice Ruby regex tutorial: http://ruby-doc.com/docs/ProgrammingRuby/html/tut_stdtypes.html
 + Programming Ruby: http://ruby-doc.com/docs/ProgrammingRuby/html/rubyworld.html
-+ Rails mailing list: https://aspiringwebdev.com/e-mail-in-rails-with-mailchimp-and-mandrill-a-comprehensive-guide/
 
 
 ## Perl
@@ -553,6 +558,13 @@
 + Learn vim script: http://learnvimscriptthehardway.stevelosh.com/
 
 
+## Code golf
++ code-golf.io: https://code-golf.io/
++ js1k: https://js1k.com/
++ anarchy golf: http://golf.shinh.org/
++ Perlgolf history: http://terje2.frox25.no-ip.org/perlgolf_history_070109.pdf
+
+
 ## Scratch/Snap
 + Sulfurous: https://sulfurous.aau.at/
 + Useful Scratch reference topics: 
@@ -561,13 +573,6 @@
   + https://wiki.scratch.mit.edu/wiki/Recursion_and_Fractals#Creating_the_Koch_Curve
 + Snap instead of Scratch: http://www.ocsmag.com/2016/07/12/dump-scratch-use-blockly-or-snap-instead/
 + Multiwingspan projects: http://www.multiwingspan.co.uk/scratch.php?page=ex1
-
-
-## Code golf
-+ code-golf.io: https://code-golf.io/
-+ js1k: https://js1k.com/
-+ anarchy golf: http://golf.shinh.org/
-+ Perlgolf history: http://terje2.frox25.no-ip.org/perlgolf_history_070109.pdf
 
 
 ## Course sites
@@ -620,9 +625,9 @@
 ## Books 
 + Definitive C++ book list: https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
 + Tons of free CS books: http://proquest.safaribooksonline.com/
-+ "Book of Proof" Hammack
 + Think Bayes/DSP/Complexity/OS/etc: http://www.greenteapress.com/thinkbayes/html/index.html
 + Fuzzing book (software testing): https://www.fuzzingbook.org/
++ "Book of Proof" Hammack
 
 
 ## Education
@@ -638,7 +643,6 @@
 + Mills: https://www.mills.edu/academics/graduate-programs/computer-science/
 + CSU Fullerton: https://www.calstateonline.net/Cal-State-Campuses/CSU-Fullerton
 + Adv. certif. in web/mobile via SDSU: https://www.ces.sdsu.edu/science-computers-technology/advanced-certificate-web-and-mobile-applications-development
-+ USC: https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-cs-software-engineering/
 + Northeastern Silicon Valley: http://www.northeastern.edu/siliconvalley/admissions/
 + College choice CS: https://www.collegechoice.net/rankings/best-online-masters-in-computer-science/
 + Recurse non-bootcamp: https://www.recurse.com/
@@ -646,24 +650,28 @@
 
 ## OMSCS
 
++ Course syllabi: https://drive.google.com/drive/u/0/folders/1ELjIQBaekmSF0fspJn4W7iuOWh3UxYN_
+
 ### Tier 1
-+ Spring 20: CS 6601 Artificial Intelligence
-+ Summer 20: CS 6291 Embedded System Optimization
-+ Fall 20: CS 8803 O08: Compilers
-+ Spring 21: CSE 6220: Intro to High Performance Computing
-  + https://www-users.cs.umn.edu/~karypis/parbook/
-+ Summer 21: CS 7641 ML or CS 7642 RL 
-+ Fall 21: CS 6515 Graduate Algorithms
++ Spring 20: CS 8803 O08 Compilers
++ Summer 20: CS 7638 AI for Robotics
+  + https://teapowered.dev/assets/ai4r-notes.pdf
++ Fall 20: CS 6515 Graduate Algorithms
   + https://gt-algorithms.com/
   + https://cs170.org/
++ Spring 21: CSE 6220: Intro to High Performance Computing
+  + https://www-users.cs.umn.edu/~karypis/parbook/
++ Summer 21: CS 6291 Embedded System Optimization
++ Fall 21: CS 7641 ML
  
 ### Tier 2
-+ CS 6460 Educational Technology
-+ CS 6238 Secure Computer Systems
-+ CS 7646 Machine Learning for Trading
++ CS 6476 Computer Vision
 + CS 6250 Computer Networks
   + prereq course: https://www.cc.gatech.edu/~rama/CS2200-External/
-+ CS 7637 Knowledge Based AI http://lucylabs.gatech.edu/kbai/
+  + more prereq/alternate suggestions: https://github.com/ossu/computer-science/issues/520
++ CS 6601 Artificial Intelligence
++ CS 6460 Educational Technology
++ CS 7646 Machine Learning for Trading
 + interesting 6310 textbooks worth looking into: https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/
 
 ### Completed
@@ -720,6 +728,8 @@
 + Upwork/Fiverr
 + Code for America: https://www.codeforamerica.org/jobs?gh_jid=1500593
 + SF student internship: http://www.sfstudentintern.org/
++ Slack internship: https://slack.com/careers/1852134/software-engineering-internship
++ CCSF faculty: https://jobs.ccsf.edu/
 
 
 ## Interview prep
