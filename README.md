@@ -3,31 +3,31 @@
 
 ## Table of Contents
 1. [General](#general)
-2. [Operating Systems](#operating-systems)
-3. [Project Euler](#project-euler)
-4. [Algorithms](#algorithms)
-5. [Mazes](#mazes)
-6. [Cellular automata](#cellular-automata)
-7. [Compilers/interpreters](#compilers/interpreters)
-8. [Esoteric programming languages](#esoteric-programming-languages)
-9. [Game AI](#game-ai)
-10. [Games](#games)
-11. [Puzzles](#puzzles)
-12. [Fractals and L-systems](#fractals-and-l-systems)
-13. [Visual/animation](#visual/animation)
-14. [Tiling and packing](#tiling-and-packing)
-15. [Physics simulations](#physics-simulations)
-16. [Regex](#regex)
-17. [Computer Science](#computer-science)
-18. [Machine learning](#machine-learning)
-19. [AI](#ai)
-20. [Cryptography](#cryptography)
-21. [Data science](#data-science)
-22. [C](#c)
-23. [C++](#c++)
-24. [JS](#js)
-25. [Web development](#web-development)
-26. [CSS](#css)
+2. [Project Ideas](#project-ideas)
+3. [Operating Systems](#operating-systems)
+4. [Project Euler](#project-euler)
+5. [Algorithms](#algorithms)
+6. [Mazes](#mazes)
+7. [Cellular automata](#cellular-automata)
+8. [Compilers/interpreters](#compilers/interpreters)
+9. [Esoteric programming languages](#esoteric-programming-languages)
+10. [Game AI](#game-ai)
+11. [Games](#games)
+12. [Puzzles](#puzzles)
+13. [Fractals and L-systems](#fractals-and-l-systems)
+14. [Visual/animation](#visual/animation)
+15. [Tiling and packing](#tiling-and-packing)
+16. [Physics simulations](#physics-simulations)
+17. [Regex](#regex)
+18. [Computer Science](#computer-science)
+19. [Machine learning](#machine-learning)
+20. [AI](#ai)
+21. [Cryptography](#cryptography)
+22. [Data science](#data-science)
+23. [C](#c)
+24. [C++](#c++)
+25. [JS](#js)
+26. [Web development](#web-development)
 27. [Python](#python)
 28. [PHP](#php)
 29. [Java](#java)
@@ -56,7 +56,7 @@
 + <a href="http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm">Christopher Alexander's Design Patterns</a>
 
 
-# Project Ideas
+## Project Ideas
 + <a href="https://en.wikipedia.org/wiki/Tic-tac-toe_variants">https://en.wikipedia.org/wiki/Tic-tac-toe_variants</a>
 + write an app that scrapes recent posts by favorite SO users
 + Challenge/project idea lists:
@@ -524,8 +524,7 @@
   + <a href="https://jekyllrb.com/docs/installation/">https://jekyllrb.com/docs/installation/</a>
 + <a href="https://www.bitballoon.com">Bitballoon for hosting web apps</a>
 
-
-## CSS
+### CSS
 + Do a Mondrian generator with a CSS grid or JS
 + <a href="https://css-tricks.com/snippets/css/complete-guide-grid/">Grid</a>
 + <a href="https://codepen.io/rachelandrew/pens/public">Rachel Andrew (CSS grid examples)</a>

@@ -11,7 +11,7 @@
 + Christopher Alexander's Design Patterns: http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm
 
 
-# Project Ideas
+## Project Ideas
 + https://en.wikipedia.org/wiki/Tic-tac-toe_variants
 + write an app that scrapes recent posts by favorite SO users
 + Challenge/project idea lists:
