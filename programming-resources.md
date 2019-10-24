@@ -479,8 +479,7 @@
   + https://jekyllrb.com/docs/installation/
 + Bitballoon for hosting web apps: https://www.bitballoon.com
 
-
-## CSS
+### CSS
 + Do a Mondrian generator with a CSS grid or JS
 + Grid: https://css-tricks.com/snippets/css/complete-guide-grid/
 + Rachel Andrew (CSS grid examples): https://codepen.io/rachelandrew/pens/public
