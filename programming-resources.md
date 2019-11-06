@@ -24,6 +24,7 @@
 + NetLogo: https://en.wikipedia.org/wiki/NetLogo
 + write a non-acct twitter (or SO) client that can fav and show imgs like birdfeed without having an account.
 + write some RTS demo sketches 
+  + https://sandruski.github.io/RTS-Group-Movement/
 + write a sandboxed compiler+code runner
 + write a winamp plugin that broadcasts now playing to node API on glitch
   + http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide
@@ -230,7 +231,8 @@
 + 2048
 + Boggle
 + Lemmings
-+ Snake: 2 player versions, add obstacles, snake tetris
++ Snake: 2 player versions, add obstacles, snake tetris, ai
+  + https://towardsdatascience.com/slitherin-solving-the-classic-game-of-snake-with-ai-part-3-genetic-evolution-33186e6be110
 + Solved games list: https://en.wikipedia.org/wiki/Solved_game
 + Mastermind: https://en.wikipedia.org/wiki/Mastermind_(board_game)
 + Open souce game clones: https://osgameclones.com/
@@ -395,6 +397,7 @@
 + Math for game developers: https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My
 + Variety of pathfinding tutorials: https://www.redblobgames.com/pathfinding/a-star/introduction.html 
 + Blobs: http://www.futuredatalab.com/blobfamily/
++ Various tutorials for 2d graphics (isometric, polygon, collision, platformers, networking, etc): https://2dengine.com/?p=tutorials 
 + Simple 2d physics engine: https://www.ibm.com/developerworks/library/wa-build2dphysicsengine/
 + 2d physics engine 3 part tutorial: http://hugobdesigner.blogspot.com/
 + Collision detection:
@@ -761,5 +764,4 @@
   + http://wiki.c2.com/?FizzBuzzTest
   + https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
 + Git man page generator: https://git-man-page-generator.lokaltog.net/
-+ Write a bot that makes patterns in the github commits chart
 

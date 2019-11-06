@@ -69,6 +69,7 @@
 + <a href="https://en.wikipedia.org/wiki/NetLogo">NetLogo</a>
 + write a non-acct twitter (or SO) client that can fav and show imgs like birdfeed without having an account.
 + write some RTS demo sketches
+  + <a href="https://sandruski.github.io/RTS-Group-Movement/">https://sandruski.github.io/RTS-Group-Movement/</a>
 + write a sandboxed compiler+code runner
 + write a winamp plugin that broadcasts now playing to node API on glitch
   + <a href="http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide">http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide</a>
@@ -275,7 +276,8 @@
 + 2048
 + Boggle
 + Lemmings
-+ Snake: 2 player versions, add obstacles, snake tetris
++ Snake: 2 player versions, add obstacles, snake tetris, ai
+  + <a href="https://towardsdatascience.com/slitherin-solving-the-classic-game-of-snake-with-ai-part-3-genetic-evolution-33186e6be110">https://towardsdatascience.com/slitherin-solving-the-classic-game-of-snake-with-ai-part-3-genetic-evolution-33186e6be110</a>
 + <a href="https://en.wikipedia.org/wiki/Solved_game">Solved games list</a>
 + <a href="https://en.wikipedia.org/wiki/Mastermind_(board_game)">Mastermind</a>
 + <a href="https://osgameclones.com/">Open souce game clones</a>
@@ -440,6 +442,7 @@
 + <a href="https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My">Math for game developers</a>
 + <a href="https://www.redblobgames.com/pathfinding/a-star/introduction.html">Variety of pathfinding tutorials</a>
 + <a href="http://www.futuredatalab.com/blobfamily/">Blobs</a>
++ <a href="https://2dengine.com/?p=tutorials">Various tutorials for 2d graphics (isometric, polygon, collision, platformers, networking, etc)</a>
 + <a href="https://www.ibm.com/developerworks/library/wa-build2dphysicsengine/">Simple 2d physics engine</a>
 + <a href="http://hugobdesigner.blogspot.com/">2d physics engine 3 part tutorial</a>
 + Collision detection:
@@ -806,4 +809,3 @@
   + <a href="http://wiki.c2.com/?FizzBuzzTest">http://wiki.c2.com/?FizzBuzzTest</a>
   + <a href="https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition">https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition</a>
 + <a href="https://git-man-page-generator.lokaltog.net/">Git man page generator</a>
-+ Write a bot that makes patterns in the github commits chart
