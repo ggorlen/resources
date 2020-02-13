@@ -80,6 +80,7 @@
 + <a href="https://www.cc.gatech.edu/classes/AY2010/cs4210_fall/">CS4210 archive</a>
 + <a href="https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/">Operating Systems notes</a>
 + <a href="https://cs.nyu.edu/~mwalfish/classes/ut/s11-cs372h/hw/sol8.html">OS @ NYU</a>
++ <a href="https://cs162.eecs.berkeley.edu/">Berkeley CS162</a>
 + <a href="https://akkadia.org/drepper/cpumemory.pdf">What every programmer should know about memory</a>
 + <a href="https://greenteapress.com/wp/semaphores/">The Little Book of Semaphores</a>
 + <a href="https://csapp.cs.cmu.edu/">Computer Systems: A Programmer's Perspective</a>
@@ -96,11 +97,11 @@
 + <a href="https://algs4.cs.princeton.edu/home/">Princeton Algorithms</a>
 + <a href="http://cslibrary.stanford.edu/">Stanford CS Education Library</a>
 + <a href="https://inst.eecs.berkeley.edu/~cs61b/fa17/materials/lectures/">Berkeley CS61B lectures</a>
++ <a href="http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html">Yale CPSC 223</a>
 + <a href="https://www.algorithm-archive.org/">Algorithm archive</a>
 + <a href="https://en.wikipedia.org/wiki/Skip_list">Skip list</a>
 + <a href="https://en.wikipedia.org/wiki/Splay_tree">Splay tree</a>
 + <a href="https://www.geeksforgeeks.org/word-ladder-length-of-shortest-chain-to-reach-a-target-word/">Word ladder</a>
-+ Do projects from Data Structures & algorithms text
 + <a href="https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/">Disjoint set/ union find</a>
 + <a href="https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/">Segment trees</a>
 + <a href="https://en.wikipedia.org/wiki/Self-avoiding_walk">Self-avoiding walk</a>
@@ -134,12 +135,13 @@
 + <a href="https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/">MST</a>
 + <a href="http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm">Floyd Warshall algorithm</a>
 + <a href="https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm">Dijkstra's algorithm</a>
-+ <a href="https://www.geeksforgeeks.org/topological-sorting/">Topological sort</a>
 
 ### Trees
 + <a href="https://algs4.cs.princeton.edu/33balanced/">Balanced search trees</a>
 + <a href="http://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/">Tree traversal construction</a>
 + <a href="https://www.youtube.com/watch?v=H13iz0rbeeo">Determine if a tree is a BST</a>
++ <a href="https://en.wikipedia.org/wiki/Left-child_right-sibling_binary_tree">https://en.wikipedia.org/wiki/Left-child_right-sibling_binary_tree</a>
+- https://en.wikipedia.org/wiki/AVL_tree
 
 ### Strings/arrays
 + <a href="http://stackoverflow.com/questions/24720332/c-find-all-possible-combinations-of-a-string-in-another-string">Find combinations of a string in another string</a>
@@ -178,7 +180,6 @@
   + <a href="http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/">http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/</a>
   + <a href="https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about">https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about</a>
 + <a href="https://classroom.udacity.com/courses/cs262">Udacity programming languages course</a>
-+ <a href="https://classroom.udacity.com/courses/ud168/lessons/9331262348/concepts/93290028450923">OMSCS compilers</a>
 + <a href="https://ruslanspivak.com/lsbasi-part1/">Let's build a simple interpreter</a>
 + <a href="https://github.com/NeilFraser/JS-Interpreter">JS interpreter in JS (good for sandboxing)</a>
 + <a href="http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf">Incremental approach to compiler construction</a>
@@ -196,6 +197,7 @@
   + <a href="https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html">https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html</a>
   + <a href="https://github.com/llvm-mirror/llvm/blob/master/examples/Kaleidoscope/MCJIT/initial/toy.cpp">https://github.com/llvm-mirror/llvm/blob/master/examples/Kaleidoscope/MCJIT/initial/toy.cpp</a>
 + <a href="https://stackoverflow.com/questions/1669/learning-to-write-a-compiler">Mega compilers resource</a>
++ <a href="https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/">CS143</a>
 
 
 ## Esoteric programming languages
@@ -253,6 +255,7 @@
 + <a href="http://www.instructables.com/id/Peg-Game-IQ-Test-Solution/">Emily's pegs game</a>
 + <a href="https://www.youtube.com/watch?v=1t782B0zK3Y">Fire & Ice</a>
 + <a href="https://www.youtube.com/watch?v=WV-rQfYKSGA">Filler/Qualio</a>
+  + <a href="https://stackoverflow.com/questions/59692024">Generating levels</a>
 + Tower defense
 + <a href="https://en.wikipedia.org/wiki/Hexapawn">Hexapawn</a>
 + Octopawn
@@ -277,6 +280,7 @@
 + Boggle
 + Lemmings
 + Snake: 2 player versions, add obstacles, snake tetris, ai
+  + <a href="https://johnflux.com/2015/05/02/nokia-6110-part-3-algorithms/">https://johnflux.com/2015/05/02/nokia-6110-part-3-algorithms/</a>
   + <a href="https://towardsdatascience.com/slitherin-solving-the-classic-game-of-snake-with-ai-part-3-genetic-evolution-33186e6be110">https://towardsdatascience.com/slitherin-solving-the-classic-game-of-snake-with-ai-part-3-genetic-evolution-33186e6be110</a>
 + <a href="https://en.wikipedia.org/wiki/Solved_game">Solved games list</a>
 + <a href="https://en.wikipedia.org/wiki/Mastermind_(board_game)">Mastermind</a>
@@ -329,6 +333,9 @@
   + <a href="https://www.youtube.com/watch?v=P-9qBV-9Fos">https://www.youtube.com/watch?v=P-9qBV-9Fos</a>
 + <a href="https://en.wikipedia.org/wiki/Tangram">Tangram</a>
 + <a href="http://www.bricks-game.de/">Klotski gone insane (Bricks game)</a>
++ TopSpin and other puzzles:
+  + <a href="https://www.jaapsch.net/puzzles/topspin.htm">https://www.jaapsch.net/puzzles/topspin.htm</a>
+  + <a href="https://www.jaapsch.net/">https://www.jaapsch.net/</a>
 
 
 ## Fractals and L-systems
@@ -372,7 +379,6 @@
 + <a href="https://s-media-cache-ak0.pinimg.com/564x/d6/ff/64/d6ff6450173c6410c919b06e07958227.jpg">Architecture: look for triangle perspective designs, Escher</a>
 + Do a visual plotting the orthocenter, medicenter, and circumcenter of a triangle
 + Write a script that turns text into blocky ASCII text or renders images in ASCII
-+ <a href="https://threejs.org/">ThreeJS</a>
 + <a href="https://jsxgraph.uni-bayreuth.de/wiki/index.php/Category:Examples">JSXGraph</a>
 + <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial">WebGL tutorial</a>
 + Bezier Curves:
@@ -395,6 +401,7 @@
 + <a href="https://en.wikipedia.org/wiki/Sol_LeWitt">Sol LeWitt</a>
 + <a href="https://js.do/samples/sombrero">3d sombrero and other algorithms</a>
 + <a href="https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/">Necessary Disorder</a>
++ <a href="https://threejsfundamentals.org/">ThreeJS fundamentals</a>
 + <a href="http://mrdoob.com/">Mr. Doob three.js collection</a>
 
 
@@ -478,6 +485,7 @@
 ## Computer Science
 - CS FAQ: https://cs.meta.stackexchange.com/questions/599/reference-answers-to-frequently-asked-questions/847#847
 - http://www.cs.toronto.edu/~hehner/best.html
+- http://www.jflap.org/
 
 
 ## Machine learning
@@ -667,6 +675,7 @@
 + <a href="https://www.topcoder.com/community/competitive-programming/">Topcoder</a>
 + <a href="http://www.pvv.ntnu.no/~spaans/programming.html">Tons of tips & links</a>
 + <a href="https://picoctf.com/">Hacking competition for kids</a>
++ <a href="https://swerc.eu/2017/problems/">SWERC past problem sets</a>
 
 
 ## Books
@@ -675,6 +684,7 @@
 + <a href="http://www.greenteapress.com/thinkbayes/html/index.html">Think Bayes/DSP/Complexity/OS/etc</a>
 + <a href="https://www.fuzzingbook.org/">Fuzzing book (software testing)</a>
 + "Book of Proof" Hammack
++ <a href="http://discrete.openmathbooks.org/dmoi3.html">Discrete Math</a>
 
 
 ## Education
@@ -700,23 +710,21 @@
 + <a href="https://drive.google.com/drive/u/0/folders/1ELjIQBaekmSF0fspJn4W7iuOWh3UxYN_">Course syllabi</a>
 
 ### Tier 1
-+ Spring 20: CS 8803 O08 Compilers
 + Summer 20: CS 7638 AI for Robotics
   + <a href="https://teapowered.dev/assets/ai4r-notes.pdf">https://teapowered.dev/assets/ai4r-notes.pdf</a>
-+ Fall 20: CS 6515 Graduate Algorithms
++ Fall 20: CSE 6220: Intro to High Performance Computing
+  + <a href="https://www-users.cs.umn.edu/~karypis/parbook/">https://www-users.cs.umn.edu/~karypis/parbook/</a>
++ Spring 21: CS 7641 ML
++ Spring 21: CS 6515 Graduate Algorithms
   + <a href="https://gt-algorithms.com/">https://gt-algorithms.com/</a>
   + <a href="https://cs170.org/">https://cs170.org/</a>
-+ Spring 21: CSE 6220: Intro to High Performance Computing
-  + <a href="https://www-users.cs.umn.edu/~karypis/parbook/">https://www-users.cs.umn.edu/~karypis/parbook/</a>
-+ Summer 21: CS 6291 Embedded System Optimization
-+ Fall 21: CS 7641 ML
 
 ### Tier 2
 + CS 6476 Computer Vision
++ CS 6601 Artificial Intelligence
 + CS 6250 Computer Networks
   + <a href="https://www.cc.gatech.edu/~rama/CS2200-External/">prereq course</a>
   + <a href="https://github.com/ossu/computer-science/issues/520">more prereq/alternate suggestions</a>
-+ CS 6601 Artificial Intelligence
 + CS 6460 Educational Technology
 + CS 7646 Machine Learning for Trading
 + <a href="https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/">interesting 6310 textbooks worth looking into</a>
@@ -730,6 +738,8 @@
   + <a href="http://rightingcode.org/">Course website</a>
   + <a href="https://classroom.udacity.com/courses/cs259">Nice follow-up Udacity course</a>
 + Fall 19: CS 6290 High Performance Computer Architecture
++ Spring 20: CS 8803 O08 Compilers
++ Spring 20: CS 6291 Embedded System Optimization
 
 
 ## CCSF
@@ -767,16 +777,26 @@
 
 
 ## Jobs
-+ <a href="https://weworkremotely.com/categories/remote-programming-jobs">Weworkremotely programming jobs</a>
++ Freelancing contracts:
+  + <a href="https://www.docracy.com/0kpa5hfcobb/freelance-developer-contract">https://www.docracy.com/0kpa5hfcobb/freelance-developer-contract</a>
+  + <a href="https://gist.github.com/malarkey/4031110">https://gist.github.com/malarkey/4031110</a>
+  + <a href="https://github.com/ashedryden/freelance-contract">https://github.com/ashedryden/freelance-contract</a>
+  + <a href="https://gist.github.com/reubano/344656121394ef7ff2048ca8b006f7d2">https://gist.github.com/reubano/344656121394ef7ff2048ca8b006f7d2</a>
++ Freelancing tips/guides/tutorials:
+  + <a href="https://gist.github.com/mdang/ef3669d4f266c62c3312">https://gist.github.com/mdang/ef3669d4f266c62c3312</a>
+  + <a href="http://www.incomeinsiders.com/tag/freelance-programmer-contract/">http://www.incomeinsiders.com/tag/freelance-programmer-contract/</a>
++ Remote/freelancing:
+  + <a href="https://github.com/engineerapart/TheRemoteFreelancer">https://github.com/engineerapart/TheRemoteFreelancer</a>
+  + Indeed/indeed prime
+  + Upwork/Fiverr
+  + <a href="https://weworkremotely.com/categories/remote-programming-jobs">Weworkremotely programming jobs</a>
 + <a href="https://www.codementor.io">Codementor</a>
 + <a href="http://generalassemb.ly/how-we-work/teach-at-general-assembly">General Assembly teaching</a>
 + Thinkful web dev instructor
-+ Indeed/indeed prime
-+ Upwork/Fiverr
-+ <a href="https://www.codeforamerica.org/jobs?gh_jid=1500593">Code for America</a>
-+ <a href="http://www.sfstudentintern.org/">SF student internship</a>
++ <a href="https://www.codeforamerica.org/jobs">Code for America</a>
 + <a href="https://slack.com/careers/1852134/software-engineering-internship">Slack internship</a>
-+ <a href="https://jobs.ccsf.edu/">CCSF faculty</a>
++ <a href="https://jobs.ccsf.edu/">CCSF professor</a>
++ <a href="http://www.sfstudentintern.org/">SF student intern</a>
 
 
 ## Interview prep
@@ -797,6 +817,9 @@
   + <a href="https://stackoverflow.com/users/3000206/">https://stackoverflow.com/users/3000206/</a>
   + <a href="https://stackoverflow.com/users/168657/">https://stackoverflow.com/users/168657/</a>
   + <a href="https://stackoverflow.com/users/559737/">https://stackoverflow.com/users/559737/</a>
+  + <a href="https://stackoverflow.com/users/385378/">https://stackoverflow.com/users/385378/</a>
+  + <a href="https://stackoverflow.com/users/1204143/">https://stackoverflow.com/users/1204143/</a>
+  + <a href="https://stackoverflow.com/users/128511/">https://stackoverflow.com/users/128511/</a>
 
 
 ## Fun

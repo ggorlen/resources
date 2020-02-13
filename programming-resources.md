@@ -35,6 +35,7 @@
 + CS4210 archive: https://www.cc.gatech.edu/classes/AY2010/cs4210_fall/
 + Operating Systems notes: https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/
 + OS @ NYU: https://cs.nyu.edu/~mwalfish/classes/ut/s11-cs372h/hw/sol8.html
++ Berkeley CS162: https://cs162.eecs.berkeley.edu/
 + What every programmer should know about memory: https://akkadia.org/drepper/cpumemory.pdf
 + The Little Book of Semaphores: https://greenteapress.com/wp/semaphores/
 + Computer Systems: A Programmer's Perspective: https://csapp.cs.cmu.edu/
@@ -51,11 +52,11 @@
 + Princeton Algorithms: https://algs4.cs.princeton.edu/home/
 + Stanford CS Education Library: http://cslibrary.stanford.edu/
 + Berkeley CS61B lectures: https://inst.eecs.berkeley.edu/~cs61b/fa17/materials/lectures/ 
++ Yale CPSC 223: http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html
 + Algorithm archive: https://www.algorithm-archive.org/
 + Skip list: https://en.wikipedia.org/wiki/Skip_list
 + Splay tree: https://en.wikipedia.org/wiki/Splay_tree
 + Word ladder: https://www.geeksforgeeks.org/word-ladder-length-of-shortest-chain-to-reach-a-target-word/
-+ Do projects from Data Structures & algorithms text
 + Disjoint set/ union find: https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/
 + Segment trees: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/
 + Self-avoiding walk: https://en.wikipedia.org/wiki/Self-avoiding_walk
@@ -89,12 +90,13 @@
 + MST: https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/
 + Floyd Warshall algorithm: http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm
 + Dijkstra's algorithm: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
-+ Topological sort: https://www.geeksforgeeks.org/topological-sorting/
 
 ### Trees
 + Balanced search trees: https://algs4.cs.princeton.edu/33balanced/
 + Tree traversal construction: http://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/
 + Determine if a tree is a BST: https://www.youtube.com/watch?v=H13iz0rbeeo
++ https://en.wikipedia.org/wiki/Left-child_right-sibling_binary_tree
+- https://en.wikipedia.org/wiki/AVL_tree
 
 ### Strings/arrays
 + Find combinations of a string in another string: http://stackoverflow.com/questions/24720332/c-find-all-possible-combinations-of-a-string-in-another-string 
@@ -133,7 +135,6 @@
   + http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/
   + https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about
 + Udacity programming languages course: https://classroom.udacity.com/courses/cs262
-+ OMSCS compilers: https://classroom.udacity.com/courses/ud168/lessons/9331262348/concepts/93290028450923
 + Let's build a simple interpreter: https://ruslanspivak.com/lsbasi-part1/
 + JS interpreter in JS (good for sandboxing): https://github.com/NeilFraser/JS-Interpreter
 + Incremental approach to compiler construction: http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf
@@ -151,6 +152,7 @@
   + https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html
   + https://github.com/llvm-mirror/llvm/blob/master/examples/Kaleidoscope/MCJIT/initial/toy.cpp
 + Mega compilers resource: https://stackoverflow.com/questions/1669/learning-to-write-a-compiler
++ CS143: https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/
 
 
 ## Esoteric programming languages
@@ -208,6 +210,7 @@
 + Emily's pegs game: http://www.instructables.com/id/Peg-Game-IQ-Test-Solution/
 + Fire & Ice: https://www.youtube.com/watch?v=1t782B0zK3Y
 + Filler/Qualio: https://www.youtube.com/watch?v=WV-rQfYKSGA
+  + Generating levels: https://stackoverflow.com/questions/59692024
 + Tower defense
 + Hexapawn: https://en.wikipedia.org/wiki/Hexapawn
 + Octopawn
@@ -232,6 +235,7 @@
 + Boggle
 + Lemmings
 + Snake: 2 player versions, add obstacles, snake tetris, ai
+  + https://johnflux.com/2015/05/02/nokia-6110-part-3-algorithms/
   + https://towardsdatascience.com/slitherin-solving-the-classic-game-of-snake-with-ai-part-3-genetic-evolution-33186e6be110
 + Solved games list: https://en.wikipedia.org/wiki/Solved_game
 + Mastermind: https://en.wikipedia.org/wiki/Mastermind_(board_game)
@@ -284,6 +288,9 @@
   + https://www.youtube.com/watch?v=P-9qBV-9Fos
 + Tangram: https://en.wikipedia.org/wiki/Tangram 
 + Klotski gone insane (Bricks game): http://www.bricks-game.de/
++ TopSpin and other puzzles:
+  + https://www.jaapsch.net/puzzles/topspin.htm
+  + https://www.jaapsch.net/
 
 
 ## Fractals and L-systems
@@ -327,7 +334,6 @@
 + Architecture: look for triangle perspective designs, Escher: https://s-media-cache-ak0.pinimg.com/564x/d6/ff/64/d6ff6450173c6410c919b06e07958227.jpg
 + Do a visual plotting the orthocenter, medicenter, and circumcenter of a triangle
 + Write a script that turns text into blocky ASCII text or renders images in ASCII
-+ ThreeJS: https://threejs.org/
 + JSXGraph: https://jsxgraph.uni-bayreuth.de/wiki/index.php/Category:Examples
 + WebGL tutorial: https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial
 + Bezier Curves:
@@ -350,6 +356,7 @@
 + Sol LeWitt: https://en.wikipedia.org/wiki/Sol_LeWitt
 + 3d sombrero and other algorithms: https://js.do/samples/sombrero
 + Necessary Disorder: https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/
++ ThreeJS fundamentals: https://threejsfundamentals.org/
 + Mr. Doob three.js collection: http://mrdoob.com/
 
 
@@ -433,6 +440,7 @@
 ## Computer Science
 - CS FAQ: https://cs.meta.stackexchange.com/questions/599/reference-answers-to-frequently-asked-questions/847#847
 - http://www.cs.toronto.edu/~hehner/best.html
+- http://www.jflap.org/
 
 
 ## Machine learning
@@ -622,6 +630,7 @@
 + Topcoder: https://www.topcoder.com/community/competitive-programming/
 + Tons of tips & links: http://www.pvv.ntnu.no/~spaans/programming.html
 + Hacking competition for kids: https://picoctf.com/
++ SWERC past problem sets: https://swerc.eu/2017/problems/
 
 
 ## Books 
@@ -630,6 +639,7 @@
 + Think Bayes/DSP/Complexity/OS/etc: http://www.greenteapress.com/thinkbayes/html/index.html
 + Fuzzing book (software testing): https://www.fuzzingbook.org/
 + "Book of Proof" Hammack
++ Discrete Math: http://discrete.openmathbooks.org/dmoi3.html
 
 
 ## Education
@@ -655,23 +665,21 @@
 + Course syllabi: https://drive.google.com/drive/u/0/folders/1ELjIQBaekmSF0fspJn4W7iuOWh3UxYN_
 
 ### Tier 1
-+ Spring 20: CS 8803 O08 Compilers
 + Summer 20: CS 7638 AI for Robotics
   + https://teapowered.dev/assets/ai4r-notes.pdf
-+ Fall 20: CS 6515 Graduate Algorithms
++ Fall 20: CSE 6220: Intro to High Performance Computing
+  + https://www-users.cs.umn.edu/~karypis/parbook/
++ Spring 21: CS 7641 ML
++ Spring 21: CS 6515 Graduate Algorithms
   + https://gt-algorithms.com/
   + https://cs170.org/
-+ Spring 21: CSE 6220: Intro to High Performance Computing
-  + https://www-users.cs.umn.edu/~karypis/parbook/
-+ Summer 21: CS 6291 Embedded System Optimization
-+ Fall 21: CS 7641 ML
  
 ### Tier 2
 + CS 6476 Computer Vision
++ CS 6601 Artificial Intelligence
 + CS 6250 Computer Networks
   + prereq course: https://www.cc.gatech.edu/~rama/CS2200-External/
   + more prereq/alternate suggestions: https://github.com/ossu/computer-science/issues/520
-+ CS 6601 Artificial Intelligence
 + CS 6460 Educational Technology
 + CS 7646 Machine Learning for Trading
 + interesting 6310 textbooks worth looking into: https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/
@@ -685,6 +693,8 @@
   + Course website: http://rightingcode.org/
   + Nice follow-up Udacity course: https://classroom.udacity.com/courses/cs259
 + Fall 19: CS 6290 High Performance Computer Architecture
++ Spring 20: CS 8803 O08 Compilers
++ Spring 20: CS 6291 Embedded System Optimization
 
 
 ## CCSF
@@ -722,16 +732,26 @@
 
 
 ## Jobs
-+ Weworkremotely programming jobs: https://weworkremotely.com/categories/remote-programming-jobs
++ Freelancing contracts:
+  + https://www.docracy.com/0kpa5hfcobb/freelance-developer-contract
+  + https://gist.github.com/malarkey/4031110
+  + https://github.com/ashedryden/freelance-contract
+  + https://gist.github.com/reubano/344656121394ef7ff2048ca8b006f7d2
++ Freelancing tips/guides/tutorials:
+  + https://gist.github.com/mdang/ef3669d4f266c62c3312
+  + http://www.incomeinsiders.com/tag/freelance-programmer-contract/
++ Remote/freelancing:
+  + https://github.com/engineerapart/TheRemoteFreelancer
+  + Indeed/indeed prime
+  + Upwork/Fiverr
+  + Weworkremotely programming jobs: https://weworkremotely.com/categories/remote-programming-jobs
 + Codementor: https://www.codementor.io
 + General Assembly teaching: http://generalassemb.ly/how-we-work/teach-at-general-assembly
 + Thinkful web dev instructor
-+ Indeed/indeed prime
-+ Upwork/Fiverr
-+ Code for America: https://www.codeforamerica.org/jobs?gh_jid=1500593
-+ SF student internship: http://www.sfstudentintern.org/
++ Code for America: https://www.codeforamerica.org/jobs
 + Slack internship: https://slack.com/careers/1852134/software-engineering-internship
-+ CCSF faculty: https://jobs.ccsf.edu/
++ CCSF professor: https://jobs.ccsf.edu/
++ SF student intern: http://www.sfstudentintern.org/
 
 
 ## Interview prep
@@ -752,6 +772,9 @@
   + https://stackoverflow.com/users/3000206/
   + https://stackoverflow.com/users/168657/
   + https://stackoverflow.com/users/559737/
+  + https://stackoverflow.com/users/385378/
+  + https://stackoverflow.com/users/1204143/
+  + https://stackoverflow.com/users/128511/
 
 
 ## Fun
