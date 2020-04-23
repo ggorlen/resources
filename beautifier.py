@@ -34,13 +34,11 @@ if __name__ == "__main__":
     
             patterns = (
                 (r"## (.+)$", lambda m, result: add_toc_entry(m, result, line, toc)),
-                (r"(?P<whitesp> *\+ +)(?P<label>.+: *)?(?P<url>https?://[^ ]+)(?P<tail>.*)$", add_resource),
+                (r"(?P<whitesp> *[-+] +)(?P<label>.+: *)?(?P<url>https?://[^ ]+)(?P<tail>.*)$", add_resource),
             )
             
             for pattern, fn in patterns:
-                m = re.match(re.compile(pattern), line)
-                
-                if m:
+                if m := re.match(pattern, line):
                     fn(m, result)
     
             if not any([re.match(pattern[0], line) for pattern in patterns]):

@@ -157,7 +157,7 @@
 + <a href="http://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/">Tree traversal construction</a>
 + <a href="https://www.youtube.com/watch?v=H13iz0rbeeo">Determine if a tree is a BST</a>
 + <a href="https://en.wikipedia.org/wiki/Left-child_right-sibling_binary_tree">https://en.wikipedia.org/wiki/Left-child_right-sibling_binary_tree</a>
-- https://en.wikipedia.org/wiki/AVL_tree
+- <a href="https://en.wikipedia.org/wiki/AVL_tree">https://en.wikipedia.org/wiki/AVL_tree</a>
 
 ### Strings/arrays
 + <a href="http://stackoverflow.com/questions/24720332/c-find-all-possible-combinations-of-a-string-in-another-string">Find combinations of a string in another string</a>
@@ -629,23 +629,23 @@
 
 
 ## MIPS
-- MIPS system calls: http://students.cs.tamu.edu/tanzir/csce350/reference/syscalls.html
-- Learning MIPS and SPIM: https://uweb.engr.arizona.edu/~ece369/Resources/spim/QtSPIM_examples.pdf
-- recursion: https://courses.engr.illinois.edu/cs232/sp2012/section/disc2sol.pdf
-- https://courses.cs.washington.edu/courses/cse378/09wi/lectures/lec05.pdf
-- https://en.wikibooks.org/wiki/MIPS_Assembly/Control_Flow_Instructions
-- https://www.coursehero.com/file/45823007/cs311-03-isa-Ipdf/
-- https://github.com/kyungyunlee/CS311-Computer-Organization/tree/master/project2/Project2
-- https://github.com/mightydeveloper/MIPS-Assembler
-- https://www.youtube.com/watch?v=z3ltaJ5UU5I
-- https://learnxinyminutes.com/docs/mips/
-- https://chortle.ccsu.edu/AssemblyTutorial/index.html
-- http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch05s03.html
-- http://homepage.divms.uiowa.edu/~ghosh/1-28-10.pdf
-- http://cgi.cse.unsw.edu.au/~cs1521/17s2/docs/spim.php
-- https://www.dsi.unive.it/~gasparetto/materials/MIPS_Instruction_Set.pdf
-- https://www.doc.ic.ac.uk/lab/secondyear/spim/node9.html
-- https://www.doc.ic.ac.uk/lab/secondyear/spim/node20.html
+- <a href="http://students.cs.tamu.edu/tanzir/csce350/reference/syscalls.html">MIPS system calls</a>
+- <a href="https://uweb.engr.arizona.edu/~ece369/Resources/spim/QtSPIM_examples.pdf">Learning MIPS and SPIM</a>
+- <a href="https://courses.engr.illinois.edu/cs232/sp2012/section/disc2sol.pdf">recursion</a>
+- <a href="https://courses.cs.washington.edu/courses/cse378/09wi/lectures/lec05.pdf">https://courses.cs.washington.edu/courses/cse378/09wi/lectures/lec05.pdf</a>
+- <a href="https://en.wikibooks.org/wiki/MIPS_Assembly/Control_Flow_Instructions">https://en.wikibooks.org/wiki/MIPS_Assembly/Control_Flow_Instructions</a>
+- <a href="https://www.coursehero.com/file/45823007/cs311-03-isa-Ipdf/">https://www.coursehero.com/file/45823007/cs311-03-isa-Ipdf/</a>
+- <a href="https://github.com/kyungyunlee/CS311-Computer-Organization/tree/master/project2/Project2">https://github.com/kyungyunlee/CS311-Computer-Organization/tree/master/project2/Project2</a>
+- <a href="https://github.com/mightydeveloper/MIPS-Assembler">https://github.com/mightydeveloper/MIPS-Assembler</a>
+- <a href="https://www.youtube.com/watch?v=z3ltaJ5UU5I">https://www.youtube.com/watch?v=z3ltaJ5UU5I</a>
+- <a href="https://learnxinyminutes.com/docs/mips/">https://learnxinyminutes.com/docs/mips/</a>
+- <a href="https://chortle.ccsu.edu/AssemblyTutorial/index.html">https://chortle.ccsu.edu/AssemblyTutorial/index.html</a>
+- <a href="http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch05s03.html">http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch05s03.html</a>
+- <a href="http://homepage.divms.uiowa.edu/~ghosh/1-28-10.pdf">http://homepage.divms.uiowa.edu/~ghosh/1-28-10.pdf</a>
+- <a href="http://cgi.cse.unsw.edu.au/~cs1521/17s2/docs/spim.php">http://cgi.cse.unsw.edu.au/~cs1521/17s2/docs/spim.php</a>
+- <a href="https://www.dsi.unive.it/~gasparetto/materials/MIPS_Instruction_Set.pdf">https://www.dsi.unive.it/~gasparetto/materials/MIPS_Instruction_Set.pdf</a>
+- <a href="https://www.doc.ic.ac.uk/lab/secondyear/spim/node9.html">https://www.doc.ic.ac.uk/lab/secondyear/spim/node9.html</a>
+- <a href="https://www.doc.ic.ac.uk/lab/secondyear/spim/node20.html">https://www.doc.ic.ac.uk/lab/secondyear/spim/node20.html</a>
 
 
 
