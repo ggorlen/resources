@@ -33,20 +33,24 @@
 29. [Java](#java)
 30. [Ruby](#ruby)
 31. [Perl](#perl)
-32. [Unix](#unix)
-33. [Code golf](#code-golf)
-34. [Scratch/Snap](#scratch/snap)
-35. [Course sites](#course-sites)
-36. [Algorithmic challenge sites](#algorithmic-challenge-sites)
-37. [Competitive coding](#competitive-coding)
-38. [Books](#books)
-39. [Education](#education)
-40. [OMSCS](#omscs)
-41. [CCSF](#ccsf)
-42. [Jobs](#jobs)
-43. [Interview prep](#interview-prep)
-44. [Stack Overflow](#stack-overflow)
-45. [Fun](#fun)
+32. [MIPS](#mips)
+33. [ARM](#arm)
+34. [Raspberry Pi](#raspberry-pi)
+35. [Unix](#unix)
+36. [Prolog](#prolog)
+37. [Code golf](#code-golf)
+38. [Scratch/Snap](#scratch/snap)
+39. [Course sites](#course-sites)
+40. [Algorithmic challenge sites](#algorithmic-challenge-sites)
+41. [Competitive coding](#competitive-coding)
+42. [Books](#books)
+43. [Education](#education)
+44. [OMSCS](#omscs)
+45. [CCSF](#ccsf)
+46. [Jobs](#jobs)
+47. [Interview prep](#interview-prep)
+48. [Stack Overflow](#stack-overflow)
+49. [Fun](#fun)
 
 
 ## General
@@ -57,6 +61,10 @@
 
 
 ## Project Ideas
++ make an IR->spim runner in node/mips compiler + host on heroku
++ write a time clock web app and keep exact totals for freelance work
++ write a stack machine
++ stack overflow comments sentiment analyzer
 + <a href="https://en.wikipedia.org/wiki/Tic-tac-toe_variants">https://en.wikipedia.org/wiki/Tic-tac-toe_variants</a>
 + write an app that scrapes recent posts by favorite SO users
 + Challenge/project idea lists:
@@ -74,6 +82,15 @@
 + write a winamp plugin that broadcasts now playing to node API on glitch
   + <a href="http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide">http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide</a>
   + <a href="http://forums.winamp.com/showthread.php?t=224914">http://forums.winamp.com/showthread.php?t=224914</a>
++ Make a simple DIY label CMS or bandcamp clone; host on Heroku
++ Langs/frameworks/libs to learn: COBOL, LISP, Go
++ <a href="https://developers.google.com/blogger/docs/3.0/getting_started">Listening journal or similar using blogger API</a>
++ <a href="https://github.com/TooTallNate/node-lame/blob/master/deps/mpg123/doc/README.remote">make a music player app based on mpg123</a>
+  + <a href="https://stackoverflow.com/questions/35781991/run-a-command-that-needs-input-without-hanging-but-still-allow-input">https://stackoverflow.com/questions/35781991/run-a-command-that-needs-input-without-hanging-but-still-allow-input</a>
+  + <a href="https://sourceforge.net/p/mpg123/mailman/mpg123-users/thread/CAN5OgQWuYFt4mbbjDZcxMMdTQLZoNiF8AgH5S8Z8rwraN%2B65uA%40mail.gmail.com/">https://sourceforge.net/p/mpg123/mailman/mpg123-users/thread/CAN5OgQWuYFt4mbbjDZcxMMdTQLZoNiF8AgH5S8Z8rwraN%2B65uA%40mail.gmail.com/</a>
+  + <a href="https://arstechnica.com/civis/viewtopic.php?f=20&t=850451">https://arstechnica.com/civis/viewtopic.php?f=20&t=850451</a>
++ <a href="https://webrtc.github.io/samples/src/content/capture/canvas-video/">Voice/video chat or stream with WebRTC</a>
++ Tiger to JS transpiler
 
 
 ## Operating Systems
@@ -88,7 +105,7 @@
 
 ## Project Euler
 + Next to solve: 189, 244
-+ <a href="https://pythonhosted.org/PuLP/CaseStudies/a_sudoku_problem.html">#93 Sudoku can also be solved using Integer Linear Programming </a>
++ <a href="https://www.coin-or.org/PuLP/CaseStudies/a_sudoku_problem.html">#93 Sudoku can also be solved using Integer Linear Programming</a>
 + #84 Monopoly is one of the best. Worth solving using both simulation (I used first-class functions) and stochastic matrix (I used numpy). Working out the initial probabilities for the stochastic matrix requires only basic probability, but it's tricky.
 + <a href="http://www.geeksforgeeks.org/eulers-totient-function/">Euler's totient function</a>
 
@@ -117,7 +134,6 @@
 + <a href="https://developmentality.wordpress.com/tag/car-talk/">Car talk puzzlers</a>
 + <a href="https://towardsdatascience.com/solve-slide-puzzle-with-hill-climbing-search-algorithm-d7fb93321325">Sliding puzzle solving with hill climbing</a>
 
-
 ### DP
 + <a href="https://runestone.academy/runestone/books/published/pythonds/Recursion/DynamicProgramming.html">Coin change</a>
 + <a href="https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm_(Algorithm_3:_Dynamic_Programming)">Maximum subarray problem (Kadane's algorithm)</a>
@@ -125,7 +141,7 @@
 + <a href="http://algorithms.tutorialhorizon.com/dynamic-programming-coin-change-problem/">DP coin change</a>
 + <a href="https://www.youtube.com/watch?v=ocZMDMZwhCY">MIT open courseware DP lecture</a>
 + <a href="https://people.eecs.berkeley.edu/~vazirani/algorithms/chap6.pdf">Algs/DP</a>
-+ The "correct change" problem looks like it's equivalent to the "subset sum" problem (https://en.wikipedia.org/wiki/Subset_sum_problem), which is a special case of the knapsack problem. Wikipedia says these are all NP, but efficiency can be improved by dynamic programming. That's why I'm thinking a transposition table may help.
++ The "correct change" problem looks like it's equivalent to the "subset sum" problem, which is a special case of the knapsack problem. Wikipedia says these are all NP, but efficiency can be improved by dynamic programming. That's why I'm thinking a transposition table may help.
 + <a href="http://stackoverflow.com/questions/3420937/algorithm-to-find-which-number-in-a-list-sum-up-to-a-certain-number">Sum numbers in a list</a>
 + <a href="https://en.wikipedia.org/wiki/Knapsack_problem">Knapsack problem</a>
 
@@ -231,6 +247,9 @@
 + <a href="https://en.wikipedia.org/wiki/Negamax">Negamax</a>
 + <a href="https://inventwithpython.com/invent4thed/chapter15.html">Othello basic</a>
 + <a href="http://inventwithpython.com/pygame/chapter10.html">4 grid games from Al Sweigart</a>
++ Game of the Amazons:
+  + <a href="https://www.youtube.com/watch?v=_1NzUMWeU4c">https://www.youtube.com/watch?v=_1NzUMWeU4c</a>
+  + <a href="https://www.youtube.com/watch?v=_1NzUMWeU4c">https://www.youtube.com/watch?v=_1NzUMWeU4c</a>
 
 
 ## Games
@@ -273,6 +292,7 @@
 + <a href="https://en.wikipedia.org/wiki/Loco-Motion_(video_game)">Loco-Motion</a>
 + <a href="https://en.wikipedia.org/wiki/Digger_(video_game)">Digger</a>
 + <a href="https://en.wikipedia.org/wiki/Nine_Men%27s_Morris">Nine Men's Morris</a>
++ <a href="https://en.wikipedia.org/wiki/Rummikub">Rummikub</a>
 + Hnefatafl
 + Hive
 + Go
@@ -298,6 +318,9 @@
   + <a href="https://en.wikipedia.org/wiki/NetHack">https://en.wikipedia.org/wiki/NetHack</a>
   + <a href="http://www.iancgbell.clara.net/elite/text/index.htm">http://www.iancgbell.clara.net/elite/text/index.htm</a>
   + MUDS such as God Wars
++ Interactive fiction:
+  + <a href="http://literateprogramming.com/adventure.pdf">Knuth adventure</a>
+  + <a href="https://www.tads.org/">TADS3</a>
 + <a href="https://www.youtube.com/watch?v=txUvD5_ROIU">Tile-based game tutorial</a>
 + Puzzlescript:
   + <a href="https://puzzlescriptgallery.tumblr.com/">Tumblr</a>
@@ -403,6 +426,7 @@
 + <a href="https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/">Necessary Disorder</a>
 + <a href="https://threejsfundamentals.org/">ThreeJS fundamentals</a>
 + <a href="http://mrdoob.com/">Mr. Doob three.js collection</a>
++ <a href="https://bits.coop/articles/rigging-and-animation/">Try out regl</a>
 
 
 ## Tiling and packing
@@ -441,14 +465,15 @@
 + <a href="http://proquest.safaribooksonline.com/9781787123663">Game physics cookbook</a>
 + <a href="https://en.wikipedia.org/wiki/Jansen%27s_linkage">Jansen's linkage</a>
 + <a href="https://leanpub.com/natureincode">Nature in Code book</a>
-+ <a href="https://inventwithpython.com/blog/2012/07/18/using-trigonometry-to-animate-bounces-draw-clocks-and-point-cannons-at-a-target/">Brief intro to sin & cos</a>
-+ <a href="http://www.helixsoft.nl/articles/circle/sincos.htm">and another intro to sin & cos with some mode 7 content</a>
++ Sin & cos:
+  + <a href="https://inventwithpython.com/blog/2012/07/18/using-trigonometry-to-animate-bounces-draw-clocks-and-point-cannons-at-a-target/">Brief intro to sin & cos</a>
+  + <a href="http://www.helixsoft.nl/articles/circle/sincos.htm">and another intro to sin & cos with some mode 7 content</a>
 + <a href="https://circles-bouncing-off-lines.glitch.me/docs/circles-bouncing-off-lines.html">Circles bouncing off lines tutorial</a>
 + <a href="https://maryrosecook.com/">Mary Rose Cook</a>
 + <a href="http://harry.me/blog/2011/02/17/neat-algorithms-flocking/">Flocking behaviors</a>
 + <a href="https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My">Math for game developers</a>
 + <a href="https://www.redblobgames.com/pathfinding/a-star/introduction.html">Variety of pathfinding tutorials</a>
-+ <a href="http://www.futuredatalab.com/blobfamily/">Blobs</a>
++ <a href="http://cowboyprogramming.com/2007/01/05/blob-physics/">Blobs</a>
 + <a href="https://2dengine.com/?p=tutorials">Various tutorials for 2d graphics (isometric, polygon, collision, platformers, networking, etc)</a>
 + <a href="https://www.ibm.com/developerworks/library/wa-build2dphysicsengine/">Simple 2d physics engine</a>
 + <a href="http://hugobdesigner.blogspot.com/">2d physics engine 3 part tutorial</a>
@@ -475,17 +500,19 @@
 
 
 ## Regex
-+ <a href="https://rcoh.me/posts/no-magic-regular-expressions/">Write a regex engine</a>
-+ <a href="https://www.regular-expressions.info/refadv.html">https://www.regular-expressions.info/refadv.html</a>
++ <a href="https://www.regular-expressions.info/refadv.html">Advanced regex features ref sheet</a>
 + <a href="http://www.cs.sun.ac.za/~abvdm/regex.html">Regex Static Analysis</a>
 + <a href="https://www.regular-expressions.info/catastrophic.html">Catastrophic Backtracking</a>
 + <a href="https://swtch.com/~rsc/regexp/">Implementing Regular Expressions</a>
++ <a href="https://rcoh.me/posts/no-magic-regular-expressions/">Write a regex engine</a>
++ <a href="https://learning.tarokuriyama.com/2020/02/mini-regex.html">Mini regex</a>
 
 
 ## Computer Science
-- CS FAQ: https://cs.meta.stackexchange.com/questions/599/reference-answers-to-frequently-asked-questions/847#847
-- http://www.cs.toronto.edu/~hehner/best.html
-- http://www.jflap.org/
++ <a href="https://cs.meta.stackexchange.com/questions/599/reference-answers-to-frequently-asked-questions/847#847">CS SE FAQ</a>
++ <a href="http://www.cs.toronto.edu/~hehner/best.html">Rick Hehner's top 10</a>
++ <a href="https://softwarefoundations.cis.upenn.edu/">Software foundations book series</a>
++ <a href="http://www.jflap.org/">JFLAP</a>
 
 
 ## Machine learning
@@ -495,6 +522,7 @@
 
 ## AI
 + <a href="http://ai.berkeley.edu/project_overview.html">Berkeley CS188 AI with Pacman</a>
++ <a href="https://www.cs.rit.edu/~rlc/Courses/IS/">Intro to Intelligent Systems</a>
 
 
 ## Cryptography
@@ -564,7 +592,6 @@
 
 
 ## PHP
-+ <a href="http://phpsadness.com/">PHP Sadness</a>
 + Sessions/logins:
   + <a href="http://culttt.com/2013/02/04/how-to-save-php-sessions-to-a-database/">http://culttt.com/2013/02/04/how-to-save-php-sessions-to-a-database/</a>
   + <a href="http://shiflett.org/articles/storing-sessions-in-a-database">http://shiflett.org/articles/storing-sessions-in-a-database</a>
@@ -578,16 +605,9 @@
   + <a href="http://www.eggslab.net/php-login-script/">http://www.eggslab.net/php-login-script/</a>
   + <a href="http://codewithawa.com/posts/admin-and-user-login-in-php-and-mysql-database">http://codewithawa.com/posts/admin-and-user-login-in-php-and-mysql-database</a>
   + <a href="https://www.formget.com/login-form-in-php/">https://www.formget.com/login-form-in-php/</a>
-+ <a href="https://www.youtube.com/watch?v=m7svJHmgJqs&list=PLF88B6AA17852E52E">ZEND framework</a>
-+ AJAX
-  + <a href="http://stackoverflow.com/questions/23980733/jquery-ajax-file-upload-php">http://stackoverflow.com/questions/23980733/jquery-ajax-file-upload-php</a>
-  + <a href="http://stackoverflow.com/questions/2269307/using-jquery-ajax-to-call-a-php-function">http://stackoverflow.com/questions/2269307/using-jquery-ajax-to-call-a-php-function</a>
-  + <a href="https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php">https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php</a>
-  + <a href="http://www.tizag.com/ajaxTutorial/ajaxxmlhttprequest.php">ajax/php tutorial</a>
-  + <a href="https://www.sitepoint.com/use-ajax-php-build-mailing-list/">ajax/php mailing list for label</a>
-+ Make a simple DIY label CMS or bandcamp clone; host on Heroku
 + <a href="https://www.ibm.com/developerworks/library/os-php-gamescripts1/">PHP game scripts</a>
 + <a href="https://phppot.com/php/simple-php-chat-using-websocket/">Websocket chat</a>
++ <a href="http://phpsadness.com/">PHP Sadness</a>
 
 
 ## Java
@@ -608,9 +628,53 @@
 + <a href="http://perldoc.perl.org/perldsc.html">Perl data structures cookbook</a>
 
 
+## MIPS
+- MIPS system calls: http://students.cs.tamu.edu/tanzir/csce350/reference/syscalls.html
+- Learning MIPS and SPIM: https://uweb.engr.arizona.edu/~ece369/Resources/spim/QtSPIM_examples.pdf
+- recursion: https://courses.engr.illinois.edu/cs232/sp2012/section/disc2sol.pdf
+- https://courses.cs.washington.edu/courses/cse378/09wi/lectures/lec05.pdf
+- https://en.wikibooks.org/wiki/MIPS_Assembly/Control_Flow_Instructions
+- https://www.coursehero.com/file/45823007/cs311-03-isa-Ipdf/
+- https://github.com/kyungyunlee/CS311-Computer-Organization/tree/master/project2/Project2
+- https://github.com/mightydeveloper/MIPS-Assembler
+- https://www.youtube.com/watch?v=z3ltaJ5UU5I
+- https://learnxinyminutes.com/docs/mips/
+- https://chortle.ccsu.edu/AssemblyTutorial/index.html
+- http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch05s03.html
+- http://homepage.divms.uiowa.edu/~ghosh/1-28-10.pdf
+- http://cgi.cse.unsw.edu.au/~cs1521/17s2/docs/spim.php
+- https://www.dsi.unive.it/~gasparetto/materials/MIPS_Instruction_Set.pdf
+- https://www.doc.ic.ac.uk/lab/secondyear/spim/node9.html
+- https://www.doc.ic.ac.uk/lab/secondyear/spim/node20.html
+
+
+
+## ARM
++ Thinkingeek Raspberry Pi Asssembler:
+  + <a href="https://thinkingeek.com/2013/01/09/arm-assembler-raspberry-pi-chapter-1/">Site</a>
+  + <a href="https://personal.utdallas.edu/~pervin/RPiA/RPiA.pdf">eBook</a>
++ <a href="http://www.microdigitaled.com/ARM/ASM_ARM/Software/ARM_Assembly_Programming_Using_Raspberry_Pi_GUI.pdf">ARM Assembly Using Raspberry PI</a>
++ <a href="http://www.science.smith.edu/dftwiki/index.php/Tutorial:_Assembly_Language_with_the_Raspberry_Pi">Smith College ARM Tutorial</a>
++ <a href="http://www.bravegnu.org/gnu-eprog/hello-arm.html">Hello ARM</a>
++ Tutorials:
+  + <a href="https://www.youtube.com/watch?v=5HILZon7pVE">https://www.youtube.com/watch?v=5HILZon7pVE</a>
+  + <a href="https://www.youtube.com/watch?v=zl04ZfdkiuM">https://www.youtube.com/watch?v=zl04ZfdkiuM</a>
+  + <a href="https://www.youtube.com/watch?v=1VAcZr2wQzo">https://www.youtube.com/watch?v=1VAcZr2wQzo</a>
+
+
+## Raspberry Pi
++ Extending the life of the SD card:
+  + <a href="https://domoticproject.com/extending-life-raspberry-pi-sd-card/">https://domoticproject.com/extending-life-raspberry-pi-sd-card/</a>
+  + <a href="https://raspberrypi.stackexchange.com/questions/169/how-can-i-extend-the-life-of-my-sd-card">https://raspberrypi.stackexchange.com/questions/169/how-can-i-extend-the-life-of-my-sd-card</a>
+
+
 ## Unix
-+ <a href="http://overthewire.org/wargames/bandit/">Bandit (learn UNIX)</a>
++ <a href="http://overthewire.org/wargames/bandit/">Bandit wargames</a>
 + <a href="http://learnvimscriptthehardway.stevelosh.com/">Learn vim script</a>
+
+
+## Prolog
++ <a href="http://cs.union.edu/~striegnk/courses/nlp-with-prolog/html/node5.html#l1.prolog">FSAs in Prolog</a>
 
 
 ## Code golf
@@ -632,7 +696,7 @@
 
 ## Course sites
 + <a href="http://nand2tetris.org/">Nand2Tetris</a>
-+ <a href="http://codingthematrix.com/">Coding the Matrix</a>
++ <a href="http://codingthematrix.com/">Coding the Matrix (linear algebra through CS)</a>
 + <a href="https://www.udemy.com/the-advanced-web-developer-bootcamp/">Advanced Web Developer Bootcamp</a>
 + <a href="https://www.lynda.com/portal/patron?org=sfpl.org">Lynda SFPL</a>
 + <a href="https://www.coursera.org/learn/algorithms-part1">Coursera algorithms classes (pts 1 & 2)</a>
@@ -664,6 +728,7 @@
   + <a href="https://www.youtube.com/watch?v=neXJOhHj8ik&index=6&list=PLyGLemjnH3ukTGW8TYCzdu7jQe0U-wEKi">Talk on exercism</a>
 + <a href="https://kattis.com">Kattis</a>
 + <a href="http://codingbat.com">Coding Bat</a>
++ <a href="https://acm.timus.ru/">Timus</a>
 + <a href="http://codekata.pragprog.com/">Code kata</a>
 + <a href="https://www.root-me.org/en/Challenges/Web-Client/Javascript-Native-code">Root me</a>
 
@@ -712,21 +777,24 @@
 ### Tier 1
 + Summer 20: CS 7638 AI for Robotics
   + <a href="https://teapowered.dev/assets/ai4r-notes.pdf">https://teapowered.dev/assets/ai4r-notes.pdf</a>
-+ Fall 20: CSE 6220: Intro to High Performance Computing
+  + <a href="http://probabilistic-robotics.org/">http://probabilistic-robotics.org/</a>
++ Fall 20: CSE 6220 Intro to High Performance Computing
   + <a href="https://www-users.cs.umn.edu/~karypis/parbook/">https://www-users.cs.umn.edu/~karypis/parbook/</a>
-+ Spring 21: CS 7641 ML
-+ Spring 21: CS 6515 Graduate Algorithms
-  + <a href="https://gt-algorithms.com/">https://gt-algorithms.com/</a>
-  + <a href="https://cs170.org/">https://cs170.org/</a>
++ Spring 21:
+  + ISYE 6501 Intro to Analytics Modeling
+  + CS 6515 Graduate Algorithms
+    + <a href="https://gt-algorithms.com/">https://gt-algorithms.com/</a>
+    + <a href="https://cs170.org/">https://cs170.org/</a>
 
 ### Tier 2
 + CS 6476 Computer Vision
++ CS 7641 ML
 + CS 6601 Artificial Intelligence
++ CS 7646 Machine Learning for Trading
 + CS 6250 Computer Networks
   + <a href="https://www.cc.gatech.edu/~rama/CS2200-External/">prereq course</a>
   + <a href="https://github.com/ossu/computer-science/issues/520">more prereq/alternate suggestions</a>
 + CS 6460 Educational Technology
-+ CS 7646 Machine Learning for Trading
 + <a href="https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/">interesting 6310 textbooks worth looking into</a>
 
 ### Completed
@@ -738,8 +806,8 @@
   + <a href="http://rightingcode.org/">Course website</a>
   + <a href="https://classroom.udacity.com/courses/cs259">Nice follow-up Udacity course</a>
 + Fall 19: CS 6290 High Performance Computer Architecture
-+ Spring 20: CS 8803 O08 Compilers
-+ Spring 20: CS 6291 Embedded System Optimization
++ Spring 20: CS 8803-O08 Compilers
++ Spring 20: CS 6291 Embedded Systems Optimization
 
 
 ## CCSF
@@ -791,6 +859,7 @@
   + Upwork/Fiverr
   + <a href="https://weworkremotely.com/categories/remote-programming-jobs">Weworkremotely programming jobs</a>
 + <a href="https://www.codementor.io">Codementor</a>
++ <a href="https://junilearning.com/">Juni</a>
 + <a href="http://generalassemb.ly/how-we-work/teach-at-general-assembly">General Assembly teaching</a>
 + Thinkful web dev instructor
 + <a href="https://www.codeforamerica.org/jobs">Code for America</a>

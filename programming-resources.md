@@ -12,6 +12,10 @@
 
 
 ## Project Ideas
++ make an IR->spim runner in node/mips compiler + host on heroku
++ write a time clock web app and keep exact totals for freelance work
++ write a stack machine
++ stack overflow comments sentiment analyzer
 + https://en.wikipedia.org/wiki/Tic-tac-toe_variants
 + write an app that scrapes recent posts by favorite SO users
 + Challenge/project idea lists:
@@ -29,6 +33,15 @@
 + write a winamp plugin that broadcasts now playing to node API on glitch
   + http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide
   + http://forums.winamp.com/showthread.php?t=224914
++ Make a simple DIY label CMS or bandcamp clone; host on Heroku
++ Langs/frameworks/libs to learn: COBOL, LISP, Go
++ Listening journal or similar using blogger API: https://developers.google.com/blogger/docs/3.0/getting_started 
++ make a music player app based on mpg123: https://github.com/TooTallNate/node-lame/blob/master/deps/mpg123/doc/README.remote
+  + https://stackoverflow.com/questions/35781991/run-a-command-that-needs-input-without-hanging-but-still-allow-input
+  + https://sourceforge.net/p/mpg123/mailman/mpg123-users/thread/CAN5OgQWuYFt4mbbjDZcxMMdTQLZoNiF8AgH5S8Z8rwraN%2B65uA%40mail.gmail.com/
+  + https://arstechnica.com/civis/viewtopic.php?f=20&t=850451
++ Voice/video chat or stream with WebRTC: https://webrtc.github.io/samples/src/content/capture/canvas-video/  
++ Tiger to JS transpiler
 
 
 ## Operating Systems
@@ -43,7 +56,7 @@
 
 ## Project Euler
 + Next to solve: 189, 244
-+ #93 Sudoku can also be solved using Integer Linear Programming :https://pythonhosted.org/PuLP/CaseStudies/a_sudoku_problem.html
++ #93 Sudoku can also be solved using Integer Linear Programming: https://www.coin-or.org/PuLP/CaseStudies/a_sudoku_problem.html
 + #84 Monopoly is one of the best. Worth solving using both simulation (I used first-class functions) and stochastic matrix (I used numpy). Working out the initial probabilities for the stochastic matrix requires only basic probability, but it's tricky.
 + Euler's totient function: http://www.geeksforgeeks.org/eulers-totient-function/
 
@@ -72,7 +85,6 @@
 + Car talk puzzlers: https://developmentality.wordpress.com/tag/car-talk/
 + Sliding puzzle solving with hill climbing: https://towardsdatascience.com/solve-slide-puzzle-with-hill-climbing-search-algorithm-d7fb93321325
 
-
 ### DP
 + Coin change: https://runestone.academy/runestone/books/published/pythonds/Recursion/DynamicProgramming.html
 + Maximum subarray problem (Kadane's algorithm): https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm_(Algorithm_3:_Dynamic_Programming)
@@ -80,7 +92,7 @@
 + DP coin change: http://algorithms.tutorialhorizon.com/dynamic-programming-coin-change-problem/
 + MIT open courseware DP lecture: https://www.youtube.com/watch?v=ocZMDMZwhCY
 + Algs/DP: https://people.eecs.berkeley.edu/~vazirani/algorithms/chap6.pdf
-+ The "correct change" problem looks like it's equivalent to the "subset sum" problem (https://en.wikipedia.org/wiki/Subset_sum_problem), which is a special case of the knapsack problem. Wikipedia says these are all NP, but efficiency can be improved by dynamic programming. That's why I'm thinking a transposition table may help.
++ The "correct change" problem looks like it's equivalent to the "subset sum" problem, which is a special case of the knapsack problem. Wikipedia says these are all NP, but efficiency can be improved by dynamic programming. That's why I'm thinking a transposition table may help.
 + Sum numbers in a list: http://stackoverflow.com/questions/3420937/algorithm-to-find-which-number-in-a-list-sum-up-to-a-certain-number
 + Knapsack problem: https://en.wikipedia.org/wiki/Knapsack_problem
 
@@ -186,6 +198,9 @@
 + Negamax: https://en.wikipedia.org/wiki/Negamax
 + Othello basic: https://inventwithpython.com/invent4thed/chapter15.html
 + 4 grid games from Al Sweigart: http://inventwithpython.com/pygame/chapter10.html 
++ Game of the Amazons:
+  + https://www.youtube.com/watch?v=_1NzUMWeU4c
+  + https://www.youtube.com/watch?v=_1NzUMWeU4c
 
 
 ## Games
@@ -228,6 +243,7 @@
 + Loco-Motion: https://en.wikipedia.org/wiki/Loco-Motion_(video_game)
 + Digger: https://en.wikipedia.org/wiki/Digger_(video_game)
 + Nine Men's Morris: https://en.wikipedia.org/wiki/Nine_Men%27s_Morris
++ Rummikub: https://en.wikipedia.org/wiki/Rummikub
 + Hnefatafl
 + Hive
 + Go
@@ -253,6 +269,9 @@
   + https://en.wikipedia.org/wiki/NetHack
   + http://www.iancgbell.clara.net/elite/text/index.htm
   + MUDS such as God Wars
++ Interactive fiction:
+  + Knuth adventure: http://literateprogramming.com/adventure.pdf
+  + TADS3: https://www.tads.org/
 + Tile-based game tutorial: https://www.youtube.com/watch?v=txUvD5_ROIU  
 + Puzzlescript: 
   + Tumblr: https://puzzlescriptgallery.tumblr.com/
@@ -358,6 +377,7 @@
 + Necessary Disorder: https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/
 + ThreeJS fundamentals: https://threejsfundamentals.org/
 + Mr. Doob three.js collection: http://mrdoob.com/
++ Try out regl: https://bits.coop/articles/rigging-and-animation/
 
 
 ## Tiling and packing
@@ -396,14 +416,15 @@
 + Game physics cookbook: http://proquest.safaribooksonline.com/9781787123663
 + Jansen's linkage: https://en.wikipedia.org/wiki/Jansen%27s_linkage
 + Nature in Code book: https://leanpub.com/natureincode
-+ Brief intro to sin & cos: https://inventwithpython.com/blog/2012/07/18/using-trigonometry-to-animate-bounces-draw-clocks-and-point-cannons-at-a-target/
-+ and another intro to sin & cos with some mode 7 content: http://www.helixsoft.nl/articles/circle/sincos.htm
++ Sin & cos:  
+  + Brief intro to sin & cos: https://inventwithpython.com/blog/2012/07/18/using-trigonometry-to-animate-bounces-draw-clocks-and-point-cannons-at-a-target/
+  + and another intro to sin & cos with some mode 7 content: http://www.helixsoft.nl/articles/circle/sincos.htm
 + Circles bouncing off lines tutorial: https://circles-bouncing-off-lines.glitch.me/docs/circles-bouncing-off-lines.html
 + Mary Rose Cook: https://maryrosecook.com/
 + Flocking behaviors: http://harry.me/blog/2011/02/17/neat-algorithms-flocking/
 + Math for game developers: https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My
 + Variety of pathfinding tutorials: https://www.redblobgames.com/pathfinding/a-star/introduction.html 
-+ Blobs: http://www.futuredatalab.com/blobfamily/
++ Blobs: http://cowboyprogramming.com/2007/01/05/blob-physics/
 + Various tutorials for 2d graphics (isometric, polygon, collision, platformers, networking, etc): https://2dengine.com/?p=tutorials 
 + Simple 2d physics engine: https://www.ibm.com/developerworks/library/wa-build2dphysicsengine/
 + 2d physics engine 3 part tutorial: http://hugobdesigner.blogspot.com/
@@ -430,17 +451,19 @@
 
 
 ## Regex 
-+ Write a regex engine: https://rcoh.me/posts/no-magic-regular-expressions/
-+ https://www.regular-expressions.info/refadv.html
++ Advanced regex features ref sheet: https://www.regular-expressions.info/refadv.html
 + Regex Static Analysis: http://www.cs.sun.ac.za/~abvdm/regex.html
 + Catastrophic Backtracking: https://www.regular-expressions.info/catastrophic.html
 + Implementing Regular Expressions: https://swtch.com/~rsc/regexp/
++ Write a regex engine: https://rcoh.me/posts/no-magic-regular-expressions/
++ Mini regex: https://learning.tarokuriyama.com/2020/02/mini-regex.html
 
 
 ## Computer Science
-- CS FAQ: https://cs.meta.stackexchange.com/questions/599/reference-answers-to-frequently-asked-questions/847#847
-- http://www.cs.toronto.edu/~hehner/best.html
-- http://www.jflap.org/
++ CS SE FAQ: https://cs.meta.stackexchange.com/questions/599/reference-answers-to-frequently-asked-questions/847#847
++ Rick Hehner's top 10: http://www.cs.toronto.edu/~hehner/best.html
++ Software foundations book series: https://softwarefoundations.cis.upenn.edu/
++ JFLAP: http://www.jflap.org/
 
 
 ## Machine learning
@@ -450,6 +473,7 @@
 
 ## AI
 + Berkeley CS188 AI with Pacman: http://ai.berkeley.edu/project_overview.html
++ Intro to Intelligent Systems: https://www.cs.rit.edu/~rlc/Courses/IS/
 
 
 ## Cryptography
@@ -519,7 +543,6 @@
 
 
 ## PHP
-+ PHP Sadness: http://phpsadness.com/
 + Sessions/logins:
   + http://culttt.com/2013/02/04/how-to-save-php-sessions-to-a-database/
   + http://shiflett.org/articles/storing-sessions-in-a-database
@@ -533,16 +556,9 @@
   + http://www.eggslab.net/php-login-script/
   + http://codewithawa.com/posts/admin-and-user-login-in-php-and-mysql-database
   + https://www.formget.com/login-form-in-php/
-+ ZEND framework: https://www.youtube.com/watch?v=m7svJHmgJqs&list=PLF88B6AA17852E52E
-+ AJAX
-  + http://stackoverflow.com/questions/23980733/jquery-ajax-file-upload-php 
-  + http://stackoverflow.com/questions/2269307/using-jquery-ajax-to-call-a-php-function
-  + https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php
-  + ajax/php tutorial: http://www.tizag.com/ajaxTutorial/ajaxxmlhttprequest.php
-  + ajax/php mailing list for label: https://www.sitepoint.com/use-ajax-php-build-mailing-list/
-+ Make a simple DIY label CMS or bandcamp clone; host on Heroku
 + PHP game scripts: https://www.ibm.com/developerworks/library/os-php-gamescripts1/
 + Websocket chat: https://phppot.com/php/simple-php-chat-using-websocket/
++ PHP Sadness: http://phpsadness.com/
 
 
 ## Java
@@ -563,9 +579,53 @@
 + Perl data structures cookbook: http://perldoc.perl.org/perldsc.html
 
 
+## MIPS
+- MIPS system calls: http://students.cs.tamu.edu/tanzir/csce350/reference/syscalls.html
+- Learning MIPS and SPIM: https://uweb.engr.arizona.edu/~ece369/Resources/spim/QtSPIM_examples.pdf
+- recursion: https://courses.engr.illinois.edu/cs232/sp2012/section/disc2sol.pdf
+- https://courses.cs.washington.edu/courses/cse378/09wi/lectures/lec05.pdf
+- https://en.wikibooks.org/wiki/MIPS_Assembly/Control_Flow_Instructions
+- https://www.coursehero.com/file/45823007/cs311-03-isa-Ipdf/
+- https://github.com/kyungyunlee/CS311-Computer-Organization/tree/master/project2/Project2
+- https://github.com/mightydeveloper/MIPS-Assembler
+- https://www.youtube.com/watch?v=z3ltaJ5UU5I
+- https://learnxinyminutes.com/docs/mips/
+- https://chortle.ccsu.edu/AssemblyTutorial/index.html
+- http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch05s03.html
+- http://homepage.divms.uiowa.edu/~ghosh/1-28-10.pdf
+- http://cgi.cse.unsw.edu.au/~cs1521/17s2/docs/spim.php
+- https://www.dsi.unive.it/~gasparetto/materials/MIPS_Instruction_Set.pdf
+- https://www.doc.ic.ac.uk/lab/secondyear/spim/node9.html
+- https://www.doc.ic.ac.uk/lab/secondyear/spim/node20.html
+
+
+
+## ARM
++ Thinkingeek Raspberry Pi Asssembler: 
+  + Site: https://thinkingeek.com/2013/01/09/arm-assembler-raspberry-pi-chapter-1/
+  + eBook: https://personal.utdallas.edu/~pervin/RPiA/RPiA.pdf
++ ARM Assembly Using Raspberry PI: http://www.microdigitaled.com/ARM/ASM_ARM/Software/ARM_Assembly_Programming_Using_Raspberry_Pi_GUI.pdf
++ Smith College ARM Tutorial: http://www.science.smith.edu/dftwiki/index.php/Tutorial:_Assembly_Language_with_the_Raspberry_Pi
++ Hello ARM: http://www.bravegnu.org/gnu-eprog/hello-arm.html
++ Tutorials: 
+  + https://www.youtube.com/watch?v=5HILZon7pVE
+  + https://www.youtube.com/watch?v=zl04ZfdkiuM
+  + https://www.youtube.com/watch?v=1VAcZr2wQzo
+
+
+## Raspberry Pi
++ Extending the life of the SD card:
+  + https://domoticproject.com/extending-life-raspberry-pi-sd-card/
+  + https://raspberrypi.stackexchange.com/questions/169/how-can-i-extend-the-life-of-my-sd-card
+
+
 ## Unix
-+ Bandit (learn UNIX): http://overthewire.org/wargames/bandit/
++ Bandit wargames: http://overthewire.org/wargames/bandit/
 + Learn vim script: http://learnvimscriptthehardway.stevelosh.com/
+
+
+## Prolog 
++ FSAs in Prolog: http://cs.union.edu/~striegnk/courses/nlp-with-prolog/html/node5.html#l1.prolog
 
 
 ## Code golf
@@ -587,7 +647,7 @@
 
 ## Course sites
 + Nand2Tetris: http://nand2tetris.org/
-+ Coding the Matrix: http://codingthematrix.com/
++ Coding the Matrix (linear algebra through CS): http://codingthematrix.com/
 + Advanced Web Developer Bootcamp: https://www.udemy.com/the-advanced-web-developer-bootcamp/
 + Lynda SFPL: https://www.lynda.com/portal/patron?org=sfpl.org
 + Coursera algorithms classes (pts 1 & 2): https://www.coursera.org/learn/algorithms-part1
@@ -619,6 +679,7 @@
   + Talk on exercism: https://www.youtube.com/watch?v=neXJOhHj8ik&index=6&list=PLyGLemjnH3ukTGW8TYCzdu7jQe0U-wEKi
 + Kattis: https://kattis.com
 + Coding Bat: http://codingbat.com
++ Timus: https://acm.timus.ru/
 + Code kata: http://codekata.pragprog.com/
 + Root me: https://www.root-me.org/en/Challenges/Web-Client/Javascript-Native-code
 
@@ -667,21 +728,24 @@
 ### Tier 1
 + Summer 20: CS 7638 AI for Robotics
   + https://teapowered.dev/assets/ai4r-notes.pdf
-+ Fall 20: CSE 6220: Intro to High Performance Computing
+  + http://probabilistic-robotics.org/
++ Fall 20: CSE 6220 Intro to High Performance Computing
   + https://www-users.cs.umn.edu/~karypis/parbook/
-+ Spring 21: CS 7641 ML
-+ Spring 21: CS 6515 Graduate Algorithms
-  + https://gt-algorithms.com/
-  + https://cs170.org/
++ Spring 21:
+  + ISYE 6501 Intro to Analytics Modeling
+  + CS 6515 Graduate Algorithms
+    + https://gt-algorithms.com/
+    + https://cs170.org/
  
 ### Tier 2
 + CS 6476 Computer Vision
++ CS 7641 ML
 + CS 6601 Artificial Intelligence
++ CS 7646 Machine Learning for Trading
 + CS 6250 Computer Networks
   + prereq course: https://www.cc.gatech.edu/~rama/CS2200-External/
   + more prereq/alternate suggestions: https://github.com/ossu/computer-science/issues/520
 + CS 6460 Educational Technology
-+ CS 7646 Machine Learning for Trading
 + interesting 6310 textbooks worth looking into: https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/
 
 ### Completed
@@ -693,8 +757,8 @@
   + Course website: http://rightingcode.org/
   + Nice follow-up Udacity course: https://classroom.udacity.com/courses/cs259
 + Fall 19: CS 6290 High Performance Computer Architecture
-+ Spring 20: CS 8803 O08 Compilers
-+ Spring 20: CS 6291 Embedded System Optimization
++ Spring 20: CS 8803-O08 Compilers
++ Spring 20: CS 6291 Embedded Systems Optimization
 
 
 ## CCSF
@@ -746,6 +810,7 @@
   + Upwork/Fiverr
   + Weworkremotely programming jobs: https://weworkremotely.com/categories/remote-programming-jobs
 + Codementor: https://www.codementor.io
++ Juni: https://junilearning.com/
 + General Assembly teaching: http://generalassemb.ly/how-we-work/teach-at-general-assembly
 + Thinkful web dev instructor
 + Code for America: https://www.codeforamerica.org/jobs
