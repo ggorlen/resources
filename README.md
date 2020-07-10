@@ -62,10 +62,14 @@
 
 
 ## Project Ideas
-- make an IR-\>spim runner in node/mips compiler + host on heroku
+- write some RTS demo sketches
+  - <a href="https://sandruski.github.io/RTS-Group-Movement/">https://sandruski.github.io/RTS-Group-Movement/</a>
+  - <a href="https://medium.com/@mscansian/a-with-navigation-meshes-246fd9e72424">Nav meshes</a>
+  - <a href="http://www.red3d.com/cwr/boids/">Boids</a>
 - write a time clock web app and keep exact totals for freelance work
 - write a stack machine
 - stack overflow comments sentiment analyzer
+- make an IR-\>spim runner in node/mips compiler + host on heroku
 - <a href="https://en.wikipedia.org/wiki/Tic-tac-toe_variants">https://en.wikipedia.org/wiki/Tic-tac-toe_variants</a>
 - write an app that scrapes recent posts by favorite SO users
 - Challenge/project idea lists:
@@ -77,8 +81,6 @@
 - <a href="http://el.media.mit.edu/logo-foundation/index.html">The Logo Foundation</a>
 - <a href="https://en.wikipedia.org/wiki/NetLogo">NetLogo</a>
 - write a non-acct twitter (or SO) client that can fav and show imgs like birdfeed without having an account.
-- write some RTS demo sketches
-  - <a href="https://sandruski.github.io/RTS-Group-Movement/">https://sandruski.github.io/RTS-Group-Movement/</a>
 - write a sandboxed compiler+code runner
 - write a winamp plugin that broadcasts now playing to node API on glitch
   - <a href="http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide">http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide</a>
@@ -125,10 +127,12 @@
 - <a href="http://blog.jamisbuck.org/">Basil & Fabian</a>
 - <a href="https://developmentality.wordpress.com/tag/car-talk/">Car talk puzzlers</a>
 - <a href="https://towardsdatascience.com/solve-slide-puzzle-with-hill-climbing-search-algorithm-d7fb93321325">Sliding puzzle solving with hill climbing</a>
+- <a href="https://www.ocf.berkeley.edu/~jchu/publicportal/sudoku/0011047.pdf">Dancing Links</a>
 
 ### DP
 - <a href="https://runestone.academy/runestone/books/published/pythonds/Recursion/DynamicProgramming.html">Coin change</a>
 - <a href="https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm_(Algorithm_3:_Dynamic_Programming)">Maximum subarray problem (Kadane's algorithm)</a>
+- <a href="https://people.cs.clemson.edu/~bcdean/dp_practice/">Box stacking problem (and other DP problems)</a>
 - <a href="https://www.geeksforgeeks.org/dynamic-programming-set-18-word-wrap/">DP text justify</a>
 - <a href="http://algorithms.tutorialhorizon.com/dynamic-programming-coin-change-problem/">DP coin change</a>
 - <a href="https://www.youtube.com/watch?v=ocZMDMZwhCY">MIT open courseware DP lecture</a>
@@ -136,6 +140,7 @@
 - The "correct change" problem looks like it's equivalent to the "subset sum" problem, which is a special case of the knapsack problem. Wikipedia says these are all NP, but efficiency can be improved by dynamic programming. That's why I'm thinking a transposition table may help.
 - <a href="http://stackoverflow.com/questions/3420937/algorithm-to-find-which-number-in-a-list-sum-up-to-a-certain-number">Sum numbers in a list</a>
 - <a href="https://en.wikipedia.org/wiki/Knapsack_problem">Knapsack problem</a>
+- PE #136, #173, and #174
 
 ### Graphs
 - <a href="https://cstheory.stackexchange.com/questions/11855/how-do-the-state-of-the-art-pathfinding-algorithms-for-changing-graphs-d-d-l">Pathfinding algorithm comparison</a>
@@ -724,6 +729,7 @@
 ## Code golf
 - <a href="https://code-golf.io/">code-golf.io</a>
 - <a href="https://js1k.com/">js1k</a>
+- <a href="https://js1024.fun/">https://js1024.fun/</a>
 - <a href="http://golf.shinh.org/">anarchy golf</a>
 - <a href="http://terje2.frox25.no-ip.org/perlgolf_history_070109.pdf">Perlgolf history</a>
 
@@ -906,6 +912,7 @@
   - Indeed/indeed prime
   - Upwork/Fiverr
   - <a href="https://weworkremotely.com/categories/remote-programming-jobs">Weworkremotely programming jobs</a>
+- <a href="http://jessicahische.is/helpingyouanswer">Repsonding to freelancing gig offers</a>
 - <a href="https://www.codementor.io">Codementor</a>
 - <a href="https://junilearning.com/">Juni</a>
 - <a href="http://generalassemb.ly/how-we-work/teach-at-general-assembly">General Assembly teaching</a>

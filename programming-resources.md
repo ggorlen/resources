@@ -13,10 +13,14 @@
 
 
 ## Project Ideas
-- make an IR-\>spim runner in node/mips compiler + host on heroku
+- write some RTS demo sketches 
+  - https://sandruski.github.io/RTS-Group-Movement/
+  - Nav meshes: https://medium.com/@mscansian/a-with-navigation-meshes-246fd9e72424
+  - Boids: http://www.red3d.com/cwr/boids/
 - write a time clock web app and keep exact totals for freelance work
 - write a stack machine
 - stack overflow comments sentiment analyzer
+- make an IR-\>spim runner in node/mips compiler + host on heroku
 - https://en.wikipedia.org/wiki/Tic-tac-toe_variants
 - write an app that scrapes recent posts by favorite SO users
 - Challenge/project idea lists:
@@ -28,8 +32,6 @@
 - The Logo Foundation: http://el.media.mit.edu/logo-foundation/index.html
 - NetLogo: https://en.wikipedia.org/wiki/NetLogo
 - write a non-acct twitter (or SO) client that can fav and show imgs like birdfeed without having an account.
-- write some RTS demo sketches 
-  - https://sandruski.github.io/RTS-Group-Movement/
 - write a sandboxed compiler+code runner
 - write a winamp plugin that broadcasts now playing to node API on glitch
   - http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide
@@ -76,10 +78,12 @@
 - Basil & Fabian: http://blog.jamisbuck.org/
 - Car talk puzzlers: https://developmentality.wordpress.com/tag/car-talk/
 - Sliding puzzle solving with hill climbing: https://towardsdatascience.com/solve-slide-puzzle-with-hill-climbing-search-algorithm-d7fb93321325
+- Dancing Links: https://www.ocf.berkeley.edu/~jchu/publicportal/sudoku/0011047.pdf
 
 ### DP
 - Coin change: https://runestone.academy/runestone/books/published/pythonds/Recursion/DynamicProgramming.html
 - Maximum subarray problem (Kadane's algorithm): https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm_(Algorithm_3:_Dynamic_Programming)
+- Box stacking problem (and other DP problems): https://people.cs.clemson.edu/~bcdean/dp_practice/
 - DP text justify: https://www.geeksforgeeks.org/dynamic-programming-set-18-word-wrap/
 - DP coin change: http://algorithms.tutorialhorizon.com/dynamic-programming-coin-change-problem/
 - MIT open courseware DP lecture: https://www.youtube.com/watch?v=ocZMDMZwhCY
@@ -87,6 +91,7 @@
 - The "correct change" problem looks like it's equivalent to the "subset sum" problem, which is a special case of the knapsack problem. Wikipedia says these are all NP, but efficiency can be improved by dynamic programming. That's why I'm thinking a transposition table may help.
 - Sum numbers in a list: http://stackoverflow.com/questions/3420937/algorithm-to-find-which-number-in-a-list-sum-up-to-a-certain-number
 - Knapsack problem: https://en.wikipedia.org/wiki/Knapsack_problem
+- PE #136, #173, and #174
 
 ### Graphs
 - Pathfinding algorithm comparison: https://cstheory.stackexchange.com/questions/11855/how-do-the-state-of-the-art-pathfinding-algorithms-for-changing-graphs-d-d-l
@@ -675,6 +680,7 @@
 ## Code golf
 - code-golf.io: https://code-golf.io/
 - js1k: https://js1k.com/
+- https://js1024.fun/
 - anarchy golf: http://golf.shinh.org/
 - Perlgolf history: http://terje2.frox25.no-ip.org/perlgolf_history_070109.pdf
 
@@ -857,6 +863,7 @@
   - Indeed/indeed prime
   - Upwork/Fiverr
   - Weworkremotely programming jobs: https://weworkremotely.com/categories/remote-programming-jobs
+- Repsonding to freelancing gig offers: http://jessicahische.is/helpingyouanswer  
 - Codementor: https://www.codementor.io
 - Juni: https://junilearning.com/
 - General Assembly teaching: http://generalassemb.ly/how-we-work/teach-at-general-assembly
