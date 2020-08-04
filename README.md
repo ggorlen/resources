@@ -62,6 +62,7 @@
 
 
 ## Project Ideas
+- script that calls pd noise patch, generates artwork and posts to bandcamp or another file sharing service via selenium
 - write some RTS demo sketches
   - <a href="https://sandruski.github.io/RTS-Group-Movement/">https://sandruski.github.io/RTS-Group-Movement/</a>
   - <a href="https://medium.com/@mscansian/a-with-navigation-meshes-246fd9e72424">Nav meshes</a>
@@ -212,6 +213,7 @@
   - <a href="https://github.com/llvm-mirror/llvm/blob/master/examples/Kaleidoscope/MCJIT/initial/toy.cpp">https://github.com/llvm-mirror/llvm/blob/master/examples/Kaleidoscope/MCJIT/initial/toy.cpp</a>
 - <a href="https://stackoverflow.com/questions/1669/learning-to-write-a-compiler">Mega compilers resource</a>
 - <a href="https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/">CS143</a>
+- <a href="https://concatenative.org/wiki/view/Concatenative%20language">Concatenative Languages</a>
 
 
 ## Esoteric programming languages
@@ -226,6 +228,7 @@
 - <a href="https://algorithmsinsight.wordpress.com/graph-theory-2/ida-star-algorithm-in-general/">IDA*</a>
 - <a href="https://algorithmsinsight.wordpress.com/graph-theory-2/a-star-in-general/implementing-a-star-to-solve-n-puzzle/">A* n puzzle</a>
 - <a href="https://en.wikipedia.org/wiki/Jump_point_search">A* Jump-point search optimization</a>
+- <a href="https://www.cc.gatech.edu/~surban6/2019fa-gameAI/lectures/2019_08_28_searchMovement_continued2-presented%20in%20class.pdf">Navmesh</a>
 - <a href="https://www.codeproject.com/Articles/37024/Simple-AI-for-the-Game-of-Breakthrough">Breakthrough AI tutorial</a>
 - <a href="https://en.wikipedia.org/wiki/SSS*">SSS*</a>
 - Monte Carlo Tree Search:
@@ -515,6 +518,7 @@
 - <a href="https://rcoh.me/posts/no-magic-regular-expressions/">Write a regex engine</a>
 - <a href="https://learning.tarokuriyama.com/2020/02/mini-regex.html">Mini regex</a>
 - <a href="https://www.regular-expressions.info/replaceconditional.html">Replace with conditional</a>
+- <a href="http://nikic.github.io/2012/06/15/The-true-power-of-regular-expressions.html">True power of regex</a>
 
 
 ## Operating Systems
@@ -546,6 +550,7 @@
 
 
 ## Cryptography
+- <a href="https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf">https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf</a>
 - <a href="http://security.stackexchange.com/questions/45963/diffie-hellman-key-exchange-in-plain-english">DH key exchange in plain English</a>
 
 
@@ -586,6 +591,7 @@
 - <a href="https://wiki.osdev.org/Tutorials">Write your own OS</a>
 - <a href="https://beej.us/guide/bggdb/">Beej guide to GDB</a>
 - <a href="https://barrgroup.com/Embedded-Systems/Books/Embedded-C-Coding-Standard">C coding standard</a>
+- <a href="http://www.seebs.net/faqs/c-iaq.html">C IAQ</a>
 
 
 ## C++
@@ -724,6 +730,7 @@
 
 ## Prolog
 - <a href="http://cs.union.edu/~striegnk/courses/nlp-with-prolog/html/node5.html#l1.prolog">FSAs in Prolog</a>
+- <a href="https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/">99 prolog problems</a>
 
 
 ## Code golf
@@ -784,6 +791,7 @@
 
 
 ## Competitive coding
+- <a href="https://cses.fi/">CSES</a>
 - <a href="https://cses.fi/book/book.pdf">Competitive Programmer's Handbook</a>
 - <a href="http://web.stanford.edu/class/cs97si/">Introduction to programming contests</a>
 - <a href="http://codeforces.com/">Codeforces</a>
@@ -800,6 +808,7 @@
 - <a href="https://www.fuzzingbook.org/">Fuzzing book (software testing)</a>
 - "Book of Proof" Hammack
 - <a href="http://discrete.openmathbooks.org/dmoi3.html">Discrete Math</a>
+- <a href="http://www.finseth.com/craft/index.html">Craft of Text Editors</a>
 
 
 ## Education
@@ -828,6 +837,8 @@
 - Fall 20:
   - ISYE 6501 Intro to Analytics Modeling
 - Spring 21:
+  - <a href="https://www-users.cs.umn.edu/~karypis/parbook/">CSE 6220 Intro to High Performance Computing</a>
+- Summer 21:
   - CS 6515 Graduate Algorithms
     - <a href="https://gt-algorithms.com/">https://gt-algorithms.com/</a>
     - <a href="https://cs170.org/">https://cs170.org/</a>
@@ -835,7 +846,6 @@
     - <a href="https://teapowered.dev/assets/ga-notes.pdf">https://teapowered.dev/assets/ga-notes.pdf</a>
 
 ### Tier 2
-- <a href="https://www-users.cs.umn.edu/~karypis/parbook/">CSE 6220 Intro to High Performance Computing</a>
 - CS 6265 Information Security Lab
   - <a href="https://tc.gts3.org/cs6265/2020-spring/cal.html">https://tc.gts3.org/cs6265/2020-spring/cal.html</a>
   - <a href="http://phrack.com">http://phrack.com</a>
@@ -882,7 +892,10 @@
 - CS   197V  Version Control & Code Repos
 - CS   199   Independent Study
 - CS   256   Data Visualization
-- CNIT 141   Cryptography for Computers
+- CNIT 141   Cryptography For Computer Networks
+- CNIT 123   Ethical Hacking
+- CNIT 124   Adv. Ethical Hacking
+- CNIT 127   Exploit Development
 - MATH  80   Probability and Statistics
 - MATH  95   Trigonometry
 - MATH 110A  Calculus I
@@ -916,7 +929,7 @@
 - <a href="https://www.codementor.io">Codementor</a>
 - <a href="https://junilearning.com/">Juni</a>
 - <a href="http://generalassemb.ly/how-we-work/teach-at-general-assembly">General Assembly teaching</a>
-- Thinkful web dev instructor
+- <a href="https://jobs.chegg.com/search-results?category=Education">Thinkful web dev instructor</a>
 - <a href="https://www.codeforamerica.org/jobs">Code for America</a>
 - <a href="https://slack.com/careers/1852134/software-engineering-internship">Slack internship</a>
 - <a href="https://jobs.ccsf.edu/">CCSF professor</a>

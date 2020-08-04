@@ -13,6 +13,7 @@
 
 
 ## Project Ideas
+- script that calls pd noise patch, generates artwork and posts to bandcamp or another file sharing service via selenium
 - write some RTS demo sketches 
   - https://sandruski.github.io/RTS-Group-Movement/
   - Nav meshes: https://medium.com/@mscansian/a-with-navigation-meshes-246fd9e72424
@@ -163,6 +164,7 @@
   - https://github.com/llvm-mirror/llvm/blob/master/examples/Kaleidoscope/MCJIT/initial/toy.cpp
 - Mega compilers resource: https://stackoverflow.com/questions/1669/learning-to-write-a-compiler
 - CS143: https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/
+- Concatenative Languages: https://concatenative.org/wiki/view/Concatenative%20language
 
 
 ## Esoteric programming languages
@@ -177,6 +179,7 @@
 - IDA*: https://algorithmsinsight.wordpress.com/graph-theory-2/ida-star-algorithm-in-general/
 - A* n puzzle: https://algorithmsinsight.wordpress.com/graph-theory-2/a-star-in-general/implementing-a-star-to-solve-n-puzzle/
 - A* Jump-point search optimization: https://en.wikipedia.org/wiki/Jump_point_search
+- Navmesh: https://www.cc.gatech.edu/~surban6/2019fa-gameAI/lectures/2019_08_28_searchMovement_continued2-presented%20in%20class.pdf
 - Breakthrough AI tutorial: https://www.codeproject.com/Articles/37024/Simple-AI-for-the-Game-of-Breakthrough
 - SSS*: https://en.wikipedia.org/wiki/SSS*
 - Monte Carlo Tree Search:
@@ -466,6 +469,7 @@
 - Write a regex engine: https://rcoh.me/posts/no-magic-regular-expressions/
 - Mini regex: https://learning.tarokuriyama.com/2020/02/mini-regex.html
 - Replace with conditional: https://www.regular-expressions.info/replaceconditional.html 
+- True power of regex: http://nikic.github.io/2012/06/15/The-true-power-of-regular-expressions.html
 
 
 ## Operating Systems
@@ -497,6 +501,7 @@
 
 
 ## Cryptography
+- https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf
 - DH key exchange in plain English: http://security.stackexchange.com/questions/45963/diffie-hellman-key-exchange-in-plain-english
 
 
@@ -537,6 +542,7 @@
 - Write your own OS: https://wiki.osdev.org/Tutorials
 - Beej guide to GDB: https://beej.us/guide/bggdb/
 - C coding standard: https://barrgroup.com/Embedded-Systems/Books/Embedded-C-Coding-Standard
+- C IAQ: http://www.seebs.net/faqs/c-iaq.html 
 
 
 ## C++
@@ -675,6 +681,7 @@
 
 ## Prolog 
 - FSAs in Prolog: http://cs.union.edu/~striegnk/courses/nlp-with-prolog/html/node5.html#l1.prolog
+- 99 prolog problems: https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/
 
 
 ## Code golf
@@ -735,6 +742,7 @@
 
 
 ## Competitive coding
+- CSES: https://cses.fi/
 - Competitive Programmer's Handbook: https://cses.fi/book/book.pdf
 - Introduction to programming contests: http://web.stanford.edu/class/cs97si/
 - Codeforces: http://codeforces.com/
@@ -751,6 +759,7 @@
 - Fuzzing book (software testing): https://www.fuzzingbook.org/
 - "Book of Proof" Hammack
 - Discrete Math: http://discrete.openmathbooks.org/dmoi3.html
+- Craft of Text Editors: http://www.finseth.com/craft/index.html
 
 
 ## Education
@@ -779,6 +788,8 @@
 - Fall 20:  
   - ISYE 6501 Intro to Analytics Modeling
 - Spring 21:
+  - CSE 6220 Intro to High Performance Computing: https://www-users.cs.umn.edu/~karypis/parbook/
+- Summer 21:
   - CS 6515 Graduate Algorithms
     - https://gt-algorithms.com/
     - https://cs170.org/
@@ -786,7 +797,6 @@
     - https://teapowered.dev/assets/ga-notes.pdf
  
 ### Tier 2
-- CSE 6220 Intro to High Performance Computing: https://www-users.cs.umn.edu/~karypis/parbook/
 - CS 6265 Information Security Lab
   - https://tc.gts3.org/cs6265/2020-spring/cal.html
   - http://phrack.com
@@ -833,7 +843,10 @@
 - CS   197V  Version Control & Code Repos
 - CS   199   Independent Study
 - CS   256   Data Visualization 
-- CNIT 141   Cryptography for Computers
+- CNIT 141   Cryptography For Computer Networks
+- CNIT 123   Ethical Hacking
+- CNIT 124   Adv. Ethical Hacking
+- CNIT 127   Exploit Development
 - MATH  80   Probability and Statistics 
 - MATH  95   Trigonometry
 - MATH 110A  Calculus I 
@@ -867,7 +880,7 @@
 - Codementor: https://www.codementor.io
 - Juni: https://junilearning.com/
 - General Assembly teaching: http://generalassemb.ly/how-we-work/teach-at-general-assembly
-- Thinkful web dev instructor
+- Thinkful web dev instructor: https://jobs.chegg.com/search-results?category=Education
 - Code for America: https://www.codeforamerica.org/jobs
 - Slack internship: https://slack.com/careers/1852134/software-engineering-internship
 - CCSF professor: https://jobs.ccsf.edu/

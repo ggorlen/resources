@@ -2,7 +2,9 @@
 keeps my programming resources markdown neat
 
 references:
-https://meta.stackexchange.com/questions/189749/
+- https://meta.stackexchange.com/questions/189749/
+
+could also use: https://stackoverflow.com/questions/9721944/automatic-toc-in-github-flavoured-markdown
 '''
 
 import re
