@@ -42,20 +42,21 @@
 38. [Scratch/Snap](#scratch/snap)
 39. [Course sites](#course-sites)
 40. [Algorithmic challenge sites](#algorithmic-challenge-sites)
-41. [Competitive coding](#competitive-coding)
-42. [Books](#books)
-43. [Education](#education)
-44. [OMSCS](#omscs)
-45. [CCSF](#ccsf)
-46. [Jobs](#jobs)
-47. [Interview prep](#interview-prep)
-48. [Stack Overflow](#stack-overflow)
-49. [Fun](#fun)
+41. [Security/CTF sites](#security/ctf-sites)
+42. [Competitive coding](#competitive-coding)
+43. [Bit twiddling](#bit-twiddling)
+44. [Books](#books)
+45. [Education](#education)
+46. [OMSCS](#omscs)
+47. [CCSF](#ccsf)
+48. [Jobs](#jobs)
+49. [Interview prep](#interview-prep)
+50. [Stack Overflow](#stack-overflow)
+51. [Fun](#fun)
 
 
 ## General
 - <a href="https://www.chessprogramming.org/Keith_Gorlen">Inspiration!</a>
-- <a href="http://graphics.stanford.edu/~seander/bithacks.html">Bit twiddling hacks</a>
 - <a href="https://www.btbytes.com/pl.html">Interesting programming languages</a>
 - <a href="http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm">Christopher Alexander's Design Patterns</a>
 - <a href="https://en.wikipedia.org/wiki/One-instruction_set_computer">https://en.wikipedia.org/wiki/One-instruction_set_computer</a>
@@ -129,6 +130,8 @@
 - <a href="https://developmentality.wordpress.com/tag/car-talk/">Car talk puzzlers</a>
 - <a href="https://towardsdatascience.com/solve-slide-puzzle-with-hill-climbing-search-algorithm-d7fb93321325">Sliding puzzle solving with hill climbing</a>
 - <a href="https://www.ocf.berkeley.edu/~jchu/publicportal/sudoku/0011047.pdf">Dancing Links</a>
+- <a href="https://en.wikipedia.org/wiki/K-way_merge_algorithm">k-way merge algorithm</a>
+- <a href="https://en.wikipedia.org/wiki/DPLL_algorithm">DPLL</a>
 
 ### DP
 - <a href="https://runestone.academy/runestone/books/published/pythonds/Recursion/DynamicProgramming.html">Coin change</a>
@@ -213,6 +216,7 @@
   - <a href="https://github.com/llvm-mirror/llvm/blob/master/examples/Kaleidoscope/MCJIT/initial/toy.cpp">https://github.com/llvm-mirror/llvm/blob/master/examples/Kaleidoscope/MCJIT/initial/toy.cpp</a>
 - <a href="https://stackoverflow.com/questions/1669/learning-to-write-a-compiler">Mega compilers resource</a>
 - <a href="https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/">CS143</a>
+- <a href="https://www.seas.upenn.edu/~cis341/current/">CIS341</a>
 - <a href="https://concatenative.org/wiki/view/Concatenative%20language">Concatenative Languages</a>
 
 
@@ -703,7 +707,6 @@
 - <a href="http://www.mrc.uidaho.edu/mrc/people/jff/digital/MIPSir.html">http://www.mrc.uidaho.edu/mrc/people/jff/digital/MIPSir.html</a>
 
 
-
 ## ARM
 - Thinkingeek Raspberry Pi Asssembler:
   - <a href="https://thinkingeek.com/2013/01/09/arm-assembler-raspberry-pi-chapter-1/">Site</a>
@@ -790,6 +793,11 @@
 - <a href="https://www.root-me.org/en/Challenges/Web-Client/Javascript-Native-code">Root me</a>
 
 
+## Security/CTF sites
+- <a href="https://picoctf.com/">Hacking competition for kids</a>
+- <a href="https://hackthissite.org/">https://hackthissite.org/</a>
+
+
 ## Competitive coding
 - <a href="https://cses.fi/">CSES</a>
 - <a href="https://cses.fi/book/book.pdf">Competitive Programmer's Handbook</a>
@@ -797,8 +805,12 @@
 - <a href="http://codeforces.com/">Codeforces</a>
 - <a href="https://www.topcoder.com/community/competitive-programming/">Topcoder</a>
 - <a href="http://www.pvv.ntnu.no/~spaans/programming.html">Tons of tips & links</a>
-- <a href="https://picoctf.com/">Hacking competition for kids</a>
 - <a href="https://swerc.eu/2017/problems/">SWERC past problem sets</a>
+
+
+## Bit twiddling
+- <a href="http://graphics.stanford.edu/~seander/bithacks.html">http://graphics.stanford.edu/~seander/bithacks.html</a>
+- <a href="http://realtimecollisiondetection.net/blog/?p=78">http://realtimecollisiondetection.net/blog/?p=78</a>
 
 
 ## Books
@@ -832,10 +844,9 @@
 ## OMSCS
 
 - <a href="https://drive.google.com/drive/u/0/folders/1ELjIQBaekmSF0fspJn4W7iuOWh3UxYN_">Course syllabi</a>
+- <a href="https://omscs.gatech.edu/search/node/course%20videos">Course videos</a>
 
 ### Tier 1
-- Fall 20:
-  - ISYE 6501 Intro to Analytics Modeling
 - Spring 21:
   - <a href="https://www-users.cs.umn.edu/~karypis/parbook/">CSE 6220 Intro to High Performance Computing</a>
 - Summer 21:
@@ -849,14 +860,18 @@
 - CS 6265 Information Security Lab
   - <a href="https://tc.gts3.org/cs6265/2020-spring/cal.html">https://tc.gts3.org/cs6265/2020-spring/cal.html</a>
   - <a href="http://phrack.com">http://phrack.com</a>
+- CS 6035 Intro to Information Security
+  - <a href="https://drive.google.com/file/d/19XxlM2Mo4wBonnQdVnUUo10Cqix-Odej/view">https://drive.google.com/file/d/19XxlM2Mo4wBonnQdVnUUo10Cqix-Odej/view</a>
 - CS 6250 Computer Networks
   - <a href="https://www.cc.gatech.edu/~rama/CS2200-External/">prereq course</a>
   - <a href="https://github.com/ossu/computer-science/issues/520">more prereq/alternate suggestions</a>
-- CS 6460 Educational Technology
+- ISYE 6501 Intro to Analytics Modeling
+  - <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/">http://faculty.marshall.usc.edu/gareth-james/ISL/</a>
 - CS 6260 Applied Cryptography
   - <a href="https://teapowered.dev/assets/crypto-notes.pdf">https://teapowered.dev/assets/crypto-notes.pdf</a>
 - ISYE 6644 Simulation
 - CS 6601 Artificial Intelligence
+- CS 6460 Educational Technology
 - <a href="https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/">interesting 6310 textbooks worth looking into</a>
 
 ### Completed
@@ -872,6 +887,8 @@
 - Spring 20: CS 6291 Embedded Systems Optimization
 - Summer 20: CS 7638 AI for Robotics
   - <a href="https://teapowered.dev/assets/ai4r-notes.pdf">https://teapowered.dev/assets/ai4r-notes.pdf</a>
+- Fall 20:
+  - ECE 8843 Side channels and their role in cybersecurity
 
 
 ## CCSF
@@ -884,6 +901,8 @@
 - CS   211D  Android Programming
 - CS   211E  Advanced Java: Enterprise Edition
 - CS   270   Comp Architecture w/ Assembly (advise discrete math)
+  - <a href="https://fog.ccsf.edu/~gboyd/cs270/online/index.html">https://fog.ccsf.edu/~gboyd/cs270/online/index.html</a>
+  - <a href="https://fog.ccsf.edu/~gboyd/cs270/HowThisCourseWorks.pdf">https://fog.ccsf.edu/~gboyd/cs270/HowThisCourseWorks.pdf</a>
 - CS   150P  SQL Server T-SQL Programming
 - CS   155B  MySQL Database Administration
 - CS   260A  Linux System Administration

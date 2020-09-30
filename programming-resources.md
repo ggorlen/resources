@@ -6,7 +6,6 @@
 
 ## General
 - Inspiration!: https://www.chessprogramming.org/Keith_Gorlen
-- Bit twiddling hacks: http://graphics.stanford.edu/~seander/bithacks.html
 - Interesting programming languages: https://www.btbytes.com/pl.html
 - Christopher Alexander's Design Patterns: http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm
 - https://en.wikipedia.org/wiki/One-instruction_set_computer
@@ -80,6 +79,8 @@
 - Car talk puzzlers: https://developmentality.wordpress.com/tag/car-talk/
 - Sliding puzzle solving with hill climbing: https://towardsdatascience.com/solve-slide-puzzle-with-hill-climbing-search-algorithm-d7fb93321325
 - Dancing Links: https://www.ocf.berkeley.edu/~jchu/publicportal/sudoku/0011047.pdf
+- k-way merge algorithm: https://en.wikipedia.org/wiki/K-way_merge_algorithm
+- DPLL: https://en.wikipedia.org/wiki/DPLL_algorithm
 
 ### DP
 - Coin change: https://runestone.academy/runestone/books/published/pythonds/Recursion/DynamicProgramming.html
@@ -164,6 +165,7 @@
   - https://github.com/llvm-mirror/llvm/blob/master/examples/Kaleidoscope/MCJIT/initial/toy.cpp
 - Mega compilers resource: https://stackoverflow.com/questions/1669/learning-to-write-a-compiler
 - CS143: https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/
+- CIS341: https://www.seas.upenn.edu/~cis341/current/
 - Concatenative Languages: https://concatenative.org/wiki/view/Concatenative%20language
 
 
@@ -654,7 +656,6 @@
 - http://www.mrc.uidaho.edu/mrc/people/jff/digital/MIPSir.html
 
 
-
 ## ARM
 - Thinkingeek Raspberry Pi Asssembler: 
   - Site: https://thinkingeek.com/2013/01/09/arm-assembler-raspberry-pi-chapter-1/
@@ -741,6 +742,11 @@
 - Root me: https://www.root-me.org/en/Challenges/Web-Client/Javascript-Native-code
 
 
+## Security/CTF sites
+- Hacking competition for kids: https://picoctf.com/
+- https://hackthissite.org/
+
+
 ## Competitive coding
 - CSES: https://cses.fi/
 - Competitive Programmer's Handbook: https://cses.fi/book/book.pdf
@@ -748,8 +754,12 @@
 - Codeforces: http://codeforces.com/
 - Topcoder: https://www.topcoder.com/community/competitive-programming/
 - Tons of tips & links: http://www.pvv.ntnu.no/~spaans/programming.html
-- Hacking competition for kids: https://picoctf.com/
 - SWERC past problem sets: https://swerc.eu/2017/problems/
+
+
+## Bit twiddling
+- http://graphics.stanford.edu/~seander/bithacks.html
+- http://realtimecollisiondetection.net/blog/?p=78
 
 
 ## Books 
@@ -783,10 +793,9 @@
 ## OMSCS
 
 - Course syllabi: https://drive.google.com/drive/u/0/folders/1ELjIQBaekmSF0fspJn4W7iuOWh3UxYN_
+- Course videos: https://omscs.gatech.edu/search/node/course%20videos
 
 ### Tier 1
-- Fall 20:  
-  - ISYE 6501 Intro to Analytics Modeling
 - Spring 21:
   - CSE 6220 Intro to High Performance Computing: https://www-users.cs.umn.edu/~karypis/parbook/
 - Summer 21:
@@ -800,14 +809,18 @@
 - CS 6265 Information Security Lab
   - https://tc.gts3.org/cs6265/2020-spring/cal.html
   - http://phrack.com
+- CS 6035 Intro to Information Security
+  - https://drive.google.com/file/d/19XxlM2Mo4wBonnQdVnUUo10Cqix-Odej/view
 - CS 6250 Computer Networks
   - prereq course: https://www.cc.gatech.edu/~rama/CS2200-External/
   - more prereq/alternate suggestions: https://github.com/ossu/computer-science/issues/520
-- CS 6460 Educational Technology
+- ISYE 6501 Intro to Analytics Modeling
+  - http://faculty.marshall.usc.edu/gareth-james/ISL/
 - CS 6260 Applied Cryptography
   - https://teapowered.dev/assets/crypto-notes.pdf
 - ISYE 6644 Simulation
 - CS 6601 Artificial Intelligence
+- CS 6460 Educational Technology
 - interesting 6310 textbooks worth looking into: https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/
 
 ### Completed
@@ -823,6 +836,8 @@
 - Spring 20: CS 6291 Embedded Systems Optimization
 - Summer 20: CS 7638 AI for Robotics
   - https://teapowered.dev/assets/ai4r-notes.pdf
+- Fall 20:  
+  - ECE 8843 Side channels and their role in cybersecurity
 
 
 ## CCSF
@@ -835,6 +850,8 @@
 - CS   211D  Android Programming
 - CS   211E  Advanced Java: Enterprise Edition
 - CS   270   Comp Architecture w/ Assembly (advise discrete math)
+  - https://fog.ccsf.edu/~gboyd/cs270/online/index.html
+  - https://fog.ccsf.edu/~gboyd/cs270/HowThisCourseWorks.pdf
 - CS   150P  SQL Server T-SQL Programming  
 - CS   155B  MySQL Database Administration
 - CS   260A  Linux System Administration
