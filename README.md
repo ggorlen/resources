@@ -63,7 +63,7 @@
 
 
 ## Project Ideas
-- script that calls pd noise patch, generates artwork and posts to bandcamp or another file sharing service via selenium
+- script that calls pd noise patch, generates artwork and posts to bandcamp via puppeteer or another file sharing service
 - write some RTS demo sketches
   - <a href="https://sandruski.github.io/RTS-Group-Movement/">https://sandruski.github.io/RTS-Group-Movement/</a>
   - <a href="https://medium.com/@mscansian/a-with-navigation-meshes-246fd9e72424">Nav meshes</a>
@@ -88,7 +88,7 @@
   - <a href="http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide">http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide</a>
   - <a href="http://forums.winamp.com/showthread.php?t=224914">http://forums.winamp.com/showthread.php?t=224914</a>
 - Make a simple DIY label CMS or bandcamp clone; host on Heroku
-- Langs/frameworks/libs to learn: COBOL, LISP, Go
+- Langs/frameworks/libs to learn: COBOL, Lisp, Go
 - <a href="https://developers.google.com/blogger/docs/3.0/getting_started">Listening journal or similar using blogger API</a>
 - <a href="https://github.com/TooTallNate/node-lame/blob/master/deps/mpg123/doc/README.remote">make a music player app based on mpg123</a>
   - <a href="https://stackoverflow.com/questions/35781991/run-a-command-that-needs-input-without-hanging-but-still-allow-input">https://stackoverflow.com/questions/35781991/run-a-command-that-needs-input-without-hanging-but-still-allow-input</a>
@@ -97,6 +97,9 @@
 - <a href="https://webrtc.github.io/samples/src/content/capture/canvas-video/">Voice/video chat or stream with WebRTC</a>
 - Tiger to JS transpiler
 - Google Docs but all vim/markdown. Could add multiplayer multicolor text editor/highlighter. Could be a good edutech project.
+- write another scrobbler that works by day and follows bandcamp and/or vanillaspa on neocities
+- matterjs experiment like https://jsfiddle.net/mityok/c9qt2g28/10/
+- make a regex blockly demo on codepen or write a generator for some language that isn't supported yet
 
 
 ## Project Euler
@@ -218,6 +221,8 @@
 - <a href="https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/">CS143</a>
 - <a href="https://www.seas.upenn.edu/~cis341/current/">CIS341</a>
 - <a href="https://concatenative.org/wiki/view/Concatenative%20language">Concatenative Languages</a>
+- <a href="https://tiarkrompf.github.io/notes/?/just-write-the-parser/">https://tiarkrompf.github.io/notes/?/just-write-the-parser/</a>
+- lispcompiler.com
 
 
 ## Esoteric programming languages
@@ -796,6 +801,7 @@
 ## Security/CTF sites
 - <a href="https://picoctf.com/">Hacking competition for kids</a>
 - <a href="https://hackthissite.org/">https://hackthissite.org/</a>
+- <a href="https://www.hackthebox.eu/">https://www.hackthebox.eu/</a>
 
 
 ## Competitive coding
