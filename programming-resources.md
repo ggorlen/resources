@@ -37,7 +37,7 @@
   - http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide
   - http://forums.winamp.com/showthread.php?t=224914
 - Make a simple DIY label CMS or bandcamp clone; host on Heroku
-- Langs/frameworks/libs to learn: COBOL, Lisp, Go
+- Langs/frameworks/libs to learn: Lisp/Scheme/Ml, Go, rxjs/angular, Rust, COBOL
 - Listening journal or similar using blogger API: https://developers.google.com/blogger/docs/3.0/getting_started 
 - make a music player app based on mpg123: https://github.com/TooTallNate/node-lame/blob/master/deps/mpg123/doc/README.remote
   - https://stackoverflow.com/questions/35781991/run-a-command-that-needs-input-without-hanging-but-still-allow-input
@@ -49,6 +49,7 @@
 - write another scrobbler that works by day and follows bandcamp and/or vanillaspa on neocities
 - matterjs experiment like https://jsfiddle.net/mityok/c9qt2g28/10/
 - make a regex blockly demo on codepen or write a generator for some language that isn't supported yet
+- write your own react: https://pomb.us/build-your-own-react/
 
 
 ## Project Euler
@@ -87,7 +88,7 @@
 
 ### DP
 - Coin change: https://runestone.academy/runestone/books/published/pythonds/Recursion/DynamicProgramming.html
-- Maximum subarray problem (Kadane's algorithm): https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm_(Algorithm_3:_Dynamic_Programming)
+- Maximum subarray problem (Kadane's algorithm): https://en.wikipedia.org/wiki/Maximum_subarray_problem
 - Box stacking problem (and other DP problems): https://people.cs.clemson.edu/~bcdean/dp_practice/
 - DP text justify: https://www.geeksforgeeks.org/dynamic-programming-set-18-word-wrap/
 - DP coin change: http://algorithms.tutorialhorizon.com/dynamic-programming-coin-change-problem/
@@ -172,7 +173,8 @@
 - Concatenative Languages: https://concatenative.org/wiki/view/Concatenative%20language
 - https://tiarkrompf.github.io/notes/?/just-write-the-parser/
 - lispcompiler.com
-
+- Let's Build a Compiler, by Jack Crenshaw: https://compilers.iecc.com/crenshaw/
+- Nystrom's compiler books: https://twitter.com/munificentbob/status/901543375945388032
 
 ## Esoteric programming languages
 - Cat's Eye: http://catseye.tc/
@@ -644,6 +646,8 @@
 - Learning MIPS and SPIM: https://uweb.engr.arizona.edu/~ece369/Resources/spim/QtSPIM_examples.pdf
 - recursion: https://courses.engr.illinois.edu/cs232/sp2012/section/disc2sol.pdf
 - https://courses.cs.washington.edu/courses/cse378/09wi/lectures/lec05.pdf
+- https://courses.cs.washington.edu/courses/cse378/07au/lectures/L4.pdf
+- https://courses.cs.washington.edu/courses/cse410/09sp/examples/MIPSCallingConventionsSummary.pdf
 - https://en.wikibooks.org/wiki/MIPS_Assembly/Control_Flow_Instructions
 - https://www.coursehero.com/file/45823007/cs311-03-isa-Ipdf/
 - https://github.com/kyungyunlee/CS311-Computer-Organization/tree/master/project2/Project2
@@ -803,20 +807,24 @@
 
 ### Tier 1
 - Spring 21:
-  - CSE 6220 Intro to High Performance Computing: https://www-users.cs.umn.edu/~karypis/parbook/
-- Summer 21:
   - CS 6515 Graduate Algorithms
     - https://gt-algorithms.com/
     - https://cs170.org/
     - http://omscs.wikidot.com/courses:cs6515
     - https://teapowered.dev/assets/ga-notes.pdf
+    - http://timroughgarden.org/
+  - CS 7210 Distributed Systems
+    - https://drive.google.com/file/d/1m9h2xvSLKXpopMBrfUbIkNa9apiKkOHC/view
  
 ### Tier 2
+- CS 6035 Intro to Information Security
+  - https://drive.google.com/file/d/19XxlM2Mo4wBonnQdVnUUo10Cqix-Odej/view
+- CSE 6220 Intro to High Performance Computing: https://www-users.cs.umn.edu/~karypis/parbook/
+- CS 7210 Distributed Systems
+  - https://drive.google.com/file/d/1m9h2xvSLKXpopMBrfUbIkNa9apiKkOHC/view
 - CS 6265 Information Security Lab
   - https://tc.gts3.org/cs6265/2020-spring/cal.html
   - http://phrack.com
-- CS 6035 Intro to Information Security
-  - https://drive.google.com/file/d/19XxlM2Mo4wBonnQdVnUUo10Cqix-Odej/view
 - CS 6250 Computer Networks
   - prereq course: https://www.cc.gatech.edu/~rama/CS2200-External/
   - more prereq/alternate suggestions: https://github.com/ossu/computer-science/issues/520
@@ -824,6 +832,7 @@
   - http://faculty.marshall.usc.edu/gareth-james/ISL/
 - CS 6260 Applied Cryptography
   - https://teapowered.dev/assets/crypto-notes.pdf
+- CS 7280 Network Science
 - ISYE 6644 Simulation
 - CS 6601 Artificial Intelligence
 - CS 6460 Educational Technology
@@ -842,8 +851,7 @@
 - Spring 20: CS 6291 Embedded Systems Optimization
 - Summer 20: CS 7638 AI for Robotics
   - https://teapowered.dev/assets/ai4r-notes.pdf
-- Fall 20:  
-  - ECE 8843 Side channels and their role in cybersecurity
+- Fall 20: ECE 8843 Side channels and their role in cybersecurity
 
 
 ## CCSF

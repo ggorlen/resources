@@ -88,7 +88,7 @@
   - <a href="http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide">http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide</a>
   - <a href="http://forums.winamp.com/showthread.php?t=224914">http://forums.winamp.com/showthread.php?t=224914</a>
 - Make a simple DIY label CMS or bandcamp clone; host on Heroku
-- Langs/frameworks/libs to learn: COBOL, Lisp, Go
+- Langs/frameworks/libs to learn: Lisp/Scheme/Ml, Go, rxjs/angular, Rust, COBOL
 - <a href="https://developers.google.com/blogger/docs/3.0/getting_started">Listening journal or similar using blogger API</a>
 - <a href="https://github.com/TooTallNate/node-lame/blob/master/deps/mpg123/doc/README.remote">make a music player app based on mpg123</a>
   - <a href="https://stackoverflow.com/questions/35781991/run-a-command-that-needs-input-without-hanging-but-still-allow-input">https://stackoverflow.com/questions/35781991/run-a-command-that-needs-input-without-hanging-but-still-allow-input</a>
@@ -100,6 +100,7 @@
 - write another scrobbler that works by day and follows bandcamp and/or vanillaspa on neocities
 - matterjs experiment like https://jsfiddle.net/mityok/c9qt2g28/10/
 - make a regex blockly demo on codepen or write a generator for some language that isn't supported yet
+- <a href="https://pomb.us/build-your-own-react/">write your own react</a>
 
 
 ## Project Euler
@@ -138,7 +139,7 @@
 
 ### DP
 - <a href="https://runestone.academy/runestone/books/published/pythonds/Recursion/DynamicProgramming.html">Coin change</a>
-- <a href="https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm_(Algorithm_3:_Dynamic_Programming)">Maximum subarray problem (Kadane's algorithm)</a>
+- <a href="https://en.wikipedia.org/wiki/Maximum_subarray_problem">Maximum subarray problem (Kadane's algorithm)</a>
 - <a href="https://people.cs.clemson.edu/~bcdean/dp_practice/">Box stacking problem (and other DP problems)</a>
 - <a href="https://www.geeksforgeeks.org/dynamic-programming-set-18-word-wrap/">DP text justify</a>
 - <a href="http://algorithms.tutorialhorizon.com/dynamic-programming-coin-change-problem/">DP coin change</a>
@@ -223,7 +224,8 @@
 - <a href="https://concatenative.org/wiki/view/Concatenative%20language">Concatenative Languages</a>
 - <a href="https://tiarkrompf.github.io/notes/?/just-write-the-parser/">https://tiarkrompf.github.io/notes/?/just-write-the-parser/</a>
 - lispcompiler.com
-
+- <a href="https://compilers.iecc.com/crenshaw/">Let's Build a Compiler, by Jack Crenshaw</a>
+- <a href="https://twitter.com/munificentbob/status/901543375945388032">Nystrom's compiler books</a>
 
 ## Esoteric programming languages
 - <a href="http://catseye.tc/">Cat's Eye</a>
@@ -695,6 +697,8 @@
 - <a href="https://uweb.engr.arizona.edu/~ece369/Resources/spim/QtSPIM_examples.pdf">Learning MIPS and SPIM</a>
 - <a href="https://courses.engr.illinois.edu/cs232/sp2012/section/disc2sol.pdf">recursion</a>
 - <a href="https://courses.cs.washington.edu/courses/cse378/09wi/lectures/lec05.pdf">https://courses.cs.washington.edu/courses/cse378/09wi/lectures/lec05.pdf</a>
+- <a href="https://courses.cs.washington.edu/courses/cse378/07au/lectures/L4.pdf">https://courses.cs.washington.edu/courses/cse378/07au/lectures/L4.pdf</a>
+- <a href="https://courses.cs.washington.edu/courses/cse410/09sp/examples/MIPSCallingConventionsSummary.pdf">https://courses.cs.washington.edu/courses/cse410/09sp/examples/MIPSCallingConventionsSummary.pdf</a>
 - <a href="https://en.wikibooks.org/wiki/MIPS_Assembly/Control_Flow_Instructions">https://en.wikibooks.org/wiki/MIPS_Assembly/Control_Flow_Instructions</a>
 - <a href="https://www.coursehero.com/file/45823007/cs311-03-isa-Ipdf/">https://www.coursehero.com/file/45823007/cs311-03-isa-Ipdf/</a>
 - <a href="https://github.com/kyungyunlee/CS311-Computer-Organization/tree/master/project2/Project2">https://github.com/kyungyunlee/CS311-Computer-Organization/tree/master/project2/Project2</a>
@@ -854,20 +858,24 @@
 
 ### Tier 1
 - Spring 21:
-  - <a href="https://www-users.cs.umn.edu/~karypis/parbook/">CSE 6220 Intro to High Performance Computing</a>
-- Summer 21:
   - CS 6515 Graduate Algorithms
     - <a href="https://gt-algorithms.com/">https://gt-algorithms.com/</a>
     - <a href="https://cs170.org/">https://cs170.org/</a>
     - <a href="http://omscs.wikidot.com/courses:cs6515">http://omscs.wikidot.com/courses:cs6515</a>
     - <a href="https://teapowered.dev/assets/ga-notes.pdf">https://teapowered.dev/assets/ga-notes.pdf</a>
+    - <a href="http://timroughgarden.org/">http://timroughgarden.org/</a>
+  - CS 7210 Distributed Systems
+    - <a href="https://drive.google.com/file/d/1m9h2xvSLKXpopMBrfUbIkNa9apiKkOHC/view">https://drive.google.com/file/d/1m9h2xvSLKXpopMBrfUbIkNa9apiKkOHC/view</a>
 
 ### Tier 2
+- CS 6035 Intro to Information Security
+  - <a href="https://drive.google.com/file/d/19XxlM2Mo4wBonnQdVnUUo10Cqix-Odej/view">https://drive.google.com/file/d/19XxlM2Mo4wBonnQdVnUUo10Cqix-Odej/view</a>
+- <a href="https://www-users.cs.umn.edu/~karypis/parbook/">CSE 6220 Intro to High Performance Computing</a>
+- CS 7210 Distributed Systems
+  - <a href="https://drive.google.com/file/d/1m9h2xvSLKXpopMBrfUbIkNa9apiKkOHC/view">https://drive.google.com/file/d/1m9h2xvSLKXpopMBrfUbIkNa9apiKkOHC/view</a>
 - CS 6265 Information Security Lab
   - <a href="https://tc.gts3.org/cs6265/2020-spring/cal.html">https://tc.gts3.org/cs6265/2020-spring/cal.html</a>
   - <a href="http://phrack.com">http://phrack.com</a>
-- CS 6035 Intro to Information Security
-  - <a href="https://drive.google.com/file/d/19XxlM2Mo4wBonnQdVnUUo10Cqix-Odej/view">https://drive.google.com/file/d/19XxlM2Mo4wBonnQdVnUUo10Cqix-Odej/view</a>
 - CS 6250 Computer Networks
   - <a href="https://www.cc.gatech.edu/~rama/CS2200-External/">prereq course</a>
   - <a href="https://github.com/ossu/computer-science/issues/520">more prereq/alternate suggestions</a>
@@ -875,6 +883,7 @@
   - <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/">http://faculty.marshall.usc.edu/gareth-james/ISL/</a>
 - CS 6260 Applied Cryptography
   - <a href="https://teapowered.dev/assets/crypto-notes.pdf">https://teapowered.dev/assets/crypto-notes.pdf</a>
+- CS 7280 Network Science
 - ISYE 6644 Simulation
 - CS 6601 Artificial Intelligence
 - CS 6460 Educational Technology
@@ -893,8 +902,7 @@
 - Spring 20: CS 6291 Embedded Systems Optimization
 - Summer 20: CS 7638 AI for Robotics
   - <a href="https://teapowered.dev/assets/ai4r-notes.pdf">https://teapowered.dev/assets/ai4r-notes.pdf</a>
-- Fall 20:
-  - ECE 8843 Side channels and their role in cybersecurity
+- Fall 20: ECE 8843 Side channels and their role in cybersecurity
 
 
 ## CCSF
