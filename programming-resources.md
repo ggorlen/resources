@@ -12,14 +12,21 @@
 
 
 ## Project Ideas
-- script that calls pd noise patch, generates artwork and posts to bandcamp via puppeteer or another file sharing service
+- script that calls pd patch, generates artwork and posts to bandcamp via puppeteer or another file sharing service
+- write another scrobbler that works by day and follows bandcamp
+- bandcamp command line listening streamer based on urls
+- Make a simple DIY label CMS or bandcamp clone; host on Heroku
 - write some RTS demo sketches 
   - https://sandruski.github.io/RTS-Group-Movement/
   - Nav meshes: https://medium.com/@mscansian/a-with-navigation-meshes-246fd9e72424
   - Boids: http://www.red3d.com/cwr/boids/
 - write a time clock web app and keep exact totals for freelance work
+- react native mp3 player with mono mode using mpg123 or something
+- auto-queue recent bandcamp releases into command line player via scraping 
+  - could be a master "to listen" list on glitch which the command line script can automatically pull from. option to search and autoplay something from discogs, youtube or bandcamp
 - write a stack machine
 - stack overflow comments sentiment analyzer
+- do generative eno ambient series covers with pointillist effect in js canvas
 - make an IR-\>spim runner in node/mips compiler + host on heroku
 - https://en.wikipedia.org/wiki/Tic-tac-toe_variants
 - write an app that scrapes recent posts by favorite SO users
@@ -36,7 +43,6 @@
 - write a winamp plugin that broadcasts now playing to node API on glitch
   - http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide
   - http://forums.winamp.com/showthread.php?t=224914
-- Make a simple DIY label CMS or bandcamp clone; host on Heroku
 - Langs/frameworks/libs to learn: Lisp/Scheme/Ml, Go, rxjs/angular, Rust, COBOL
 - Listening journal or similar using blogger API: https://developers.google.com/blogger/docs/3.0/getting_started 
 - make a music player app based on mpg123: https://github.com/TooTallNate/node-lame/blob/master/deps/mpg123/doc/README.remote
@@ -45,11 +51,12 @@
   - https://arstechnica.com/civis/viewtopic.php?f=20&t=850451
 - Voice/video chat or stream with WebRTC: https://webrtc.github.io/samples/src/content/capture/canvas-video/  
 - Tiger to JS transpiler
+- Simple html parser like htm or https://limpet.net/mbrubeck/2014/08/11/toy-layout-engine-2.html
 - Google Docs but all vim/markdown. Could add multiplayer multicolor text editor/highlighter. Could be a good edutech project.
-- write another scrobbler that works by day and follows bandcamp and/or vanillaspa on neocities
 - matterjs experiment like https://jsfiddle.net/mityok/c9qt2g28/10/
 - make a regex blockly demo on codepen or write a generator for some language that isn't supported yet
 - write your own react: https://pomb.us/build-your-own-react/
+- me vs world correspondence chess app for my homepage
 
 
 ## Project Euler
@@ -176,6 +183,7 @@
 - Let's Build a Compiler, by Jack Crenshaw: https://compilers.iecc.com/crenshaw/
 - Nystrom's compiler books: https://twitter.com/munificentbob/status/901543375945388032
 
+
 ## Esoteric programming languages
 - Cat's Eye: http://catseye.tc/
 - Esolangs.org: https://esolangs.org/wiki/Main_Page
@@ -208,9 +216,7 @@
 - Negamax: https://en.wikipedia.org/wiki/Negamax
 - Othello basic: https://inventwithpython.com/invent4thed/chapter15.html
 - 4 grid games from Al Sweigart: http://inventwithpython.com/pygame/chapter10.html 
-- Game of the Amazons:
-  - https://www.youtube.com/watch?v=_1NzUMWeU4c
-  - https://www.youtube.com/watch?v=_1NzUMWeU4c
+- Game of the Amazons: https://www.youtube.com/watch?v=_1NzUMWeU4c
 
 
 ## Games
@@ -421,7 +427,7 @@
 - Circle packing flickr: https://www.flickr.com/photos/quasimondo/albums/72157624374940604
 
 
-## Physics simulations
+## Physics simulation
 - Falling sand game: https://en.wikipedia.org/wiki/Falling-sand_game
 - Cloth physics: https://andrew.wang-hoyer.com/experiments/cloth/
 - Verlet integration: https://www.youtube.com/watch?v=3HjO_RGIjCU
@@ -510,7 +516,7 @@
 
 
 ## Cryptography
-- https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf
+- A Graduate Course in Applied Cryptography: https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf
 - DH key exchange in plain English: http://security.stackexchange.com/questions/45963/diffie-hellman-key-exchange-in-plain-english
 
 
@@ -562,12 +568,6 @@
 ## JS
 - Dwitter (140 chars or less JS code): https://www.dwitter.net/ 
 - 30 day vanilla JS challenge: https://javascript30.com/
-- JS todo list: http://docs.railsbridge.org/javascript-to-do-list/adding_an_item
-- https://codeburst.io/getting-started-with-react-router-5c978f70df91
-- https://react-redux.js.org/introduction/quick-start
-- https://www.leighhalliday.com/async-axios-react-testing-library
-- https://github.com/testing-library/react-testing-library#hooks
-- https://levelup.gitconnected.com/testing-asynchronous-and-synchronous-react-components-with-jest-and-enzyme-a979ab425aa1
 
 
 ## Web development
@@ -575,9 +575,9 @@
   - https://www.youtube.com/watch?v=xdxfyFS3pog
   - https://jekyllrb.com/docs/installation/
 - Bitballoon for hosting web apps: https://www.bitballoon.com
+- Jamstack/netlify/gridsome
 
 ### CSS
-- Do a Mondrian generator with a CSS grid or JS
 - Grid: https://css-tricks.com/snippets/css/complete-guide-grid/
 - Rachel Andrew (CSS grid examples): https://codepen.io/rachelandrew/pens/public
 - CSS cube: https://davidwalsh.name/css-cube
@@ -621,6 +621,7 @@
 - PHP game scripts: https://www.ibm.com/developerworks/library/os-php-gamescripts1/
 - Websocket chat: https://phppot.com/php/simple-php-chat-using-websocket/
 - PHP Sadness: http://phpsadness.com/
+- More PHP Sadness: https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/
 
 
 ## Java
@@ -703,6 +704,7 @@
 
 
 ## Scratch/Snap
+- Forkphorus: https://forkphorus.github.io/
 - Sulfurous: https://sulfurous.aau.at/
 - Useful Scratch reference topics: 
   - https://wiki.scratch.mit.edu/wiki/Array#Multidimensional_Arrays_in_Scratch
@@ -713,8 +715,8 @@
 
 
 ## Course sites
-- Nand2Tetris: http://nand2tetris.org/
 - Coding the Matrix (linear algebra through CS): http://codingthematrix.com/
+- Nand2Tetris: http://nand2tetris.org/
 - Advanced Web Developer Bootcamp: https://www.udemy.com/the-advanced-web-developer-bootcamp/
 - Lynda SFPL: https://www.lynda.com/portal/patron?org=sfpl.org
 - Coursera algorithms classes (pts 1 & 2): https://www.coursera.org/learn/algorithms-part1
@@ -804,27 +806,15 @@
 
 - Course syllabi: https://drive.google.com/drive/u/0/folders/1ELjIQBaekmSF0fspJn4W7iuOWh3UxYN_
 - Course videos: https://omscs.gatech.edu/search/node/course%20videos
+- **Remember to convert EST to PST for registration**
 
-### Tier 1
-- Spring 21:
-  - CS 6515 Graduate Algorithms
-    - https://gt-algorithms.com/
-    - https://cs170.org/
-    - http://omscs.wikidot.com/courses:cs6515
-    - https://teapowered.dev/assets/ga-notes.pdf
-    - http://timroughgarden.org/
-  - CS 7210 Distributed Systems
-    - https://drive.google.com/file/d/1m9h2xvSLKXpopMBrfUbIkNa9apiKkOHC/view
- 
-### Tier 2
-- CS 6035 Intro to Information Security
-  - https://drive.google.com/file/d/19XxlM2Mo4wBonnQdVnUUo10Cqix-Odej/view
+### Courses to take
 - CSE 6220 Intro to High Performance Computing: https://www-users.cs.umn.edu/~karypis/parbook/
-- CS 7210 Distributed Systems
-  - https://drive.google.com/file/d/1m9h2xvSLKXpopMBrfUbIkNa9apiKkOHC/view
 - CS 6265 Information Security Lab
   - https://tc.gts3.org/cs6265/2020-spring/cal.html
   - http://phrack.com
+- CS 6035 Intro to Information Security
+  - https://drive.google.com/file/d/19XxlM2Mo4wBonnQdVnUUo10Cqix-Odej/view
 - CS 6250 Computer Networks
   - prereq course: https://www.cc.gatech.edu/~rama/CS2200-External/
   - more prereq/alternate suggestions: https://github.com/ossu/computer-science/issues/520
@@ -838,7 +828,7 @@
 - CS 6460 Educational Technology
 - interesting 6310 textbooks worth looking into: https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/
 
-### Completed
+### Completed courses
 - Fall 18: CS 6200 Intro to Operating Systems
 - Spring 19: CS 6210 Advanced Operating Systems 
 - Summer 19: CS 6340 Software Analysis and Test
@@ -852,6 +842,15 @@
 - Summer 20: CS 7638 AI for Robotics
   - https://teapowered.dev/assets/ai4r-notes.pdf
 - Fall 20: ECE 8843 Side channels and their role in cybersecurity
+- Spring 21:
+  - CS 6515 Graduate Algorithms
+    - https://gt-algorithms.com/
+    - https://cs170.org/
+    - http://omscs.wikidot.com/courses:cs6515
+    - https://teapowered.dev/assets/ga-notes.pdf
+    - http://timroughgarden.org/
+  - CS 7210 Distributed Systems
+    - https://drive.google.com/file/d/1m9h2xvSLKXpopMBrfUbIkNa9apiKkOHC/view
 
 
 ## CCSF
@@ -863,9 +862,6 @@
 - CS   231   Advanced Python Programming
 - CS   211D  Android Programming
 - CS   211E  Advanced Java: Enterprise Edition
-- CS   270   Comp Architecture w/ Assembly (advise discrete math)
-  - https://fog.ccsf.edu/~gboyd/cs270/online/index.html
-  - https://fog.ccsf.edu/~gboyd/cs270/HowThisCourseWorks.pdf
 - CS   150P  SQL Server T-SQL Programming  
 - CS   155B  MySQL Database Administration
 - CS   260A  Linux System Administration
@@ -883,6 +879,11 @@
 - MATH 110A  Calculus I 
 - MATH 115   Discrete Mathematics 
 - MATH 120   Linear Algebra
+
+### CCSF courses taken
+- CS   270   Comp Architecture w/ Assembly
+  - https://fog.ccsf.edu/~gboyd/cs270/online/index.html
+  - https://fog.ccsf.edu/~gboyd/cs270/HowThisCourseWorks.pdf
 
 ### CCSF certificates I've attained:
   - Java: https://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/ComputerProgrammingJavaCertificate.pdf
@@ -915,7 +916,6 @@
 - Code for America: https://www.codeforamerica.org/jobs
 - Slack internship: https://slack.com/careers/1852134/software-engineering-internship
 - CCSF professor: https://jobs.ccsf.edu/
-- SF student intern: http://www.sfstudentintern.org/
 
 
 ## Interview prep

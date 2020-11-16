@@ -16,7 +16,7 @@
 12. [Fractals and L-systems](#fractals-and-l-systems)
 13. [Visual/animation](#visual/animation)
 14. [Tiling and packing](#tiling-and-packing)
-15. [Physics simulations](#physics-simulations)
+15. [Physics simulation](#physics-simulation)
 16. [Regex](#regex)
 17. [Operating Systems](#operating-systems)
 18. [Computer Science](#computer-science)
@@ -63,14 +63,21 @@
 
 
 ## Project Ideas
-- script that calls pd noise patch, generates artwork and posts to bandcamp via puppeteer or another file sharing service
+- script that calls pd patch, generates artwork and posts to bandcamp via puppeteer or another file sharing service
+- write another scrobbler that works by day and follows bandcamp
+- bandcamp command line listening streamer based on urls
+- Make a simple DIY label CMS or bandcamp clone; host on Heroku
 - write some RTS demo sketches
   - <a href="https://sandruski.github.io/RTS-Group-Movement/">https://sandruski.github.io/RTS-Group-Movement/</a>
   - <a href="https://medium.com/@mscansian/a-with-navigation-meshes-246fd9e72424">Nav meshes</a>
   - <a href="http://www.red3d.com/cwr/boids/">Boids</a>
 - write a time clock web app and keep exact totals for freelance work
+- react native mp3 player with mono mode using mpg123 or something
+- auto-queue recent bandcamp releases into command line player via scraping
+  - could be a master "to listen" list on glitch which the command line script can automatically pull from. option to search and autoplay something from discogs, youtube or bandcamp
 - write a stack machine
 - stack overflow comments sentiment analyzer
+- do generative eno ambient series covers with pointillist effect in js canvas
 - make an IR-\>spim runner in node/mips compiler + host on heroku
 - <a href="https://en.wikipedia.org/wiki/Tic-tac-toe_variants">https://en.wikipedia.org/wiki/Tic-tac-toe_variants</a>
 - write an app that scrapes recent posts by favorite SO users
@@ -87,7 +94,6 @@
 - write a winamp plugin that broadcasts now playing to node API on glitch
   - <a href="http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide">http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide</a>
   - <a href="http://forums.winamp.com/showthread.php?t=224914">http://forums.winamp.com/showthread.php?t=224914</a>
-- Make a simple DIY label CMS or bandcamp clone; host on Heroku
 - Langs/frameworks/libs to learn: Lisp/Scheme/Ml, Go, rxjs/angular, Rust, COBOL
 - <a href="https://developers.google.com/blogger/docs/3.0/getting_started">Listening journal or similar using blogger API</a>
 - <a href="https://github.com/TooTallNate/node-lame/blob/master/deps/mpg123/doc/README.remote">make a music player app based on mpg123</a>
@@ -96,11 +102,12 @@
   - <a href="https://arstechnica.com/civis/viewtopic.php?f=20&t=850451">https://arstechnica.com/civis/viewtopic.php?f=20&t=850451</a>
 - <a href="https://webrtc.github.io/samples/src/content/capture/canvas-video/">Voice/video chat or stream with WebRTC</a>
 - Tiger to JS transpiler
+- Simple html parser like htm or https://limpet.net/mbrubeck/2014/08/11/toy-layout-engine-2.html
 - Google Docs but all vim/markdown. Could add multiplayer multicolor text editor/highlighter. Could be a good edutech project.
-- write another scrobbler that works by day and follows bandcamp and/or vanillaspa on neocities
 - matterjs experiment like https://jsfiddle.net/mityok/c9qt2g28/10/
 - make a regex blockly demo on codepen or write a generator for some language that isn't supported yet
 - <a href="https://pomb.us/build-your-own-react/">write your own react</a>
+- me vs world correspondence chess app for my homepage
 
 
 ## Project Euler
@@ -227,6 +234,7 @@
 - <a href="https://compilers.iecc.com/crenshaw/">Let's Build a Compiler, by Jack Crenshaw</a>
 - <a href="https://twitter.com/munificentbob/status/901543375945388032">Nystrom's compiler books</a>
 
+
 ## Esoteric programming languages
 - <a href="http://catseye.tc/">Cat's Eye</a>
 - <a href="https://esolangs.org/wiki/Main_Page">Esolangs.org</a>
@@ -259,9 +267,7 @@
 - <a href="https://en.wikipedia.org/wiki/Negamax">Negamax</a>
 - <a href="https://inventwithpython.com/invent4thed/chapter15.html">Othello basic</a>
 - <a href="http://inventwithpython.com/pygame/chapter10.html">4 grid games from Al Sweigart</a>
-- Game of the Amazons:
-  - <a href="https://www.youtube.com/watch?v=_1NzUMWeU4c">https://www.youtube.com/watch?v=_1NzUMWeU4c</a>
-  - <a href="https://www.youtube.com/watch?v=_1NzUMWeU4c">https://www.youtube.com/watch?v=_1NzUMWeU4c</a>
+- <a href="https://www.youtube.com/watch?v=_1NzUMWeU4c">Game of the Amazons</a>
 
 
 ## Games
@@ -472,7 +478,7 @@
 - <a href="https://www.flickr.com/photos/quasimondo/albums/72157624374940604">Circle packing flickr</a>
 
 
-## Physics simulations
+## Physics simulation
 - <a href="https://en.wikipedia.org/wiki/Falling-sand_game">Falling sand game</a>
 - <a href="https://andrew.wang-hoyer.com/experiments/cloth/">Cloth physics</a>
 - <a href="https://www.youtube.com/watch?v=3HjO_RGIjCU">Verlet integration</a>
@@ -561,7 +567,7 @@
 
 
 ## Cryptography
-- <a href="https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf">https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf</a>
+- <a href="https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf">A Graduate Course in Applied Cryptography</a>
 - <a href="http://security.stackexchange.com/questions/45963/diffie-hellman-key-exchange-in-plain-english">DH key exchange in plain English</a>
 
 
@@ -613,12 +619,6 @@
 ## JS
 - <a href="https://www.dwitter.net/">Dwitter (140 chars or less JS code)</a>
 - <a href="https://javascript30.com/">30 day vanilla JS challenge</a>
-- <a href="http://docs.railsbridge.org/javascript-to-do-list/adding_an_item">JS todo list</a>
-- <a href="https://codeburst.io/getting-started-with-react-router-5c978f70df91">https://codeburst.io/getting-started-with-react-router-5c978f70df91</a>
-- <a href="https://react-redux.js.org/introduction/quick-start">https://react-redux.js.org/introduction/quick-start</a>
-- <a href="https://www.leighhalliday.com/async-axios-react-testing-library">https://www.leighhalliday.com/async-axios-react-testing-library</a>
-- <a href="https://github.com/testing-library/react-testing-library#hooks">https://github.com/testing-library/react-testing-library#hooks</a>
-- <a href="https://levelup.gitconnected.com/testing-asynchronous-and-synchronous-react-components-with-jest-and-enzyme-a979ab425aa1">https://levelup.gitconnected.com/testing-asynchronous-and-synchronous-react-components-with-jest-and-enzyme-a979ab425aa1</a>
 
 
 ## Web development
@@ -626,9 +626,9 @@
   - <a href="https://www.youtube.com/watch?v=xdxfyFS3pog">https://www.youtube.com/watch?v=xdxfyFS3pog</a>
   - <a href="https://jekyllrb.com/docs/installation/">https://jekyllrb.com/docs/installation/</a>
 - <a href="https://www.bitballoon.com">Bitballoon for hosting web apps</a>
+- Jamstack/netlify/gridsome
 
 ### CSS
-- Do a Mondrian generator with a CSS grid or JS
 - <a href="https://css-tricks.com/snippets/css/complete-guide-grid/">Grid</a>
 - <a href="https://codepen.io/rachelandrew/pens/public">Rachel Andrew (CSS grid examples)</a>
 - <a href="https://davidwalsh.name/css-cube">CSS cube</a>
@@ -672,6 +672,7 @@
 - <a href="https://www.ibm.com/developerworks/library/os-php-gamescripts1/">PHP game scripts</a>
 - <a href="https://phppot.com/php/simple-php-chat-using-websocket/">Websocket chat</a>
 - <a href="http://phpsadness.com/">PHP Sadness</a>
+- <a href="https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/">More PHP Sadness</a>
 
 
 ## Java
@@ -754,6 +755,7 @@
 
 
 ## Scratch/Snap
+- <a href="https://forkphorus.github.io/">Forkphorus</a>
 - <a href="https://sulfurous.aau.at/">Sulfurous</a>
 - Useful Scratch reference topics:
   - <a href="https://wiki.scratch.mit.edu/wiki/Array#Multidimensional_Arrays_in_Scratch">https://wiki.scratch.mit.edu/wiki/Array#Multidimensional_Arrays_in_Scratch</a>
@@ -764,8 +766,8 @@
 
 
 ## Course sites
-- <a href="http://nand2tetris.org/">Nand2Tetris</a>
 - <a href="http://codingthematrix.com/">Coding the Matrix (linear algebra through CS)</a>
+- <a href="http://nand2tetris.org/">Nand2Tetris</a>
 - <a href="https://www.udemy.com/the-advanced-web-developer-bootcamp/">Advanced Web Developer Bootcamp</a>
 - <a href="https://www.lynda.com/portal/patron?org=sfpl.org">Lynda SFPL</a>
 - <a href="https://www.coursera.org/learn/algorithms-part1">Coursera algorithms classes (pts 1 & 2)</a>
@@ -855,27 +857,15 @@
 
 - <a href="https://drive.google.com/drive/u/0/folders/1ELjIQBaekmSF0fspJn4W7iuOWh3UxYN_">Course syllabi</a>
 - <a href="https://omscs.gatech.edu/search/node/course%20videos">Course videos</a>
+- **Remember to convert EST to PST for registration**
 
-### Tier 1
-- Spring 21:
-  - CS 6515 Graduate Algorithms
-    - <a href="https://gt-algorithms.com/">https://gt-algorithms.com/</a>
-    - <a href="https://cs170.org/">https://cs170.org/</a>
-    - <a href="http://omscs.wikidot.com/courses:cs6515">http://omscs.wikidot.com/courses:cs6515</a>
-    - <a href="https://teapowered.dev/assets/ga-notes.pdf">https://teapowered.dev/assets/ga-notes.pdf</a>
-    - <a href="http://timroughgarden.org/">http://timroughgarden.org/</a>
-  - CS 7210 Distributed Systems
-    - <a href="https://drive.google.com/file/d/1m9h2xvSLKXpopMBrfUbIkNa9apiKkOHC/view">https://drive.google.com/file/d/1m9h2xvSLKXpopMBrfUbIkNa9apiKkOHC/view</a>
-
-### Tier 2
-- CS 6035 Intro to Information Security
-  - <a href="https://drive.google.com/file/d/19XxlM2Mo4wBonnQdVnUUo10Cqix-Odej/view">https://drive.google.com/file/d/19XxlM2Mo4wBonnQdVnUUo10Cqix-Odej/view</a>
+### Courses to take
 - <a href="https://www-users.cs.umn.edu/~karypis/parbook/">CSE 6220 Intro to High Performance Computing</a>
-- CS 7210 Distributed Systems
-  - <a href="https://drive.google.com/file/d/1m9h2xvSLKXpopMBrfUbIkNa9apiKkOHC/view">https://drive.google.com/file/d/1m9h2xvSLKXpopMBrfUbIkNa9apiKkOHC/view</a>
 - CS 6265 Information Security Lab
   - <a href="https://tc.gts3.org/cs6265/2020-spring/cal.html">https://tc.gts3.org/cs6265/2020-spring/cal.html</a>
   - <a href="http://phrack.com">http://phrack.com</a>
+- CS 6035 Intro to Information Security
+  - <a href="https://drive.google.com/file/d/19XxlM2Mo4wBonnQdVnUUo10Cqix-Odej/view">https://drive.google.com/file/d/19XxlM2Mo4wBonnQdVnUUo10Cqix-Odej/view</a>
 - CS 6250 Computer Networks
   - <a href="https://www.cc.gatech.edu/~rama/CS2200-External/">prereq course</a>
   - <a href="https://github.com/ossu/computer-science/issues/520">more prereq/alternate suggestions</a>
@@ -889,7 +879,7 @@
 - CS 6460 Educational Technology
 - <a href="https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/">interesting 6310 textbooks worth looking into</a>
 
-### Completed
+### Completed courses
 - Fall 18: CS 6200 Intro to Operating Systems
 - Spring 19: CS 6210 Advanced Operating Systems
 - Summer 19: CS 6340 Software Analysis and Test
@@ -903,6 +893,15 @@
 - Summer 20: CS 7638 AI for Robotics
   - <a href="https://teapowered.dev/assets/ai4r-notes.pdf">https://teapowered.dev/assets/ai4r-notes.pdf</a>
 - Fall 20: ECE 8843 Side channels and their role in cybersecurity
+- Spring 21:
+  - CS 6515 Graduate Algorithms
+    - <a href="https://gt-algorithms.com/">https://gt-algorithms.com/</a>
+    - <a href="https://cs170.org/">https://cs170.org/</a>
+    - <a href="http://omscs.wikidot.com/courses:cs6515">http://omscs.wikidot.com/courses:cs6515</a>
+    - <a href="https://teapowered.dev/assets/ga-notes.pdf">https://teapowered.dev/assets/ga-notes.pdf</a>
+    - <a href="http://timroughgarden.org/">http://timroughgarden.org/</a>
+  - CS 7210 Distributed Systems
+    - <a href="https://drive.google.com/file/d/1m9h2xvSLKXpopMBrfUbIkNa9apiKkOHC/view">https://drive.google.com/file/d/1m9h2xvSLKXpopMBrfUbIkNa9apiKkOHC/view</a>
 
 
 ## CCSF
@@ -914,9 +913,6 @@
 - CS   231   Advanced Python Programming
 - CS   211D  Android Programming
 - CS   211E  Advanced Java: Enterprise Edition
-- CS   270   Comp Architecture w/ Assembly (advise discrete math)
-  - <a href="https://fog.ccsf.edu/~gboyd/cs270/online/index.html">https://fog.ccsf.edu/~gboyd/cs270/online/index.html</a>
-  - <a href="https://fog.ccsf.edu/~gboyd/cs270/HowThisCourseWorks.pdf">https://fog.ccsf.edu/~gboyd/cs270/HowThisCourseWorks.pdf</a>
 - CS   150P  SQL Server T-SQL Programming
 - CS   155B  MySQL Database Administration
 - CS   260A  Linux System Administration
@@ -934,6 +930,11 @@
 - MATH 110A  Calculus I
 - MATH 115   Discrete Mathematics
 - MATH 120   Linear Algebra
+
+### CCSF courses taken
+- CS   270   Comp Architecture w/ Assembly
+  - <a href="https://fog.ccsf.edu/~gboyd/cs270/online/index.html">https://fog.ccsf.edu/~gboyd/cs270/online/index.html</a>
+  - <a href="https://fog.ccsf.edu/~gboyd/cs270/HowThisCourseWorks.pdf">https://fog.ccsf.edu/~gboyd/cs270/HowThisCourseWorks.pdf</a>
 
 ### CCSF certificates I've attained:
   - <a href="https://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/ComputerProgrammingJavaCertificate.pdf">Java</a>
@@ -966,7 +967,6 @@
 - <a href="https://www.codeforamerica.org/jobs">Code for America</a>
 - <a href="https://slack.com/careers/1852134/software-engineering-internship">Slack internship</a>
 - <a href="https://jobs.ccsf.edu/">CCSF professor</a>
-- <a href="http://www.sfstudentintern.org/">SF student intern</a>
 
 
 ## Interview prep
