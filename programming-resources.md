@@ -58,6 +58,14 @@
 - make a regex blockly demo on codepen or write a generator for some language that isn't supported yet
 - write your own react: https://pomb.us/build-your-own-react/
 - me vs world correspondence chess app for my homepage
+- MIPS mini project ideas:
+  - bf interpreter
+  - rot13
+  - tic tac toe
+  - is_prime
+  - sieve
+  - sorting
+  - base converter
 
 
 ## Project Euler
@@ -670,6 +678,36 @@
 - https://www.doc.ic.ac.uk/lab/secondyear/spim/node20.html
 - https://www.math.unipd.it/~sperduti/ARCH09/mips_assembler.pdf
 - http://www.mrc.uidaho.edu/mrc/people/jff/digital/MIPSir.html
+- function call with more than 4 args: https://stackoverflow.com/questions/2298838/mips-function-call-with-more-than-four-arguments
+- MIPS dynamic memory:
+  - https://stackoverflow.com/questions/15690978/how-to-use-system-call-9-in-mips
+  - https://stackoverflow.com/questions/22588905/mips-dynamic-memory-allocation-using-sbrk
+  - https://stackoverflow.com/questions/41560465/mips-how-to-store-a-string-in-dynamic-memory-heap
+  - https://stackoverflow.com/questions/9935982/how-can-i-store-a-string-in-mips-using-dynamic-memory
+  - https://stackoverflow.com/questions/28790345/mips-dynamic-array-error
+  - https://stackoverflow.com/questions/13895606/dynamic-allocation-for-arrays-in-mips
+- Stack/frame pointers and functions:
+  - https://stackoverflow.com/questions/46797915/what-are-the-advantages-of-a-frame-pointer
+  - https://stackoverflow.com/questions/27330242/mips-trying-to-copy-array-using-stack
+  - https://stackoverflow.com/questions/3222861/recursion-in-mips
+  - https://stackoverflow.com/questions/19612459/mips-how-does-mips-allocate-memory-for-arrays-in-the-stack
+- 64 bit add/sub: https://stackoverflow.com/questions/26351920/how-to-perform-64-bit-addition-and-subtraction-using-mips
+- https://web.stanford.edu/class/ee182/Projects/PA2/simulator.s
+- http://zeta.albion.edu/~dreimann/Spring2012/courses/cs354/projects/
+- https://stackoverflow.com/questions/36815882/mips-how-to-add-one-string-to-another
+- https://stackoverflow.com/questions/7865870/how-to-concatenate-string-in-mips
+- https://www.chegg.com/homework-help/questions-and-answers/write-program-read-following-text-file-line-line-detect-words-palindromes-use-palindrome-p-q19403822
+- https://stackoverflow.com/questions/33377649/in-mips-how-to-use-syscall-14-to-read-through-a-long-file
+- https://stackoverflow.com/questions/2575867/reading-the-file-name-from-user-input-in-mips-assembly
+- https://stackoverflow.com/questions/59534066/how-can-i-read-my-whole-txt-file-in-one-string-in-mips
+- https://stackoverflow.com/questions/19612459/mips-how-does-mips-allocate-memory-for-arrays-in-the-stack
+- https://stackoverflow.com/questions/15940331/convert-string-of-ascii-digits-to-int-in-mips-assembler
+- https://fog.ccsf.edu/~gboyd/cs270/online/mipsIV/mipsIV_probs.html
+- https://courses.cs.washington.edu/courses/cse410/09sp/examples/MIPSCallingConventionsSummary.pdf
+- https://fog.ccsf.edu/~gboyd/cs270/online/mipsIV/procedures.html
+- https://stackoverflow.com/questions/4881233/2d-array-in-mips
+- https://stackoverflow.com/questions/40246994/mips-assembly-code-to-find-all-the-prime-numbers-below-an-inputted-number
+- http://www.cs.iit.edu/~virgil/cs470/Labs/Lab7.pdf
 
 
 ## ARM
@@ -686,6 +724,7 @@
 
 
 ## Raspberry Pi
+- https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/
 - Extending the life of the SD card:
   - https://domoticproject.com/extending-life-raspberry-pi-sd-card/
   - https://raspberrypi.stackexchange.com/questions/169/how-can-i-extend-the-life-of-my-sd-card

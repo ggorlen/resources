@@ -110,6 +110,14 @@
 - make a regex blockly demo on codepen or write a generator for some language that isn't supported yet
 - <a href="https://pomb.us/build-your-own-react/">write your own react</a>
 - me vs world correspondence chess app for my homepage
+- MIPS mini project ideas:
+  - bf interpreter
+  - rot13
+  - tic tac toe
+  - is_prime
+  - sieve
+  - sorting
+  - base converter
 
 
 ## Project Euler
@@ -722,6 +730,36 @@
 - <a href="https://www.doc.ic.ac.uk/lab/secondyear/spim/node20.html">https://www.doc.ic.ac.uk/lab/secondyear/spim/node20.html</a>
 - <a href="https://www.math.unipd.it/~sperduti/ARCH09/mips_assembler.pdf">https://www.math.unipd.it/~sperduti/ARCH09/mips_assembler.pdf</a>
 - <a href="http://www.mrc.uidaho.edu/mrc/people/jff/digital/MIPSir.html">http://www.mrc.uidaho.edu/mrc/people/jff/digital/MIPSir.html</a>
+- <a href="https://stackoverflow.com/questions/2298838/mips-function-call-with-more-than-four-arguments">function call with more than 4 args</a>
+- MIPS dynamic memory:
+  - <a href="https://stackoverflow.com/questions/15690978/how-to-use-system-call-9-in-mips">https://stackoverflow.com/questions/15690978/how-to-use-system-call-9-in-mips</a>
+  - <a href="https://stackoverflow.com/questions/22588905/mips-dynamic-memory-allocation-using-sbrk">https://stackoverflow.com/questions/22588905/mips-dynamic-memory-allocation-using-sbrk</a>
+  - <a href="https://stackoverflow.com/questions/41560465/mips-how-to-store-a-string-in-dynamic-memory-heap">https://stackoverflow.com/questions/41560465/mips-how-to-store-a-string-in-dynamic-memory-heap</a>
+  - <a href="https://stackoverflow.com/questions/9935982/how-can-i-store-a-string-in-mips-using-dynamic-memory">https://stackoverflow.com/questions/9935982/how-can-i-store-a-string-in-mips-using-dynamic-memory</a>
+  - <a href="https://stackoverflow.com/questions/28790345/mips-dynamic-array-error">https://stackoverflow.com/questions/28790345/mips-dynamic-array-error</a>
+  - <a href="https://stackoverflow.com/questions/13895606/dynamic-allocation-for-arrays-in-mips">https://stackoverflow.com/questions/13895606/dynamic-allocation-for-arrays-in-mips</a>
+- Stack/frame pointers and functions:
+  - <a href="https://stackoverflow.com/questions/46797915/what-are-the-advantages-of-a-frame-pointer">https://stackoverflow.com/questions/46797915/what-are-the-advantages-of-a-frame-pointer</a>
+  - <a href="https://stackoverflow.com/questions/27330242/mips-trying-to-copy-array-using-stack">https://stackoverflow.com/questions/27330242/mips-trying-to-copy-array-using-stack</a>
+  - <a href="https://stackoverflow.com/questions/3222861/recursion-in-mips">https://stackoverflow.com/questions/3222861/recursion-in-mips</a>
+  - <a href="https://stackoverflow.com/questions/19612459/mips-how-does-mips-allocate-memory-for-arrays-in-the-stack">https://stackoverflow.com/questions/19612459/mips-how-does-mips-allocate-memory-for-arrays-in-the-stack</a>
+- <a href="https://stackoverflow.com/questions/26351920/how-to-perform-64-bit-addition-and-subtraction-using-mips">64 bit add/sub</a>
+- <a href="https://web.stanford.edu/class/ee182/Projects/PA2/simulator.s">https://web.stanford.edu/class/ee182/Projects/PA2/simulator.s</a>
+- <a href="http://zeta.albion.edu/~dreimann/Spring2012/courses/cs354/projects/">http://zeta.albion.edu/~dreimann/Spring2012/courses/cs354/projects/</a>
+- <a href="https://stackoverflow.com/questions/36815882/mips-how-to-add-one-string-to-another">https://stackoverflow.com/questions/36815882/mips-how-to-add-one-string-to-another</a>
+- <a href="https://stackoverflow.com/questions/7865870/how-to-concatenate-string-in-mips">https://stackoverflow.com/questions/7865870/how-to-concatenate-string-in-mips</a>
+- <a href="https://www.chegg.com/homework-help/questions-and-answers/write-program-read-following-text-file-line-line-detect-words-palindromes-use-palindrome-p-q19403822">https://www.chegg.com/homework-help/questions-and-answers/write-program-read-following-text-file-line-line-detect-words-palindromes-use-palindrome-p-q19403822</a>
+- <a href="https://stackoverflow.com/questions/33377649/in-mips-how-to-use-syscall-14-to-read-through-a-long-file">https://stackoverflow.com/questions/33377649/in-mips-how-to-use-syscall-14-to-read-through-a-long-file</a>
+- <a href="https://stackoverflow.com/questions/2575867/reading-the-file-name-from-user-input-in-mips-assembly">https://stackoverflow.com/questions/2575867/reading-the-file-name-from-user-input-in-mips-assembly</a>
+- <a href="https://stackoverflow.com/questions/59534066/how-can-i-read-my-whole-txt-file-in-one-string-in-mips">https://stackoverflow.com/questions/59534066/how-can-i-read-my-whole-txt-file-in-one-string-in-mips</a>
+- <a href="https://stackoverflow.com/questions/19612459/mips-how-does-mips-allocate-memory-for-arrays-in-the-stack">https://stackoverflow.com/questions/19612459/mips-how-does-mips-allocate-memory-for-arrays-in-the-stack</a>
+- <a href="https://stackoverflow.com/questions/15940331/convert-string-of-ascii-digits-to-int-in-mips-assembler">https://stackoverflow.com/questions/15940331/convert-string-of-ascii-digits-to-int-in-mips-assembler</a>
+- <a href="https://fog.ccsf.edu/~gboyd/cs270/online/mipsIV/mipsIV_probs.html">https://fog.ccsf.edu/~gboyd/cs270/online/mipsIV/mipsIV_probs.html</a>
+- <a href="https://courses.cs.washington.edu/courses/cse410/09sp/examples/MIPSCallingConventionsSummary.pdf">https://courses.cs.washington.edu/courses/cse410/09sp/examples/MIPSCallingConventionsSummary.pdf</a>
+- <a href="https://fog.ccsf.edu/~gboyd/cs270/online/mipsIV/procedures.html">https://fog.ccsf.edu/~gboyd/cs270/online/mipsIV/procedures.html</a>
+- <a href="https://stackoverflow.com/questions/4881233/2d-array-in-mips">https://stackoverflow.com/questions/4881233/2d-array-in-mips</a>
+- <a href="https://stackoverflow.com/questions/40246994/mips-assembly-code-to-find-all-the-prime-numbers-below-an-inputted-number">https://stackoverflow.com/questions/40246994/mips-assembly-code-to-find-all-the-prime-numbers-below-an-inputted-number</a>
+- <a href="http://www.cs.iit.edu/~virgil/cs470/Labs/Lab7.pdf">http://www.cs.iit.edu/~virgil/cs470/Labs/Lab7.pdf</a>
 
 
 ## ARM
@@ -738,6 +776,7 @@
 
 
 ## Raspberry Pi
+- <a href="https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/">https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/</a>
 - Extending the life of the SD card:
   - <a href="https://domoticproject.com/extending-life-raspberry-pi-sd-card/">https://domoticproject.com/extending-life-raspberry-pi-sd-card/</a>
   - <a href="https://raspberrypi.stackexchange.com/questions/169/how-can-i-extend-the-life-of-my-sd-card">https://raspberrypi.stackexchange.com/questions/169/how-can-i-extend-the-life-of-my-sd-card</a>
