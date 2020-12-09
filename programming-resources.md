@@ -9,6 +9,7 @@
 - Interesting programming languages: https://www.btbytes.com/pl.html
 - Christopher Alexander's Design Patterns: http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm
 - https://en.wikipedia.org/wiki/One-instruction_set_computer
+- Michael Abrash: https://www.bluesnews.com/abrash/
 
 
 ## Project Ideas
@@ -624,6 +625,11 @@
 - More PHP Sadness: https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/
 
 
+## jq
+- https://remysharp.com/drafts/jq-recipes
+- https://megamorf.gitlab.io/cheat-sheets/jq/
+
+
 ## Java
 - Google style guide: https://google.github.io/styleguide/javaguide.html
 - Good Java web framework for learning generics: https://struts.apache.org/ 
@@ -782,6 +788,7 @@
 - "Book of Proof" Hammack
 - Discrete Math: http://discrete.openmathbooks.org/dmoi3.html
 - Craft of Text Editors: http://www.finseth.com/craft/index.html
+- Stack computers: https://users.ece.cmu.edu/~koopman/stack_computers/index.html
 
 
 ## Education
@@ -841,6 +848,7 @@
 - Spring 20: CS 6291 Embedded Systems Optimization
 - Summer 20: CS 7638 AI for Robotics
   - https://teapowered.dev/assets/ai4r-notes.pdf
+  - alternate course: http://ais.informatik.uni-freiburg.de/teaching/ss20/robotics/
 - Fall 20: ECE 8843 Side channels and their role in cybersecurity
 - Spring 21:
   - CS 6515 Graduate Algorithms
@@ -855,7 +863,6 @@
 
 ## CCSF
 - CCSF Coders resources page: https://github.com/CCSF-Coders/learning-resources
-- CS211s notes: https://sites.google.com/site/koalalearn/fa2011/cs211s
 
 ### CCSF courses to take
 - CS   177   Software Engineering
@@ -880,10 +887,11 @@
 - MATH 115   Discrete Mathematics 
 - MATH 120   Linear Algebra
 
-### CCSF courses taken
+### CCSF courses taken (partial)
 - CS   270   Comp Architecture w/ Assembly
   - https://fog.ccsf.edu/~gboyd/cs270/online/index.html
   - https://fog.ccsf.edu/~gboyd/cs270/HowThisCourseWorks.pdf
+- CS 211s notes: https://sites.google.com/site/koalalearn/fa2011/cs211s
 
 ### CCSF certificates I've attained:
   - Java: https://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/ComputerProgrammingJavaCertificate.pdf

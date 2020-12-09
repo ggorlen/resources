@@ -30,29 +30,30 @@
 26. [Web development](#web-development)
 27. [Python](#python)
 28. [PHP](#php)
-29. [Java](#java)
-30. [Ruby](#ruby)
-31. [Perl](#perl)
-32. [MIPS](#mips)
-33. [ARM](#arm)
-34. [Raspberry Pi](#raspberry-pi)
-35. [Unix](#unix)
-36. [Prolog](#prolog)
-37. [Code golf](#code-golf)
-38. [Scratch/Snap](#scratch/snap)
-39. [Course sites](#course-sites)
-40. [Algorithmic challenge sites](#algorithmic-challenge-sites)
-41. [Security/CTF sites](#security/ctf-sites)
-42. [Competitive coding](#competitive-coding)
-43. [Bit twiddling](#bit-twiddling)
-44. [Books](#books)
-45. [Education](#education)
-46. [OMSCS](#omscs)
-47. [CCSF](#ccsf)
-48. [Jobs](#jobs)
-49. [Interview prep](#interview-prep)
-50. [Stack Overflow](#stack-overflow)
-51. [Fun](#fun)
+29. [jq](#jq)
+30. [Java](#java)
+31. [Ruby](#ruby)
+32. [Perl](#perl)
+33. [MIPS](#mips)
+34. [ARM](#arm)
+35. [Raspberry Pi](#raspberry-pi)
+36. [Unix](#unix)
+37. [Prolog](#prolog)
+38. [Code golf](#code-golf)
+39. [Scratch/Snap](#scratch/snap)
+40. [Course sites](#course-sites)
+41. [Algorithmic challenge sites](#algorithmic-challenge-sites)
+42. [Security/CTF sites](#security/ctf-sites)
+43. [Competitive coding](#competitive-coding)
+44. [Bit twiddling](#bit-twiddling)
+45. [Books](#books)
+46. [Education](#education)
+47. [OMSCS](#omscs)
+48. [CCSF](#ccsf)
+49. [Jobs](#jobs)
+50. [Interview prep](#interview-prep)
+51. [Stack Overflow](#stack-overflow)
+52. [Fun](#fun)
 
 
 ## General
@@ -60,6 +61,7 @@
 - <a href="https://www.btbytes.com/pl.html">Interesting programming languages</a>
 - <a href="http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm">Christopher Alexander's Design Patterns</a>
 - <a href="https://en.wikipedia.org/wiki/One-instruction_set_computer">https://en.wikipedia.org/wiki/One-instruction_set_computer</a>
+- <a href="https://www.bluesnews.com/abrash/">Michael Abrash</a>
 
 
 ## Project Ideas
@@ -675,6 +677,11 @@
 - <a href="https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/">More PHP Sadness</a>
 
 
+## jq
+- <a href="https://remysharp.com/drafts/jq-recipes">https://remysharp.com/drafts/jq-recipes</a>
+- <a href="https://megamorf.gitlab.io/cheat-sheets/jq/">https://megamorf.gitlab.io/cheat-sheets/jq/</a>
+
+
 ## Java
 - <a href="https://google.github.io/styleguide/javaguide.html">Google style guide</a>
 - <a href="https://struts.apache.org/">Good Java web framework for learning generics</a>
@@ -833,6 +840,7 @@
 - "Book of Proof" Hammack
 - <a href="http://discrete.openmathbooks.org/dmoi3.html">Discrete Math</a>
 - <a href="http://www.finseth.com/craft/index.html">Craft of Text Editors</a>
+- <a href="https://users.ece.cmu.edu/~koopman/stack_computers/index.html">Stack computers</a>
 
 
 ## Education
@@ -892,6 +900,7 @@
 - Spring 20: CS 6291 Embedded Systems Optimization
 - Summer 20: CS 7638 AI for Robotics
   - <a href="https://teapowered.dev/assets/ai4r-notes.pdf">https://teapowered.dev/assets/ai4r-notes.pdf</a>
+  - <a href="http://ais.informatik.uni-freiburg.de/teaching/ss20/robotics/">alternate course</a>
 - Fall 20: ECE 8843 Side channels and their role in cybersecurity
 - Spring 21:
   - CS 6515 Graduate Algorithms
@@ -906,7 +915,6 @@
 
 ## CCSF
 - <a href="https://github.com/CCSF-Coders/learning-resources">CCSF Coders resources page</a>
-- <a href="https://sites.google.com/site/koalalearn/fa2011/cs211s">CS211s notes</a>
 
 ### CCSF courses to take
 - CS   177   Software Engineering
@@ -931,10 +939,11 @@
 - MATH 115   Discrete Mathematics
 - MATH 120   Linear Algebra
 
-### CCSF courses taken
+### CCSF courses taken (partial)
 - CS   270   Comp Architecture w/ Assembly
   - <a href="https://fog.ccsf.edu/~gboyd/cs270/online/index.html">https://fog.ccsf.edu/~gboyd/cs270/online/index.html</a>
   - <a href="https://fog.ccsf.edu/~gboyd/cs270/HowThisCourseWorks.pdf">https://fog.ccsf.edu/~gboyd/cs270/HowThisCourseWorks.pdf</a>
+- <a href="https://sites.google.com/site/koalalearn/fa2011/cs211s">CS 211s notes</a>
 
 ### CCSF certificates I've attained:
   - <a href="https://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/ComputerProgrammingJavaCertificate.pdf">Java</a>
