@@ -65,7 +65,11 @@
 
 
 ## Project Ideas
+- <a href="https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html">More challenging projects</a>
 - script that calls pd patch, generates artwork and posts to bandcamp via puppeteer or another file sharing service
+- matter.js:
+  - putt-putt golf or desert golf
+  - raycaster
 - write another scrobbler that works by day and follows bandcamp
 - bandcamp command line listening streamer based on urls
 - Make a simple DIY label CMS or bandcamp clone; host on Heroku
@@ -96,7 +100,17 @@
 - write a winamp plugin that broadcasts now playing to node API on glitch
   - <a href="http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide">http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide</a>
   - <a href="http://forums.winamp.com/showthread.php?t=224914">http://forums.winamp.com/showthread.php?t=224914</a>
-- Langs/frameworks/libs to learn: Lisp/Scheme/Ml, Go, rxjs/angular, Rust, COBOL
+- Langs/frameworks/libs to learn:
+  - Rails
+  - React Native
+  - Lisp/Scheme/ML
+  - [Tailwind](https://codepen.io/danfascia/pen/jOPajpR?editors=1100)
+  - Haskell
+  - Go
+  - [rxjs](https://www.learnrxjs.io/)/angular
+  - [Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+  - COBOL
+  - x86
 - <a href="https://developers.google.com/blogger/docs/3.0/getting_started">Listening journal or similar using blogger API</a>
 - <a href="https://github.com/TooTallNate/node-lame/blob/master/deps/mpg123/doc/README.remote">make a music player app based on mpg123</a>
   - <a href="https://stackoverflow.com/questions/35781991/run-a-command-that-needs-input-without-hanging-but-still-allow-input">https://stackoverflow.com/questions/35781991/run-a-command-that-needs-input-without-hanging-but-still-allow-input</a>
@@ -118,6 +132,9 @@
   - sieve
   - sorting
   - base converter
+- dithering:
+  - <a href="https://surma.dev/things/ditherpunk/">https://surma.dev/things/ditherpunk/</a>
+  - <a href="https://en.wikipedia.org/wiki/Ordered_dithering">https://en.wikipedia.org/wiki/Ordered_dithering</a>
 
 
 ## Project Euler
@@ -290,8 +307,11 @@
   - <a href="http://journal.stuffwithstuff.com/2015/09/07/what-the-hero-sees/">http://journal.stuffwithstuff.com/2015/09/07/what-the-hero-sees/</a>
   - <a href="https://legends2k.github.io/2d-fov/design.html">https://legends2k.github.io/2d-fov/design.html</a>
   - <a href="https://www.emanueleferonato.com/2015/02/03/play-with-light-and-dark-using-ray-casting-and-visibility-polygons/">In Phaser using a raycasting lib</a>
-- <a href="https://dev.opera.com/articles/3d-games-with-canvas-and-raycasting-part-1/">3d Wolfenstein raycasting tutorial in JS</a>
+- Raycasting:
+  - <a href="https://dev.opera.com/articles/3d-games-with-canvas-and-raycasting-part-1/">3d Wolfenstein raycasting tutorial in JS</a>
+  - <a href="https://lodev.org/cgtutor/raycasting.html">https://lodev.org/cgtutor/raycasting.html</a>
 - <a href="https://en.wikipedia.org/wiki/Minichess">Minichess</a>
+- <a href="https://software-lab.de/chess/README">PicoLisp chess</a>
 - <a href="https://www.redblobgames.com/grids/hexagons/">Minesweeper with hex grid (try tri grid as well)</a>
 - <a href="https://www.youtube.com/watch?v=KboGyIilP6k">Dots and boxes</a>
 - <a href="https://en.wikipedia.org/wiki/Breakthru_(board_game)">Breakthru</a>
@@ -410,6 +430,9 @@
 
 
 ## Visual/animation
+- Learn graphics from scratch:
+  - <a href="https://www.scratchapixel.com/">https://www.scratchapixel.com/</a>
+  - <a href="https://gabrielgambetta.com/computer-graphics-from-scratch/introduction.html">https://gabrielgambetta.com/computer-graphics-from-scratch/introduction.html</a>
 - <a href="http://zreference.com/projects/graphics/">Inspiring zreference projects</a>
 - <a href="https://bit101.github.io/lab/dailies/170413.html">Also inspiring, bit101 dailies</a>
 - <a href="http://cs.brown.edu/people/rtamassi/gdhandbook/">Handbook of Graph Drawing and Visualization</a>
@@ -457,6 +480,7 @@
 
 ### WebGL
 - <a href="https://thebookofshaders.com/">The book of shaders</a>
+- <a href="https://learnopengl.com/">https://learnopengl.com/</a>
 - <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial">WebGL tutorial</a>
 - <a href="https://bits.coop/articles/rigging-and-animation/">Try out regl</a>
 - <a href="https://github.com/regl-project/regl">https://github.com/regl-project/regl</a>
@@ -577,8 +601,10 @@
 
 
 ## Cryptography
+- <a href="https://cryptopals.com/">Cryptopals challenges</a>
 - <a href="https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf">A Graduate Course in Applied Cryptography</a>
 - <a href="http://security.stackexchange.com/questions/45963/diffie-hellman-key-exchange-in-plain-english">DH key exchange in plain English</a>
+- <a href="https://nakabonne.dev/posts/understanding-how-aes-encryption-works/">Understanding how AES encryption works</a>
 
 
 ## Data science
@@ -645,6 +671,7 @@
 
 
 ## Python
+- <a href="https://realpython.com/cpython-source-code-guide/">CPython source code guide</a>
 - <a href="http://norvig.com/lispy.html">Write a Lisp interpreter in Python</a>
 - <a href="https://www.pythonanywhere.com/">Host a free Python web app</a>
 - <a href="http://www.nltk.org/book/">Natural language processing with Python</a>
@@ -854,6 +881,8 @@
 - <a href="https://picoctf.com/">Hacking competition for kids</a>
 - <a href="https://hackthissite.org/">https://hackthissite.org/</a>
 - <a href="https://www.hackthebox.eu/">https://www.hackthebox.eu/</a>
+- <a href="https://pwnable.kr/">https://pwnable.kr/</a>
+- <a href="https://pwnable.tw/">https://pwnable.tw/</a>
 
 
 ## Competitive coding
@@ -872,6 +901,7 @@
 
 
 ## Books
+- <a href="https://csgordon.github.io/books.html">List of free online CS books</a>
 - <a href="https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list">Definitive C++ book list</a>
 - <a href="http://proquest.safaribooksonline.com/">Tons of free CS books</a>
 - <a href="http://www.greenteapress.com/thinkbayes/html/index.html">Think Bayes/DSP/Complexity/OS/etc</a>
@@ -1040,6 +1070,7 @@
   - <a href="https://stackoverflow.com/users/128511/">https://stackoverflow.com/users/128511/</a>
   - <a href="https://stackoverflow.com/users/501557/">https://stackoverflow.com/users/501557/</a>
   - <a href="https://stackoverflow.com/users/1566221/">https://stackoverflow.com/users/1566221/</a>
+  - <a href="https://stackoverflow.com/users/589924/">https://stackoverflow.com/users/589924/</a>
 
 
 ## Fun

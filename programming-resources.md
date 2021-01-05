@@ -13,7 +13,11 @@
 
 
 ## Project Ideas
+- More challenging projects: https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html
 - script that calls pd patch, generates artwork and posts to bandcamp via puppeteer or another file sharing service
+- matter.js:
+  - putt-putt golf or desert golf
+  - raycaster
 - write another scrobbler that works by day and follows bandcamp
 - bandcamp command line listening streamer based on urls
 - Make a simple DIY label CMS or bandcamp clone; host on Heroku
@@ -44,7 +48,17 @@
 - write a winamp plugin that broadcasts now playing to node API on glitch
   - http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide
   - http://forums.winamp.com/showthread.php?t=224914
-- Langs/frameworks/libs to learn: Lisp/Scheme/Ml, Go, rxjs/angular, Rust, COBOL
+- Langs/frameworks/libs to learn: 
+  - Rails
+  - React Native
+  - Lisp/Scheme/ML 
+  - [Tailwind](https://codepen.io/danfascia/pen/jOPajpR?editors=1100)
+  - Haskell
+  - Go
+  - [rxjs](https://www.learnrxjs.io/)/angular
+  - [Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+  - COBOL
+  - x86
 - Listening journal or similar using blogger API: https://developers.google.com/blogger/docs/3.0/getting_started 
 - make a music player app based on mpg123: https://github.com/TooTallNate/node-lame/blob/master/deps/mpg123/doc/README.remote
   - https://stackoverflow.com/questions/35781991/run-a-command-that-needs-input-without-hanging-but-still-allow-input
@@ -66,6 +80,9 @@
   - sieve
   - sorting
   - base converter
+- dithering:
+  - https://surma.dev/things/ditherpunk/
+  - https://en.wikipedia.org/wiki/Ordered_dithering
 
 
 ## Project Euler
@@ -238,8 +255,11 @@
   - http://journal.stuffwithstuff.com/2015/09/07/what-the-hero-sees/
   - https://legends2k.github.io/2d-fov/design.html
   - In Phaser using a raycasting lib: https://www.emanueleferonato.com/2015/02/03/play-with-light-and-dark-using-ray-casting-and-visibility-polygons/
-- 3d Wolfenstein raycasting tutorial in JS: https://dev.opera.com/articles/3d-games-with-canvas-and-raycasting-part-1/  
+- Raycasting:
+  - 3d Wolfenstein raycasting tutorial in JS: https://dev.opera.com/articles/3d-games-with-canvas-and-raycasting-part-1/  
+  - https://lodev.org/cgtutor/raycasting.html
 - Minichess: https://en.wikipedia.org/wiki/Minichess
+- PicoLisp chess: https://software-lab.de/chess/README
 - Minesweeper with hex grid (try tri grid as well): https://www.redblobgames.com/grids/hexagons/
 - Dots and boxes: https://www.youtube.com/watch?v=KboGyIilP6k
 - Breakthru: https://en.wikipedia.org/wiki/Breakthru_(board_game)
@@ -358,6 +378,9 @@
 
 
 ## Visual/animation
+- Learn graphics from scratch:  
+  - https://www.scratchapixel.com/
+  - https://gabrielgambetta.com/computer-graphics-from-scratch/introduction.html
 - Inspiring zreference projects: http://zreference.com/projects/graphics/
 - Also inspiring, bit101 dailies: https://bit101.github.io/lab/dailies/170413.html
 - Handbook of Graph Drawing and Visualization: http://cs.brown.edu/people/rtamassi/gdhandbook/
@@ -405,6 +428,7 @@
 
 ### WebGL
 - The book of shaders: https://thebookofshaders.com/
+- https://learnopengl.com/
 - WebGL tutorial: https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial
 - Try out regl: https://bits.coop/articles/rigging-and-animation/
 - https://github.com/regl-project/regl
@@ -525,8 +549,10 @@
 
 
 ## Cryptography
+- Cryptopals challenges: https://cryptopals.com/
 - A Graduate Course in Applied Cryptography: https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf
 - DH key exchange in plain English: http://security.stackexchange.com/questions/45963/diffie-hellman-key-exchange-in-plain-english
+- Understanding how AES encryption works: https://nakabonne.dev/posts/understanding-how-aes-encryption-works/
 
 
 ## Data science
@@ -593,6 +619,7 @@
 
 
 ## Python
+- CPython source code guide: https://realpython.com/cpython-source-code-guide/
 - Write a Lisp interpreter in Python: http://norvig.com/lispy.html
 - Host a free Python web app: https://www.pythonanywhere.com/
 - Natural language processing with Python: http://www.nltk.org/book/
@@ -802,6 +829,8 @@
 - Hacking competition for kids: https://picoctf.com/
 - https://hackthissite.org/
 - https://www.hackthebox.eu/
+- https://pwnable.kr/
+- https://pwnable.tw/
 
 
 ## Competitive coding
@@ -820,6 +849,7 @@
 
 
 ## Books 
+- List of free online CS books: https://csgordon.github.io/books.html
 - Definitive C++ book list: https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
 - Tons of free CS books: http://proquest.safaribooksonline.com/
 - Think Bayes/DSP/Complexity/OS/etc: http://www.greenteapress.com/thinkbayes/html/index.html
@@ -988,6 +1018,7 @@
   - https://stackoverflow.com/users/128511/
   - https://stackoverflow.com/users/501557/
   - https://stackoverflow.com/users/1566221/
+  - https://stackoverflow.com/users/589924/
 
 
 ## Fun
