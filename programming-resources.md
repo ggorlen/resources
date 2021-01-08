@@ -6,19 +6,20 @@
 
 ## General
 - Inspiration!: https://www.chessprogramming.org/Keith_Gorlen
-- Interesting programming languages: https://www.btbytes.com/pl.html
 - Christopher Alexander's Design Patterns: http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm
-- https://en.wikipedia.org/wiki/One-instruction_set_computer
 - Michael Abrash: https://www.bluesnews.com/abrash/
+- https://en.wikipedia.org/wiki/One-instruction_set_computer
 
 
 ## Project Ideas
-- More challenging projects: https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html
 - script that calls pd patch, generates artwork and posts to bandcamp via puppeteer or another file sharing service
 - matter.js:
   - putt-putt golf or desert golf
   - raycaster
+  - matterjs experiment like https://jsfiddle.net/mityok/c9qt2g28/10/
 - write another scrobbler that works by day and follows bandcamp
+- auto-queue recent bandcamp releases into command line player via scraping 
+  - could be a master "to listen" list on glitch which the command line script can automatically pull from. option to search and autoplay something from discogs, youtube or bandcamp
 - bandcamp command line listening streamer based on urls
 - Make a simple DIY label CMS or bandcamp clone; host on Heroku
 - write some RTS demo sketches 
@@ -27,19 +28,20 @@
   - Boids: http://www.red3d.com/cwr/boids/
 - write a time clock web app and keep exact totals for freelance work
 - react native mp3 player with mono mode using mpg123 or something
-- auto-queue recent bandcamp releases into command line player via scraping 
-  - could be a master "to listen" list on glitch which the command line script can automatically pull from. option to search and autoplay something from discogs, youtube or bandcamp
 - write a stack machine
 - stack overflow comments sentiment analyzer
 - do generative eno ambient series covers with pointillist effect in js canvas
 - make an IR-\>spim runner in node/mips compiler + host on heroku
+- Tiger to JS transpiler
+- MIPS decompiler
 - https://en.wikipedia.org/wiki/Tic-tac-toe_variants
-- write an app that scrapes recent posts by favorite SO users
+- app that scrapes recent posts by favorite SO users
 - Challenge/project idea lists:
+  - More challenging projects: https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html
   - https://www.webfx.com/blog/web-design/10-puzzle-websites-to-sharpen-your-programming-skills/
   - https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/
-- Look for projects at Rosetta Code: http://rosettacode.org/wiki/Rosetta_Code
-- "Programming by Doing" simple projects for students: https://programmingbydoing.com/
+  - Look for projects at Rosetta Code: http://rosettacode.org/wiki/Rosetta_Code
+  - "Programming by Doing" simple projects for students: https://programmingbydoing.com/
 - Organize mp3s: beets.io and https://www.discogs.com/developers/
 - The Logo Foundation: http://el.media.mit.edu/logo-foundation/index.html
 - NetLogo: https://en.wikipedia.org/wiki/NetLogo
@@ -49,26 +51,26 @@
   - http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide
   - http://forums.winamp.com/showthread.php?t=224914
 - Langs/frameworks/libs to learn: 
+  - Tailwind: https://codepen.io/danfascia/pen/jOPajpR?editors=1100
   - Rails
   - React Native
   - Lisp/Scheme/ML 
-  - [Tailwind](https://codepen.io/danfascia/pen/jOPajpR?editors=1100)
   - Haskell
   - Go
-  - [rxjs](https://www.learnrxjs.io/)/angular
-  - [Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+  - Angular/rxjs
+  - Rxjava
+  - Rust: https://fasterthanli.me/articles/a-half-hour-to-learn-rust
   - COBOL
   - x86
+  - prolog
 - Listening journal or similar using blogger API: https://developers.google.com/blogger/docs/3.0/getting_started 
 - make a music player app based on mpg123: https://github.com/TooTallNate/node-lame/blob/master/deps/mpg123/doc/README.remote
   - https://stackoverflow.com/questions/35781991/run-a-command-that-needs-input-without-hanging-but-still-allow-input
   - https://sourceforge.net/p/mpg123/mailman/mpg123-users/thread/CAN5OgQWuYFt4mbbjDZcxMMdTQLZoNiF8AgH5S8Z8rwraN%2B65uA%40mail.gmail.com/
   - https://arstechnica.com/civis/viewtopic.php?f=20&t=850451
-- Voice/video chat or stream with WebRTC: https://webrtc.github.io/samples/src/content/capture/canvas-video/  
-- Tiger to JS transpiler
-- Simple html parser like htm or https://limpet.net/mbrubeck/2014/08/11/toy-layout-engine-2.html
-- Google Docs but all vim/markdown. Could add multiplayer multicolor text editor/highlighter. Could be a good edutech project.
-- matterjs experiment like https://jsfiddle.net/mityok/c9qt2g28/10/
+- Voice/video chat or stream with PeerJS / WebRTC: https://webrtc.github.io/samples/src/content/capture/canvas-video/  
+- Simple HTML parser like htm or https://limpet.net/mbrubeck/2014/08/11/toy-layout-engine-2.html
+- Google Docs but all vim/markdown. Could add multiplayer multicolor text editor/highlighter.
 - make a regex blockly demo on codepen or write a generator for some language that isn't supported yet
 - write your own react: https://pomb.us/build-your-own-react/
 - me vs world correspondence chess app for my homepage
@@ -99,12 +101,10 @@
 - Yale CPSC 223: http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html
 - Algorithm archive: https://www.algorithm-archive.org/
 - Skip list: https://en.wikipedia.org/wiki/Skip_list
-- Splay tree: https://en.wikipedia.org/wiki/Splay_tree
 - Word ladder: https://www.geeksforgeeks.org/word-ladder-length-of-shortest-chain-to-reach-a-target-word/
 - Disjoint set/ union find: https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/
-- Segment trees: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/
-- Self-avoiding walk: https://en.wikipedia.org/wiki/Self-avoiding_walk
 - Bellman-Ford: https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm
+- Self-avoiding walk: https://en.wikipedia.org/wiki/Self-avoiding_walk
 - Princeton algorithm assignments: http://www.cs.princeton.edu/courses/archive/spr10/cos226/assignments.html
 - Boyer-Moore majority vote algorithm: https://gregable.com/2013/10/majority-vote-algorithm-find-majority.html
 - Sieve of Eratosthenes: https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
@@ -145,6 +145,8 @@
 - Determine if a tree is a BST: https://www.youtube.com/watch?v=H13iz0rbeeo
 - https://en.wikipedia.org/wiki/Left-child_right-sibling_binary_tree
 - https://en.wikipedia.org/wiki/AVL_tree
+- Segment trees: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/
+- Splay tree: https://en.wikipedia.org/wiki/Splay_tree
 
 ### Strings/arrays
 - Find combinations of a string in another string: http://stackoverflow.com/questions/24720332/c-find-all-possible-combinations-of-a-string-in-another-string 
@@ -155,7 +157,6 @@
 ## Mazes
 - Think Labyrinth: http://www.astrolog.org/labyrnth/algrithm.htm
 - Buckblog maze generation algorithm overview: http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap
-- Random walk: https://en.wikipedia.org/wiki/Random_walk  
 
 
 ## Cellular automata
@@ -168,7 +169,7 @@
 - Nature of Code by Shiffman, chapter 7: http://natureofcode.com/book/chapter-7-cellular-automata/
 - Wireworld: https://en.wikipedia.org/wiki/Wireworld
 - Brian's Brain: https://en.wikipedia.org/wiki/Brian%27s_Brain
-- Von Neumann: https://en.wikipedia.org/wiki/Von_Neumann_cellular_automaton
+- Von Neumann CA: https://en.wikipedia.org/wiki/Von_Neumann_cellular_automaton
 - Langton's loops: https://en.wikipedia.org/wiki/Langton%27s_loops
 - CoDi: https://en.wikipedia.org/wiki/CoDi
 - Life-like cellular automata (incl. Seeds): https://en.wikipedia.org/wiki/Life-like_cellular_automaton
@@ -189,6 +190,7 @@
 - Incremental approach to compiler construction: http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf
 - Write a compiler: https://norasandler.com/2017/11/29/Write-a-Compiler.html
 - Crafting Interpreters: http://craftinginterpreters.com/
+- Nystrom's compiler books: https://twitter.com/munificentbob/status/901543375945388032
 - Python interpreter in Python: http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html
 - nearley/moo js: https://nearley.js.org/docs/grammar
 - Compiler books: https://dickgrune.com/
@@ -196,18 +198,23 @@
 - Writing your own toy compiler: https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/
 - Lexical analysis: https://en.wikibooks.org/wiki/Compiler_Construction/Lexical_analysis
 - Simple tutorial and useful references: https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/#references
-- Simple top-down parsing: http://effbot.org/zone/simple-top-down-parsing.htm
 - My first language front-end: 
   - https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html
   - https://github.com/llvm-mirror/llvm/blob/master/examples/Kaleidoscope/MCJIT/initial/toy.cpp
 - Mega compilers resource: https://stackoverflow.com/questions/1669/learning-to-write-a-compiler
 - CS143: https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/
 - CIS341: https://www.seas.upenn.edu/~cis341/current/
-- Concatenative Languages: https://concatenative.org/wiki/view/Concatenative%20language
 - https://tiarkrompf.github.io/notes/?/just-write-the-parser/
-- lispcompiler.com
+- Lisp:
+  - lispcompiler.com
+  - Build your own lisp: http://www.buildyourownlisp.com/
+  - Write a Lisp interpreter in Python: http://norvig.com/lispy.html
 - Let's Build a Compiler, by Jack Crenshaw: https://compilers.iecc.com/crenshaw/
-- Nystrom's compiler books: https://twitter.com/munificentbob/status/901543375945388032
+
+
+## Programming languages
+- Interesting programming languages: https://www.btbytes.com/pl.html
+- Concatenative Languages: https://concatenative.org/wiki/view/Concatenative%20language
 
 
 ## Esoteric programming languages
@@ -327,7 +334,7 @@
 - Logic puzzles list (KenKen, Sudoku, Sokoban, etc): https://en.wikipedia.org/wiki/Category:Logic_puzzles
 - Simon Tatham: https://www.chiark.greenend.org.uk/~sgtatham/puzzles/
 - Do chess packing puzzles
-- Erich Friendman's Puzzle Palace: http://www2.stetson.edu/~efriedma/
+- Erich Friendman's Puzzle Palace (dead link as of 1/2020): http://www2.stetson.edu/~efriedma/
 - Slitherlink: https://en.wikipedia.org/wiki/Slitherlink
 - Mindsports (links resource): http://www.mindsports.nl/index.php/puzzle-links
 - Zendoku puzzle generation: http://garethrees.org/2007/06/10/zendoku-generation/#section-4
@@ -336,7 +343,6 @@
 - Mondrian puzzle: https://www.youtube.com/watch?v=49KvZrioFB0
 - Various puzzles from the Sudoku inventors: http://nikoli.co.jp/en/puzzles/
 - Peter Norvig on Sudoku and other constraint problems (such as the skyscraper puzzle): http://norvig.com/sudoku.html
-- More constraint puzzles: https://www.wikihow.com/Solve-a-Magnets-Puzzle
 - Nonogram: https://en.wikipedia.org/wiki/Nonogram
 - Ricochet Robots: https://en.wikipedia.org/wiki/Ricochet_Robot
 - Slothouber-Graatsma puzzle: https://en.wikipedia.org/wiki/Slothouber%E2%80%93Graatsma_puzzle 
@@ -381,7 +387,7 @@
 - Learn graphics from scratch:  
   - https://www.scratchapixel.com/
   - https://gabrielgambetta.com/computer-graphics-from-scratch/introduction.html
-- Inspiring zreference projects: http://zreference.com/projects/graphics/
+- Inspiring zreference projects: https://zreference.com/projects/graphics/
 - Also inspiring, bit101 dailies: https://bit101.github.io/lab/dailies/170413.html
 - Handbook of Graph Drawing and Visualization: http://cs.brown.edu/people/rtamassi/gdhandbook/
 - Convex hull: 
@@ -399,7 +405,6 @@
 - goto80 ASCII art: http://goto80.com/chipflip/06/
 - Fibonacci spiral: https://en.wikipedia.org/wiki/Fibonacci_number
 - Architecture: look for triangle perspective designs, Escher: https://s-media-cache-ak0.pinimg.com/564x/d6/ff/64/d6ff6450173c6410c919b06e07958227.jpg
-- Do a visual plotting the orthocenter, medicenter, and circumcenter of a triangle
 - Write a script that turns text into blocky ASCII text or renders images in ASCII
 - JSXGraph: https://jsxgraph.uni-bayreuth.de/wiki/index.php/Category:Examples
 - Bezier Curves:
@@ -446,7 +451,7 @@
 - L-systems in inkscape: https://thebrickinthesky.wordpress.com/2013/03/17/l-systems-and-penrose-p3-in-inkscape
 - Girih tiles: https://en.wikipedia.org/wiki/Girih_tiles
 - Wallpaper group: https://en.wikipedia.org/wiki/Wallpaper_group
-- Morphing Tiling: https://morphingtiling.wordpress.com/page/2/
+- Morphing Tiling: https://morphingtiling.wordpress.com
 - Transcendent Code: https://transcendentcode.wordpress.com/
 - Penrose tiling: 
   - http://preshing.com/20110831/penrose-tiling-explained/ 
@@ -490,7 +495,6 @@
 - Collision detection:
   - http://www.dyn4j.org/2010/01/sat/
   - https://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169
-  - https://wildbunny.co.uk/blog/2011/04/20/collision-detection-for-dummies/
   - https://www.codeproject.com/Articles/15573/2D-Polygon-Collision-Detection
   - https://stackoverflow.com/questions/10962379/how-to-check-intersection-between-2-rotated-rectangles/12414951#12414951
   - https://github.com/antishow/collision-demo/tree/master/library/js/src
@@ -531,16 +535,15 @@
 
 
 ## Computer Science
-- CS SE FAQ: https://cs.meta.stackexchange.com/questions/599/reference-answers-to-frequently-asked-questions/847#847
+- CS SE FAQ: https://cs.meta.stackexchange.com/questions/599/reference-answers-to-frequently-asked-questions/
 - Rick Hehner's top 10: http://www.cs.toronto.edu/~hehner/best.html
+- SAT SMT by Example book: https://yurichev.com/writings/SAT_SMT_by_example.pdf
 - Software foundations book series: https://softwarefoundations.cis.upenn.edu/
 - JFLAP: http://www.jflap.org/
-- SAT SMT by Example: https://yurichev.com/writings/SAT_SMT_by_example.pdf
 
 
 ## Machine learning
 - Deep Learning book: http://www.deeplearningbook.org/
-- wasd12345 on GitHub: https://github.com/wasd12345
 
 
 ## AI
@@ -588,7 +591,6 @@
 
 
 ## C
-- Build your own lisp: http://www.buildyourownlisp.com/
 - Write your own OS: https://wiki.osdev.org/Tutorials
 - Beej guide to GDB: https://beej.us/guide/bggdb/
 - C coding standard: https://barrgroup.com/Embedded-Systems/Books/Embedded-C-Coding-Standard
@@ -620,12 +622,9 @@
 
 ## Python
 - CPython source code guide: https://realpython.com/cpython-source-code-guide/
-- Write a Lisp interpreter in Python: http://norvig.com/lispy.html
 - Host a free Python web app: https://www.pythonanywhere.com/
-- Natural language processing with Python: http://www.nltk.org/book/
+- NLTK book: http://www.nltk.org/book/
 - Pygame: http://inventwithpython.com/pygame/
-- Automate the boring stuff: https://automatetheboringstuff.com/
-- Simple Python graphics library: https://www.rose-hulman.edu/Users/faculty/young/CS-Classes/resources/Python/ZelleGraphics.html
 - Flask:
   - https://exploreflask.com/en/latest/
   - https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
@@ -635,9 +634,7 @@
   - http://www.brpreiss.com/books/opus7/
 - Computer vision with python: http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf
 - Effective Python: http://www.effectivepython.com/
-- How to think like a computer scientist: http://interactivepython.org/courselib/static/thinkcspy/index.html
 - Python Challenge: http://pythonchallenge.com/
-- Tkinterbook: http://effbot.org/tkinterbook/
 
 
 ## PHP
@@ -665,22 +662,9 @@
 - https://megamorf.gitlab.io/cheat-sheets/jq/
 
 
-## Java
-- Google style guide: https://google.github.io/styleguide/javaguide.html
-- Good Java web framework for learning generics: https://struts.apache.org/ 
-- Java sorting algorithms: http://java2novice.com/java-sorting-algorithms/
-- Java send HTTP request: http://stackoverflow.com/questions/2793150/using-java-net-urlconnection-to-fire-and-handle-http-requests
-- Java send email: http://stackoverflow.com/questions/3649014/send-email-using-java
-
-
 ## Ruby
 - Why's Poignant Guide to Ruby: http://poignant.guide/book/chapter-6.html
-- Nice Ruby regex tutorial: http://ruby-doc.com/docs/ProgrammingRuby/html/tut_stdtypes.html
-- Programming Ruby: http://ruby-doc.com/docs/ProgrammingRuby/html/rubyworld.html
-
-
-## Perl
-- Perl data structures cookbook: http://perldoc.perl.org/perldsc.html
+- Programming Ruby: http://ruby-doc.com/docs/ProgrammingRuby/html/index.html
 
 
 ## MIPS
@@ -751,7 +735,7 @@
 
 
 ## Raspberry Pi
-- https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/
+- Baking PI OS course: https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/
 - Extending the life of the SD card:
   - https://domoticproject.com/extending-life-raspberry-pi-sd-card/
   - https://raspberrypi.stackexchange.com/questions/169/how-can-i-extend-the-life-of-my-sd-card
@@ -765,6 +749,7 @@
 ## Prolog 
 - FSAs in Prolog: http://cs.union.edu/~striegnk/courses/nlp-with-prolog/html/node5.html#l1.prolog
 - 99 prolog problems: https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/
+- Power of Prolog textbook: https://www.metalevel.at/prolog
 
 
 ## Code golf
@@ -784,16 +769,17 @@
   - https://wiki.scratch.mit.edu/wiki/Recursion_and_Fractals#Creating_the_Koch_Curve
 - Snap instead of Scratch: http://www.ocsmag.com/2016/07/12/dump-scratch-use-blockly-or-snap-instead/
 - Multiwingspan projects: http://www.multiwingspan.co.uk/scratch.php?page=ex1
+- funut YT: https://www.youtube.com/channel/UCsID64th1ocXiIqcRLW_svg
 
 
 ## Course sites
 - Coding the Matrix (linear algebra through CS): http://codingthematrix.com/
 - Nand2Tetris: http://nand2tetris.org/
+- Udacity intro to theoretical CS: https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313
 - Advanced Web Developer Bootcamp: https://www.udemy.com/the-advanced-web-developer-bootcamp/
 - Lynda SFPL: https://www.lynda.com/portal/patron?org=sfpl.org
 - Coursera algorithms classes (pts 1 & 2): https://www.coursera.org/learn/algorithms-part1
 - Egghead: https://egghead.io/
-- Udacity intro to theoretical CS: https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313
 - Jeff Erickson's algorithms: http://jeffe.cs.illinois.edu/teaching/algorithms/
 - UW Data Structures & Algorithms: https://courses.cs.washington.edu/courses/cse326/03wi/326lecturesa.shtml
 - Math: 
@@ -806,13 +792,15 @@
   - https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
 
-## Algorithmic challenge sites
+## Competitive coding
 - Google Code Jam: https://code.google.com/codejam/past-contests
   - Go-Hero: https://www.go-hero.net/jam/16/ has archive all the past Google Code Jam problems w/ solutions
 - Daily Programmer: https://www.reddit.com/r/dailyprogrammer/
 - Math problems: https://www.mathworks.com/matlabcentral/cody/problems
 - Learneroo: https://www.learneroo.com/
-- Topcoder: https://www.topcoder.com/getting-started
+- Topcoder: 
+  - https://www.topcoder.com/getting-started
+  - https://www.topcoder.com/community/competitive-programming/
 - Hacker Earth: https://www.hackerearth.com/challenges/
 - Code chef: https://www.codechef.com/
 - SPOJ: http://www.spoj.com/
@@ -821,8 +809,14 @@
 - Kattis: https://kattis.com
 - Coding Bat: http://codingbat.com
 - Timus: https://acm.timus.ru/
-- Code kata: http://codekata.pragprog.com/
+- Code kata: http://codekata.com/
 - Root me: https://www.root-me.org/en/Challenges/Web-Client/Javascript-Native-code
+- CSES: https://cses.fi/
+  - Competitive Programmer's Handbook: https://cses.fi/book/book.pdf
+- Introduction to programming contests: http://web.stanford.edu/class/cs97si/
+- Codeforces: http://codeforces.com/
+- Tons of tips & links: http://www.pvv.ntnu.no/~spaans/programming.html
+- SWERC past problem sets: https://swerc.eu/2017/problems/
 
 
 ## Security/CTF sites
@@ -833,16 +827,6 @@
 - https://pwnable.tw/
 
 
-## Competitive coding
-- CSES: https://cses.fi/
-- Competitive Programmer's Handbook: https://cses.fi/book/book.pdf
-- Introduction to programming contests: http://web.stanford.edu/class/cs97si/
-- Codeforces: http://codeforces.com/
-- Topcoder: https://www.topcoder.com/community/competitive-programming/
-- Tons of tips & links: http://www.pvv.ntnu.no/~spaans/programming.html
-- SWERC past problem sets: https://swerc.eu/2017/problems/
-
-
 ## Bit twiddling
 - http://graphics.stanford.edu/~seander/bithacks.html
 - http://realtimecollisiondetection.net/blog/?p=78
@@ -850,12 +834,12 @@
 
 ## Books 
 - List of free online CS books: https://csgordon.github.io/books.html
+- Think Bayes/DSP/Complexity/OS/etc: http://www.greenteapress.com/thinkbayes/html/index.html
 - Definitive C++ book list: https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
 - Tons of free CS books: http://proquest.safaribooksonline.com/
-- Think Bayes/DSP/Complexity/OS/etc: http://www.greenteapress.com/thinkbayes/html/index.html
 - Fuzzing book (software testing): https://www.fuzzingbook.org/
-- "Book of Proof" Hammack
 - Discrete Math: http://discrete.openmathbooks.org/dmoi3.html
+- "Book of Proof" Hammack
 - Craft of Text Editors: http://www.finseth.com/craft/index.html
 - Stack computers: https://users.ece.cmu.edu/~koopman/stack_computers/index.html
 
@@ -864,14 +848,13 @@
 - SFSU
   - http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ms-computer-science/
   - Prospective students are welcome to send any questions to the graduate advising assistant at (csgrad@sfsu.edu)
+- CSU Fullerton: https://www.calstateonline.net/Cal-State-Campuses/CSU-Fullerton
 - VT: http://www.vtmit.vt.edu/
-- Bootcamps: http://getcoding.hackreactor.com/remote-part-time
 - Internships:
   - https://www.indeed.com/q-Software-Engineering-Intern-l-San-Francisco-Bay-Area,-CA-jobs.html
   - http://www.engineerjobs.com/internships/software-engineering/california/bay-area.php
   - https://www.smartrecruiters.com/Line2/112808690-web-developer-internship-front-end
 - Mills: https://www.mills.edu/academics/graduate-programs/computer-science/
-- CSU Fullerton: https://www.calstateonline.net/Cal-State-Campuses/CSU-Fullerton
 - Adv. certif. in web/mobile via SDSU: https://www.ces.sdsu.edu/science-computers-technology/advanced-certificate-web-and-mobile-applications-development
 - Northeastern Silicon Valley: http://www.northeastern.edu/siliconvalley/admissions/
 - College choice CS: https://www.collegechoice.net/rankings/best-online-masters-in-computer-science/
@@ -879,30 +862,28 @@
 
 
 ## OMSCS
-
-- Course syllabi: https://drive.google.com/drive/u/0/folders/1ELjIQBaekmSF0fspJn4W7iuOWh3UxYN_
 - Course videos: https://omscs.gatech.edu/search/node/course%20videos
-- **Remember to convert EST to PST for registration**
+- Course syllabi: https://drive.google.com/drive/u/0/folders/1ELjIQBaekmSF0fspJn4W7iuOWh3UxYN_
 
 ### Courses to take
+- **Remember to convert EST to PST for registration**
 - CSE 6220 Intro to High Performance Computing: https://www-users.cs.umn.edu/~karypis/parbook/
 - CS 6265 Information Security Lab
   - https://tc.gts3.org/cs6265/2020-spring/cal.html
   - http://phrack.com
 - CS 6035 Intro to Information Security
   - https://drive.google.com/file/d/19XxlM2Mo4wBonnQdVnUUo10Cqix-Odej/view
+- ISYE 6501 Intro to Analytics Modeling
+  - https://statlearning.com/
+- CS 6260 Applied Cryptography
+  - https://teapowered.dev/assets/crypto-notes.pdf
 - CS 6250 Computer Networks
   - prereq course: https://www.cc.gatech.edu/~rama/CS2200-External/
   - more prereq/alternate suggestions: https://github.com/ossu/computer-science/issues/520
-- ISYE 6501 Intro to Analytics Modeling
-  - http://faculty.marshall.usc.edu/gareth-james/ISL/
-- CS 6260 Applied Cryptography
-  - https://teapowered.dev/assets/crypto-notes.pdf
 - CS 7280 Network Science
 - ISYE 6644 Simulation
 - CS 6601 Artificial Intelligence
-- CS 6460 Educational Technology
-- interesting 6310 textbooks worth looking into: https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/
+- interesting 6310 textbooks: https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/
 
 ### Completed courses
 - Fall 18: CS 6200 Intro to Operating Systems
@@ -921,13 +902,7 @@
 - Fall 20: ECE 8843 Side channels and their role in cybersecurity
 - Spring 21:
   - CS 6515 Graduate Algorithms
-    - https://gt-algorithms.com/
-    - https://cs170.org/
-    - http://omscs.wikidot.com/courses:cs6515
-    - https://teapowered.dev/assets/ga-notes.pdf
-    - http://timroughgarden.org/
   - CS 7210 Distributed Systems
-    - https://drive.google.com/file/d/1m9h2xvSLKXpopMBrfUbIkNa9apiKkOHC/view
 
 
 ## CCSF
@@ -946,10 +921,10 @@
 - CS   197V  Version Control & Code Repos
 - CS   199   Independent Study
 - CS   256   Data Visualization 
-- CNIT 141   Cryptography For Computer Networks
 - CNIT 123   Ethical Hacking
 - CNIT 124   Adv. Ethical Hacking
 - CNIT 127   Exploit Development
+- CNIT 141   Cryptography For Computer Networks
 - MATH  80   Probability and Statistics 
 - MATH  95   Trigonometry
 - MATH 110A  Calculus I 
@@ -962,13 +937,13 @@
   - https://fog.ccsf.edu/~gboyd/cs270/HowThisCourseWorks.pdf
 - CS 211s notes: https://sites.google.com/site/koalalearn/fa2011/cs211s
 
-### CCSF certificates I've attained:
-  - Java: https://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/ComputerProgrammingJavaCertificate.pdf
-  - Web application programming: http://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/WebApplicationProgrammingCertificate.pdf
-  - Computing skills for scientists: https://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/ComputingSkillsforScientistsCertificate.pdf
-  - JS specialist: http://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/JavaScriptSpecialistCertificate.pdf
-  - Web site development techniques: http://www.ccsf.edu/content/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/WebSiteDevelopmentTechniquesCertificate.pdf 
-  - Mobile web app development: http://www.ccsf.edu/content/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/MobileWebAppDevelopmentCertificate.pdf
+### CCSF certificates attained:
+  - Java
+  - Web application programming
+  - Computing skills for scientists
+  - JS specialist
+  - Web site development techniques
+  - Mobile web app development
 
 
 ## Jobs
@@ -1025,7 +1000,6 @@
 - Regex to validate another regex: https://stackoverflow.com/questions/172303/is-there-a-regular-expression-to-detect-a-valid-regular-expression
 - Quine: https://en.wikipedia.org/wiki/Quine_(computing)
 - Hello World in every language: https://github.com/leachim6/hello-world
-- 99 bottles of beer in 1500 different languages: http://www.99-bottles-of-beer.net/
 - Tetris written in Conway's Game of Life: https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life
 - FizzBuzz stuff: 
   - http://wiki.c2.com/?FizzBuzzTest

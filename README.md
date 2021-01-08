@@ -9,68 +9,67 @@
 5. [Mazes](#mazes)
 6. [Cellular automata](#cellular-automata)
 7. [Compilers/interpreters](#compilers/interpreters)
-8. [Esoteric programming languages](#esoteric-programming-languages)
-9. [Game AI](#game-ai)
-10. [Games](#games)
-11. [Puzzles](#puzzles)
-12. [Fractals and L-systems](#fractals-and-l-systems)
-13. [Visual/animation](#visual/animation)
-14. [Tiling and packing](#tiling-and-packing)
-15. [Physics simulation](#physics-simulation)
-16. [Regex](#regex)
-17. [Operating Systems](#operating-systems)
-18. [Computer Science](#computer-science)
-19. [Machine learning](#machine-learning)
-20. [AI](#ai)
-21. [Cryptography](#cryptography)
-22. [Data science](#data-science)
-23. [C](#c)
-24. [C++](#c++)
-25. [JS](#js)
-26. [Web development](#web-development)
-27. [Python](#python)
-28. [PHP](#php)
-29. [jq](#jq)
-30. [Java](#java)
+8. [Programming languages](#programming-languages)
+9. [Esoteric programming languages](#esoteric-programming-languages)
+10. [Game AI](#game-ai)
+11. [Games](#games)
+12. [Puzzles](#puzzles)
+13. [Fractals and L-systems](#fractals-and-l-systems)
+14. [Visual/animation](#visual/animation)
+15. [Tiling and packing](#tiling-and-packing)
+16. [Physics simulation](#physics-simulation)
+17. [Regex](#regex)
+18. [Operating Systems](#operating-systems)
+19. [Computer Science](#computer-science)
+20. [Machine learning](#machine-learning)
+21. [AI](#ai)
+22. [Cryptography](#cryptography)
+23. [Data science](#data-science)
+24. [C](#c)
+25. [C++](#c++)
+26. [JS](#js)
+27. [Web development](#web-development)
+28. [Python](#python)
+29. [PHP](#php)
+30. [jq](#jq)
 31. [Ruby](#ruby)
-32. [Perl](#perl)
-33. [MIPS](#mips)
-34. [ARM](#arm)
-35. [Raspberry Pi](#raspberry-pi)
-36. [Unix](#unix)
-37. [Prolog](#prolog)
-38. [Code golf](#code-golf)
-39. [Scratch/Snap](#scratch/snap)
-40. [Course sites](#course-sites)
-41. [Algorithmic challenge sites](#algorithmic-challenge-sites)
-42. [Security/CTF sites](#security/ctf-sites)
-43. [Competitive coding](#competitive-coding)
-44. [Bit twiddling](#bit-twiddling)
-45. [Books](#books)
-46. [Education](#education)
-47. [OMSCS](#omscs)
-48. [CCSF](#ccsf)
-49. [Jobs](#jobs)
-50. [Interview prep](#interview-prep)
-51. [Stack Overflow](#stack-overflow)
-52. [Fun](#fun)
+32. [MIPS](#mips)
+33. [ARM](#arm)
+34. [Raspberry Pi](#raspberry-pi)
+35. [Unix](#unix)
+36. [Prolog](#prolog)
+37. [Code golf](#code-golf)
+38. [Scratch/Snap](#scratch/snap)
+39. [Course sites](#course-sites)
+40. [Competitive coding](#competitive-coding)
+41. [Security/CTF sites](#security/ctf-sites)
+42. [Bit twiddling](#bit-twiddling)
+43. [Books](#books)
+44. [Education](#education)
+45. [OMSCS](#omscs)
+46. [CCSF](#ccsf)
+47. [Jobs](#jobs)
+48. [Interview prep](#interview-prep)
+49. [Stack Overflow](#stack-overflow)
+50. [Fun](#fun)
 
 
 ## General
 - <a href="https://www.chessprogramming.org/Keith_Gorlen">Inspiration!</a>
-- <a href="https://www.btbytes.com/pl.html">Interesting programming languages</a>
 - <a href="http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm">Christopher Alexander's Design Patterns</a>
-- <a href="https://en.wikipedia.org/wiki/One-instruction_set_computer">https://en.wikipedia.org/wiki/One-instruction_set_computer</a>
 - <a href="https://www.bluesnews.com/abrash/">Michael Abrash</a>
+- <a href="https://en.wikipedia.org/wiki/One-instruction_set_computer">https://en.wikipedia.org/wiki/One-instruction_set_computer</a>
 
 
 ## Project Ideas
-- <a href="https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html">More challenging projects</a>
 - script that calls pd patch, generates artwork and posts to bandcamp via puppeteer or another file sharing service
 - matter.js:
   - putt-putt golf or desert golf
   - raycaster
+  - matterjs experiment like https://jsfiddle.net/mityok/c9qt2g28/10/
 - write another scrobbler that works by day and follows bandcamp
+- auto-queue recent bandcamp releases into command line player via scraping
+  - could be a master "to listen" list on glitch which the command line script can automatically pull from. option to search and autoplay something from discogs, youtube or bandcamp
 - bandcamp command line listening streamer based on urls
 - Make a simple DIY label CMS or bandcamp clone; host on Heroku
 - write some RTS demo sketches
@@ -79,19 +78,20 @@
   - <a href="http://www.red3d.com/cwr/boids/">Boids</a>
 - write a time clock web app and keep exact totals for freelance work
 - react native mp3 player with mono mode using mpg123 or something
-- auto-queue recent bandcamp releases into command line player via scraping
-  - could be a master "to listen" list on glitch which the command line script can automatically pull from. option to search and autoplay something from discogs, youtube or bandcamp
 - write a stack machine
 - stack overflow comments sentiment analyzer
 - do generative eno ambient series covers with pointillist effect in js canvas
 - make an IR-\>spim runner in node/mips compiler + host on heroku
+- Tiger to JS transpiler
+- MIPS decompiler
 - <a href="https://en.wikipedia.org/wiki/Tic-tac-toe_variants">https://en.wikipedia.org/wiki/Tic-tac-toe_variants</a>
-- write an app that scrapes recent posts by favorite SO users
+- app that scrapes recent posts by favorite SO users
 - Challenge/project idea lists:
+  - <a href="https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html">More challenging projects</a>
   - <a href="https://www.webfx.com/blog/web-design/10-puzzle-websites-to-sharpen-your-programming-skills/">https://www.webfx.com/blog/web-design/10-puzzle-websites-to-sharpen-your-programming-skills/</a>
   - <a href="https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/">https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/</a>
-- <a href="http://rosettacode.org/wiki/Rosetta_Code">Look for projects at Rosetta Code</a>
-- <a href="https://programmingbydoing.com/">"Programming by Doing" simple projects for students</a>
+  - <a href="http://rosettacode.org/wiki/Rosetta_Code">Look for projects at Rosetta Code</a>
+  - <a href="https://programmingbydoing.com/">"Programming by Doing" simple projects for students</a>
 - Organize mp3s: beets.io and https://www.discogs.com/developers/
 - <a href="http://el.media.mit.edu/logo-foundation/index.html">The Logo Foundation</a>
 - <a href="https://en.wikipedia.org/wiki/NetLogo">NetLogo</a>
@@ -101,26 +101,26 @@
   - <a href="http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide">http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide</a>
   - <a href="http://forums.winamp.com/showthread.php?t=224914">http://forums.winamp.com/showthread.php?t=224914</a>
 - Langs/frameworks/libs to learn:
+  - <a href="https://codepen.io/danfascia/pen/jOPajpR?editors=1100">Tailwind</a>
   - Rails
   - React Native
   - Lisp/Scheme/ML
-  - [Tailwind](https://codepen.io/danfascia/pen/jOPajpR?editors=1100)
   - Haskell
   - Go
-  - [rxjs](https://www.learnrxjs.io/)/angular
-  - [Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+  - Angular/rxjs
+  - Rxjava
+  - <a href="https://fasterthanli.me/articles/a-half-hour-to-learn-rust">Rust</a>
   - COBOL
   - x86
+  - prolog
 - <a href="https://developers.google.com/blogger/docs/3.0/getting_started">Listening journal or similar using blogger API</a>
 - <a href="https://github.com/TooTallNate/node-lame/blob/master/deps/mpg123/doc/README.remote">make a music player app based on mpg123</a>
   - <a href="https://stackoverflow.com/questions/35781991/run-a-command-that-needs-input-without-hanging-but-still-allow-input">https://stackoverflow.com/questions/35781991/run-a-command-that-needs-input-without-hanging-but-still-allow-input</a>
   - <a href="https://sourceforge.net/p/mpg123/mailman/mpg123-users/thread/CAN5OgQWuYFt4mbbjDZcxMMdTQLZoNiF8AgH5S8Z8rwraN%2B65uA%40mail.gmail.com/">https://sourceforge.net/p/mpg123/mailman/mpg123-users/thread/CAN5OgQWuYFt4mbbjDZcxMMdTQLZoNiF8AgH5S8Z8rwraN%2B65uA%40mail.gmail.com/</a>
   - <a href="https://arstechnica.com/civis/viewtopic.php?f=20&t=850451">https://arstechnica.com/civis/viewtopic.php?f=20&t=850451</a>
-- <a href="https://webrtc.github.io/samples/src/content/capture/canvas-video/">Voice/video chat or stream with WebRTC</a>
-- Tiger to JS transpiler
-- Simple html parser like htm or https://limpet.net/mbrubeck/2014/08/11/toy-layout-engine-2.html
-- Google Docs but all vim/markdown. Could add multiplayer multicolor text editor/highlighter. Could be a good edutech project.
-- matterjs experiment like https://jsfiddle.net/mityok/c9qt2g28/10/
+- <a href="https://webrtc.github.io/samples/src/content/capture/canvas-video/">Voice/video chat or stream with PeerJS / WebRTC</a>
+- Simple HTML parser like htm or https://limpet.net/mbrubeck/2014/08/11/toy-layout-engine-2.html
+- Google Docs but all vim/markdown. Could add multiplayer multicolor text editor/highlighter.
 - make a regex blockly demo on codepen or write a generator for some language that isn't supported yet
 - <a href="https://pomb.us/build-your-own-react/">write your own react</a>
 - me vs world correspondence chess app for my homepage
@@ -151,12 +151,10 @@
 - <a href="http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html">Yale CPSC 223</a>
 - <a href="https://www.algorithm-archive.org/">Algorithm archive</a>
 - <a href="https://en.wikipedia.org/wiki/Skip_list">Skip list</a>
-- <a href="https://en.wikipedia.org/wiki/Splay_tree">Splay tree</a>
 - <a href="https://www.geeksforgeeks.org/word-ladder-length-of-shortest-chain-to-reach-a-target-word/">Word ladder</a>
 - <a href="https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/">Disjoint set/ union find</a>
-- <a href="https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/">Segment trees</a>
-- <a href="https://en.wikipedia.org/wiki/Self-avoiding_walk">Self-avoiding walk</a>
 - <a href="https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm">Bellman-Ford</a>
+- <a href="https://en.wikipedia.org/wiki/Self-avoiding_walk">Self-avoiding walk</a>
 - <a href="http://www.cs.princeton.edu/courses/archive/spr10/cos226/assignments.html">Princeton algorithm assignments</a>
 - <a href="https://gregable.com/2013/10/majority-vote-algorithm-find-majority.html">Boyer-Moore majority vote algorithm</a>
 - <a href="https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes">Sieve of Eratosthenes</a>
@@ -197,6 +195,8 @@
 - <a href="https://www.youtube.com/watch?v=H13iz0rbeeo">Determine if a tree is a BST</a>
 - <a href="https://en.wikipedia.org/wiki/Left-child_right-sibling_binary_tree">https://en.wikipedia.org/wiki/Left-child_right-sibling_binary_tree</a>
 - <a href="https://en.wikipedia.org/wiki/AVL_tree">https://en.wikipedia.org/wiki/AVL_tree</a>
+- <a href="https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/">Segment trees</a>
+- <a href="https://en.wikipedia.org/wiki/Splay_tree">Splay tree</a>
 
 ### Strings/arrays
 - <a href="http://stackoverflow.com/questions/24720332/c-find-all-possible-combinations-of-a-string-in-another-string">Find combinations of a string in another string</a>
@@ -207,7 +207,6 @@
 ## Mazes
 - <a href="http://www.astrolog.org/labyrnth/algrithm.htm">Think Labyrinth</a>
 - <a href="http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap">Buckblog maze generation algorithm overview</a>
-- <a href="https://en.wikipedia.org/wiki/Random_walk">Random walk</a>
 
 
 ## Cellular automata
@@ -220,7 +219,7 @@
 - <a href="http://natureofcode.com/book/chapter-7-cellular-automata/">Nature of Code by Shiffman, chapter 7</a>
 - <a href="https://en.wikipedia.org/wiki/Wireworld">Wireworld</a>
 - <a href="https://en.wikipedia.org/wiki/Brian%27s_Brain">Brian's Brain</a>
-- <a href="https://en.wikipedia.org/wiki/Von_Neumann_cellular_automaton">Von Neumann</a>
+- <a href="https://en.wikipedia.org/wiki/Von_Neumann_cellular_automaton">Von Neumann CA</a>
 - <a href="https://en.wikipedia.org/wiki/Langton%27s_loops">Langton's loops</a>
 - <a href="https://en.wikipedia.org/wiki/CoDi">CoDi</a>
 - <a href="https://en.wikipedia.org/wiki/Life-like_cellular_automaton">Life-like cellular automata (incl. Seeds)</a>
@@ -241,6 +240,7 @@
 - <a href="http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf">Incremental approach to compiler construction</a>
 - <a href="https://norasandler.com/2017/11/29/Write-a-Compiler.html">Write a compiler</a>
 - <a href="http://craftinginterpreters.com/">Crafting Interpreters</a>
+- <a href="https://twitter.com/munificentbob/status/901543375945388032">Nystrom's compiler books</a>
 - <a href="http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html">Python interpreter in Python</a>
 - <a href="https://nearley.js.org/docs/grammar">nearley/moo js</a>
 - <a href="https://dickgrune.com/">Compiler books</a>
@@ -248,18 +248,23 @@
 - <a href="https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/">Writing your own toy compiler</a>
 - <a href="https://en.wikibooks.org/wiki/Compiler_Construction/Lexical_analysis">Lexical analysis</a>
 - <a href="https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/#references">Simple tutorial and useful references</a>
-- <a href="http://effbot.org/zone/simple-top-down-parsing.htm">Simple top-down parsing</a>
 - My first language front-end:
   - <a href="https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html">https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html</a>
   - <a href="https://github.com/llvm-mirror/llvm/blob/master/examples/Kaleidoscope/MCJIT/initial/toy.cpp">https://github.com/llvm-mirror/llvm/blob/master/examples/Kaleidoscope/MCJIT/initial/toy.cpp</a>
 - <a href="https://stackoverflow.com/questions/1669/learning-to-write-a-compiler">Mega compilers resource</a>
 - <a href="https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/">CS143</a>
 - <a href="https://www.seas.upenn.edu/~cis341/current/">CIS341</a>
-- <a href="https://concatenative.org/wiki/view/Concatenative%20language">Concatenative Languages</a>
 - <a href="https://tiarkrompf.github.io/notes/?/just-write-the-parser/">https://tiarkrompf.github.io/notes/?/just-write-the-parser/</a>
-- lispcompiler.com
+- Lisp:
+  - lispcompiler.com
+  - <a href="http://www.buildyourownlisp.com/">Build your own lisp</a>
+  - <a href="http://norvig.com/lispy.html">Write a Lisp interpreter in Python</a>
 - <a href="https://compilers.iecc.com/crenshaw/">Let's Build a Compiler, by Jack Crenshaw</a>
-- <a href="https://twitter.com/munificentbob/status/901543375945388032">Nystrom's compiler books</a>
+
+
+## Programming languages
+- <a href="https://www.btbytes.com/pl.html">Interesting programming languages</a>
+- <a href="https://concatenative.org/wiki/view/Concatenative%20language">Concatenative Languages</a>
 
 
 ## Esoteric programming languages
@@ -379,7 +384,7 @@
 - <a href="https://en.wikipedia.org/wiki/Category:Logic_puzzles">Logic puzzles list (KenKen, Sudoku, Sokoban, etc)</a>
 - <a href="https://www.chiark.greenend.org.uk/~sgtatham/puzzles/">Simon Tatham</a>
 - Do chess packing puzzles
-- <a href="http://www2.stetson.edu/~efriedma/">Erich Friendman's Puzzle Palace</a>
+- <a href="http://www2.stetson.edu/~efriedma/">Erich Friendman's Puzzle Palace (dead link as of 1/2020)</a>
 - <a href="https://en.wikipedia.org/wiki/Slitherlink">Slitherlink</a>
 - <a href="http://www.mindsports.nl/index.php/puzzle-links">Mindsports (links resource)</a>
 - <a href="http://garethrees.org/2007/06/10/zendoku-generation/#section-4">Zendoku puzzle generation</a>
@@ -388,7 +393,6 @@
 - <a href="https://www.youtube.com/watch?v=49KvZrioFB0">Mondrian puzzle</a>
 - <a href="http://nikoli.co.jp/en/puzzles/">Various puzzles from the Sudoku inventors</a>
 - <a href="http://norvig.com/sudoku.html">Peter Norvig on Sudoku and other constraint problems (such as the skyscraper puzzle)</a>
-- <a href="https://www.wikihow.com/Solve-a-Magnets-Puzzle">More constraint puzzles</a>
 - <a href="https://en.wikipedia.org/wiki/Nonogram">Nonogram</a>
 - <a href="https://en.wikipedia.org/wiki/Ricochet_Robot">Ricochet Robots</a>
 - <a href="https://en.wikipedia.org/wiki/Slothouber%E2%80%93Graatsma_puzzle">Slothouber-Graatsma puzzle</a>
@@ -433,7 +437,7 @@
 - Learn graphics from scratch:
   - <a href="https://www.scratchapixel.com/">https://www.scratchapixel.com/</a>
   - <a href="https://gabrielgambetta.com/computer-graphics-from-scratch/introduction.html">https://gabrielgambetta.com/computer-graphics-from-scratch/introduction.html</a>
-- <a href="http://zreference.com/projects/graphics/">Inspiring zreference projects</a>
+- <a href="https://zreference.com/projects/graphics/">Inspiring zreference projects</a>
 - <a href="https://bit101.github.io/lab/dailies/170413.html">Also inspiring, bit101 dailies</a>
 - <a href="http://cs.brown.edu/people/rtamassi/gdhandbook/">Handbook of Graph Drawing and Visualization</a>
 - Convex hull:
@@ -451,7 +455,6 @@
 - <a href="http://goto80.com/chipflip/06/">goto80 ASCII art</a>
 - <a href="https://en.wikipedia.org/wiki/Fibonacci_number">Fibonacci spiral</a>
 - <a href="https://s-media-cache-ak0.pinimg.com/564x/d6/ff/64/d6ff6450173c6410c919b06e07958227.jpg">Architecture: look for triangle perspective designs, Escher</a>
-- Do a visual plotting the orthocenter, medicenter, and circumcenter of a triangle
 - Write a script that turns text into blocky ASCII text or renders images in ASCII
 - <a href="https://jsxgraph.uni-bayreuth.de/wiki/index.php/Category:Examples">JSXGraph</a>
 - Bezier Curves:
@@ -498,7 +501,7 @@
 - <a href="https://thebrickinthesky.wordpress.com/2013/03/17/l-systems-and-penrose-p3-in-inkscape">L-systems in inkscape</a>
 - <a href="https://en.wikipedia.org/wiki/Girih_tiles">Girih tiles</a>
 - <a href="https://en.wikipedia.org/wiki/Wallpaper_group">Wallpaper group</a>
-- <a href="https://morphingtiling.wordpress.com/page/2/">Morphing Tiling</a>
+- <a href="https://morphingtiling.wordpress.com">Morphing Tiling</a>
 - <a href="https://transcendentcode.wordpress.com/">Transcendent Code</a>
 - Penrose tiling:
   - <a href="http://preshing.com/20110831/penrose-tiling-explained/">http://preshing.com/20110831/penrose-tiling-explained/</a>
@@ -542,7 +545,6 @@
 - Collision detection:
   - <a href="http://www.dyn4j.org/2010/01/sat/">http://www.dyn4j.org/2010/01/sat/</a>
   - <a href="https://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169">https://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169</a>
-  - <a href="https://wildbunny.co.uk/blog/2011/04/20/collision-detection-for-dummies/">https://wildbunny.co.uk/blog/2011/04/20/collision-detection-for-dummies/</a>
   - <a href="https://www.codeproject.com/Articles/15573/2D-Polygon-Collision-Detection">https://www.codeproject.com/Articles/15573/2D-Polygon-Collision-Detection</a>
   - <a href="https://stackoverflow.com/questions/10962379/how-to-check-intersection-between-2-rotated-rectangles/12414951#12414951">https://stackoverflow.com/questions/10962379/how-to-check-intersection-between-2-rotated-rectangles/12414951#12414951</a>
   - <a href="https://github.com/antishow/collision-demo/tree/master/library/js/src">https://github.com/antishow/collision-demo/tree/master/library/js/src</a>
@@ -583,16 +585,15 @@
 
 
 ## Computer Science
-- <a href="https://cs.meta.stackexchange.com/questions/599/reference-answers-to-frequently-asked-questions/847#847">CS SE FAQ</a>
+- <a href="https://cs.meta.stackexchange.com/questions/599/reference-answers-to-frequently-asked-questions/">CS SE FAQ</a>
 - <a href="http://www.cs.toronto.edu/~hehner/best.html">Rick Hehner's top 10</a>
+- <a href="https://yurichev.com/writings/SAT_SMT_by_example.pdf">SAT SMT by Example book</a>
 - <a href="https://softwarefoundations.cis.upenn.edu/">Software foundations book series</a>
 - <a href="http://www.jflap.org/">JFLAP</a>
-- <a href="https://yurichev.com/writings/SAT_SMT_by_example.pdf">SAT SMT by Example</a>
 
 
 ## Machine learning
 - <a href="http://www.deeplearningbook.org/">Deep Learning book</a>
-- <a href="https://github.com/wasd12345">wasd12345 on GitHub</a>
 
 
 ## AI
@@ -640,7 +641,6 @@
 
 
 ## C
-- <a href="http://www.buildyourownlisp.com/">Build your own lisp</a>
 - <a href="https://wiki.osdev.org/Tutorials">Write your own OS</a>
 - <a href="https://beej.us/guide/bggdb/">Beej guide to GDB</a>
 - <a href="https://barrgroup.com/Embedded-Systems/Books/Embedded-C-Coding-Standard">C coding standard</a>
@@ -672,12 +672,9 @@
 
 ## Python
 - <a href="https://realpython.com/cpython-source-code-guide/">CPython source code guide</a>
-- <a href="http://norvig.com/lispy.html">Write a Lisp interpreter in Python</a>
 - <a href="https://www.pythonanywhere.com/">Host a free Python web app</a>
-- <a href="http://www.nltk.org/book/">Natural language processing with Python</a>
+- <a href="http://www.nltk.org/book/">NLTK book</a>
 - <a href="http://inventwithpython.com/pygame/">Pygame</a>
-- <a href="https://automatetheboringstuff.com/">Automate the boring stuff</a>
-- <a href="https://www.rose-hulman.edu/Users/faculty/young/CS-Classes/resources/Python/ZelleGraphics.html">Simple Python graphics library</a>
 - Flask:
   - <a href="https://exploreflask.com/en/latest/">https://exploreflask.com/en/latest/</a>
   - <a href="https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world">https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world</a>
@@ -687,9 +684,7 @@
   - <a href="http://www.brpreiss.com/books/opus7/">http://www.brpreiss.com/books/opus7/</a>
 - <a href="http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf">Computer vision with python</a>
 - <a href="http://www.effectivepython.com/">Effective Python</a>
-- <a href="http://interactivepython.org/courselib/static/thinkcspy/index.html">How to think like a computer scientist</a>
 - <a href="http://pythonchallenge.com/">Python Challenge</a>
-- <a href="http://effbot.org/tkinterbook/">Tkinterbook</a>
 
 
 ## PHP
@@ -717,22 +712,9 @@
 - <a href="https://megamorf.gitlab.io/cheat-sheets/jq/">https://megamorf.gitlab.io/cheat-sheets/jq/</a>
 
 
-## Java
-- <a href="https://google.github.io/styleguide/javaguide.html">Google style guide</a>
-- <a href="https://struts.apache.org/">Good Java web framework for learning generics</a>
-- <a href="http://java2novice.com/java-sorting-algorithms/">Java sorting algorithms</a>
-- <a href="http://stackoverflow.com/questions/2793150/using-java-net-urlconnection-to-fire-and-handle-http-requests">Java send HTTP request</a>
-- <a href="http://stackoverflow.com/questions/3649014/send-email-using-java">Java send email</a>
-
-
 ## Ruby
 - <a href="http://poignant.guide/book/chapter-6.html">Why's Poignant Guide to Ruby</a>
-- <a href="http://ruby-doc.com/docs/ProgrammingRuby/html/tut_stdtypes.html">Nice Ruby regex tutorial</a>
-- <a href="http://ruby-doc.com/docs/ProgrammingRuby/html/rubyworld.html">Programming Ruby</a>
-
-
-## Perl
-- <a href="http://perldoc.perl.org/perldsc.html">Perl data structures cookbook</a>
+- <a href="http://ruby-doc.com/docs/ProgrammingRuby/html/index.html">Programming Ruby</a>
 
 
 ## MIPS
@@ -803,7 +785,7 @@
 
 
 ## Raspberry Pi
-- <a href="https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/">https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/</a>
+- <a href="https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/">Baking PI OS course</a>
 - Extending the life of the SD card:
   - <a href="https://domoticproject.com/extending-life-raspberry-pi-sd-card/">https://domoticproject.com/extending-life-raspberry-pi-sd-card/</a>
   - <a href="https://raspberrypi.stackexchange.com/questions/169/how-can-i-extend-the-life-of-my-sd-card">https://raspberrypi.stackexchange.com/questions/169/how-can-i-extend-the-life-of-my-sd-card</a>
@@ -817,6 +799,7 @@
 ## Prolog
 - <a href="http://cs.union.edu/~striegnk/courses/nlp-with-prolog/html/node5.html#l1.prolog">FSAs in Prolog</a>
 - <a href="https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/">99 prolog problems</a>
+- <a href="https://www.metalevel.at/prolog">Power of Prolog textbook</a>
 
 
 ## Code golf
@@ -836,16 +819,17 @@
   - <a href="https://wiki.scratch.mit.edu/wiki/Recursion_and_Fractals#Creating_the_Koch_Curve">https://wiki.scratch.mit.edu/wiki/Recursion_and_Fractals#Creating_the_Koch_Curve</a>
 - <a href="http://www.ocsmag.com/2016/07/12/dump-scratch-use-blockly-or-snap-instead/">Snap instead of Scratch</a>
 - <a href="http://www.multiwingspan.co.uk/scratch.php?page=ex1">Multiwingspan projects</a>
+- <a href="https://www.youtube.com/channel/UCsID64th1ocXiIqcRLW_svg">funut YT</a>
 
 
 ## Course sites
 - <a href="http://codingthematrix.com/">Coding the Matrix (linear algebra through CS)</a>
 - <a href="http://nand2tetris.org/">Nand2Tetris</a>
+- <a href="https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313">Udacity intro to theoretical CS</a>
 - <a href="https://www.udemy.com/the-advanced-web-developer-bootcamp/">Advanced Web Developer Bootcamp</a>
 - <a href="https://www.lynda.com/portal/patron?org=sfpl.org">Lynda SFPL</a>
 - <a href="https://www.coursera.org/learn/algorithms-part1">Coursera algorithms classes (pts 1 & 2)</a>
 - <a href="https://egghead.io/">Egghead</a>
-- <a href="https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313">Udacity intro to theoretical CS</a>
 - <a href="http://jeffe.cs.illinois.edu/teaching/algorithms/">Jeff Erickson's algorithms</a>
 - <a href="https://courses.cs.washington.edu/courses/cse326/03wi/326lecturesa.shtml">UW Data Structures & Algorithms</a>
 - Math:
@@ -858,13 +842,15 @@
   - <a href="https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/">https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/</a>
 
 
-## Algorithmic challenge sites
+## Competitive coding
 - <a href="https://code.google.com/codejam/past-contests">Google Code Jam</a>
   - <a href="https://www.go-hero.net/jam/16/">Go-Hero</a> has archive all the past Google Code Jam problems w/ solutions
 - <a href="https://www.reddit.com/r/dailyprogrammer/">Daily Programmer</a>
 - <a href="https://www.mathworks.com/matlabcentral/cody/problems">Math problems</a>
 - <a href="https://www.learneroo.com/">Learneroo</a>
-- <a href="https://www.topcoder.com/getting-started">Topcoder</a>
+- Topcoder:
+  - <a href="https://www.topcoder.com/getting-started">https://www.topcoder.com/getting-started</a>
+  - <a href="https://www.topcoder.com/community/competitive-programming/">https://www.topcoder.com/community/competitive-programming/</a>
 - <a href="https://www.hackerearth.com/challenges/">Hacker Earth</a>
 - <a href="https://www.codechef.com/">Code chef</a>
 - <a href="http://www.spoj.com/">SPOJ</a>
@@ -873,8 +859,14 @@
 - <a href="https://kattis.com">Kattis</a>
 - <a href="http://codingbat.com">Coding Bat</a>
 - <a href="https://acm.timus.ru/">Timus</a>
-- <a href="http://codekata.pragprog.com/">Code kata</a>
+- <a href="http://codekata.com/">Code kata</a>
 - <a href="https://www.root-me.org/en/Challenges/Web-Client/Javascript-Native-code">Root me</a>
+- <a href="https://cses.fi/">CSES</a>
+  - <a href="https://cses.fi/book/book.pdf">Competitive Programmer's Handbook</a>
+- <a href="http://web.stanford.edu/class/cs97si/">Introduction to programming contests</a>
+- <a href="http://codeforces.com/">Codeforces</a>
+- <a href="http://www.pvv.ntnu.no/~spaans/programming.html">Tons of tips & links</a>
+- <a href="https://swerc.eu/2017/problems/">SWERC past problem sets</a>
 
 
 ## Security/CTF sites
@@ -885,16 +877,6 @@
 - <a href="https://pwnable.tw/">https://pwnable.tw/</a>
 
 
-## Competitive coding
-- <a href="https://cses.fi/">CSES</a>
-- <a href="https://cses.fi/book/book.pdf">Competitive Programmer's Handbook</a>
-- <a href="http://web.stanford.edu/class/cs97si/">Introduction to programming contests</a>
-- <a href="http://codeforces.com/">Codeforces</a>
-- <a href="https://www.topcoder.com/community/competitive-programming/">Topcoder</a>
-- <a href="http://www.pvv.ntnu.no/~spaans/programming.html">Tons of tips & links</a>
-- <a href="https://swerc.eu/2017/problems/">SWERC past problem sets</a>
-
-
 ## Bit twiddling
 - <a href="http://graphics.stanford.edu/~seander/bithacks.html">http://graphics.stanford.edu/~seander/bithacks.html</a>
 - <a href="http://realtimecollisiondetection.net/blog/?p=78">http://realtimecollisiondetection.net/blog/?p=78</a>
@@ -902,12 +884,12 @@
 
 ## Books
 - <a href="https://csgordon.github.io/books.html">List of free online CS books</a>
+- <a href="http://www.greenteapress.com/thinkbayes/html/index.html">Think Bayes/DSP/Complexity/OS/etc</a>
 - <a href="https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list">Definitive C++ book list</a>
 - <a href="http://proquest.safaribooksonline.com/">Tons of free CS books</a>
-- <a href="http://www.greenteapress.com/thinkbayes/html/index.html">Think Bayes/DSP/Complexity/OS/etc</a>
 - <a href="https://www.fuzzingbook.org/">Fuzzing book (software testing)</a>
-- "Book of Proof" Hammack
 - <a href="http://discrete.openmathbooks.org/dmoi3.html">Discrete Math</a>
+- "Book of Proof" Hammack
 - <a href="http://www.finseth.com/craft/index.html">Craft of Text Editors</a>
 - <a href="https://users.ece.cmu.edu/~koopman/stack_computers/index.html">Stack computers</a>
 
@@ -916,14 +898,13 @@
 - SFSU
   - <a href="http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ms-computer-science/">http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ms-computer-science/</a>
   - Prospective students are welcome to send any questions to the graduate advising assistant at (csgrad@sfsu.edu)
+- <a href="https://www.calstateonline.net/Cal-State-Campuses/CSU-Fullerton">CSU Fullerton</a>
 - <a href="http://www.vtmit.vt.edu/">VT</a>
-- <a href="http://getcoding.hackreactor.com/remote-part-time">Bootcamps</a>
 - Internships:
   - <a href="https://www.indeed.com/q-Software-Engineering-Intern-l-San-Francisco-Bay-Area,-CA-jobs.html">https://www.indeed.com/q-Software-Engineering-Intern-l-San-Francisco-Bay-Area,-CA-jobs.html</a>
   - <a href="http://www.engineerjobs.com/internships/software-engineering/california/bay-area.php">http://www.engineerjobs.com/internships/software-engineering/california/bay-area.php</a>
   - <a href="https://www.smartrecruiters.com/Line2/112808690-web-developer-internship-front-end">https://www.smartrecruiters.com/Line2/112808690-web-developer-internship-front-end</a>
 - <a href="https://www.mills.edu/academics/graduate-programs/computer-science/">Mills</a>
-- <a href="https://www.calstateonline.net/Cal-State-Campuses/CSU-Fullerton">CSU Fullerton</a>
 - <a href="https://www.ces.sdsu.edu/science-computers-technology/advanced-certificate-web-and-mobile-applications-development">Adv. certif. in web/mobile via SDSU</a>
 - <a href="http://www.northeastern.edu/siliconvalley/admissions/">Northeastern Silicon Valley</a>
 - <a href="https://www.collegechoice.net/rankings/best-online-masters-in-computer-science/">College choice CS</a>
@@ -931,30 +912,28 @@
 
 
 ## OMSCS
-
-- <a href="https://drive.google.com/drive/u/0/folders/1ELjIQBaekmSF0fspJn4W7iuOWh3UxYN_">Course syllabi</a>
 - <a href="https://omscs.gatech.edu/search/node/course%20videos">Course videos</a>
-- **Remember to convert EST to PST for registration**
+- <a href="https://drive.google.com/drive/u/0/folders/1ELjIQBaekmSF0fspJn4W7iuOWh3UxYN_">Course syllabi</a>
 
 ### Courses to take
+- **Remember to convert EST to PST for registration**
 - <a href="https://www-users.cs.umn.edu/~karypis/parbook/">CSE 6220 Intro to High Performance Computing</a>
 - CS 6265 Information Security Lab
   - <a href="https://tc.gts3.org/cs6265/2020-spring/cal.html">https://tc.gts3.org/cs6265/2020-spring/cal.html</a>
   - <a href="http://phrack.com">http://phrack.com</a>
 - CS 6035 Intro to Information Security
   - <a href="https://drive.google.com/file/d/19XxlM2Mo4wBonnQdVnUUo10Cqix-Odej/view">https://drive.google.com/file/d/19XxlM2Mo4wBonnQdVnUUo10Cqix-Odej/view</a>
+- ISYE 6501 Intro to Analytics Modeling
+  - <a href="https://statlearning.com/">https://statlearning.com/</a>
+- CS 6260 Applied Cryptography
+  - <a href="https://teapowered.dev/assets/crypto-notes.pdf">https://teapowered.dev/assets/crypto-notes.pdf</a>
 - CS 6250 Computer Networks
   - <a href="https://www.cc.gatech.edu/~rama/CS2200-External/">prereq course</a>
   - <a href="https://github.com/ossu/computer-science/issues/520">more prereq/alternate suggestions</a>
-- ISYE 6501 Intro to Analytics Modeling
-  - <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/">http://faculty.marshall.usc.edu/gareth-james/ISL/</a>
-- CS 6260 Applied Cryptography
-  - <a href="https://teapowered.dev/assets/crypto-notes.pdf">https://teapowered.dev/assets/crypto-notes.pdf</a>
 - CS 7280 Network Science
 - ISYE 6644 Simulation
 - CS 6601 Artificial Intelligence
-- CS 6460 Educational Technology
-- <a href="https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/">interesting 6310 textbooks worth looking into</a>
+- <a href="https://www.reddit.com/r/OMSCS/comments/a445mn/can_you_recommend_textbooks_for_the_cs_6300_6310/">interesting 6310 textbooks</a>
 
 ### Completed courses
 - Fall 18: CS 6200 Intro to Operating Systems
@@ -973,13 +952,7 @@
 - Fall 20: ECE 8843 Side channels and their role in cybersecurity
 - Spring 21:
   - CS 6515 Graduate Algorithms
-    - <a href="https://gt-algorithms.com/">https://gt-algorithms.com/</a>
-    - <a href="https://cs170.org/">https://cs170.org/</a>
-    - <a href="http://omscs.wikidot.com/courses:cs6515">http://omscs.wikidot.com/courses:cs6515</a>
-    - <a href="https://teapowered.dev/assets/ga-notes.pdf">https://teapowered.dev/assets/ga-notes.pdf</a>
-    - <a href="http://timroughgarden.org/">http://timroughgarden.org/</a>
   - CS 7210 Distributed Systems
-    - <a href="https://drive.google.com/file/d/1m9h2xvSLKXpopMBrfUbIkNa9apiKkOHC/view">https://drive.google.com/file/d/1m9h2xvSLKXpopMBrfUbIkNa9apiKkOHC/view</a>
 
 
 ## CCSF
@@ -998,10 +971,10 @@
 - CS   197V  Version Control & Code Repos
 - CS   199   Independent Study
 - CS   256   Data Visualization
-- CNIT 141   Cryptography For Computer Networks
 - CNIT 123   Ethical Hacking
 - CNIT 124   Adv. Ethical Hacking
 - CNIT 127   Exploit Development
+- CNIT 141   Cryptography For Computer Networks
 - MATH  80   Probability and Statistics
 - MATH  95   Trigonometry
 - MATH 110A  Calculus I
@@ -1014,13 +987,13 @@
   - <a href="https://fog.ccsf.edu/~gboyd/cs270/HowThisCourseWorks.pdf">https://fog.ccsf.edu/~gboyd/cs270/HowThisCourseWorks.pdf</a>
 - <a href="https://sites.google.com/site/koalalearn/fa2011/cs211s">CS 211s notes</a>
 
-### CCSF certificates I've attained:
-  - <a href="https://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/ComputerProgrammingJavaCertificate.pdf">Java</a>
-  - <a href="http://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/WebApplicationProgrammingCertificate.pdf">Web application programming</a>
-  - <a href="https://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerScience/ComputingSkillsforScientistsCertificate.pdf">Computing skills for scientists</a>
-  - <a href="http://www.ccsf.edu/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/JavaScriptSpecialistCertificate.pdf">JS specialist</a>
-  - <a href="http://www.ccsf.edu/content/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/WebSiteDevelopmentTechniquesCertificate.pdf">Web site development techniques</a>
-  - <a href="http://www.ccsf.edu/content/dam/ccsf/documents/OfficeOfInstruction/Catalog/Programs/ComputerNetworkingandInformationTechnology/MobileWebAppDevelopmentCertificate.pdf">Mobile web app development</a>
+### CCSF certificates attained:
+  - Java
+  - Web application programming
+  - Computing skills for scientists
+  - JS specialist
+  - Web site development techniques
+  - Mobile web app development
 
 
 ## Jobs
@@ -1077,7 +1050,6 @@
 - <a href="https://stackoverflow.com/questions/172303/is-there-a-regular-expression-to-detect-a-valid-regular-expression">Regex to validate another regex</a>
 - <a href="https://en.wikipedia.org/wiki/Quine_(computing)">Quine</a>
 - <a href="https://github.com/leachim6/hello-world">Hello World in every language</a>
-- <a href="http://www.99-bottles-of-beer.net/">99 bottles of beer in 1500 different languages</a>
 - <a href="https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life">Tetris written in Conway's Game of Life</a>
 - FizzBuzz stuff:
   - <a href="http://wiki.c2.com/?FizzBuzzTest">http://wiki.c2.com/?FizzBuzzTest</a>
