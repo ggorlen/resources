@@ -60,6 +60,7 @@
   - Angular/rxjs
   - Rxjava
   - Rust: https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+  - Raku: https://course.raku.org/
   - COBOL
   - x86
   - prolog
@@ -433,6 +434,7 @@
 
 ### WebGL
 - The book of shaders: https://thebookofshaders.com/
+- http://webglfundamentals.org/
 - https://learnopengl.com/
 - WebGL tutorial: https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial
 - Try out regl: https://bits.coop/articles/rigging-and-animation/
