@@ -26,5 +26,5 @@ def check_links(line):
 
 if __name__ == "__main__":
     with open("programming-resources.md", "r") as f:
-        with ThreadPoolExecutor(max_workers=max(os.cpu_count(), 8)) as pool:
+        with ThreadPoolExecutor(max_workers=16) as pool:
             pool.map(check_links, f.readlines())

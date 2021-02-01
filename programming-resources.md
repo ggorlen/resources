@@ -110,7 +110,7 @@
 - Boyer-Moore majority vote algorithm: https://gregable.com/2013/10/majority-vote-algorithm-find-majority.html
 - Sieve of Eratosthenes: https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
 - Fermat's factorization method: https://en.wikipedia.org/wiki/Fermat%27s_factorization_method
-- Euclid's algorithm: http://andreinc.net/2010/12/11/euclids-algorithm-reducing-fraction-to-lowest-terms/
+- Euclid's algorithm: https://en.wikipedia.org/wiki/Euclidean_algorithm
 - Karatsuba algorithm: https://en.wikipedia.org/wiki/Karatsuba_algorithm
 - Simplify a fraction: http://codereview.stackexchange.com/questions/66450/simplify-a-fraction
 - Basil & Fabian: http://blog.jamisbuck.org/
@@ -517,7 +517,6 @@
 
 ## Regex 
 - Advanced regex features ref sheet: https://www.regular-expressions.info/refadv.html
-- Regex Static Analysis: http://www.cs.sun.ac.za/~abvdm/regex.html
 - Catastrophic Backtracking: https://www.regular-expressions.info/catastrophic.html
 - Implementing Regular Expressions: https://swtch.com/~rsc/regexp/
 - Write a regex engine: https://rcoh.me/posts/no-magic-regular-expressions/
@@ -584,7 +583,6 @@
   - https://gist.github.com/klmr/23ed79f973c75b11b0b5
   - https://www.washingtonpost.com/wp-srv/health/interactives/guns/ownership.html
   - https://restcountries.eu/
-  - https://rel.ink/
   - https://pipedream.com/
   - https://example-data.draftbit.com/
   - https://github.com/vera-institute/incarceration_trends
@@ -795,7 +793,7 @@
 
 
 ## Competitive coding
-- Google Code Jam: https://code.google.com/codejam/past-contests
+- Google Code Jam: https://codingcompetitions.withgoogle.com/codejam/archive
   - Go-Hero: https://www.go-hero.net/jam/16/ has archive all the past Google Code Jam problems w/ solutions
 - Daily Programmer: https://www.reddit.com/r/dailyprogrammer/
 - Math problems: https://www.mathworks.com/matlabcentral/cody/problems
