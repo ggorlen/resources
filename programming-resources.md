@@ -6,18 +6,24 @@
 
 ## General
 - Inspiration!: https://www.chessprogramming.org/Keith_Gorlen
+- Gene Cooperman's Computer Science Information: http://www.ccs.neu.edu/home/gene/cs-info.html
 - Christopher Alexander's Design Patterns: http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm
 - Michael Abrash: https://www.bluesnews.com/abrash/
 - https://en.wikipedia.org/wiki/One-instruction_set_computer
 
 
 ## Project Ideas
+- pseudocode runner/transpiler to python for DP problems in 6515 GA using lark or a JS parser? invent a lang name.
 - script that calls pd patch, generates artwork and posts to bandcamp via puppeteer or another file sharing service
+  - or for starters, just a puppeteer script that uploads albums to bandcamp
+- make a meme text generator app (maybe use gm library from npm or just canvas)
+- keyboard shortcuts/dark mode userscript for gmail simple
 - matter.js:
   - putt-putt golf or desert golf
   - raycaster
   - matterjs experiment like https://jsfiddle.net/mityok/c9qt2g28/10/
-- write another scrobbler that works by day and follows bandcamp
+- make a few Codewars challenges  
+- write another scrobbler that aggregates per day rather than per song and follows bandcamp listens
 - auto-queue recent bandcamp releases into command line player via scraping 
   - could be a master "to listen" list on glitch which the command line script can automatically pull from. option to search and autoplay something from discogs, youtube or bandcamp
 - bandcamp command line listening streamer based on urls
@@ -34,13 +40,15 @@
 - make an IR-\>spim runner in node/mips compiler + host on heroku
 - Tiger to JS transpiler
 - MIPS decompiler
+- JS ARM simulator
 - https://en.wikipedia.org/wiki/Tic-tac-toe_variants
-- app that scrapes recent posts by favorite SO users
+- app that scrapes recent posts by favorite SO users [or use SO api]
 - Challenge/project idea lists:
   - More challenging projects: https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html
   - https://www.webfx.com/blog/web-design/10-puzzle-websites-to-sharpen-your-programming-skills/
   - https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/
   - Look for projects at Rosetta Code: http://rosettacode.org/wiki/Rosetta_Code
+    - http://rosettacode.org/wiki/Category:Programming_Tasks
   - "Programming by Doing" simple projects for students: https://programmingbydoing.com/
 - Organize mp3s: beets.io and https://www.discogs.com/developers/
 - The Logo Foundation: http://el.media.mit.edu/logo-foundation/index.html
@@ -51,19 +59,31 @@
   - http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide
   - http://forums.winamp.com/showthread.php?t=224914
 - Langs/frameworks/libs to learn: 
-  - Tailwind: https://codepen.io/danfascia/pen/jOPajpR?editors=1100
+  - Tailwind/bootstrap: https://codepen.io/danfascia/pen/jOPajpR?editors=1100
   - Rails
   - React Native
   - Lisp/Scheme/ML 
-  - Haskell
+  - Haskell: http://learnyouahaskell.com
   - Go
   - Angular/rxjs
+  - graphql
+  - redux
+  - nasm
   - Rxjava
   - Rust: https://fasterthanli.me/articles/a-half-hour-to-learn-rust
   - Raku: https://course.raku.org/
   - COBOL
   - x86
   - prolog
+  - puzzlescript
+  - supercollider
+  - C++20/template metaprogramming
+  - powershell
+  - autohotkey
+  - android programming
+- idea from: https://hitorri.bandcamp.com/album/manipulating-automated-manipulated-automation -- write scripts that generate pure data text programs that are really difficult to hand-build and/or have some element of randomization. Could also play/build/manipulate a patch with random clicking, etc. also check out tidalcycles live coding.
+- https://aestheticcomplexity.wordpress.com/2011/11/11/programming-arvo-part/
+- lichess bot
 - Listening journal or similar using blogger API: https://developers.google.com/blogger/docs/3.0/getting_started 
 - make a music player app based on mpg123: https://github.com/TooTallNate/node-lame/blob/master/deps/mpg123/doc/README.remote
   - https://stackoverflow.com/questions/35781991/run-a-command-that-needs-input-without-hanging-but-still-allow-input
@@ -75,7 +95,9 @@
 - make a regex blockly demo on codepen or write a generator for some language that isn't supported yet
 - write your own react: https://pomb.us/build-your-own-react/
 - me vs world correspondence chess app for my homepage
-- MIPS mini project ideas:
+- generate static html tic tac toe for all states using negamax
+- app to generate static blogs with simpler script than jekyll
+- MIPS/ARM mini project ideas:
   - bf interpreter
   - rot13
   - tic tac toe
@@ -96,6 +118,7 @@
 
 
 ## Algorithms
+- List of algorithms: https://en.wikipedia.org/wiki/List_of_algorithms
 - Princeton Algorithms: https://algs4.cs.princeton.edu/home/
 - Stanford CS Education Library: http://cslibrary.stanford.edu/
 - Berkeley CS61B lectures: https://inst.eecs.berkeley.edu/~cs61b/fa17/materials/lectures/ 
@@ -158,6 +181,7 @@
 ## Mazes
 - Think Labyrinth: http://www.astrolog.org/labyrnth/algrithm.htm
 - Buckblog maze generation algorithm overview: http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap
+- Maze solving algorithm - Wikipedia: https://en.wikipedia.org/wiki/Maze_solving_algorithm
 
 
 ## Cellular automata
@@ -329,6 +353,8 @@
 - Puzzlescript: 
   - Tumblr: https://puzzlescriptgallery.tumblr.com/
   - Itch: https://itch.io/games/made-with-puzzlescript
+  - Draknek's Domain - Alan Hazelden's games and projects: http://www.draknek.org
+
 
 
 ## Puzzles
@@ -385,6 +411,7 @@
 
 
 ## Visual/animation
+- Core HTML5 Canvas: http://corehtml5canvas.com
 - Learn graphics from scratch:  
   - https://www.scratchapixel.com/
   - https://gabrielgambetta.com/computer-graphics-from-scratch/introduction.html
@@ -560,6 +587,7 @@
 
 
 ## Data science
+- Datacamp: https://www.datacamp.com
 - APIs/Datasets
   - https://github.com/toddmotto/public-apis 
   - https://github.com/public-apis/public-apis/blob/master/README.md 
@@ -665,6 +693,7 @@
 ## Ruby
 - Why's Poignant Guide to Ruby: http://poignant.guide/book/chapter-6.html
 - Programming Ruby: http://ruby-doc.com/docs/ProgrammingRuby/html/index.html
+- Understanding Ruby blocks, Procs and methods - Eli Bendersky's website: http://eli.thegreenplace.net/2006/04/18/understanding-ruby-blocks-procs-and-methods
 
 
 ## MIPS
@@ -813,10 +842,12 @@
 - Root me: https://www.root-me.org/en/Challenges/Web-Client/Javascript-Native-code
 - CSES: https://cses.fi/
   - Competitive Programmer's Handbook: https://cses.fi/book/book.pdf
+- DMOJ: https://dmoj.ca/
 - Introduction to programming contests: http://web.stanford.edu/class/cs97si/
 - Codeforces: http://codeforces.com/
 - Tons of tips & links: http://www.pvv.ntnu.no/~spaans/programming.html
 - SWERC past problem sets: https://swerc.eu/2017/problems/
+- Internet Problem Solving Contest — IPSC: https://ipsc.ksp.sk/
 
 
 ## Security/CTF sites
@@ -842,6 +873,9 @@
 - "Book of Proof" Hammack
 - Craft of Text Editors: http://www.finseth.com/craft/index.html
 - Stack computers: https://users.ece.cmu.edu/~koopman/stack_computers/index.html
+- http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/
+- Physically Based Rendering: http://www.pbr-book.org/
+- Artificial Intelligence A Modern Approach: http://aima.cs.berkeley.edu/
 
 
 ## Education
@@ -902,7 +936,7 @@
 - Fall 20: ECE 8843 Side channels and their role in cybersecurity
 - Spring 21:
   - CS 6515 Graduate Algorithms
-  - CS 7210 Distributed Systems
+  - CS 7210 Distributed Systems: https://github.com/emichael/dslabs/
 
 
 ## CCSF
@@ -975,9 +1009,6 @@
 - Interview algorithms and tips: http://meetupresources.herokuapp.com/index.html
 - Assorted interview tips: http://kelukelu.me/interview/questions.html
 - Women Who Code Interview Prep: https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki
-- Gayle McDowell:
-  - talk at Canadian University Software Engineering Conference: https://www.youtube.com/watch?v=rEJzOhC5ZtQ
-  - Ask Me Anything video (see the top comment with all the links to the individual questions): https://www.youtube.com/watch?v=1fqxMuPmGak
 
 
 ## Stack Overflow

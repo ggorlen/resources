@@ -56,18 +56,24 @@
 
 ## General
 - <a href="https://www.chessprogramming.org/Keith_Gorlen">Inspiration!</a>
+- <a href="http://www.ccs.neu.edu/home/gene/cs-info.html">Gene Cooperman's Computer Science Information</a>
 - <a href="http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm">Christopher Alexander's Design Patterns</a>
 - <a href="https://www.bluesnews.com/abrash/">Michael Abrash</a>
 - <a href="https://en.wikipedia.org/wiki/One-instruction_set_computer">https://en.wikipedia.org/wiki/One-instruction_set_computer</a>
 
 
 ## Project Ideas
+- pseudocode runner/transpiler to python for DP problems in 6515 GA using lark or a JS parser? invent a lang name.
 - script that calls pd patch, generates artwork and posts to bandcamp via puppeteer or another file sharing service
+  - or for starters, just a puppeteer script that uploads albums to bandcamp
+- make a meme text generator app (maybe use gm library from npm or just canvas)
+- keyboard shortcuts/dark mode userscript for gmail simple
 - matter.js:
   - putt-putt golf or desert golf
   - raycaster
   - matterjs experiment like https://jsfiddle.net/mityok/c9qt2g28/10/
-- write another scrobbler that works by day and follows bandcamp
+- make a few Codewars challenges
+- write another scrobbler that aggregates per day rather than per song and follows bandcamp listens
 - auto-queue recent bandcamp releases into command line player via scraping
   - could be a master "to listen" list on glitch which the command line script can automatically pull from. option to search and autoplay something from discogs, youtube or bandcamp
 - bandcamp command line listening streamer based on urls
@@ -84,13 +90,15 @@
 - make an IR-\>spim runner in node/mips compiler + host on heroku
 - Tiger to JS transpiler
 - MIPS decompiler
+- JS ARM simulator
 - <a href="https://en.wikipedia.org/wiki/Tic-tac-toe_variants">https://en.wikipedia.org/wiki/Tic-tac-toe_variants</a>
-- app that scrapes recent posts by favorite SO users
+- app that scrapes recent posts by favorite SO users [or use SO api]
 - Challenge/project idea lists:
   - <a href="https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html">More challenging projects</a>
   - <a href="https://www.webfx.com/blog/web-design/10-puzzle-websites-to-sharpen-your-programming-skills/">https://www.webfx.com/blog/web-design/10-puzzle-websites-to-sharpen-your-programming-skills/</a>
   - <a href="https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/">https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/</a>
   - <a href="http://rosettacode.org/wiki/Rosetta_Code">Look for projects at Rosetta Code</a>
+    - <a href="http://rosettacode.org/wiki/Category:Programming_Tasks">http://rosettacode.org/wiki/Category:Programming_Tasks</a>
   - <a href="https://programmingbydoing.com/">"Programming by Doing" simple projects for students</a>
 - Organize mp3s: beets.io and https://www.discogs.com/developers/
 - <a href="http://el.media.mit.edu/logo-foundation/index.html">The Logo Foundation</a>
@@ -101,18 +109,31 @@
   - <a href="http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide">http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide</a>
   - <a href="http://forums.winamp.com/showthread.php?t=224914">http://forums.winamp.com/showthread.php?t=224914</a>
 - Langs/frameworks/libs to learn:
-  - <a href="https://codepen.io/danfascia/pen/jOPajpR?editors=1100">Tailwind</a>
+  - <a href="https://codepen.io/danfascia/pen/jOPajpR?editors=1100">Tailwind/bootstrap</a>
   - Rails
   - React Native
   - Lisp/Scheme/ML
-  - Haskell
+  - <a href="http://learnyouahaskell.com">Haskell</a>
   - Go
   - Angular/rxjs
+  - graphql
+  - redux
+  - nasm
   - Rxjava
   - <a href="https://fasterthanli.me/articles/a-half-hour-to-learn-rust">Rust</a>
+  - <a href="https://course.raku.org/">Raku</a>
   - COBOL
   - x86
   - prolog
+  - puzzlescript
+  - supercollider
+  - C++20/template metaprogramming
+  - powershell
+  - autohotkey
+  - android programming
+- <a href="https://hitorri.bandcamp.com/album/manipulating-automated-manipulated-automation">idea from</a> -- write scripts that generate pure data text programs that are really difficult to hand-build and/or have some element of randomization. Could also play/build/manipulate a patch with random clicking, etc. also check out tidalcycles live coding.
+- <a href="https://aestheticcomplexity.wordpress.com/2011/11/11/programming-arvo-part/">https://aestheticcomplexity.wordpress.com/2011/11/11/programming-arvo-part/</a>
+- lichess bot
 - <a href="https://developers.google.com/blogger/docs/3.0/getting_started">Listening journal or similar using blogger API</a>
 - <a href="https://github.com/TooTallNate/node-lame/blob/master/deps/mpg123/doc/README.remote">make a music player app based on mpg123</a>
   - <a href="https://stackoverflow.com/questions/35781991/run-a-command-that-needs-input-without-hanging-but-still-allow-input">https://stackoverflow.com/questions/35781991/run-a-command-that-needs-input-without-hanging-but-still-allow-input</a>
@@ -124,7 +145,9 @@
 - make a regex blockly demo on codepen or write a generator for some language that isn't supported yet
 - <a href="https://pomb.us/build-your-own-react/">write your own react</a>
 - me vs world correspondence chess app for my homepage
-- MIPS mini project ideas:
+- generate static html tic tac toe for all states using negamax
+- app to generate static blogs with simpler script than jekyll
+- MIPS/ARM mini project ideas:
   - bf interpreter
   - rot13
   - tic tac toe
@@ -145,6 +168,7 @@
 
 
 ## Algorithms
+- <a href="https://en.wikipedia.org/wiki/List_of_algorithms">List of algorithms</a>
 - <a href="https://algs4.cs.princeton.edu/home/">Princeton Algorithms</a>
 - <a href="http://cslibrary.stanford.edu/">Stanford CS Education Library</a>
 - <a href="https://inst.eecs.berkeley.edu/~cs61b/fa17/materials/lectures/">Berkeley CS61B lectures</a>
@@ -159,7 +183,7 @@
 - <a href="https://gregable.com/2013/10/majority-vote-algorithm-find-majority.html">Boyer-Moore majority vote algorithm</a>
 - <a href="https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes">Sieve of Eratosthenes</a>
 - <a href="https://en.wikipedia.org/wiki/Fermat%27s_factorization_method">Fermat's factorization method</a>
-- <a href="http://andreinc.net/2010/12/11/euclids-algorithm-reducing-fraction-to-lowest-terms/">Euclid's algorithm</a>
+- <a href="https://en.wikipedia.org/wiki/Euclidean_algorithm">Euclid's algorithm</a>
 - <a href="https://en.wikipedia.org/wiki/Karatsuba_algorithm">Karatsuba algorithm</a>
 - <a href="http://codereview.stackexchange.com/questions/66450/simplify-a-fraction">Simplify a fraction</a>
 - <a href="http://blog.jamisbuck.org/">Basil & Fabian</a>
@@ -207,6 +231,7 @@
 ## Mazes
 - <a href="http://www.astrolog.org/labyrnth/algrithm.htm">Think Labyrinth</a>
 - <a href="http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap">Buckblog maze generation algorithm overview</a>
+- <a href="https://en.wikipedia.org/wiki/Maze_solving_algorithm">Maze solving algorithm - Wikipedia</a>
 
 
 ## Cellular automata
@@ -378,6 +403,8 @@
 - Puzzlescript:
   - <a href="https://puzzlescriptgallery.tumblr.com/">Tumblr</a>
   - <a href="https://itch.io/games/made-with-puzzlescript">Itch</a>
+  - <a href="http://www.draknek.org">Draknek's Domain - Alan Hazelden's games and projects</a>
+
 
 
 ## Puzzles
@@ -434,6 +461,7 @@
 
 
 ## Visual/animation
+- <a href="http://corehtml5canvas.com">Core HTML5 Canvas</a>
 - Learn graphics from scratch:
   - <a href="https://www.scratchapixel.com/">https://www.scratchapixel.com/</a>
   - <a href="https://gabrielgambetta.com/computer-graphics-from-scratch/introduction.html">https://gabrielgambetta.com/computer-graphics-from-scratch/introduction.html</a>
@@ -483,6 +511,7 @@
 
 ### WebGL
 - <a href="https://thebookofshaders.com/">The book of shaders</a>
+- <a href="http://webglfundamentals.org/">http://webglfundamentals.org/</a>
 - <a href="https://learnopengl.com/">https://learnopengl.com/</a>
 - <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial">WebGL tutorial</a>
 - <a href="https://bits.coop/articles/rigging-and-animation/">Try out regl</a>
@@ -565,7 +594,6 @@
 
 ## Regex
 - <a href="https://www.regular-expressions.info/refadv.html">Advanced regex features ref sheet</a>
-- <a href="http://www.cs.sun.ac.za/~abvdm/regex.html">Regex Static Analysis</a>
 - <a href="https://www.regular-expressions.info/catastrophic.html">Catastrophic Backtracking</a>
 - <a href="https://swtch.com/~rsc/regexp/">Implementing Regular Expressions</a>
 - <a href="https://rcoh.me/posts/no-magic-regular-expressions/">Write a regex engine</a>
@@ -609,6 +637,7 @@
 
 
 ## Data science
+- <a href="https://www.datacamp.com">Datacamp</a>
 - APIs/Datasets
   - <a href="https://github.com/toddmotto/public-apis">https://github.com/toddmotto/public-apis</a>
   - <a href="https://github.com/public-apis/public-apis/blob/master/README.md">https://github.com/public-apis/public-apis/blob/master/README.md</a>
@@ -632,7 +661,6 @@
   - <a href="https://gist.github.com/klmr/23ed79f973c75b11b0b5">https://gist.github.com/klmr/23ed79f973c75b11b0b5</a>
   - <a href="https://www.washingtonpost.com/wp-srv/health/interactives/guns/ownership.html">https://www.washingtonpost.com/wp-srv/health/interactives/guns/ownership.html</a>
   - <a href="https://restcountries.eu/">https://restcountries.eu/</a>
-  - <a href="https://rel.ink/">https://rel.ink/</a>
   - <a href="https://pipedream.com/">https://pipedream.com/</a>
   - <a href="https://example-data.draftbit.com/">https://example-data.draftbit.com/</a>
   - <a href="https://github.com/vera-institute/incarceration_trends">https://github.com/vera-institute/incarceration_trends</a>
@@ -715,6 +743,7 @@
 ## Ruby
 - <a href="http://poignant.guide/book/chapter-6.html">Why's Poignant Guide to Ruby</a>
 - <a href="http://ruby-doc.com/docs/ProgrammingRuby/html/index.html">Programming Ruby</a>
+- <a href="http://eli.thegreenplace.net/2006/04/18/understanding-ruby-blocks-procs-and-methods">Understanding Ruby blocks, Procs and methods - Eli Bendersky's website</a>
 
 
 ## MIPS
@@ -843,7 +872,7 @@
 
 
 ## Competitive coding
-- <a href="https://code.google.com/codejam/past-contests">Google Code Jam</a>
+- <a href="https://codingcompetitions.withgoogle.com/codejam/archive">Google Code Jam</a>
   - <a href="https://www.go-hero.net/jam/16/">Go-Hero</a> has archive all the past Google Code Jam problems w/ solutions
 - <a href="https://www.reddit.com/r/dailyprogrammer/">Daily Programmer</a>
 - <a href="https://www.mathworks.com/matlabcentral/cody/problems">Math problems</a>
@@ -863,10 +892,12 @@
 - <a href="https://www.root-me.org/en/Challenges/Web-Client/Javascript-Native-code">Root me</a>
 - <a href="https://cses.fi/">CSES</a>
   - <a href="https://cses.fi/book/book.pdf">Competitive Programmer's Handbook</a>
+- <a href="https://dmoj.ca/">DMOJ</a>
 - <a href="http://web.stanford.edu/class/cs97si/">Introduction to programming contests</a>
 - <a href="http://codeforces.com/">Codeforces</a>
 - <a href="http://www.pvv.ntnu.no/~spaans/programming.html">Tons of tips & links</a>
 - <a href="https://swerc.eu/2017/problems/">SWERC past problem sets</a>
+- <a href="https://ipsc.ksp.sk/">Internet Problem Solving Contest — IPSC</a>
 
 
 ## Security/CTF sites
@@ -892,6 +923,9 @@
 - "Book of Proof" Hammack
 - <a href="http://www.finseth.com/craft/index.html">Craft of Text Editors</a>
 - <a href="https://users.ece.cmu.edu/~koopman/stack_computers/index.html">Stack computers</a>
+- <a href="http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/">http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/</a>
+- <a href="http://www.pbr-book.org/">Physically Based Rendering</a>
+- <a href="http://aima.cs.berkeley.edu/">Artificial Intelligence A Modern Approach</a>
 
 
 ## Education
@@ -952,7 +986,7 @@
 - Fall 20: ECE 8843 Side channels and their role in cybersecurity
 - Spring 21:
   - CS 6515 Graduate Algorithms
-  - CS 7210 Distributed Systems
+  - <a href="https://github.com/emichael/dslabs/">CS 7210 Distributed Systems</a>
 
 
 ## CCSF
@@ -1025,9 +1059,6 @@
 - <a href="http://meetupresources.herokuapp.com/index.html">Interview algorithms and tips</a>
 - <a href="http://kelukelu.me/interview/questions.html">Assorted interview tips</a>
 - <a href="https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki">Women Who Code Interview Prep</a>
-- Gayle McDowell:
-  - <a href="https://www.youtube.com/watch?v=rEJzOhC5ZtQ">talk at Canadian University Software Engineering Conference</a>
-  - <a href="https://www.youtube.com/watch?v=1fqxMuPmGak">Ask Me Anything video (see the top comment with all the links to the individual questions)</a>
 
 
 ## Stack Overflow
