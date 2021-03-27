@@ -13,7 +13,7 @@ headers["Accept-Language"] = "en-US,en;q=0.5"
 headers["Accept-Encoding"] = "gzip, deflate"
 
 def check_links(line):
-    for link in re.findall(r"https?://[^\s\"><]+", line):
+    for link in re.findall(r"https?://[^\s\"><\]\[)(]+", line):
         try:
             response = requests.get(link, headers=headers)
             response.raise_for_status()
