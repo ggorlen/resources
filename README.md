@@ -59,7 +59,7 @@
 - <https://en.wikipedia.org/wiki/One-instruction_set_computer>
 
 
-## Project Ideas
+## Project Ideas3
 - pseudocode runner/transpiler to python for DP problems in 6515 GA using lark or a JS parser? invent a lang name.
 - script that calls pd patch, generates artwork and posts to bandcamp via puppeteer or another file sharing service
   - or for starters, just a puppeteer script that uploads albums to bandcamp
