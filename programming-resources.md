@@ -231,7 +231,7 @@
 - [CIS341](https://www.seas.upenn.edu/~cis341/current/)
 - <https://tiarkrompf.github.io/notes/?/just-write-the-parser/>
 - Lisp:
-  - <https://bernsteinbear.com/blog/compiling-a-lisp-0/>
+  - [Compiling a lisp](https://bernsteinbear.com/blog/lisp/)
   - [Build your own lisp](http://www.buildyourownlisp.com/)
   - [Write a Lisp interpreter in Python](http://norvig.com/lispy.html)
 - [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
@@ -886,7 +886,6 @@
 - [CTU](https://www.coloradotech.edu/degrees/doctorates/computer-science)
 
 ### MS/grad certificates
-- [SFSU](http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ms-computer-science/)
 - [CSU Fullerton](https://www.calstateonline.net/Cal-State-Campuses/CSU-Fullerton)
 - [VT](http://www.vtmit.vt.edu/)
 - [Adv. certif. in web/mobile via SDSU](https://www.ces.sdsu.edu/science-computers-technology/advanced-certificate-web-and-mobile-applications-development)

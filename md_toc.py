@@ -15,7 +15,7 @@ def add_toc(lines, placeholder="<!-- TOC -->\n"):
     
     for line in lines:
         if m := re.match(r"## (.+)$", line):
-            link = "#" + m.group(1).lower().replace(" ", "-")
+            link = "#" + re.sub(r"\W", "-", m.group(1).lower())
             toc.append(f"{len(toc) + 1}. [{m.group(1)}]({link})\n")
     
     for i, line in enumerate(lines):
