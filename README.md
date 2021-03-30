@@ -1,19 +1,19 @@
 # Programming Resources
 
 1. [General](#general)
-2. [Project Ideas](#project-ideas)
+2. [Project Idea_s33](#project-idea_s33)
 3. [Project Euler](#project-euler)
 4. [Algorithms](#algorithms)
 5. [Mazes](#mazes)
 6. [Cellular automata](#cellular-automata)
-7. [Compilers/interpreters](#compilers-interpreters)
+7. [Compilers/interpreters](#compilersinterpreters)
 8. [Programming languages](#programming-languages)
 9. [Esoteric programming languages](#esoteric-programming-languages)
 10. [Game AI](#game-ai)
 11. [Games](#games)
 12. [Puzzles](#puzzles)
 13. [Fractals and L-systems](#fractals-and-l-systems)
-14. [Visual/animation](#visual-animation)
+14. [Visual/animation](#visualanimation)
 15. [Tiling and packing](#tiling-and-packing)
 16. [Physics simulation](#physics-simulation)
 17. [Regex](#regex)
@@ -24,7 +24,7 @@
 22. [Cryptography](#cryptography)
 23. [Data science](#data-science)
 24. [C](#c)
-25. [C++](#c--)
+25. [C++](#c-1)
 26. [JS](#js)
 27. [Web development](#web-development)
 28. [Python](#python)
@@ -37,10 +37,10 @@
 35. [Unix](#unix)
 36. [Prolog](#prolog)
 37. [Code golf](#code-golf)
-38. [Scratch/Snap](#scratch-snap)
+38. [Scratch/Snap](#scratchsnap)
 39. [Course sites](#course-sites)
 40. [Competitive coding](#competitive-coding)
-41. [Security/CTF sites](#security-ctf-sites)
+41. [Security/CTF sites](#securityctf-sites)
 42. [Bit twiddling](#bit-twiddling)
 43. [Books](#books)
 44. [Education](#education)
@@ -59,7 +59,7 @@
 - <https://en.wikipedia.org/wiki/One-instruction_set_computer>
 
 
-## Project Ideas3
+## Project Idea_s33
 - pseudocode runner/transpiler to python for DP problems in 6515 GA using lark or a JS parser? invent a lang name.
 - script that calls pd patch, generates artwork and posts to bandcamp via puppeteer or another file sharing service
   - or for starters, just a puppeteer script that uploads albums to bandcamp

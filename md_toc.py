@@ -8,14 +8,22 @@ could also use: https://stackoverflow.com/questions/9721944/automatic-toc-in-git
 """
 
 import re
+from collections import defaultdict
 from sys import argv
 
 def add_toc(lines, placeholder="<!-- TOC -->\n"):
+    seen = defaultdict(int)
     toc = []
     
     for line in lines:
         if m := re.match(r"## (.+)$", line):
-            link = "#" + re.sub(r"\W", "", m.group(1).lower())
+            link = m.group(1).lower()
+            link = "#" + re.sub(r"[^A-Za-z\d_-]", "", re.sub(r"\s+", "-", link))
+            seen[link] += 1
+            
+            if seen[link] > 1:
+                link = link + f"-{seen[link] - 1}"
+
             toc.append(f"{len(toc) + 1}. [{m.group(1)}]({link})\n")
     
     for i, line in enumerate(lines):
