@@ -1,7 +1,7 @@
 # Programming Resources
 
 1. [General](#general)
-2. [Project Idea_s33](#project-idea_s33)
+2. [Project Ideas](#project-ideas)
 3. [Project Euler](#project-euler)
 4. [Algorithms](#algorithms)
 5. [Mazes](#mazes)
@@ -59,7 +59,7 @@
 - <https://en.wikipedia.org/wiki/One-instruction_set_computer>
 
 
-## Project Idea_s33
+## Project Ideas
 - pseudocode runner/transpiler to python for DP problems in 6515 GA using lark or a JS parser? invent a lang name.
 - script that calls pd patch, generates artwork and posts to bandcamp via puppeteer or another file sharing service
   - or for starters, just a puppeteer script that uploads albums to bandcamp
@@ -106,29 +106,29 @@
   - <http://wiki.winamp.com/wiki/Beginner%27s_Basic_Plugin_Guide>
   - <http://forums.winamp.com/showthread.php?t=224914>
 - Langs/frameworks/libs to learn:
+  - React Native
   - puzzlescript
-  - [Tailwind/bootstrap](https://codepen.io/danfascia/pen/jOPajpR?editors=1100)
   - Rails
   - Lisp/Scheme/ML/Clojure
   - [Haskell](http://learnyouahaskell.com)
   - Go
+  - [Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+  - [Tailwind/bootstrap](https://codepen.io/danfascia/pen/jOPajpR?editors=1100)
   - Angular/rxjs
   - graphql
-  - React Native
   - redux
   - nasm
   - Rxjava
-  - [Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
-  - [Raku](https://course.raku.org/)
-  - COBOL
   - x86
-  - prolog
   - opengl shaders
   - supercollider
-  - C++20/template metaprogramming
+  - [C++20](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)/template metaprogramming
   - powershell
   - autohotkey
   - android programming
+  - prolog <https://community.chocolatey.org/packages/SWI-Prolog>, <https://stackoverflow.com/questions/25467090/how-to-run-swi-prolog-from-the-command-line>, Prolog programming for artificial intelligence (pdf)
+  - [Raku](https://course.raku.org/)
+  - COBOL
 - [idea from](https://hitorri.bandcamp.com/album/manipulating-automated-manipulated-automation) -- write scripts that generate pure data text programs that are really difficult to hand-build and/or have some element of randomization. Could also play/build/manipulate a patch with random clicking, etc. also check out tidalcycles live coding.
 - <https://aestheticcomplexity.wordpress.com/2011/11/11/programming-arvo-part/>
 - lichess bot
@@ -145,6 +145,7 @@
   - <https://github.com/zserge/o>
 - me vs world correspondence chess app for my homepage
 - generate static html tic tac toe for all states using negamax
+- generate other HTML adventure games statically
 - app to generate static blogs with simpler script than jekyll
 - MIPS/ARM mini project ideas:
   - bf interpreter
@@ -154,6 +155,7 @@
   - sieve
   - sorting
   - base converter
+  - [bencode](https://en.wikipedia.org/wiki/Bencode) parser
 - dithering:
   - <https://surma.dev/things/ditherpunk/>
   - <https://en.wikipedia.org/wiki/Ordered_dithering>
@@ -283,7 +285,10 @@
   - [Compiling a lisp](https://bernsteinbear.com/blog/lisp/)
   - [Build your own lisp](http://www.buildyourownlisp.com/)
   - [Write a Lisp interpreter in Python](http://norvig.com/lispy.html)
+  - [lisp to js transpiler](https://gilmi.xyz/blog/post/2016/10/14/lisp-to-js)
 - [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
+- [Let's build a simple interpreter](https://github.com/rspivak/lsbasi)
+- [Demystifying programs that create programs](https://briancallahan.net/blog/20210407.html)
 
 
 ## Programming languages
@@ -857,6 +862,7 @@
 - [Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/)
 - [Lynda SFPL](https://www.lynda.com/portal/patron?org=sfpl.org)
 - [Coursera algorithms classes (pts 1 & 2)](https://www.coursera.org/learn/algorithms-part1)
+  - [Google professional certificate in data analytics](https://www.coursera.org/professional-certificates/google-data-analytics)
 - [Egghead](https://egghead.io/)
 - [Jeff Erickson's algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 - [UW Data Structures & Algorithms](https://courses.cs.washington.edu/courses/cse326/03wi/326lecturesa.shtml)
@@ -925,14 +931,22 @@
 - <http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/>
 - [Physically Based Rendering](http://www.pbr-book.org/)
 - [Artificial Intelligence A Modern Approach](http://aima.cs.berkeley.edu/)
+- [Introduction to Operations Research](https://notendur.hi.is/kth93/3.20.pdf)
 
 
 ## Education
 
 ### PhD
+- DSU (seems reasonable!)
+  - [overview](https://dsu.edu/programs/phdcs/index.html)
+  - [tuition](https://dsu.edu/admissions/graduate/cost-aid/tuition-fees.html)
 - [Berkeley EECS](https://eecs.berkeley.edu/academics/graduate/research-programs/admissions)
-- [Aspen](https://www.aspen.edu/business-technology/doctoral-computer-science/)
 - [CTU](https://www.coloradotech.edu/degrees/doctorates/computer-science)
+- NSU (prob too expensive, ~$74k)
+  - [overview](https://computing.nova.edu/doctoral/index.html)
+  - [tuition](https://computing.nova.edu/graduate/tuition.html)
+- [Aspen](https://www.aspen.edu/business-technology/doctoral-computer-science/)
+  - Aja: this is a no-go. It's a private, for-profit university - that's one red flag. The other is that it is only basically accredited, and we want regionally accredited. I know that sounds backwards, but regional accreditation transfers anywhere, and lots of places don't recognize national accreditation as legitimate.
 
 ### MS/grad certificates
 - [CSU Fullerton](https://www.calstateonline.net/Cal-State-Campuses/CSU-Fullerton)
@@ -1086,4 +1100,5 @@
   - <http://wiki.c2.com/?FizzBuzzTest>
   - <https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition>
 - [Git man page generator](https://git-man-page-generator.lokaltog.net/)
+- [Minesweeper is NP-complete](http://web.mat.bham.ac.uk/R.W.Kaye/minesw/minesw.htm)
 
