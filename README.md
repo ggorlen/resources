@@ -57,6 +57,7 @@
 - [Christopher Alexander's Design Patterns](http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm)
 - [Michael Abrash](https://www.bluesnews.com/abrash/)
 - <https://en.wikipedia.org/wiki/One-instruction_set_computer>
+- [HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
 
 
 ## Project Ideas
@@ -107,18 +108,21 @@
   - <http://forums.winamp.com/showthread.php?t=224914>
 - Langs/frameworks/libs to learn:
   - React Native
-  - puzzlescript
   - Rails
   - Lisp/Scheme/ML/Clojure
   - [Haskell](http://learnyouahaskell.com)
   - Go
   - [Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
-  - [Tailwind/bootstrap](https://codepen.io/danfascia/pen/jOPajpR?editors=1100)
-  - Angular/rxjs
+    - [rust cheatsheet](https://cheats.rs/)
   - graphql
+  - next.js on stackblitz
+  - [Tailwind/bootstrap](https://codepen.io/danfascia/pen/jOPajpR?editors=1100)
+  - flutter/dart
+  - mongodb
   - redux
-  - nasm
+  - Angular/rxjs
   - Rxjava
+  - nasm
   - x86
   - opengl shaders
   - supercollider
@@ -126,7 +130,11 @@
   - powershell
   - autohotkey
   - android programming
-  - prolog <https://community.chocolatey.org/packages/SWI-Prolog>, <https://stackoverflow.com/questions/25467090/how-to-run-swi-prolog-from-the-command-line>, Prolog programming for artificial intelligence (pdf)
+  - prolog 
+    - [SWI-prolog](https://community.chocolatey.org/packages/SWI-Prolog)
+    - <https://stackoverflow.com/questions/25467090/how-to-run-swi-prolog-from-the-command-line>
+    - Prolog programming for artificial intelligence (pdf)
+  - puzzlescript
   - [Raku](https://course.raku.org/)
   - COBOL
 - [idea from](https://hitorri.bandcamp.com/album/manipulating-automated-manipulated-automation) -- write scripts that generate pure data text programs that are really difficult to hand-build and/or have some element of randomization. Could also play/build/manipulate a patch with random clicking, etc. also check out tidalcycles live coding.
@@ -144,7 +152,7 @@
 - [write your own react](https://pomb.us/build-your-own-react/)
   - <https://github.com/zserge/o>
 - me vs world correspondence chess app for my homepage
-- generate static html tic tac toe for all states using negamax
+- generate static html tic tac toe for all states using negamax -- how about other board games? nim?
 - generate other HTML adventure games statically
 - app to generate static blogs with simpler script than jekyll
 - MIPS/ARM mini project ideas:
@@ -272,6 +280,7 @@
 - [Compiler books](https://dickgrune.com/)
 - [Create a simple tokenizer in C#](https://jack-vanlightly.com/blog/2016/2/3/creating-a-simple-tokenizer-lexer-in-c)
 - [Writing your own toy compiler](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
+- [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/)
 - [Lexical analysis](https://en.wikibooks.org/wiki/Compiler_Construction/Lexical_analysis)
 - [Simple tutorial and useful references](https://blog.mgechev.com/2017/09/16/developing-simple-interpreter-transpiler-compiler-tutorial/#references)
 - My first language front-end:
@@ -286,9 +295,11 @@
   - [Build your own lisp](http://www.buildyourownlisp.com/)
   - [Write a Lisp interpreter in Python](http://norvig.com/lispy.html)
   - [lisp to js transpiler](https://gilmi.xyz/blog/post/2016/10/14/lisp-to-js)
+  - [make a lisp](https://github.com/kanaka/mal)
 - [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
 - [Let's build a simple interpreter](https://github.com/rspivak/lsbasi)
 - [Demystifying programs that create programs](https://briancallahan.net/blog/20210407.html)
+- [On Pascal Compilers book](http://pascal.hansotten.com/uploads/pbh/brinch%20hansen%20on%20pascal%20compilers.pdf)
 
 
 ## Programming languages
@@ -366,18 +377,15 @@
 - [Jezzball](https://en.wikipedia.org/wiki/JezzBall)
 - Freerice clone
 - [Patience](https://en.wikipedia.org/wiki/Patience_(game))
-- [Hex](https://en.wikipedia.org/wiki/Hex_(board_game))
-- [Lines of action](https://dke.maastrichtuniversity.nl/m.winands/loa/)
 - [Boulder Dash](https://en.wikipedia.org/wiki/Boulder_Dash)
 - [Ultimate tic tac toe or other variants](https://en.wikipedia.org/wiki/Tic-tac-toe_variants)
+- [Nine Men's Morris](https://en.wikipedia.org/wiki/Nine_Men%27s_Morris)
 - [Marble Madness](https://en.wikipedia.org/wiki/Marble_Madness)
 - [Loco-Motion](https://en.wikipedia.org/wiki/Loco-Motion_(video_game))
 - [Digger](https://en.wikipedia.org/wiki/Digger_(video_game))
-- [Nine Men's Morris](https://en.wikipedia.org/wiki/Nine_Men%27s_Morris)
 - [Rummikub](https://en.wikipedia.org/wiki/Rummikub)
 - Hnefatafl
 - Hive
-- Go
 - 2048
 - Boggle
 - Lemmings
@@ -389,6 +397,14 @@
 - [Open souce game clones](https://osgameclones.com/)
 - [List of abstract strategy games](https://en.wikipedia.org/wiki/List_of_abstract_strategy_games)
 - [Reversi](http://inventwithpython.com/chapter15.html)
+- [Go and similar](https://en.wikipedia.org/wiki/Games_played_with_Go_equipment)
+  - [Pente](https://en.wikipedia.org/wiki/Pente)
+  - [Teeko](https://en.wikipedia.org/wiki/Teeko)
+  - [Gomoku](https://en.wikipedia.org/wiki/Gomoku)
+- [Connection games](https://en.wikipedia.org/wiki/Connection_game)
+  - [Hex](https://en.wikipedia.org/wiki/Hex_(board_game))
+  - [Lines of action](https://dke.maastrichtuniversity.nl/m.winands/loa/)
+- [m,n,k game](https://en.wikipedia.org/wiki/M,n,k-game)
 - Checkers, misere checkers and variants:
   - <https://boardgamegeek.com/geeklist/147417/best-checkers-variants>
   - <http://www.di.fc.ul.pt/~jpn/gv/checkers.htm>
@@ -511,10 +527,12 @@
 - [Necessary Disorder](https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/)
 - [ThreeJS fundamentals](https://threejsfundamentals.org/)
 - [Mr. Doob three.js collection](http://mrdoob.com/)
+- [Noise in creative coding](https://varun.ca/noise/)
 
 
 ### WebGL
 - [The book of shaders](https://thebookofshaders.com/)
+- <https://github.com/lettier/3d-game-shaders-for-beginners>
 - <http://webglfundamentals.org/>
 - <https://learnopengl.com/>
 - [WebGL tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial)
@@ -604,6 +622,7 @@
 - [Mini regex](https://learning.tarokuriyama.com/2020/02/mini-regex.html)
 - [Replace with conditional](https://www.regular-expressions.info/replaceconditional.html)
 - [True power of regex](http://nikic.github.io/2012/06/15/The-true-power-of-regular-expressions.html)
+- [Regex golf](https://alf.nu/RegexGolf)
 
 
 ## Operating Systems
@@ -614,6 +633,7 @@
 - [What every programmer should know about memory](https://akkadia.org/drepper/cpumemory.pdf)
 - [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/)
 - [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
+- [Bottom up CS](https://www.bottomupcs.com/)
 
 
 ## Computer Science
@@ -622,6 +642,7 @@
 - [SAT SMT by Example book](https://yurichev.com/writings/SAT_SMT_by_example.pdf)
 - [Software foundations book series](https://softwarefoundations.cis.upenn.edu/)
 - [JFLAP](http://www.jflap.org/)
+- [List of CS conferences](https://en.wikipedia.org/wiki/List_of_computer_science_conferences)
 
 
 ## Machine learning
@@ -815,6 +836,7 @@
   - <https://www.youtube.com/watch?v=5HILZon7pVE>
   - <https://www.youtube.com/watch?v=zl04ZfdkiuM>
   - <https://www.youtube.com/watch?v=1VAcZr2wQzo>
+- [Introduction to Computer Organization: ARM Assembly Language Using the Raspberry Pi](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/sec-varstack.html)
 
 
 ## Raspberry Pi
@@ -874,6 +896,7 @@
   - <http://www.mathmeetsyou.com/home/trigonometry>
   - <http://www.greenteapress.com/thinkbayes/html/index.html>
   - <https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/>
+- [Intro to computer organization x86-64](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)
 
 
 ## Competitive coding
@@ -903,6 +926,7 @@
 - [Tons of tips & links](http://www.pvv.ntnu.no/~spaans/programming.html)
 - [SWERC past problem sets](https://swerc.eu/2017/problems/)
 - [Internet Problem Solving Contest — IPSC](https://ipsc.ksp.sk/)
+- [interviewbit](https://www.interviewbit.com/courses/programming/)
 
 
 ## Security/CTF sites
@@ -932,6 +956,8 @@
 - [Physically Based Rendering](http://www.pbr-book.org/)
 - [Artificial Intelligence A Modern Approach](http://aima.cs.berkeley.edu/)
 - [Introduction to Operations Research](https://notendur.hi.is/kth93/3.20.pdf)
+- [OpenDSA Books](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/index.html)
+- [3d math primer for graphics and game development](https://gamemath.com/)
 
 
 ## Education
@@ -949,6 +975,8 @@
   - Aja: this is a no-go. It's a private, for-profit university - that's one red flag. The other is that it is only basically accredited, and we want regionally accredited. I know that sounds backwards, but regional accreditation transfers anywhere, and lots of places don't recognize national accreditation as legitimate.
 
 ### MS/grad certificates
+- [UW embedded programming certificate](https://www.pce.uw.edu/certificates/embedded-and-real-time-systems-programming)
+- [55 MOOC-based master's degrees](https://www.classcentral.com/report/mooc-based-masters-degree/)
 - [CSU Fullerton](https://www.calstateonline.net/Cal-State-Campuses/CSU-Fullerton)
 - [VT](http://www.vtmit.vt.edu/)
 - [Adv. certif. in web/mobile via SDSU](https://www.ces.sdsu.edu/science-computers-technology/advanced-certificate-web-and-mobile-applications-development)
@@ -1055,13 +1083,16 @@
   - Upwork/Fiverr
   - [Weworkremotely programming jobs](https://weworkremotely.com/categories/remote-programming-jobs)
 - [Repsonding to freelancing gig offers](http://jessicahische.is/helpingyouanswer)
-- [Codementor](https://www.codementor.io)
-- [Juni](https://junilearning.com/)
-- [General Assembly teaching](http://generalassemb.ly/how-we-work/teach-at-general-assembly)
-- [Thinkful web dev instructor](https://jobs.chegg.com/search-results?category=Education)
-- [Code for America](https://www.codeforamerica.org/jobs)
-- [Slack internship](https://slack.com/careers/1852134/software-engineering-internship)
-- [CCSF professor](https://jobs.ccsf.edu/)
+- Potential:
+  - [Slack internship](https://slack.com/careers/1852134/software-engineering-internship)
+  - [Airtable](https://airtable.com/careers?utm_source=marketing_footer)
+  - Salesforce
+  - [CCSF professor](https://jobs.ccsf.edu/)
+  - [Codementor](https://www.codementor.io)
+  - [Juni](https://junilearning.com/)
+  - [General Assembly teaching](http://generalassemb.ly/how-we-work/teach-at-general-assembly)
+  - [Thinkful web dev instructor](https://jobs.chegg.com/search-results?category=Education)
+  - [Code for America](https://www.codeforamerica.org/jobs)
 - Internships:
   - <https://www.indeed.com/q-Software-Engineering-Intern-l-San-Francisco-Bay-Area,-CA-jobs.html>
   - <http://www.engineerjobs.com/internships/software-engineering/california/bay-area.php>
