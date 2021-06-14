@@ -55,9 +55,13 @@
 - [Inspiration!](https://www.chessprogramming.org/Keith_Gorlen)
 - [Gene Cooperman's Computer Science Information](http://www.ccs.neu.edu/home/gene/cs-info.html)
 - [Christopher Alexander's Design Patterns](http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm)
+  - [A Pattern Language](https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf)
 - [Michael Abrash](https://www.bluesnews.com/abrash/)
 - <https://en.wikipedia.org/wiki/One-instruction_set_computer>
 - [HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
+- Cool projects:
+  - https://mark.show/
+  - https://sumi.news/
 
 
 ## Project Ideas
@@ -65,12 +69,14 @@
 - script that calls pd patch, generates artwork and posts to bandcamp via puppeteer or another file sharing service
   - or for starters, just a puppeteer script that uploads albums to bandcamp
 - make a meme text generator app (maybe use gm library from npm or just canvas)
+- react native mp3 player with mono mode using mpg123 or something; or white noise generator apk
 - keyboard shortcuts/dark mode userscript for gmail simple
 - matter.js:
   - putt-putt golf or desert golf
   - raycaster
   - matterjs experiment like https://jsfiddle.net/mityok/c9qt2g28/10/
 - make a few Codewars challenges
+- check and see if there's a good vegan ingredients/product checker/validator and write one if there isn't
 - write another scrobbler that aggregates per day rather than per song and follows bandcamp listens
 - auto-queue recent bandcamp releases into command line player via scraping
   - could be a master "to listen" list on glitch which the command line script can automatically pull from. option to search and autoplay something from discogs, youtube or bandcamp
@@ -81,7 +87,6 @@
   - [Nav meshes](https://medium.com/@mscansian/a-with-navigation-meshes-246fd9e72424)
   - [Boids](http://www.red3d.com/cwr/boids/)
 - [write a time clock web app and keep exact totals for freelance work (ex](https://github.com/zserge/focus))
-- react native mp3 player with mono mode using mpg123 or something
 - write a stack machine
 - stack overflow comments sentiment analyzer
 - [do generative eno ambient series covers with pointillist effect in js canvas](http://www.p01.org/music_for_tiny_airports/)
@@ -98,7 +103,7 @@
   - [Look for projects at Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
     - <http://rosettacode.org/wiki/Category:Programming_Tasks>
   - ["Programming by Doing" simple projects for students](https://programmingbydoing.com/)
-- Organize mp3s: beets.io and https://www.discogs.com/developers/
+- mp3 organizer utility. Could look into using beets.io and https://www.discogs.com/developers/
 - [The Logo Foundation](http://el.media.mit.edu/logo-foundation/index.html)
 - [NetLogo](https://en.wikipedia.org/wiki/NetLogo)
 - write a non-acct twitter (or SO) client that can fav and show imgs like birdfeed without having an account.
@@ -123,6 +128,7 @@
   - Angular/rxjs
   - Rxjava
   - nasm
+  - elixir
   - x86
   - opengl shaders
   - supercollider
@@ -167,6 +173,7 @@
 - dithering:
   - <https://surma.dev/things/ditherpunk/>
   - <https://en.wikipedia.org/wiki/Ordered_dithering>
+- userscript for injecting codemirror into tryitonline
 
 
 ## Project Euler
@@ -258,6 +265,7 @@
 - [CoDi](https://en.wikipedia.org/wiki/CoDi)
 - [Life-like cellular automata (incl. Seeds)](https://en.wikipedia.org/wiki/Life-like_cellular_automaton)
 - [Interactive CA and other sundry JS animations](http://math.hws.edu/eck/js/edge-of-chaos/CA-info.html)
+- [Multiple neighborhood CA]((https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/)
 
 
 ## Compilers/interpreters
@@ -300,6 +308,7 @@
 - [Let's build a simple interpreter](https://github.com/rspivak/lsbasi)
 - [Demystifying programs that create programs](https://briancallahan.net/blog/20210407.html)
 - [On Pascal Compilers book](http://pascal.hansotten.com/uploads/pbh/brinch%20hansen%20on%20pascal%20compilers.pdf)
+- [Write a micro C compiler in Haskell](https://blog.josephmorag.com/posts/mcc0/)
 
 
 ## Programming languages
@@ -623,6 +632,7 @@
 - [Replace with conditional](https://www.regular-expressions.info/replaceconditional.html)
 - [True power of regex](http://nikic.github.io/2012/06/15/The-true-power-of-regular-expressions.html)
 - [Regex golf](https://alf.nu/RegexGolf)
+- [let's build a regex engine](https://kean.blog/post/lets-build-regex)
 
 
 ## Operating Systems
@@ -958,6 +968,8 @@
 - [Introduction to Operations Research](https://notendur.hi.is/kth93/3.20.pdf)
 - [OpenDSA Books](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/index.html)
 - [3d math primer for graphics and game development](https://gamemath.com/)
+- [Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/)
+- [High performance browser networking](https://hpbn.co/)
 
 
 ## Education
