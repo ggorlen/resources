@@ -33,22 +33,23 @@
 31. [MIPS](#mips)
 32. [ARM](#arm)
 33. [Raspberry Pi](#raspberry-pi)
-34. [Unix](#unix)
-35. [Prolog](#prolog)
-36. [Code golf](#code-golf)
-37. [Scratch/Snap](#scratchsnap)
-38. [Course sites](#course-sites)
-39. [Competitive coding](#competitive-coding)
-40. [Security/CTF sites](#securityctf-sites)
-41. [Bit twiddling](#bit-twiddling)
-42. [Books](#books)
-43. [Education](#education)
-44. [OMSCS](#omscs)
-45. [CCSF](#ccsf)
-46. [Jobs](#jobs)
-47. [Interview prep](#interview-prep)
-48. [Stack Overflow](#stack-overflow)
-49. [Fun](#fun)
+34. [Pure Data](#pure-data)
+35. [Unix](#unix)
+36. [Prolog](#prolog)
+37. [Code golf](#code-golf)
+38. [Scratch/Snap](#scratchsnap)
+39. [Course sites](#course-sites)
+40. [Competitive coding](#competitive-coding)
+41. [Security/CTF sites](#securityctf-sites)
+42. [Bit twiddling](#bit-twiddling)
+43. [Books](#books)
+44. [Education](#education)
+45. [OMSCS](#omscs)
+46. [CCSF](#ccsf)
+47. [Jobs](#jobs)
+48. [Interview prep](#interview-prep)
+49. [Stack Overflow](#stack-overflow)
+50. [Fun](#fun)
 
 ## General
 - [Inspiration!](https://www.chessprogramming.org/Keith_Gorlen)
@@ -190,8 +191,11 @@
   - [Write a Lisp interpreter in Python](http://norvig.com/lispy.html)
   - [lisp to js transpiler](https://gilmi.xyz/blog/post/2016/10/14/lisp-to-js)
   - [make a lisp](https://github.com/kanaka/mal)
+  - [risp in rust lisp](https://stopachka.essay.dev/post/5/risp-in-rust-lisp)
 - [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
+- [Let's write a compiler, by Brian Callahan](https://briancallahan.net/blog/20210814.html)
 - [Let's build a simple interpreter](https://github.com/rspivak/lsbasi)
+- [Let's build a simple interpreter for APL](https://mathspp.com/blog/lsbasi-apl-part1)
 - [Demystifying programs that create programs](https://briancallahan.net/blog/20210407.html)
 - [On Pascal Compilers book](http://pascal.hansotten.com/uploads/pbh/brinch%20hansen%20on%20pascal%20compilers.pdf)
 - [Write a micro C compiler in Haskell](https://blog.josephmorag.com/posts/mcc0/)
@@ -743,6 +747,12 @@
   - <https://raspberrypi.stackexchange.com/questions/169/how-can-i-extend-the-life-of-my-sd-card>
 
 
+## Pure Data
+- [QCGInteractive PD tutorial videos](https://www.youtube.com/user/QCGInteractiveMusic/videos)
+- [Pure Data Wavetable Synth – Part 6](https://designingsound.org/2013/04/18/pure-data-wavetable-synth-part-6/)
+- [Pure Data readings](https://tuftsdev.github.io/MusicAppsOnTheIpad/readings/reading3.pdf)
+
+
 ## Unix
 - [Bandit wargames](http://overthewire.org/wargames/bandit/)
 - [Learn vim script](http://learnvimscriptthehardway.stevelosh.com/)
@@ -824,6 +834,7 @@
 - [SWERC past problem sets](https://swerc.eu/2017/problems/)
 - [Internet Problem Solving Contest — IPSC](https://ipsc.ksp.sk/)
 - [interviewbit](https://www.interviewbit.com/courses/programming/)
+- [rosalind bioinformatics problems](http://rosalind.info)
 
 
 ## Security/CTF sites
@@ -858,6 +869,7 @@
 - [Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/)
 - [High performance browser networking](https://hpbn.co/)
 - [Lisp books](https://lisp-lang.org/books/)
+- [Functional programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/)
 
 
 ## Education
@@ -979,6 +991,8 @@
   - <http://www.incomeinsiders.com/tag/freelance-programmer-contract/>
 - Remote/freelancing:
   - <https://github.com/engineerapart/TheRemoteFreelancer>
+  - <https://searchremotely.com/>
+  - <https://sidequestjobs.com/>
   - Indeed/indeed prime
   - Upwork/Fiverr
   - [Weworkremotely programming jobs](https://weworkremotely.com/categories/remote-programming-jobs)
@@ -1032,4 +1046,5 @@
   - <https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition>
 - [Git man page generator](https://git-man-page-generator.lokaltog.net/)
 - [Minesweeper is NP-complete](http://web.mat.bham.ac.uk/R.W.Kaye/minesw/minesw.htm)
+- [Regex riddler](https://regexriddler.com/)
 
