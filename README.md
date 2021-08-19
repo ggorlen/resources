@@ -395,6 +395,7 @@
   - <https://en.wikipedia.org/wiki/Delaunay_triangulation>
   - <http://www.geom.uiuc.edu/~samuelp/del_project.html#algorithms>
   - <https://en.wikipedia.org/wiki/Voronoi_diagram#Algorithms>
+  - <https://en.wikipedia.org/wiki/Bowyer%E2%80%93Watson_algorithm>
 - [Graph drawing](https://en.wikipedia.org/wiki/Graph_drawing)
 - Isometric:
   - <https://stackoverflow.com/questions/892811/drawing-isometric-game-worlds>
@@ -477,6 +478,7 @@
   - <https://en.wikipedia.org/wiki/Double_pendulum>
   - <https://www.youtube.com/watch?v=neh86u7_TIk>
 - [Game physics cookbook](http://proquest.safaribooksonline.com/9781787123663)
+- [Game timers: Issues and solutions](https://www.fabiensanglard.net/timer_and_framerate/index.php)
 - [Jansen's linkage](https://en.wikipedia.org/wiki/Jansen%27s_linkage)
 - [Nature in Code book](https://leanpub.com/natureincode)
 - Sin & cos:
@@ -751,6 +753,12 @@
 - [QCGInteractive PD tutorial videos](https://www.youtube.com/user/QCGInteractiveMusic/videos)
 - [Pure Data Wavetable Synth – Part 6](https://designingsound.org/2013/04/18/pure-data-wavetable-synth-part-6/)
 - [Pure Data readings](https://tuftsdev.github.io/MusicAppsOnTheIpad/readings/reading3.pdf)
+- Pd/Py sockets:
+  - <https://stackoverflow.com/questions/61285324/how-to-send-messages-from-pure-data-to-python>
+  - <https://github.com/eerne/pdsocket>
+  - <https://github.com/aaevan/sight-sound/blob/master/sight.py>
+  - <https://github.com/reduzent?tab=repositories>
+  - <https://github.com/reduzent/netpd>
 
 
 ## Unix
@@ -870,6 +878,7 @@
 - [High performance browser networking](https://hpbn.co/)
 - [Lisp books](https://lisp-lang.org/books/)
 - [Functional programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/)
+- [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html)
 
 
 ## Education
