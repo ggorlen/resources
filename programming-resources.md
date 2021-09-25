@@ -104,6 +104,7 @@
 - [Life-like cellular automata (incl. Seeds)](https://en.wikipedia.org/wiki/Life-like_cellular_automaton)
 - [Interactive CA and other sundry JS animations](http://math.hws.edu/eck/js/edge-of-chaos/CA-info.html)
 - [Multiple neighborhood CA]((https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/)
+- [Biham–Middleton–Levine traffic model](https://en.wikipedia.org/wiki/Biham%E2%80%93Middleton%E2%80%93Levine_traffic_model)
 
 
 ## Compilers/interpreters
@@ -174,7 +175,7 @@
 - [SSS\*](https://en.wikipedia.org/wiki/SSS*)
 - Monte Carlo Tree Search:
   - <https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/>
-  - <http://www.baeldung.com/java-monte-carlo-tree-search>
+  - <https://www.baeldung.com/java-monte-carlo-tree-search>
   - <https://introcs.cs.princeton.edu/java/98simulation/>
   - <https://www.coursera.org/lecture/c-plus-plus-b/4-2-monte-carlo-a3Z4u>
 - [Principal variation search](https://en.wikipedia.org/wiki/Principal_variation_search)
@@ -283,12 +284,13 @@
 - Do chess packing puzzles
 - [Erich Friendman's Puzzle Palace (dead link as of 1/2020)](http://www2.stetson.edu/~efriedma/)
 - [Slitherlink](https://en.wikipedia.org/wiki/Slitherlink)
+- [Rush hour/log jam](https://en.wikipedia.org/wiki/Rush_Hour_(puzzle))
 - [Mindsports (links resource)](http://www.mindsports.nl/index.php/puzzle-links)
 - [Zendoku puzzle generation](http://garethrees.org/2007/06/10/zendoku-generation/#section-4)
 - [Sudoku solving algorithms](https://en.wikipedia.org/wiki/Sudoku_solving_algorithms)
 - [Generating sudoku boards](https://stackoverflow.com/questions/6924216/how-to-generate-sudoku-boards-with-unique-solutions)
 - [Mondrian puzzle](https://www.youtube.com/watch?v=49KvZrioFB0)
-- [Various puzzles from the Sudoku inventors](http://nikoli.co.jp/en/puzzles/)
+- [Various puzzles from the Sudoku inventors](https://nikoli.co.jp/en/puzzles/)
 - [Peter Norvig on Sudoku and other constraint problems (such as the skyscraper puzzle)](http://norvig.com/sudoku.html)
 - [Nonogram](https://en.wikipedia.org/wiki/Nonogram)
 - [Ricochet Robots](https://en.wikipedia.org/wiki/Ricochet_Robot)
@@ -428,7 +430,7 @@
   - [Coding challenge 93](https://www.youtube.com/watch?v=uWzPe_S-RVE&t=0s&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH&index=131)
   - <https://en.wikipedia.org/wiki/Double_pendulum>
   - <https://www.youtube.com/watch?v=neh86u7_TIk>
-- [Game physics cookbook](http://proquest.safaribooksonline.com/9781787123663)
+- [Game physics cookbook](https://gamephysicscookbook.com/)
 - [Game timers: Issues and solutions](https://www.fabiensanglard.net/timer_and_framerate/index.php)
 - [Jansen's linkage](https://en.wikipedia.org/wiki/Jansen%27s_linkage)
 - [Nature in Code book](https://leanpub.com/natureincode)
@@ -626,7 +628,7 @@
 
 
 ## MIPS
-- [MIPS system calls](http://students.cs.tamu.edu/tanzir/csce350/reference/syscalls.html)
+- [MIPS system calls](https://courses.missouristate.edu/kenvollmar/mars/help/syscallhelp.html)
 - [Learning MIPS and SPIM](https://uweb.engr.arizona.edu/~ece369/Resources/spim/QtSPIM_examples.pdf)
 - [recursion](https://courses.engr.illinois.edu/cs232/sp2012/section/disc2sol.pdf)
 - <https://courses.cs.washington.edu/courses/cse378/09wi/lectures/lec05.pdf>
@@ -634,7 +636,6 @@
 - <https://courses.cs.washington.edu/courses/cse410/09sp/examples/MIPSCallingConventionsSummary.pdf>
 - <https://en.wikibooks.org/wiki/MIPS_Assembly/Control_Flow_Instructions>
 - <https://www.coursehero.com/file/45823007/cs311-03-isa-Ipdf/>
-- <https://github.com/kyungyunlee/CS311-Computer-Organization/tree/master/project2/Project2>
 - <https://github.com/mightydeveloper/MIPS-Assembler>
 - <https://www.youtube.com/watch?v=z3ltaJ5UU5I>
 - <https://learnxinyminutes.com/docs/mips/>
@@ -662,7 +663,6 @@
   - <https://stackoverflow.com/questions/19612459/mips-how-does-mips-allocate-memory-for-arrays-in-the-stack>
 - [64 bit add/sub](https://stackoverflow.com/questions/26351920/how-to-perform-64-bit-addition-and-subtraction-using-mips)
 - <https://web.stanford.edu/class/ee182/Projects/PA2/simulator.s>
-- <http://zeta.albion.edu/~dreimann/Spring2012/courses/cs354/projects/>
 - <https://stackoverflow.com/questions/36815882/mips-how-to-add-one-string-to-another>
 - <https://stackoverflow.com/questions/7865870/how-to-concatenate-string-in-mips>
 - <https://www.chegg.com/homework-help/questions-and-answers/write-program-read-following-text-file-line-line-detect-words-palindromes-use-palindrome-p-q19403822>
@@ -684,7 +684,6 @@
   - [Site](https://thinkingeek.com/2013/01/09/arm-assembler-raspberry-pi-chapter-1/)
   - [eBook](https://personal.utdallas.edu/~pervin/RPiA/RPiA.pdf)
 - [ARM Assembly Using Raspberry PI](http://www.microdigitaled.com/ARM/ASM_ARM/Software/ARM_Assembly_Programming_Using_Raspberry_Pi_GUI.pdf)
-- [Smith College ARM Tutorial](http://www.science.smith.edu/dftwiki/index.php/Tutorial:_Assembly_Language_with_the_Raspberry_Pi)
 - [Hello ARM](http://www.bravegnu.org/gnu-eprog/hello-arm.html)
 - Tutorials:
   - <https://www.youtube.com/watch?v=5HILZon7pVE>
@@ -718,7 +717,7 @@
 
 
 ## Prolog
-- [FSAs in Prolog](http://cs.union.edu/~striegnk/courses/nlp-with-prolog/html/node5.html#l1.prolog)
+- [FSAs in Prolog](https://cs.union.edu/~striegnk/courses/nlp-with-prolog/html/node5.html#l1.prolog)
 - [99 prolog problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
 - [Power of Prolog textbook](https://www.metalevel.at/prolog)
 
@@ -738,7 +737,7 @@
   - <https://wiki.scratch.mit.edu/wiki/Array#Multidimensional_Arrays_in_Scratch>
   - <https://wiki.scratch.mit.edu/wiki/List_of_Mathematical_Functions_Done_in_Scratch>
   - <https://wiki.scratch.mit.edu/wiki/Recursion_and_Fractals#Creating_the_Koch_Curve>
-- [Snap instead of Scratch](http://www.ocsmag.com/2016/07/12/dump-scratch-use-blockly-or-snap-instead/)
+- [Snap instead of Scratch](https://www.ocsmag.com/dump-scratch-use-blockly-or-snap-instead/)
 - [Multiwingspan projects](http://www.multiwingspan.co.uk/scratch.php?page=ex1)
 - [funut YT](https://www.youtube.com/channel/UCsID64th1ocXiIqcRLW_svg)
 
@@ -813,7 +812,6 @@
 - [List of free online CS books](https://csgordon.github.io/books.html)
 - [Think Bayes/DSP/Complexity/OS/etc](http://www.greenteapress.com/thinkbayes/html/index.html)
 - [Definitive C++ book list](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
-- [Tons of free CS books](http://proquest.safaribooksonline.com/)
 - [Fuzzing book (software testing)](https://www.fuzzingbook.org/)
 - [Discrete Math](http://discrete.openmathbooks.org/dmoi3.html)
 - "Book of Proof" Hammack
@@ -830,6 +828,7 @@
 - [Lisp books](https://lisp-lang.org/books/)
 - [Functional programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/)
 - [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html)
+- [The Node Experiment - Exploring Async Basics with Rust](https://cfsamson.github.io/book-exploring-async-basics/)
 
 
 ## Education
@@ -864,7 +863,7 @@
 
 ### Courses to take
 - **Remember to convert EST to PST for registration**
-- [CSE 6220 Intro to High Performance Computing](https://www-users.cs.umn.edu/~karypis/parbook/)
+- CSE 6220 Intro to High Performance Computing (text: George Karypis - Parallel Computing)
 - CS 6265 Information Security Lab
   - <https://tc.gts3.org/cs6265/2020-spring/cal.html>
   - <http://phrack.com>
@@ -930,6 +929,10 @@
   - <https://fog.ccsf.edu/~gboyd/cs270/online/index.html>
   - <https://fog.ccsf.edu/~gboyd/cs270/HowThisCourseWorks.pdf>
 - [CS 211s notes](https://sites.google.com/site/koalalearn/fa2011/cs211s)
+- CS 211D Android Programming
+- CNIT 201C Introduction to Cisco Networks
+- CNIT 202C Routing and Switching Essentials
+
 
 ### CCSF certificates attained:
   - Java
@@ -948,7 +951,6 @@
   - <https://gist.github.com/reubano/344656121394ef7ff2048ca8b006f7d2>
 - Freelancing tips/guides/tutorials:
   - <https://gist.github.com/mdang/ef3669d4f266c62c3312>
-  - <http://www.incomeinsiders.com/tag/freelance-programmer-contract/>
 - Remote/freelancing:
   - <https://github.com/engineerapart/TheRemoteFreelancer>
   - <https://searchremotely.com/>
@@ -965,7 +967,7 @@
   - [Codementor](https://www.codementor.io)
   - [Juni](https://junilearning.com/)
   - [General Assembly teaching](http://generalassemb.ly/how-we-work/teach-at-general-assembly)
-  - [Thinkful web dev instructor](https://jobs.chegg.com/search-results?category=Education)
+  - [Thinkful web dev instructor or engineer](https://www.chegg.com/about/working-at-chegg/)
   - [Code for America](https://www.codeforamerica.org/jobs)
 - Internships:
   - <https://www.indeed.com/q-Software-Engineering-Intern-l-San-Francisco-Bay-Area,-CA-jobs.html>
@@ -994,6 +996,7 @@
   - <https://stackoverflow.com/users/501557/>
   - <https://stackoverflow.com/users/1566221/>
   - <https://stackoverflow.com/users/589924/>
+  - <https://stackoverflow.com/users/3877726/blindman67>
 
 
 ## Fun
