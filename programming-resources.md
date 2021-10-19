@@ -829,6 +829,7 @@
 - [Functional programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/)
 - [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html)
 - [The Node Experiment - Exploring Async Basics with Rust](https://cfsamson.github.io/book-exploring-async-basics/)
+- [Web browser engineering](https://browser.engineering/)
 
 
 ## Education
@@ -855,7 +856,6 @@
 
 ### Other
 - [Recurse Center non-bootcamp](https://www.recurse.com/)
-
 
 ## OMSCS
 - [Course videos](https://omscs.gatech.edu/search/node/course%20videos)
@@ -902,36 +902,101 @@
 - [CCSF Coders resources page](https://github.com/CCSF-Coders/learning-resources)
 
 ### CCSF courses to take
-- CS   177   Software Engineering
-- CS   231   Advanced Python Programming
-- CS   211D  Android Programming
-- CS   211E  Advanced Java: Enterprise Edition
+- MUS 3A  Diatonic Harmony (take MUS 100 first)
+- MUS 5A  Introduction to Composition (take MUS 100 first)
+- MUS 28  20th Century Music
+- MUS 100 Music Fundamentals
+- MUS 128 Survey of Contemporary and Electronic Music
+- MUS 22A History of Music in Western Culture: Medieval and Renaissance Music
 - CS   150P  SQL Server T-SQL Programming
 - CS   155B  MySQL Database Administration
-- CS   260A  Linux System Administration
-- CS   260P  Linux Administration Projects
+- CS   155P  MySQL Programming
+- CS    177  Software Engineering
+- CS    178  Build Automation for DevOps & QA
+- CS    195  Software Development Practicum
 - CS   197P  Technical Interview Prep
 - CS   197V  Version Control & Code Repos
 - CS   199   Independent Study
+- CS   211D  Android Programming
+- CS   211E  Advanced Java: Enterprise Edition
+- CS    231  Advanced Python Programming
+- CS   260A  Linux System Administration
+- CS   260P  Linux Administration Projects
 - CS   256   Data Visualization
+- CS   280   Introduction to Parallel and Cloud Programming
+- CNIT 40    DNS Security
+- CNIT 120   Network Security
+- CNIT 121   Computer Forensics
+- CNIT 122   Firewalls 
 - CNIT 123   Ethical Hacking
 - CNIT 124   Adv. Ethical Hacking
+- CNIT 126   Practical Malware Analysis
 - CNIT 127   Exploit Development
+- CNIT 128   Hacking Mobile Devices
+- CNIT 129S  Securing Web Applications
+- CNIT 132S  SEO & Analytics for Web Dev
+- CNIT 133I  JavaScript for IoT and XR
+- CNIT 133M   Mobile Web w/HTML, CSS & JS
 - CNIT 141   Cryptography For Computer Networks
+- CNIT 155   AWS Cloud Practitioner
+- CNIT 182   Hacking and Securing Automotive Systems
+- CNIT 203C  Scaling Networks
+- CNIT 204C  Connecting Networks
+- CNIT 205C  CCNA Security
+- CNIT 214   Internet of Things
+- CNIT 216   Internet of Things Security
 - MATH  80   Probability and Statistics
+- MATH  90   Precalculus Algebra
 - MATH  95   Trigonometry
+- MATH 108   Foundations of Data Science
 - MATH 110A  Calculus I
 - MATH 115   Discrete Mathematics
 - MATH 120   Linear Algebra
+- ELEC 101   Electronics I: Essentials of Electronics - Measurements and Passive Circuits 
+- FIN 138    Principles of Investment
+- FIN 136M   Personal Financial Planning - Math Emphasis
+- GEOL 10    Physical Geology
+
+### CCSF certificates to get
+- [Front-end web development](https://ccsf.curricunet.com/Report/Program/GetReport/1412?reportId=29) (petition sent, but might need to swap cnit133 since its name changed)
+- [Android programming](https://ccsf.curricunet.com/Report/Program/GetReport/1287?reportId=29) (application sent)
+- [Linux admin](https://ccsf.curricunet.com/Report/Program/GetReport/1288?reportId=29) (need CS260a)
+- [Data Science Fundamentals](https://ccsf.curricunet.com/Report/Program/GetReport/1298?reportId=29) (need CS256, MATH80)
+- [Databases for Developers](https://ccsf.curricunet.com/Report/Program/GetReport/1387?reportId=29) (need CS155P and CS231 or CS211E)
+- [Computers and Music](https://ccsf.curricunet.com/Report/Program/GetReport/1312?reportId=29) (need mus100, mus128, cs170, cs110a)
+- [C++](https://ccsf.curricunet.com/Report/GetReport?entityId=902&entityType=Program&reportId=29) (need cs110b, cs110c)
+- [Security for Web App Development](https://ccsf.curricunet.com/Report/Program/GetReport/782?reportId=29) (need CNIT 129S, CNIT 120)
+- [Mobile Web App Development](https://ccsf.curricunet.com/Report/Program/GetReport/994?reportId=29) (need CNIT 133M)
+- [Advanced Web Development Techniques](https://ccsf.curricunet.com/Report/Program/GetReport/995?reportId=29) (need CNIT 133M, CNIT 132S, CNIT 195)
 
 ### CCSF courses taken (partial)
-- CS   270   Comp Architecture w/ Assembly
+- CNIT131a XML and JSON
+- CNIT131h Introduction to HTML and CSS
+- CNIT132 Intermediate HTML and CSS
+- CNIT133 Interactive Web Pages: JavaScript
+- CNIT133a JavaScript Libraries/Frameworks
+- CNIT134 Server Side Technologies for the Web
+- CNIT197 Internship and Work Experience
+- CNIT201C Introduction to Cisco Networks
+- CNIT202C Routing and Switching Essentials
+- CS111a Intro to Programming: Java
+- CS111b Programming Fundamentals: Java
+- CS111c Data Structures & Algo: Java
+- CS114d C# with Database
+- CS130a PHP Programming
+- CS130b Advanced PHP Programming
+- CS132a Ruby Programming
+- CS150a SQL Server Databases
+- CS160a Introduction to Unix/Linux
+- CS160b Unix/Linux Shell Scripting
+- CS211s Advanced Java: Standard Edition
+  - [CS 211s notes](https://sites.google.com/site/koalalearn/fa2011/cs211s)
+- CS211D Android Programming
+- CS230w WordPress and Drupal CMS Development
+- CS232 Ruby on Rails Development
+- CS270 Comp Architecture w/ Assembly
   - <https://fog.ccsf.edu/~gboyd/cs270/online/index.html>
   - <https://fog.ccsf.edu/~gboyd/cs270/HowThisCourseWorks.pdf>
-- [CS 211s notes](https://sites.google.com/site/koalalearn/fa2011/cs211s)
-- CS 211D Android Programming
-- CNIT 201C Introduction to Cisco Networks
-- CNIT 202C Routing and Switching Essentials
 
 
 ### CCSF certificates attained:
