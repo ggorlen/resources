@@ -95,6 +95,7 @@
 - [Dancing Links](https://www.ocf.berkeley.edu/~jchu/publicportal/sudoku/0011047.pdf)
 - [k-way merge algorithm](https://en.wikipedia.org/wiki/K-way_merge_algorithm)
 - [DPLL](https://en.wikipedia.org/wiki/DPLL_algorithm)
+- [Bentley-Ottmann algorithm](https://en.wikipedia.org/wiki/Bentley%E2%80%93Ottmann_algorithm)
 
 ### DP
 - [Coin change](https://runestone.academy/runestone/books/published/pythonds/Recursion/DynamicProgramming.html)
@@ -135,6 +136,8 @@
 - [Think Labyrinth](http://www.astrolog.org/labyrnth/algrithm.htm)
 - [Buckblog maze generation algorithm overview](http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap)
 - [Maze solving algorithm - Wikipedia](https://en.wikipedia.org/wiki/Maze_solving_algorithm)
+- [Mazelog](http://www.mazelog.com/)
+- [Logic Mazes](http://www.logicmazes.com/)
 
 
 ## Cellular automata
@@ -296,6 +299,7 @@
 - [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game))
 - [Open souce game clones](https://osgameclones.com/)
 - [List of abstract strategy games](https://en.wikipedia.org/wiki/List_of_abstract_strategy_games)
+- [Cathedral](https://www.cathedral-game.co.nz/about-online.html)
 - [Reversi](http://inventwithpython.com/chapter15.html)
 - [Go and similar](https://en.wikipedia.org/wiki/Games_played_with_Go_equipment)
   - [Pente](https://en.wikipedia.org/wiki/Pente)
@@ -317,6 +321,7 @@
   - <http://www.iancgbell.clara.net/elite/text/index.htm>
   - MUDS such as God Wars
 - Interactive fiction:
+  - [interactive fiction archive](https://www.ifarchive.org/indexes/if-archive/)
   - [Knuth adventure](http://literateprogramming.com/adventure.pdf)
   - [TADS3](https://www.tads.org/)
 - [Tile-based game tutorial](https://www.youtube.com/watch?v=txUvD5_ROIU)
@@ -348,17 +353,20 @@
 - [Triomino packing](https://www.youtube.com/watch?v=hW4nB-ZAhts)
 - [Irregular hexagon packing](https://www.youtube.com/watch?v=i_TU49MioEE)
 - [Mathematical puzzle](https://en.wikipedia.org/wiki/Mathematical_puzzle)
-- [Soma cube](https://en.wikipedia.org/wiki/Soma_cube)
+- [Dissection puzzle](https://en.wikipedia.org/wiki/Dissection_puzzle)
+  - <https://www.youtube.com/watch?v=P-9qBV-9Fos>
+  - [Soma cube](https://en.wikipedia.org/wiki/Soma_cube)
+  - [IQ fit](https://www.smartgames.eu/uk/one-player-games/iq-fit)
+  - [Wooden snake puzzle](https://www.instructables.com/Wooden-Snake-Puzzle/) (and other [wooden puzzles](https://www.amazon.com/Guaishou-Wooden-Puzzles-Kongming-Adults/dp/B07XYXPBGG/ref=sr_1_16?keywords=12+wooden+logic+puzzles&qid=1640801127&sr=8-16))
 - [Assorted logic games](https://www.youtube.com/channel/UCEPZPgtnTvj2F3qTCLfaP4w)
 - [Lights Out](https://en.wikipedia.org/wiki/Lights_Out_(game))
 - [A bunch of puzzle games](http://www.puzzle-bridges.com/)
-- [Dissection puzzle](https://en.wikipedia.org/wiki/Dissection_puzzle)
-  - <https://www.youtube.com/watch?v=P-9qBV-9Fos>
 - [Tangram](https://en.wikipedia.org/wiki/Tangram)
 - [Klotski gone insane (Bricks game)](http://www.bricks-game.de/)
 - TopSpin and other puzzles:
   - <https://www.jaapsch.net/puzzles/topspin.htm>
   - <https://www.jaapsch.net/>
+- [Bulls and Cows](https://en.wikipedia.org/wiki/Bulls_and_Cows)
 
 
 ## Fractals and L-systems
@@ -388,6 +396,7 @@
   - <https://gabrielgambetta.com/computer-graphics-from-scratch/introduction.html>
 - [Inspiring zreference projects](https://zreference.com/projects/graphics/)
 - [Also inspiring, bit101 dailies](https://bit101.github.io/lab/dailies/170413.html)
+- [candusen projects](https://candusen.net/selections/), also [dusendusen](https://www.dusendusen.com/pages/info)
 - [Handbook of Graph Drawing and Visualization](http://cs.brown.edu/people/rtamassi/gdhandbook/)
 - Convex hull:
   - <https://en.wikipedia.org/wiki/Convex_hull_algorithms>
@@ -560,7 +569,7 @@
 
 ## Cryptography
 - [Cryptopals challenges](https://cryptopals.com/)
-- [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
+- [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf) / <https://toc.cryptobook.us/>
 - [DH key exchange in plain English](http://security.stackexchange.com/questions/45963/diffie-hellman-key-exchange-in-plain-english)
 - [Understanding how AES encryption works](https://nakabonne.dev/posts/understanding-how-aes-encryption-works/)
 
@@ -811,6 +820,7 @@
   - <http://www.greenteapress.com/thinkbayes/html/index.html>
   - <https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/>
 - [Intro to computer organization x86-64](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)
+- [Stanford NLP/compilers courses](https://www.i-programmer.info/news/150-training-a-education/15028-take-stanfords-natural-language-processing-with-deep-learning-for-free.html)
 
 
 ## Competitive coding
@@ -842,6 +852,7 @@
 - [Internet Problem Solving Contest — IPSC](https://ipsc.ksp.sk/)
 - [interviewbit](https://www.interviewbit.com/courses/programming/)
 - [rosalind bioinformatics problems](http://rosalind.info)
+- [Codility](https://app.codility.com/programmers/trainings)
 
 
 ## Security/CTF sites
@@ -859,6 +870,7 @@
 
 ## Books
 - [List of free online CS books](https://csgordon.github.io/books.html)
+- [Teach yourself CS](https://teachyourselfcs.com/)
 - [Think Bayes/DSP/Complexity/OS/etc](http://www.greenteapress.com/thinkbayes/html/index.html)
 - [Definitive C++ book list](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 - [Fuzzing book (software testing)](https://www.fuzzingbook.org/)
@@ -879,11 +891,15 @@
 - [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html)
 - [The Node Experiment - Exploring Async Basics with Rust](https://cfsamson.github.io/book-exploring-async-basics/)
 - [Web browser engineering](https://browser.engineering/)
+- [Joy of Cryptography](https://joyofcryptography.com/)
+- [Haskell School of Music](https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf)
 
 
 ## Education
 
 ### PhD
+- [UCSC](https://grad.soe.ucsc.edu/cse)
+- [UC Davis](https://cs.ucdavis.edu/graduate/our-programs/phd-degree) (requires GRE)
 - DSU (seems reasonable!)
   - [overview](https://dsu.edu/programs/phdcs/index.html)
   - [tuition](https://dsu.edu/admissions/graduate/cost-aid/tuition-fees.html)
@@ -894,6 +910,7 @@
   - [tuition](https://computing.nova.edu/graduate/tuition.html)
 - [Aspen](https://www.aspen.edu/business-technology/doctoral-computer-science/)
   - Aja: this is a no-go. It's a private, for-profit university - that's one red flag. The other is that it is only basically accredited, and we want regionally accredited. I know that sounds backwards, but regional accreditation transfers anywhere, and lots of places don't recognize national accreditation as legitimate.
+- [Getting a Computer Science PhD in the USA](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/)
 
 ### MS/grad certificates
 - [UW embedded programming certificate](https://www.pce.uw.edu/certificates/embedded-and-real-time-systems-programming)
@@ -966,7 +983,6 @@
 - CS   197P  Technical Interview Prep
 - CS   197V  Version Control & Code Repos
 - CS   199   Independent Study
-- CS   211D  Android Programming
 - CS   211E  Advanced Java: Enterprise Edition
 - CS    231  Advanced Python Programming
 - CS   260A  Linux System Administration
@@ -974,6 +990,9 @@
 - CS   256   Data Visualization
 - CS   280   Introduction to Parallel and Cloud Programming
 - CNIT 40    DNS Security
+- CNIT 102   Operating Systems II - Command Line
+- CNIT 103   Computer Hardware
+- CNIT 106   Introduction to Networks
 - CNIT 120   Network Security
 - CNIT 121   Computer Forensics
 - CNIT 122   Firewalls 
@@ -985,11 +1004,12 @@
 - CNIT 129S  Securing Web Applications
 - CNIT 132S  SEO & Analytics for Web Dev
 - CNIT 133I  JavaScript for IoT and XR
-- CNIT 133M   Mobile Web w/HTML, CSS & JS
+- CNIT 133M  Mobile Web w/HTML, CSS & JS
 - CNIT 141   Cryptography For Computer Networks
 - CNIT 155   AWS Cloud Practitioner
 - CNIT 182   Hacking and Securing Automotive Systems
-- CNIT 203C  Scaling Networks
+- CNIT 195   Web Development Capstone
+- CNIT 203C  Scaling Networks (if taking 20XC, check to see if you can work ahead on discussion questions and exams using the questions in Cisco's "What will I learn to do in this module?")
 - CNIT 204C  Connecting Networks
 - CNIT 205C  CCNA Security
 - CNIT 214   Internet of Things
@@ -1004,6 +1024,7 @@
 - ELEC 101   Electronics I: Essentials of Electronics - Measurements and Passive Circuits 
 - FIN 138    Principles of Investment
 - FIN 136M   Personal Financial Planning - Math Emphasis
+- BIO 114    Exploring Neuroscience: An introduction to the Brain
 - GEOL 10    Physical Geology
 
 ### CCSF certificates to get
@@ -1049,12 +1070,14 @@
 
 
 ### CCSF certificates attained:
+  - Android
   - Java
   - Web application programming
   - Computing skills for scientists
   - JS specialist
   - Web site development techniques
   - Mobile web app development
+  - Front-End Web Development
 
 
 ## Jobs
