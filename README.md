@@ -893,6 +893,7 @@
 - [Web browser engineering](https://browser.engineering/)
 - [Joy of Cryptography](https://joyofcryptography.com/)
 - [Haskell School of Music](https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf)
+- [Web audio book](https://smus.com/webaudio-book/)
 
 
 ## Education
