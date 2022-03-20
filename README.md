@@ -154,6 +154,7 @@
 - [Langton's loops](https://en.wikipedia.org/wiki/Langton%27s_loops)
 - [CoDi](https://en.wikipedia.org/wiki/CoDi)
 - [Life-like cellular automata (incl. Seeds)](https://en.wikipedia.org/wiki/Life-like_cellular_automaton)
+- [Another life-like CA list](https://conwaylife.com/wiki/List_of_Life-like_cellular_automata)
 - [Interactive CA and other sundry JS animations](http://math.hws.edu/eck/js/edge-of-chaos/CA-info.html)
 - [Multiple neighborhood CA]((https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/)
 - [Biham–Middleton–Levine traffic model](https://en.wikipedia.org/wiki/Biham%E2%80%93Middleton%E2%80%93Levine_traffic_model)
@@ -203,6 +204,7 @@
 - [Demystifying programs that create programs](https://briancallahan.net/blog/20210407.html)
 - [On Pascal Compilers book](http://pascal.hansotten.com/uploads/pbh/brinch%20hansen%20on%20pascal%20compilers.pdf)
 - [Write a micro C compiler in Haskell](https://blog.josephmorag.com/posts/mcc0/)
+- [tinyc.c](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c)
 
 
 ## Programming languages
@@ -314,7 +316,6 @@
   - <http://www.di.fc.ul.pt/~jpn/gv/checkers.htm>
   - <https://en.wikipedia.org/wiki/Draughts#Invented_variants>
 - ASCII games:
-  - <http://ifarchive.org/>
   - <http://www.8bs.com/othrdnld/manuals/publications.shtml>
   - <https://en.wikipedia.org/wiki/Jotto>
   - <https://en.wikipedia.org/wiki/NetHack>
@@ -439,6 +440,7 @@
 - [ThreeJS fundamentals](https://threejsfundamentals.org/)
 - [Mr. Doob three.js collection](http://mrdoob.com/)
 - [Noise in creative coding](https://varun.ca/noise/)
+- [Artblocks](https://www.artblocks.io/artists)
 
 
 ### WebGL
@@ -475,6 +477,9 @@
 - [Kuba textiles](https://en.wikipedia.org/wiki/Kuba_textiles)
 - [Jason Davies](https://www.jasondavies.com/)
 - [Circle packing flickr](https://www.flickr.com/photos/quasimondo/albums/72157624374940604)
+- Patterns:
+  - [Hitomezashi stitch pattern](https://www.youtube.com/watch?v=JbfhzlMk2eY)
+  - [10 print](https://10print.org/)
 
 
 ## Physics simulation
@@ -627,9 +632,7 @@
 - [HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
 - [Bitballoon for hosting web apps](https://www.bitballoon.com)
 - Jamstack/netlify/gridsome
-- Jekyll blog:
-  - <https://www.youtube.com/watch?v=xdxfyFS3pog>
-  - <https://jekyllrb.com/docs/installation/>
+- [Fly.io](https://fly.io/) has a free tier
 
 ### CSS
 - [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
@@ -894,6 +897,9 @@
 - [Joy of Cryptography](https://joyofcryptography.com/)
 - [Haskell School of Music](https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf)
 - [Web audio book](https://smus.com/webaudio-book/)
+- [Handmade Electronic Music -- The Art of Hardware Hacking (2006)](https://nicolascollins.com/handmade.htm)
+- [Probability for Data Science](https://probability4datascience.com/)
+- [Haskell Book](https://haskellbook.com/)
 
 
 ## Education
