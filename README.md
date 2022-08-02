@@ -156,8 +156,9 @@
 - [Life-like cellular automata (incl. Seeds)](https://en.wikipedia.org/wiki/Life-like_cellular_automaton)
 - [Another life-like CA list](https://conwaylife.com/wiki/List_of_Life-like_cellular_automata)
 - [Interactive CA and other sundry JS animations](http://math.hws.edu/eck/js/edge-of-chaos/CA-info.html)
-- [Multiple neighborhood CA]((https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/)
+- [Multiple neighborhood CA](https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/)
 - [Biham–Middleton–Levine traffic model](https://en.wikipedia.org/wiki/Biham%E2%80%93Middleton%E2%80%93Levine_traffic_model)
+- [Darwin Pond](http://www.darwinpond.com/)
 
 
 ## Compilers/interpreters
@@ -217,6 +218,7 @@
 - [Esolangs.org](https://esolangs.org/wiki/Main_Page)
 - [Esoteric programming languages](https://en.wikipedia.org/wiki/Esoteric_programming_language)
 - [Chess in befunge](http://www.frox25.no-ip.org/~mtve/code/eso/bef/chess/)
+- [some brainfuck fluff by daniel b cristofani](http://brainfuck.org/)
 
 
 ## Game AI
@@ -441,6 +443,7 @@
 - [Mr. Doob three.js collection](http://mrdoob.com/)
 - [Noise in creative coding](https://varun.ca/noise/)
 - [Artblocks](https://www.artblocks.io/artists)
+- [Inconvergent generative art](https://inconvergent.net/)
 
 
 ### WebGL
@@ -603,7 +606,6 @@
   - <https://github.com/jldbc/gunsandcrime>
   - <https://gist.github.com/klmr/23ed79f973c75b11b0b5>
   - <https://www.washingtonpost.com/wp-srv/health/interactives/guns/ownership.html>
-  - <https://restcountries.eu/>
   - <https://pipedream.com/>
   - <https://example-data.draftbit.com/>
   - <https://github.com/vera-institute/incarceration_trends>
@@ -649,9 +651,6 @@
   - <https://exploreflask.com/en/latest/>
   - <https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world>
   - <http://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/>
-- Python data structures & algorithms
-  - <http://interactivepython.org/runestone/static/pythonds/index.html>
-  - <http://www.brpreiss.com/books/opus7/>
 - [Computer vision with python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf)
 - [Effective Python](http://www.effectivepython.com/)
 - [Python Challenge](http://pythonchallenge.com/)
@@ -824,6 +823,10 @@
   - <https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/>
 - [Intro to computer organization x86-64](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)
 - [Stanford NLP/compilers courses](https://www.i-programmer.info/news/150-training-a-education/15028-take-stanfords-natural-language-processing-with-deep-learning-for-free.html)
+- [Learn 3d computer graphics programming](https://pikuma.com/courses/learn-3d-computer-graphics-programming)
+- [Conway's Game of Life: Mathematics and Construction](https://conwaylife.com/book/conway_life_book.pdf)
+- [Ray tracing in one weekend](https://raytracing.github.io/)
+- [Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf)
 
 
 ## Competitive coding
@@ -832,9 +835,7 @@
 - [Daily Programmer](https://www.reddit.com/r/dailyprogrammer/)
 - [Math problems](https://www.mathworks.com/matlabcentral/cody/problems)
 - [Learneroo](https://www.learneroo.com/)
-- Topcoder:
-  - <https://www.topcoder.com/getting-started>
-  - <https://www.topcoder.com/community/competitive-programming/>
+- [Topcoder](https://www.topcoder.com/community/competitive-programming/)
 - [Hacker Earth](https://www.hackerearth.com/challenges/)
 - [Code chef](https://www.codechef.com/)
 - [SPOJ](http://www.spoj.com/)
@@ -891,6 +892,7 @@
 - [High performance browser networking](https://hpbn.co/)
 - [Lisp books](https://lisp-lang.org/books/)
 - [Functional programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/)
+- [Real-world OCaml](https://dev.realworldocaml.org/)
 - [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html)
 - [The Node Experiment - Exploring Async Basics with Rust](https://cfsamson.github.io/book-exploring-async-basics/)
 - [Web browser engineering](https://browser.engineering/)
@@ -900,6 +902,11 @@
 - [Handmade Electronic Music -- The Art of Hardware Hacking (2006)](https://nicolascollins.com/handmade.htm)
 - [Probability for Data Science](https://probability4datascience.com/)
 - [Haskell Book](https://haskellbook.com/)
+- [Writing a Simple Operating System From Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
+- [Beautiful Racket](https://beautifulracket.com/)
+- [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
+- [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+- [Building Blocks for Theoretical Computer Science](https://mfleck.cs.illinois.edu/building-blocks/index-sp2020.html)
 
 
 ## Education
@@ -986,13 +993,11 @@
 - CS   155P  MySQL Programming
 - CS    177  Software Engineering
 - CS    178  Build Automation for DevOps & QA
-- CS    195  Software Development Practicum
 - CS   197P  Technical Interview Prep
 - CS   197V  Version Control & Code Repos
 - CS   199   Independent Study
 - CS   211E  Advanced Java: Enterprise Edition
 - CS    231  Advanced Python Programming
-- CS   260A  Linux System Administration
 - CS   260P  Linux Administration Projects
 - CS   256   Data Visualization
 - CS   280   Introduction to Parallel and Cloud Programming
@@ -1028,16 +1033,15 @@
 - MATH 110A  Calculus I
 - MATH 115   Discrete Mathematics
 - MATH 120   Linear Algebra
-- ELEC 101   Electronics I: Essentials of Electronics - Measurements and Passive Circuits 
-- FIN 138    Principles of Investment
+- ELEC 101   Electronics I: Essentials of Electronics - Measurements and Passive Circuits
 - FIN 136M   Personal Financial Planning - Math Emphasis
-- BIO 114    Exploring Neuroscience: An introduction to the Brain
+- FIN 138    Principles of Investment
 - GEOL 10    Physical Geology
+- BIO 114    Exploring Neuroscience: An introduction to the Brain
+- BIO 118    Introduction to Entomology
+- (Diablo Valley College) COMSC-260 - Assembly Language Programming/Computer Organization
 
 ### CCSF certificates to get
-- [Front-end web development](https://ccsf.curricunet.com/Report/Program/GetReport/1412?reportId=29) (petition sent, but might need to swap cnit133 since its name changed)
-- [Android programming](https://ccsf.curricunet.com/Report/Program/GetReport/1287?reportId=29) (application sent)
-- [Linux admin](https://ccsf.curricunet.com/Report/Program/GetReport/1288?reportId=29) (need CS260a)
 - [Data Science Fundamentals](https://ccsf.curricunet.com/Report/Program/GetReport/1298?reportId=29) (need CS256, MATH80)
 - [Databases for Developers](https://ccsf.curricunet.com/Report/Program/GetReport/1387?reportId=29) (need CS155P and CS231 or CS211E)
 - [Computers and Music](https://ccsf.curricunet.com/Report/Program/GetReport/1312?reportId=29) (need mus100, mus128, cs170, cs110a)
@@ -1066,11 +1070,13 @@
 - CS150a SQL Server Databases
 - CS160a Introduction to Unix/Linux
 - CS160b Unix/Linux Shell Scripting
+- CS195 Software Development Practicum
 - CS211s Advanced Java: Standard Edition
   - [CS 211s notes](https://sites.google.com/site/koalalearn/fa2011/cs211s)
 - CS211D Android Programming
 - CS230w WordPress and Drupal CMS Development
 - CS232 Ruby on Rails Development
+- CS260A Linux System Administration
 - CS270 Comp Architecture w/ Assembly
   - <https://fog.ccsf.edu/~gboyd/cs270/online/index.html>
   - <https://fog.ccsf.edu/~gboyd/cs270/HowThisCourseWorks.pdf>
@@ -1085,6 +1091,7 @@
   - Web site development techniques
   - Mobile web app development
   - Front-End Web Development
+  - Linux sys admin
 
 
 ## Jobs
@@ -1101,6 +1108,11 @@
   - <https://sidequestjobs.com/>
   - Indeed/indeed prime
   - Upwork/Fiverr
+  - <https://outschool.com>
+  - <https://arc.dev/>
+  - [Codementor](https://www.codementor.io)
+  - [AirPair](https://en.wikipedia.org/wiki/AirPair)
+  - [HackHands](https://en.wikipedia.org/wiki/HackHands)
   - [Weworkremotely programming jobs](https://weworkremotely.com/categories/remote-programming-jobs)
 - [Repsonding to freelancing gig offers](http://jessicahische.is/helpingyouanswer)
 - Potential:
@@ -1108,7 +1120,6 @@
   - [Airtable](https://airtable.com/careers?utm_source=marketing_footer)
   - Salesforce
   - [CCSF professor](https://jobs.ccsf.edu/)
-  - [Codementor](https://www.codementor.io)
   - [Juni](https://junilearning.com/)
   - [General Assembly teaching](http://generalassemb.ly/how-we-work/teach-at-general-assembly)
   - [Thinkful web dev instructor or engineer](https://www.chegg.com/about/working-at-chegg/)
