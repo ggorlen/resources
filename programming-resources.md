@@ -858,6 +858,7 @@
 - [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
 - [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 - [Building Blocks for Theoretical Computer Science](https://mfleck.cs.illinois.edu/building-blocks/index-sp2020.html)
+- [Elemennts of Programming](http://elementsofprogramming.com/)
 
 
 ## Education
@@ -1090,19 +1091,20 @@
 
 ## Stack Overflow
 - Users I like:
-  - <https://stackoverflow.com/users/224132/>
-  - <https://stackoverflow.com/users/895245/>
-  - <https://stackoverflow.com/users/5459839/>
-  - <https://stackoverflow.com/users/3000206/>
-  - <https://stackoverflow.com/users/168657/>
-  - <https://stackoverflow.com/users/559737/>
-  - <https://stackoverflow.com/users/385378/>
-  - <https://stackoverflow.com/users/1204143/>
-  - <https://stackoverflow.com/users/128511/>
-  - <https://stackoverflow.com/users/501557/>
-  - <https://stackoverflow.com/users/1566221/>
-  - <https://stackoverflow.com/users/589924/>
-  - <https://stackoverflow.com/users/3877726/blindman67>
+  - [Kaiido](https://stackoverflow.com/users/3702797/kaiido) (web graphics)
+  - [gman](https://stackoverflow.com/users/128511/) (web graphics)
+  - [blindman67](https://stackoverflow.com/users/3877726/blindman67) (web graphics)
+  - [trincot](https://stackoverflow.com/users/5459839/) (algorithms)
+  - [Carcigenicate](https://stackoverflow.com/users/3000206/)
+  - [NikiC](https://stackoverflow.com/users/385378/) (PHP core/internals/compilers)
+  - [templatetypedef](https://stackoverflow.com/users/501557/) (computer science)
+  - [rici](https://stackoverflow.com/users/1566221/) (algorithms)
+  - [Ciro Santilli](https://stackoverflow.com/users/895245/)
+  - [nneonneo](https://stackoverflow.com/users/1204143/)
+  - [ikegami](https://stackoverflow.com/users/589924/) (perl)
+  - [mob](https://stackoverflow.com/users/168657/) (perl)
+  - [Peter Cordes](https://stackoverflow.com/users/224132/>) (MIPS, assembly, architecture)
+  - [Brendan](https://stackoverflow.com/users/559737/) (assembly)
 
 
 ## Fun
