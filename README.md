@@ -846,6 +846,8 @@
 - [Timus](https://acm.timus.ru/)
 - [Code kata](http://codekata.com/)
 - [Root me](https://www.root-me.org/en/Challenges/Web-Client/Javascript-Native-code)
+- [USACO](http://www.usaco.org/)
+  - [USACO Guide](https://usaco.guide/)
 - [CSES](https://cses.fi/)
   - [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
 - [DMOJ](https://dmoj.ca/)
@@ -857,6 +859,8 @@
 - [interviewbit](https://www.interviewbit.com/courses/programming/)
 - [rosalind bioinformatics problems](http://rosalind.info)
 - [Codility](https://app.codility.com/programmers/trainings)
+- [OII](https://training.olinfo.it/#/overview)
+- [Algorithms for Competitive Programming](https://cp-algorithms.com/)
 
 
 ## Security/CTF sites
@@ -907,7 +911,10 @@
 - [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
 - [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 - [Building Blocks for Theoretical Computer Science](https://mfleck.cs.illinois.edu/building-blocks/index-sp2020.html)
-- [Elemennts of Programming](http://elementsofprogramming.com/)
+- [Elements of Programming](http://elementsofprogramming.com/)
+- [Writing An Interpreter In Go](https://interpreterbook.com/)
+- [Building Git](https://shop.jcoglan.com/building-git/)
+- [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 
 
 ## Education
@@ -1112,6 +1119,8 @@
   - <https://outschool.com>
   - <https://arc.dev/>
   - [Codementor](https://www.codementor.io)
+  - [Ringer](https://www.ringerhq.com/i/processing/p5.js)
+  - [Toptal](https://toptal.com/)
   - [AirPair](https://en.wikipedia.org/wiki/AirPair)
   - [HackHands](https://en.wikipedia.org/wiki/HackHands)
   - [Weworkremotely programming jobs](https://weworkremotely.com/categories/remote-programming-jobs)
@@ -1157,6 +1166,7 @@
 
 
 ## Fun
+- [The Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/)
 - [Regex to validate another regex](https://stackoverflow.com/questions/172303/is-there-a-regular-expression-to-detect-a-valid-regular-expression)
 - [Quine](https://en.wikipedia.org/wiki/Quine_(computing))
 - [Hello World in every language](https://github.com/leachim6/hello-world)
