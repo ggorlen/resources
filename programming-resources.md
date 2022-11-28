@@ -15,7 +15,7 @@
 
 
 ## Project Euler
-- Next to solve: 189, 244
+- Next to solve: 189, 244, 726
 - [#93 Sudoku can also be solved using Integer Linear Programming](https://www.coin-or.org/PuLP/CaseStudies/a_sudoku_problem.html)
 - #84 Monopoly is one of the best. Worth solving using both simulation (I used first-class functions) and stochastic matrix (I used numpy). Working out the initial probabilities for the stochastic matrix requires only basic probability, but it's tricky.
 - [Euler's totient function](http://www.geeksforgeeks.org/eulers-totient-function/)
@@ -584,13 +584,26 @@
 ## Web development
 - [HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
 - [Bitballoon for hosting web apps](https://www.bitballoon.com)
-- Jamstack/netlify/gridsome
+- Jamstack/gridsome
 - [Fly.io](https://fly.io/) has a free tier
+- [Render](https://render.com/) (free tier DB is wiped after 30 days)
+- [Linode](https://www.linode.com/)
+- Static site hosts:
+  - [Netlify](https://www.netlify.com)
+  - [Cloudflare pages](https://pages.cloudflare.com)
 
 ### CSS
 - [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Rachel Andrew (CSS grid examples)](https://codepen.io/rachelandrew/pens/public)
 - [CSS cube](https://davidwalsh.name/css-cube)
+- [w3 core stylesheets](https://www.w3.org/StyleSheets/Core/preview)
+- [CSS validator](https://jigsaw.w3.org/css-validator/)
+- [58 bytes of css that look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
+- Good classless CSS stylesheets:
+  - Hack CSS
+  - GH markdown
+  - latex css
+  - spcss
 
 
 ## Python
@@ -727,6 +740,10 @@
 - [Learn vim script](http://learnvimscriptthehardway.stevelosh.com/)
 
 
+## Perl
+- [Perl Quiz of the Week](https://perl.plover.com/qotw/)
+
+
 ## Prolog
 - [FSAs in Prolog](https://cs.union.edu/~striegnk/courses/nlp-with-prolog/html/node5.html#l1.prolog)
 - [99 prolog problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
@@ -812,6 +829,8 @@
 - [Codility](https://app.codility.com/programmers/trainings)
 - [OII](https://training.olinfo.it/#/overview)
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/)
+- [CP Book](https://cpbook.net/)
+- [bugfix-66](https://bugfix-66.com/)
 
 
 ## Security/CTF sites
@@ -866,6 +885,7 @@
 - [Writing An Interpreter In Go](https://interpreterbook.com/)
 - [Building Git](https://shop.jcoglan.com/building-git/)
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
+- [Free Computer Books](https://freecomputerbooks.com/compscAlgorithmBooks.html)
 
 
 ## Education
@@ -1096,6 +1116,7 @@
 - [Interview algorithms and tips](http://meetupresources.herokuapp.com/index.html)
 - [Assorted interview tips](http://kelukelu.me/interview/questions.html)
 - [Women Who Code Interview Prep](https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki)
+- [Tech Intervew Handbook](https://www.techinterviewhandbook.org/)
 
 
 ## Stack Overflow
@@ -1103,6 +1124,7 @@
   - [Kaiido](https://stackoverflow.com/users/3702797/kaiido) (web graphics)
   - [gman](https://stackoverflow.com/users/128511/) (web graphics)
   - [blindman67](https://stackoverflow.com/users/3877726/blindman67) (web graphics)
+  - [kaya3](https://stackoverflow.com/users/12299000/kaya3) (Python, algorithms)
   - [trincot](https://stackoverflow.com/users/5459839/) (algorithms)
   - [Carcigenicate](https://stackoverflow.com/users/3000206/)
   - [NikiC](https://stackoverflow.com/users/385378/) (PHP core/internals/compilers)
