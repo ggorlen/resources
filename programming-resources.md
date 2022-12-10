@@ -12,6 +12,7 @@
 - Cool projects:
   - https://mark.show/
   - https://sumi.news/
+- [Ultimate guide to FFmpeg](https://img.ly/blog/ultimate-guide-to-ffmpeg/)
 
 
 ## Project Euler
@@ -202,6 +203,7 @@
 
 ## Games
 - [List of puzzle video games](https://en.wikipedia.org/wiki/List_of_puzzle_video_games)
+- [Erik Demaine's Combinatorial Games Page](https://erikdemaine.org/games/)
 - [Tile-matching video games](https://en.wikipedia.org/wiki/Tile-matching_video_game)
 - [Microsoft Entertainment Pack](https://en.wikipedia.org/wiki/Microsoft_Entertainment_Pack)
 - [Mahjong solitaire](https://en.wikipedia.org/wiki/Mahjong_solitaire)
@@ -886,6 +888,7 @@
 - [Building Git](https://shop.jcoglan.com/building-git/)
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [Free Computer Books](https://freecomputerbooks.com/compscAlgorithmBooks.html)
+- [Programming Languages: Application and Interpretation](https://www.plai.org/)
 
 
 ## Education
