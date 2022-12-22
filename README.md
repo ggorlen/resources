@@ -1139,6 +1139,7 @@
   - <https://searchremotely.com/>
   - <https://sidequestjobs.com/>
   - Indeed/indeed prime
+  - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
   - Upwork/Fiverr
   - <https://outschool.com>
   - <https://arc.dev/>
