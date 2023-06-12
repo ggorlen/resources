@@ -4,7 +4,10 @@ add a table of contents to markdown
 references:
 - https://meta.stackexchange.com/questions/189749/
 
-could also use: https://stackoverflow.com/questions/9721944/automatic-toc-in-github-flavoured-markdown
+could also use: 
+
+- https://about.gitlab.com/handbook/markdown-guide/#table-of-contents-toc
+- https://stackoverflow.com/questions/9721944/automatic-toc-in-github-flavoured-markdown
 """
 
 import re
