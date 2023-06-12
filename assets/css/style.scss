@@ -39,3 +39,91 @@ body {
     padding: 15px;
   }
 }
+
+/* https://github.com/jekyll/jekyll/blob/master/docs/_sass/_pygments.scss 
+TODO get light mode versions and copy everything from github css style file linked above
+*/
+.highlight {
+
+// dark
+  .hll { background-color: #ffffcc }
+
+  //.err { color: #ce342c } /* Error */
+
+  .c  { color: #8b949e } /* Comment */
+
+  .g  { color: #ffffff } /* Generic */
+  .k  { color: #ff7b72 } /* Keyword */
+  .l  { color: #ffffff } /* Literal */
+  .n  { color: #ffffff } /* Name */
+  .o  { color: #ffffff } /* Operator */
+  .x  { color: #ffffff } /* Other */
+  .p  { color: #ffffff } /* Punctuation */
+  .cm { color: #818181 } /* Comment.Multiline */
+  .cp { color: #d1c2f4 } /* Comment.Preproc */
+  .c1 { color: #818181 } /* Comment.Single */
+  .cs { color: #818181 } /* Comment.Special */
+  .gd { color: #ce342c } /* Generic.Deleted */
+  .ge { color: #c000c0; text-decoration: underline } /* Generic.Emph */
+  .gr { color: #c0c0c0; font-weight: bold; background-color: #c00000 } /* Generic.Error */
+  .gh { color: #ffffff } /* Generic.Heading */
+  .gi { color: #27b42c } /* Generic.Inserted */
+  span.go { color: #add8e6; font-weight: bold; background-color: #4d4d4d } /* Generic.Output, qualified with span to prevent applying this style to the Go language, see #1153. */
+  .gp { color: #ffffff } /* Generic.Prompt */
+  .gs { color: #ffffff } /* Generic.Strong */
+  .gu { color: #ffffff } /* Generic.Subheading */
+  .gt { color: #c0c0c0; font-weight: bold; background-color: #c00000 } /* Generic.Traceback */
+  .kc { color: #79c0ff } /* Keyword.Constant */ /////////////
+  .kd { color: #ff7b72 } /* Keyword.Declaration */             //
+  .kn { color: #ff7b72 } /* Keyword.Namespace */           //
+  .kp { color: #ff7b72 } /* Keyword.Pseudo */             //
+  .kr { color: #ff7b72 } /* Keyword.Reserved */             ///
+  .kt { color: #ff7b72 } /* Keyword.Type */ ///////////////////////
+  .ld { color: #ffffff } /* Literal.Date */
+  .m  { color: #ffffff } /* Literal.Number */
+  .s  { color: #ffe580 } /* Literal.String */
+  .na { color: #b6e382 } /* Name.Attribute */
+  .nb { color: #ffffff } /* Name.Builtin */
+  .nc { color: #b6e382 } /* Name.Class */
+  .no { color: #87ceeb } /* Name.Constant */
+  .nd { color: #ffffff } /* Name.Decorator */
+  .ni { color: #d2a8ff } /* Name.Entity */ /////////////
+  .ne { color: #ffffff } /* Name.Exception */
+  .nf { color: #ffffff } /* Name.Function */
+  .nl { color: #ffffff } /* Name.Label */
+  .nn { color: #ffffff } /* Name.Namespace */
+  .nx { color: #ffffff } /* Name.Other */
+  .py { color: #ffffff } /* Name.Property */
+  .nt { color: #7ee787 } /* Name.Tag */ /////////////////////
+  .nv { color: #ffa657 } /* Name.Variable *//////////////////
+  .ow { color: #ffffff } /* Operator.Word */
+  .w  { color: #ffffff } /* Text.Whitespace */
+
+  .mf { color: #ffffff } /* Literal.Number.Float */
+  .mh { color: #ffffff } /* Literal.Number.Hex */
+  .mi { color: #ffffff } /* Literal.Number.Integer */
+  .mo { color: #ffffff } /* Literal.Number.Oct */
+
+  // all below in this chunk was modified
+  .sb { color: #a5d6ff } /* Literal.String.Backtick *////////////
+  .sc { color: #a5d6ff } /* Literal.String.Char */
+  .sd { color: #a5d6ff } /* Literal.String.Doc *//////////////////
+  .s2 { color: #a5d6ff } /* Literal.String.Double */
+  .se { color: #a5d6ff } /* Literal.String.Escape *//////////////
+  .sh { color: #a5d6ff } /* Literal.String.Heredoc */
+  .si { color: #a5d6ff } /* Literal.String.Interpol *////////////////
+  .sx { color: #a5d6ff } /* Literal.String.Other */
+  .sr { color: #7ee787 } /* Literal.String.Regex *//////////////////////
+  .s1 { color: #a5d6ff } /* Literal.String.Single */
+  .ss { color: #a5d6ff } /* Literal.String.Symbol *//////////////////
+
+  //.bp { color: #ffffff } /* Name.Builtin.Pseudo */
+
+  .vc { color: #ffa657 } /* Name.Variable.Class *////////
+  .vg { color: #ffa657 } /* Name.Variable.Global *///////////
+  .vi { color: #ffa657 } /* Name.Variable.Instance *////////
+  .il { color: #ffffff } /* Literal.Number.Integer.Long */
+}
+
+.language-sh .highlight * { color: #eaeaea }
+
