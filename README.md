@@ -55,12 +55,11 @@
 ## General
 - [Inspiration!](https://www.chessprogramming.org/Keith_Gorlen)
 - [Gene Cooperman's Computer Science Information](http://www.ccs.neu.edu/home/gene/cs-info.html)
-- [Christopher Alexander's Design Patterns](http://www.patternlanguage.com/leveltwo/caframe.htm?/leveltwo/../bios/designpatterns.htm)
+- [Christopher Alexander's Design Patterns](https://www.patternlanguage.com/bios/designpatterns.htm)
   - [A Pattern Language](https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf)
 - [Michael Abrash](https://www.bluesnews.com/abrash/)
 - <https://en.wikipedia.org/wiki/One-instruction_set_computer>
 - Cool projects:
-  - https://mark.show/
   - https://sumi.news/
 - [Ultimate guide to FFmpeg](https://img.ly/blog/ultimate-guide-to-ffmpeg/)
 
@@ -191,15 +190,15 @@
   - <https://github.com/llvm-mirror/llvm/blob/master/examples/Kaleidoscope/MCJIT/initial/toy.cpp>
 - [Mega compilers resource](https://stackoverflow.com/questions/1669/learning-to-write-a-compiler)
 - [CS143](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
-- [CIS341](https://www.seas.upenn.edu/~cis341/current/)
+- [CIS341](https://www.seas.upenn.edu/~cis3410/current/)
 - <https://tiarkrompf.github.io/notes/?/just-write-the-parser/>
 - Lisp:
   - [Compiling a lisp](https://bernsteinbear.com/blog/lisp/)
   - [Build your own lisp](http://www.buildyourownlisp.com/)
   - [Write a Lisp interpreter in Python](http://norvig.com/lispy.html)
-  - [lisp to js transpiler](https://gilmi.xyz/blog/post/2016/10/14/lisp-to-js)
+  - [lisp to js transpiler](https://web.archive.org/web/20230323235044/https://gilmi.xyz/blog/post/2016/10/14/lisp-to-js)
   - [make a lisp](https://github.com/kanaka/mal)
-  - [risp in rust lisp](https://stopachka.essay.dev/post/5/risp-in-rust-lisp)
+  - [risp in rust lisp](https://web.archive.org/web/20230210005347/https://stopachka.essay.dev/post/5/risp-in-rust-lisp)
 - [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
 - [Let's write a compiler, by Brian Callahan](https://briancallahan.net/blog/20210814.html)
 - [Let's build a simple interpreter](https://github.com/rspivak/lsbasi)
@@ -342,7 +341,7 @@
 - [Logic puzzles list (KenKen, Sudoku, Sokoban, etc)](https://en.wikipedia.org/wiki/Category:Logic_puzzles)
 - [Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 - Do chess packing puzzles
-- [Erich Friendman's Puzzle Palace (dead link as of 1/2020)](http://www2.stetson.edu/~efriedma/)
+- [Erich Friedman's Puzzle Palace](https://erich-friedman.github.io/puzzle/)
 - [Slitherlink](https://en.wikipedia.org/wiki/Slitherlink)
 - [Rush hour/log jam](https://en.wikipedia.org/wiki/Rush_Hour_(puzzle))
 - [Mindsports (links resource)](http://www.mindsports.nl/index.php/puzzle-links)
@@ -494,7 +493,7 @@
 - [Verlet integration](https://www.youtube.com/watch?v=3HjO_RGIjCU)
 - [Ragdoll physics](https://en.wikipedia.org/wiki/Ragdoll_physics)
 - [Coding math tutorial](https://www.youtube.com/watch?v=11ZmRlR7sOQ)
-- [Khan Academy natural simulations course](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-vectors/p/project-computational-creatures)
+- [Khan Academy natural simulations course](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-vectors/pp/project-computational-creatures)
 - Double pendulum:
   - [Coding challenge 93](https://www.youtube.com/watch?v=uWzPe_S-RVE&t=0s&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH&index=131)
   - <https://en.wikipedia.org/wiki/Double_pendulum>
@@ -553,7 +552,7 @@
 - [CS4210 archive](https://www.cc.gatech.edu/classes/AY2010/cs4210_fall/)
 - [Operating Systems notes](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 - [OS @ NYU](https://cs.nyu.edu/~mwalfish/classes/ut/s11-cs372h/hw/sol8.html)
-- [Berkeley CS162](https://cs162.eecs.berkeley.edu/)
+- [Berkeley CS162](https://cs162.org/)
 - [What every programmer should know about memory](https://akkadia.org/drepper/cpumemory.pdf)
 - [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/)
 - [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
@@ -604,7 +603,6 @@
   - [data.gov](https://catalog.data.gov/dataset?tags=plants)
   - CIA world factbook:
     - <https://github.com/thewiremonkey/factbook.csv>
-    - <https://www.cia.gov/library/publications/the-world-factbook/>
   - <https://github.com/erikgahner/PolData/blob/master/PolData.csv>
   - <https://github.com/jldbc/gunsandcrime>
   - <https://gist.github.com/klmr/23ed79f973c75b11b0b5>
@@ -635,7 +633,6 @@
 
 ## Web development
 - [HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
-- [Bitballoon for hosting web apps](https://www.bitballoon.com)
 - Jamstack/gridsome
 - [Fly.io](https://fly.io/) has a free tier
 - [Render](https://render.com/) (free tier DB is wiped after 30 days)
@@ -682,9 +679,7 @@
   - <https://github.com/JamieCressey/PHP-MySQL-Session-Handler>
   - <https://github.com/kahwee/php-db-session-handler>
   - <https://www.allphptricks.com/simple-user-registration-login-script-in-php-and-mysqli/>
-  - <https://phpeasystep.com/workshopview.php?id=6>
   - <http://www.eggslab.net/php-login-script/>
-  - <http://codewithawa.com/posts/admin-and-user-login-in-php-and-mysql-database>
   - <https://www.formget.com/login-form-in-php/>
 - [PHP game scripts](https://www.ibm.com/developerworks/library/os-php-gamescripts1/)
 - [Websocket chat](https://phppot.com/php/simple-php-chat-using-websocket/)
@@ -712,13 +707,12 @@
 - <https://courses.cs.washington.edu/courses/cse410/09sp/examples/MIPSCallingConventionsSummary.pdf>
 - <https://en.wikibooks.org/wiki/MIPS_Assembly/Control_Flow_Instructions>
 - <https://www.coursehero.com/file/45823007/cs311-03-isa-Ipdf/>
-- <https://github.com/mightydeveloper/MIPS-Assembler>
 - <https://www.youtube.com/watch?v=z3ltaJ5UU5I>
 - <https://learnxinyminutes.com/docs/mips/>
 - <https://chortle.ccsu.edu/AssemblyTutorial/index.html>
-- <http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch05s03.html>
+- <https://web.archive.org/web/20220426233616/http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch05s03.html>
 - <http://homepage.divms.uiowa.edu/~ghosh/1-28-10.pdf>
-- <http://cgi.cse.unsw.edu.au/~cs1521/17s2/docs/spim.php>
+- <https://web.archive.org/web/20200216091023/http://cgi.cse.unsw.edu.au/~cs1521/17s2/docs/spim.php>
 - <https://www.dsi.unive.it/~gasparetto/materials/MIPS_Instruction_Set.pdf>
 - <https://www.doc.ic.ac.uk/lab/secondyear/spim/node9.html>
 - <https://www.doc.ic.ac.uk/lab/secondyear/spim/node20.html>
@@ -759,7 +753,7 @@
 - Thinkingeek Raspberry Pi Asssembler:
   - [Site](https://thinkingeek.com/2013/01/09/arm-assembler-raspberry-pi-chapter-1/)
   - [eBook](https://personal.utdallas.edu/~pervin/RPiA/RPiA.pdf)
-- [ARM Assembly Using Raspberry PI](http://www.microdigitaled.com/ARM/ASM_ARM/Software/ARM_Assembly_Programming_Using_Raspberry_Pi_GUI.pdf)
+- [ARM Assembly Using Raspberry PI](https://web.archive.org/web/20220412220308/http://www.microdigitaled.com/ARM/ASM_ARM/Software/ARM_Assembly_Programming_Using_Raspberry_Pi_GUI.pdf)
 - [Hello ARM](http://www.bravegnu.org/gnu-eprog/hello-arm.html)
 - Tutorials:
   - <https://www.youtube.com/watch?v=5HILZon7pVE>
@@ -850,7 +844,7 @@
 
 
 ## Competitive coding
-- [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam/archive)
+- [Google Code Jam archive](https://zibada.guru/gcj/)
   - [Go-Hero](https://www.go-hero.net/jam/16/) has archive all the past Google Code Jam problems w/ solutions
 - [Daily Programmer](https://www.reddit.com/r/dailyprogrammer/)
 - [Math problems](https://www.mathworks.com/matlabcentral/cody/problems)
@@ -911,7 +905,7 @@
 - <http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/>
 - [Physically Based Rendering](http://www.pbr-book.org/)
 - [Artificial Intelligence A Modern Approach](http://aima.cs.berkeley.edu/)
-- [Introduction to Operations Research](https://notendur.hi.is/kth93/3.20.pdf)
+- [Introduction to Operations Research](https://web.archive.org/web/20220324023350/https://notendur.hi.is/kth93/3.20.pdf)
 - [OpenDSA Books](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/index.html)
 - [3d math primer for graphics and game development](https://gamemath.com/)
 - [Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/)
@@ -957,11 +951,12 @@
 - [Aspen](https://www.aspen.edu/business-technology/doctoral-computer-science/)
   - Aja: this is a no-go. It's a private, for-profit university - that's one red flag. The other is that it is only basically accredited, and we want regionally accredited. I know that sounds backwards, but regional accreditation transfers anywhere, and lots of places don't recognize national accreditation as legitimate.
 - [Getting a Computer Science PhD in the USA](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/)
+- [PhD from Penn State (engineering, specialization in computing)](https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-doctor-of-engineering)
 
 ### MS/grad certificates
 - [UW embedded programming certificate](https://www.pce.uw.edu/certificates/embedded-and-real-time-systems-programming)
 - [55 MOOC-based master's degrees](https://www.classcentral.com/report/mooc-based-masters-degree/)
-- [CSU Fullerton](https://www.calstateonline.net/Cal-State-Campuses/CSU-Fullerton)
+- [CSU online certificates](https://online.calstate.edu/Certificates?d=Computer%20and%20Information%20Systems)
 - [VT](http://www.vtmit.vt.edu/)
 - [Adv. certif. in web/mobile via SDSU](https://www.ces.sdsu.edu/science-computers-technology/advanced-certificate-web-and-mobile-applications-development)
 - [Northeastern Silicon Valley](http://www.northeastern.edu/siliconvalley/admissions/)
@@ -1137,13 +1132,13 @@
 - Remote/freelancing:
   - <https://github.com/engineerapart/TheRemoteFreelancer>
   - <https://searchremotely.com/>
-  - <https://sidequestjobs.com/>
   - Indeed/indeed prime
   - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
   - Upwork/Fiverr
   - <https://outschool.com>
   - <https://arc.dev/>
   - [Codementor](https://www.codementor.io)
+  - [Wyzant](https://www.wyzant.com/)
   - [Ringer](https://www.ringerhq.com/i/processing/p5.js)
   - [Toptal](https://toptal.com/)
   - [AirPair](https://en.wikipedia.org/wiki/AirPair)
@@ -1151,8 +1146,8 @@
   - [Weworkremotely programming jobs](https://weworkremotely.com/categories/remote-programming-jobs)
 - [Repsonding to freelancing gig offers](http://jessicahische.is/helpingyouanswer)
 - Potential:
-  - [Slack internship](https://slack.com/careers/1852134/software-engineering-internship)
-  - [Airtable](https://airtable.com/careers?utm_source=marketing_footer)
+  - [Slack](https://slack.com/careers)
+  - [Airtable](https://airtable.com/careers)
   - Salesforce
   - [CCSF professor](https://jobs.ccsf.edu/)
   - [Juni](https://junilearning.com/)
@@ -1161,13 +1156,12 @@
   - [Code for America](https://www.codeforamerica.org/jobs)
 - Internships:
   - <https://www.indeed.com/q-Software-Engineering-Intern-l-San-Francisco-Bay-Area,-CA-jobs.html>
-  - <http://www.engineerjobs.com/internships/software-engineering/california/bay-area.php>
+  - <https://www.engineerjobs.com>
   - <https://www.smartrecruiters.com/Line2/112808690-web-developer-internship-front-end>
 
 
 ## Interview prep
 - [Interview questions](https://docs.google.com/document/d/1L2nqcMLxQeFHVd9ZOfgzZTjxWZsJLJe65rAzKfmldsM/edit)
-- [Interview algorithms and tips](http://meetupresources.herokuapp.com/index.html)
 - [Assorted interview tips](http://kelukelu.me/interview/questions.html)
 - [Women Who Code Interview Prep](https://github.com/WomenWhoCode/Algorithms-InterviewPrep/wiki)
 - [Tech Intervew Handbook](https://www.techinterviewhandbook.org/)
