@@ -1080,21 +1080,24 @@
 - Freelancing tips/guides/tutorials:
   - <https://gist.github.com/mdang/ef3669d4f266c62c3312>
 - Remote/freelancing:
+  - Indeed
   - <https://github.com/engineerapart/TheRemoteFreelancer>
   - <https://searchremotely.com/>
-  - Indeed/indeed prime
   - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
   - Upwork/Fiverr
   - <https://outschool.com>
-  - <https://arc.dev/>
+  - [Arc.dev](https://arc.dev)
   - [Codementor](https://www.codementor.io)
+  - [Fractional](https://www.fractional.vip)
   - [Wyzant](https://www.wyzant.com/)
   - [Ringer](https://www.ringerhq.com/i/processing/p5.js)
   - [Toptal](https://toptal.com/)
-  - [AirPair](https://en.wikipedia.org/wiki/AirPair)
-  - [HackHands](https://en.wikipedia.org/wiki/HackHands)
   - [Weworkremotely programming jobs](https://weworkremotely.com/categories/remote-programming-jobs)
+  - ~~[AirPair](https://en.wikipedia.org/wiki/AirPair)~~ (defunct)
+  - ~~[HackHands](https://en.wikipedia.org/wiki/HackHands)~~ (defunct)
 - [Repsonding to freelancing gig offers](http://jessicahische.is/helpingyouanswer)
+- Job boards:
+  - [ycombinator jobs board](https://www.ycombinator.com/jobs/role/software-engineer)
 - Potential:
   - [Slack](https://slack.com/careers)
   - [Airtable](https://airtable.com/careers)
@@ -1134,6 +1137,8 @@
   - [mob](https://stackoverflow.com/users/168657/) (perl)
   - [Peter Cordes](https://stackoverflow.com/users/224132/>) (MIPS, assembly, architecture)
   - [Brendan](https://stackoverflow.com/users/559737/) (assembly)
+- Users to avoid:
+  - [user13267](https://meta.stackexchange.com/users/221878/user13267)
 
 
 ## Fun
