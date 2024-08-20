@@ -1130,34 +1130,33 @@
 - Freelancing tips/guides/tutorials:
   - <https://gist.github.com/mdang/ef3669d4f266c62c3312>
 - Remote/freelancing:
+  - Indeed
   - <https://github.com/engineerapart/TheRemoteFreelancer>
   - <https://searchremotely.com/>
-  - Indeed/indeed prime
   - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
   - Upwork/Fiverr
   - <https://outschool.com>
-  - <https://arc.dev/>
+  - [Arc.dev](https://arc.dev)
   - [Codementor](https://www.codementor.io)
+  - [Fractional](https://www.fractional.vip)
   - [Wyzant](https://www.wyzant.com/)
   - [Ringer](https://www.ringerhq.com/i/processing/p5.js)
   - [Toptal](https://toptal.com/)
-  - [AirPair](https://en.wikipedia.org/wiki/AirPair)
-  - [HackHands](https://en.wikipedia.org/wiki/HackHands)
+  - [Freelancer](https://www.freelancer.com/)
   - [Weworkremotely programming jobs](https://weworkremotely.com/categories/remote-programming-jobs)
+  - [Commit Async](https://www.commitasync.com/)
 - [Repsonding to freelancing gig offers](http://jessicahische.is/helpingyouanswer)
+- Job boards:
+  - [ycombinator jobs board](https://www.ycombinator.com/jobs/role/software-engineer)
 - Potential:
   - [Slack](https://slack.com/careers)
   - [Airtable](https://airtable.com/careers)
   - Salesforce
   - [CCSF professor](https://jobs.ccsf.edu/)
   - [Juni](https://junilearning.com/)
-  - [General Assembly teaching](http://generalassemb.ly/how-we-work/teach-at-general-assembly)
+  - Codepath content creator or engineer
   - [Thinkful web dev instructor or engineer](https://www.chegg.com/about/working-at-chegg/)
-  - [Code for America](https://www.codeforamerica.org/jobs)
-- Internships:
-  - <https://www.indeed.com/q-Software-Engineering-Intern-l-San-Francisco-Bay-Area,-CA-jobs.html>
-  - <https://www.engineerjobs.com>
-  - <https://www.smartrecruiters.com/Line2/112808690-web-developer-internship-front-end>
+  - [General Assembly teaching](http://generalassemb.ly/how-we-work/teach-at-general-assembly)
 
 
 ## Interview prep
@@ -1184,6 +1183,8 @@
   - [mob](https://stackoverflow.com/users/168657/) (perl)
   - [Peter Cordes](https://stackoverflow.com/users/224132/>) (MIPS, assembly, architecture)
   - [Brendan](https://stackoverflow.com/users/559737/) (assembly)
+- Users to avoid:
+  - [user13267](https://meta.stackexchange.com/users/221878/user13267)
 
 
 ## Fun

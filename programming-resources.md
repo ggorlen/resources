@@ -1092,9 +1092,9 @@
   - [Wyzant](https://www.wyzant.com/)
   - [Ringer](https://www.ringerhq.com/i/processing/p5.js)
   - [Toptal](https://toptal.com/)
+  - [Freelancer](https://www.freelancer.com/)
   - [Weworkremotely programming jobs](https://weworkremotely.com/categories/remote-programming-jobs)
-  - ~~[AirPair](https://en.wikipedia.org/wiki/AirPair)~~ (defunct)
-  - ~~[HackHands](https://en.wikipedia.org/wiki/HackHands)~~ (defunct)
+  - [Commit Async](https://www.commitasync.com/)
 - [Repsonding to freelancing gig offers](http://jessicahische.is/helpingyouanswer)
 - Job boards:
   - [ycombinator jobs board](https://www.ycombinator.com/jobs/role/software-engineer)
@@ -1104,13 +1104,9 @@
   - Salesforce
   - [CCSF professor](https://jobs.ccsf.edu/)
   - [Juni](https://junilearning.com/)
-  - [General Assembly teaching](http://generalassemb.ly/how-we-work/teach-at-general-assembly)
+  - Codepath content creator or engineer
   - [Thinkful web dev instructor or engineer](https://www.chegg.com/about/working-at-chegg/)
-  - [Code for America](https://www.codeforamerica.org/jobs)
-- Internships:
-  - <https://www.indeed.com/q-Software-Engineering-Intern-l-San-Francisco-Bay-Area,-CA-jobs.html>
-  - <https://www.engineerjobs.com>
-  - <https://www.smartrecruiters.com/Line2/112808690-web-developer-internship-front-end>
+  - [General Assembly teaching](http://generalassemb.ly/how-we-work/teach-at-general-assembly)
 
 
 ## Interview prep
