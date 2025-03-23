@@ -157,6 +157,10 @@
 - [On Pascal Compilers book](http://pascal.hansotten.com/uploads/pbh/brinch%20hansen%20on%20pascal%20compilers.pdf)
 - [Write a micro C compiler in Haskell](https://blog.josephmorag.com/posts/mcc0/)
 - [tinyc.c](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c)
+- recursive descent parsing:
+  - https://www.usna.edu/Users/cs/wcbrown/courses/Su20SI413/lec/l10/lec.html
+  - https://www.huy.rocks/everyday/05-08-2022-parsing-recursive-descent-parser
+  - https://www.chiark.greenend.org.uk/~sgtatham/cdescent/
 
 
 ## Programming languages
@@ -396,6 +400,9 @@
 - [Noise in creative coding](https://varun.ca/noise/)
 - [Artblocks](https://www.artblocks.io/artists)
 - [Inconvergent generative art](https://inconvergent.net/)
+- [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html)
+- [What I've learned about flow fields so far](https://news.ycombinator.com/item?id=38839506)
+
 
 
 ### WebGL
@@ -458,6 +465,7 @@
 - [Circles bouncing off lines tutorial](https://circles-bouncing-off-lines.glitch.me/docs/circles-bouncing-off-lines.html)
 - [Mary Rose Cook](https://maryrosecook.com/)
 - [Flocking behaviors](http://harry.me/blog/2011/02/17/neat-algorithms-flocking/)
+  - https://p5js.org/examples/simulate-flocking.html
 - [Math for game developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
 - [Variety of pathfinding tutorials](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 - [Blobs](http://cowboyprogramming.com/2007/01/05/blob-physics/)
@@ -723,6 +731,7 @@
 - [QCGInteractive PD tutorial videos](https://www.youtube.com/user/QCGInteractiveMusic/videos)
 - [Pure Data Wavetable Synth – Part 6](https://designingsound.org/2013/04/18/pure-data-wavetable-synth-part-6/)
 - [Pure Data readings](https://tuftsdev.github.io/MusicAppsOnTheIpad/readings/reading3.pdf)
+- [The Theory and Technique of Electronic Music](https://msp.ucsd.edu/techniques.htm)
 - Pd/Py sockets:
   - <https://stackoverflow.com/questions/61285324/how-to-send-messages-from-pure-data-to-python>
   - <https://github.com/eerne/pdsocket>
@@ -894,7 +903,11 @@
   - [overview](https://dsu.edu/programs/phdcs/index.html)
   - [tuition](https://dsu.edu/admissions/graduate/cost-aid/tuition-fees.html)
 - [Berkeley EECS](https://eecs.berkeley.edu/academics/graduate/research-programs/admissions)
+- [GWU](https://online.engineering.gwu.edu/online-doctor-philosophy-systems-engineering)
 - [CTU](https://www.coloradotech.edu/degrees/doctorates/computer-science)
+- [University of Arizona](https://online.arizona.edu/programs/graduate/online-doctor-philosophy-software-engineering-phd)
+  - <https://catalog.arizona.edu/programs/SFEPHD>
+- [Purdue](https://www.purdue.edu/newsroom/2024/Q3/purdue-university-launches-new-online-engineering-doctorate/)
 - NSU (prob too expensive, ~$74k)
   - [overview](https://computing.nova.edu/doctoral/index.html)
   - [tuition](https://computing.nova.edu/graduate/tuition.html)
@@ -1080,7 +1093,7 @@
 - Freelancing tips/guides/tutorials:
   - <https://gist.github.com/mdang/ef3669d4f266c62c3312>
 - Remote/freelancing:
-  - Indeed
+  - [Indeed](https://www.indeed.com/jobs?q=scraping+javascript&l=San+Francisco+Bay+Area%2C+CA&vjk=3979c26cb9988844)
   - <https://github.com/engineerapart/TheRemoteFreelancer>
   - <https://searchremotely.com/>
   - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/)
@@ -1089,15 +1102,19 @@
   - [Arc.dev](https://arc.dev)
   - [Codementor](https://www.codementor.io)
   - [Fractional](https://www.fractional.vip)
+  - [Vibe Code Fixers](https://vibecodefixers.com)
   - [Wyzant](https://www.wyzant.com/)
   - [Ringer](https://www.ringerhq.com/i/processing/p5.js)
   - [Toptal](https://toptal.com/)
   - [Freelancer](https://www.freelancer.com/)
   - [Weworkremotely programming jobs](https://weworkremotely.com/categories/remote-programming-jobs)
   - [Commit Async](https://www.commitasync.com/)
+  - Could go back to TAing OMSCS for fun
 - [Repsonding to freelancing gig offers](http://jessicahische.is/helpingyouanswer)
 - Job boards:
   - [ycombinator jobs board](https://www.ycombinator.com/jobs/role/software-engineer)
+  - [Fractional part time job board](https://www.fractionaljobs.io/)
+  - [Ask HN: How to find part-time work?](https://news.ycombinator.com/item?id=42425339)
 - Potential:
   - [Slack](https://slack.com/careers)
   - [Airtable](https://airtable.com/careers)
@@ -1107,6 +1124,7 @@
   - Codepath content creator or engineer
   - [Thinkful web dev instructor or engineer](https://www.chegg.com/about/working-at-chegg/)
   - [General Assembly teaching](http://generalassemb.ly/how-we-work/teach-at-general-assembly)
+- https://apply.workable.com/discogs-1/j/26A7ED51D1/
 
 
 ## Interview prep
