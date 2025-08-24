@@ -512,7 +512,7 @@
 - Sin & cos:
   - [Brief intro to sin & cos](https://inventwithpython.com/blog/2012/07/18/using-trigonometry-to-animate-bounces-draw-clocks-and-point-cannons-at-a-target/)
   - [and another intro to sin & cos with some mode 7 content](http://www.helixsoft.nl/articles/circle/sincos.htm)
-- [Circles bouncing off lines tutorial](https://circles-bouncing-off-lines.glitch.me/docs/circles-bouncing-off-lines.html)
+- [Circles bouncing off lines tutorial](http://annotated-code.maryrosecook.com/circles-bouncing-off-lines/index.html)
 - [Mary Rose Cook](https://maryrosecook.com/)
 - [Flocking behaviors](http://harry.me/blog/2011/02/17/neat-algorithms-flocking/)
   - https://p5js.org/examples/simulate-flocking.html
@@ -641,13 +641,18 @@
 
 ## Web development
 - [HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
-- Jamstack/gridsome
 - [Fly.io](https://fly.io/) has a free tier
 - [Render](https://render.com/) (free tier DB is wiped after 30 days)
 - [Linode](https://www.linode.com/)
 - Static site hosts:
   - [Netlify](https://www.netlify.com)
   - [Cloudflare pages](https://pages.cloudflare.com)
+- Jamstack/gridsome
+- [disco.cloud](https://disco.cloud)
+  - [as alternative to glitch](https://blog.greg.technology/2025/05/22/glitch.html)
+  - https://pgs.sh/
+  - https://deno.com/deploy
+- [gitlip](https://www.gitlip.com)
 
 ### CSS
 - [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
@@ -965,6 +970,14 @@
   - Aja: this is a no-go. It's a private, for-profit university - that's one red flag. The other is that it is only basically accredited, and we want regionally accredited. I know that sounds backwards, but regional accreditation transfers anywhere, and lots of places don't recognize national accreditation as legitimate.
 - [Getting a Computer Science PhD in the USA](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/)
 - [PhD from Penn State (engineering, specialization in computing)](https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-doctor-of-engineering)
+- https://engineering.jhu.edu/doctor-of-engineering/faqs-about-the-d-eng-program/
+- https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-doctor-of-engineering
+- https://emse.engineering.gwu.edu/online-doctoral-programs
+- https://online.engineering.gwu.edu/doctoral-degrees
+- https://engineering.tamu.edu/mtde/academics/degrees/graduate/deng/online-doctor-of-engineering.html
+- https://online.arizona.edu/programs/graduate/online-doctor-philosophy-software-engineering-phd
+- https://www.online.msstate.edu/engineeringed
+- https://catalog.arizona.edu/programs/SFEPHD
 
 ### MS/grad certificates
 - [UW embedded programming certificate](https://www.pce.uw.edu/certificates/embedded-and-real-time-systems-programming)
@@ -973,6 +986,9 @@
 - [VT](http://www.vtmit.vt.edu/)
 - [Adv. certif. in web/mobile via SDSU](https://www.ces.sdsu.edu/science-computers-technology/advanced-certificate-web-and-mobile-applications-development)
 - [Northeastern Silicon Valley](http://www.northeastern.edu/siliconvalley/admissions/)
+- https://cdso.utexas.edu/msai
+- https://online-execed.wharton.upenn.edu/chief-technology-officer-program
+
 
 ### Other
 - [Recurse Center non-bootcamp](https://www.recurse.com/)
@@ -1201,6 +1217,7 @@
   - [mob](https://stackoverflow.com/users/168657/) (perl)
   - [Peter Cordes](https://stackoverflow.com/users/224132/>) (MIPS, assembly, architecture)
   - [Brendan](https://stackoverflow.com/users/559737/) (assembly)
+  - [J_H](https://codereview.stackexchange.com/users/145459/j-h)
 - Users to avoid:
   - [user13267](https://meta.stackexchange.com/users/221878/user13267)
 
