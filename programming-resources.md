@@ -1154,6 +1154,7 @@
 - Users I like:
   - [Kaiido](https://stackoverflow.com/users/3702797/kaiido) (web graphics)
   - [gman](https://stackoverflow.com/users/128511/) (web graphics)
+  - [umlaute](https://stackoverflow.com/users/1169096/uml%c3%a4ute) (pure data)
   - [blindman67](https://stackoverflow.com/users/3877726/blindman67) (web graphics)
   - [kaya3](https://stackoverflow.com/users/12299000/kaya3) (Python, algorithms)
   - [trincot](https://stackoverflow.com/users/5459839/) (algorithms)
