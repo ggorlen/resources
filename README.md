@@ -1040,6 +1040,7 @@
 ### CCSF courses to take
 - MUS 3A  Diatonic Harmony (take MUS 100 first)
 - MUS 5A  Introduction to Composition (take MUS 100 first)
+- MUS 6A  Beginning Classical Guitar
 - MUS 28  20th Century Music
 - MUS 100 Music Fundamentals
 - MUS 128 Survey of Contemporary and Electronic Music
@@ -1089,7 +1090,10 @@
 - MATH 110A  Calculus I
 - MATH 115   Discrete Mathematics
 - MATH 120   Linear Algebra
+- MOTO 500   Bicycle Maintenance
+- MUS 9A     Beginning Piano
 - ELEC 101   Electronics I: Essentials of Electronics - Measurements and Passive Circuits
+- FASH A     Introduction to Sewing
 - FIN 136M   Personal Financial Planning - Math Emphasis
 - FIN 138    Principles of Investment
 - GEOL 10    Physical Geology
