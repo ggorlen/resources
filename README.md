@@ -206,6 +206,7 @@
 - [Demystifying programs that create programs](https://briancallahan.net/blog/20210407.html)
 - [On Pascal Compilers book](http://pascal.hansotten.com/uploads/pbh/brinch%20hansen%20on%20pascal%20compilers.pdf)
 - [Write a micro C compiler in Haskell](https://blog.josephmorag.com/posts/mcc0/)
+- [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/)
 - [tinyc.c](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c)
 - recursive descent parsing:
   - https://www.usna.edu/Users/cs/wcbrown/courses/Su20SI413/lec/l10/lec.html
