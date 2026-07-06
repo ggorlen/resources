@@ -979,6 +979,7 @@
 - https://online.arizona.edu/programs/graduate/online-doctor-philosophy-software-engineering-phd
 - https://www.online.msstate.edu/engineeringed
 - https://catalog.arizona.edu/programs/SFEPHD
+- https://news.ycombinator.com/item?id=48798061 some phd recommendations in this thread
 
 ### MS/grad certificates
 - [UW embedded programming certificate](https://www.pce.uw.edu/certificates/embedded-and-real-time-systems-programming)
