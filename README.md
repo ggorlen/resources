@@ -948,6 +948,7 @@
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [Free Computer Books](https://freecomputerbooks.com/compscAlgorithmBooks.html)
 - [Programming Languages: Application and Interpretation](https://www.plai.org/)
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
 
 
 ## Education
@@ -1240,4 +1241,3 @@
 - [Git man page generator](https://git-man-page-generator.lokaltog.net/)
 - [Minesweeper is NP-complete](http://web.mat.bham.ac.uk/R.W.Kaye/minesw/minesw.htm)
 - [Regex riddler](https://regexriddler.com/)
-
