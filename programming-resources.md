@@ -156,6 +156,7 @@
 - [Demystifying programs that create programs](https://briancallahan.net/blog/20210407.html)
 - [On Pascal Compilers book](http://pascal.hansotten.com/uploads/pbh/brinch%20hansen%20on%20pascal%20compilers.pdf)
 - [Write a micro C compiler in Haskell](https://blog.josephmorag.com/posts/mcc0/)
+- [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/)
 - [tinyc.c](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c)
 - recursive descent parsing:
   - https://www.usna.edu/Users/cs/wcbrown/courses/Su20SI413/lec/l10/lec.html
@@ -591,6 +592,7 @@
 
 ## Web development
 - [HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
+- [More HTML boilerplate](https://vale.rocks/posts/html-boilerplate)
 - [Fly.io](https://fly.io/) has a free tier
 - [Render](https://render.com/) (free tier DB is wiped after 30 days)
 - [Linode](https://www.linode.com/)
@@ -925,9 +927,9 @@
 - https://emse.engineering.gwu.edu/online-doctoral-programs
 - https://online.engineering.gwu.edu/doctoral-degrees
 - https://engineering.tamu.edu/mtde/academics/degrees/graduate/deng/online-doctor-of-engineering.html
-- https://online.arizona.edu/programs/graduate/online-doctor-philosophy-software-engineering-phd
 - https://www.online.msstate.edu/engineeringed
 - https://catalog.arizona.edu/programs/SFEPHD
+- https://news.ycombinator.com/item?id=48798061 some phd recommendations in this thread
 
 ### MS/grad certificates
 - [UW embedded programming certificate](https://www.pce.uw.edu/certificates/embedded-and-real-time-systems-programming)
@@ -990,7 +992,9 @@
 ### CCSF courses to take
 - MUS 3A  Diatonic Harmony (take MUS 100 first)
 - MUS 5A  Introduction to Composition (take MUS 100 first)
+- MUS 6A  Beginning Classical Guitar
 - MUS 28  20th Century Music
+- MUS 9A  Beginning Piano
 - MUS 100 Music Fundamentals
 - MUS 128 Survey of Contemporary and Electronic Music
 - MUS 22A History of Music in Western Culture: Medieval and Renaissance Music
@@ -1032,6 +1036,7 @@
 - CNIT 205C  CCNA Security
 - CNIT 214   Internet of Things
 - CNIT 216   Internet of Things Security
+- FASH A     Introduction to Sewing
 - MATH  80   Probability and Statistics
 - MATH  90   Precalculus Algebra
 - MATH  95   Trigonometry
@@ -1039,6 +1044,7 @@
 - MATH 110A  Calculus I
 - MATH 115   Discrete Mathematics
 - MATH 120   Linear Algebra
+- MOTO 500   Bicycle Maintenance
 - ELEC 101   Electronics I: Essentials of Electronics - Measurements and Passive Circuits
 - FIN 136M   Personal Financial Planning - Math Emphasis
 - FIN 138    Principles of Investment

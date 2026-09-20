@@ -642,6 +642,7 @@
 
 ## Web development
 - [HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
+- [More HTML boilerplate](https://vale.rocks/posts/html-boilerplate)
 - [Fly.io](https://fly.io/) has a free tier
 - [Render](https://render.com/) (free tier DB is wiped after 30 days)
 - [Linode](https://www.linode.com/)
@@ -976,10 +977,9 @@
 - https://emse.engineering.gwu.edu/online-doctoral-programs
 - https://online.engineering.gwu.edu/doctoral-degrees
 - https://engineering.tamu.edu/mtde/academics/degrees/graduate/deng/online-doctor-of-engineering.html
-- https://online.arizona.edu/programs/graduate/online-doctor-philosophy-software-engineering-phd
 - https://www.online.msstate.edu/engineeringed
 - https://catalog.arizona.edu/programs/SFEPHD
-- https://news.ycombinator.com/item?id=48798061 some phd recommendations in this thread
+- https://news.ycombinator.com/item?id=48798061 some phd recommendations in this
 
 ### MS/grad certificates
 - [UW embedded programming certificate](https://www.pce.uw.edu/certificates/embedded-and-real-time-systems-programming)
@@ -1044,6 +1044,7 @@
 - MUS 5A  Introduction to Composition (take MUS 100 first)
 - MUS 6A  Beginning Classical Guitar
 - MUS 28  20th Century Music
+- MUS 9A  Beginning Piano
 - MUS 100 Music Fundamentals
 - MUS 128 Survey of Contemporary and Electronic Music
 - MUS 22A History of Music in Western Culture: Medieval and Renaissance Music
@@ -1085,6 +1086,7 @@
 - CNIT 205C  CCNA Security
 - CNIT 214   Internet of Things
 - CNIT 216   Internet of Things Security
+- FASH A     Introduction to Sewing
 - MATH  80   Probability and Statistics
 - MATH  90   Precalculus Algebra
 - MATH  95   Trigonometry
@@ -1093,9 +1095,7 @@
 - MATH 115   Discrete Mathematics
 - MATH 120   Linear Algebra
 - MOTO 500   Bicycle Maintenance
-- MUS 9A     Beginning Piano
 - ELEC 101   Electronics I: Essentials of Electronics - Measurements and Passive Circuits
-- FASH A     Introduction to Sewing
 - FIN 136M   Personal Financial Planning - Math Emphasis
 - FIN 138    Principles of Investment
 - GEOL 10    Physical Geology
@@ -1210,6 +1210,7 @@
 - Users I like:
   - [Kaiido](https://stackoverflow.com/users/3702797/kaiido) (web graphics)
   - [gman](https://stackoverflow.com/users/128511/) (web graphics)
+  - [umlaute](https://stackoverflow.com/users/1169096/uml%c3%a4ute) (pure data)
   - [blindman67](https://stackoverflow.com/users/3877726/blindman67) (web graphics)
   - [kaya3](https://stackoverflow.com/users/12299000/kaya3) (Python, algorithms)
   - [trincot](https://stackoverflow.com/users/5459839/) (algorithms)
