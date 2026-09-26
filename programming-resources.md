@@ -1147,6 +1147,7 @@
   - [Thinkful web dev instructor or engineer](https://www.chegg.com/about/working-at-chegg/)
   - [General Assembly teaching](http://generalassemb.ly/how-we-work/teach-at-general-assembly)
 - https://apply.workable.com/discogs-1/j/26A7ED51D1/
+- [linear job app](https://linear.app/careers/0c7c2e26-0a98-42cf-a47c-9a3999fb513b?ashby_jid=0c7c2e26-0a98-42cf-a47c-9a3999fb513b), [video](https://www.youtube.com/watch?v=bnOpm3a1fRE)
 
 
 ## Interview prep
