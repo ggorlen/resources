@@ -613,7 +613,7 @@
 - [w3 core stylesheets](https://www.w3.org/StyleSheets/Core/preview)
 - [CSS validator](https://jigsaw.w3.org/css-validator/)
 - [58 bytes of css that look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
-- Good classless CSS stylesheets:
+- Good [classless](https://www.cssbed.com/) CSS stylesheets:
   - Hack CSS
   - GH markdown
   - latex css
@@ -793,6 +793,7 @@
 - [Egghead](https://egghead.io/)
 - [Jeff Erickson's algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 - [UW Data Structures & Algorithms](https://courses.cs.washington.edu/courses/cse326/03wi/326lecturesa.shtml)
+- [CS 6120: Advanced Compilers self-guided](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
 - Math:
   - [MIT OCW Math for CS](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
   - [FSU Discreet Math I](https://www.math.fsu.edu/~pkirby/mad2104/SlideShow/CourseNotesMAD2104.pdf)
@@ -898,7 +899,12 @@
 - [Building Git](https://shop.jcoglan.com/building-git/)
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [Free Computer Books](https://freecomputerbooks.com/compscAlgorithmBooks.html)
+- [fintech engineering handbook](https://w.pitula.me/fintech-engineering-handbook/)
+- [Baynesian analysis with Python](http://bap.com.ar/)
+- [software internals book club](https://eatonphil.com/bookclub.html)
+- [garbage collection handbook](https://gchandbook.org)
 - [Programming Languages: Application and Interpretation](https://www.plai.org/)
+- [see reading recommendations at end](https://matklad.github.io/2026/05/12/software-architecture.html)
 
 
 ## Education
